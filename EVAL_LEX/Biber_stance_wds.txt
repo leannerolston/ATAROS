@@ -1,0 +1,206 @@
+modal:can
+modal:could 
+modal:may
+modal:might
+modal:must
+modal:should
+modal:had better
+modal:have to
+modal:got to
+modal:ought to
+modal:will
+modal:would
+modal:shall
+modal:am going to
+modal:are going to
+modal:is going to
+adv:actually
+adv:certainly
+adv:perhaps
+adv:in fact 
+adv:apparently
+adv:perhaps
+adv:possibly
+adv:amazingly
+adv:importantly
+adv:surprisingly
+adv:according to
+adv:generally
+adv:generally
+adv:typically
+adv:absolutely
+adv:alarmingly
+adv:if you ask me
+adv:in my opinion
+adv:in my honest opinion
+adv:if i'm not mistaken
+adv:as a rule
+adv:for what it's worth
+adv:frankly
+adv:frankly speaking
+adv:ideally
+adv:fortunately
+adv:unfortunately
+adv:primarily
+adv:principally
+adv:significantly
+adv:ultimately
+adv:clearly
+adv:of course
+adv:definitely
+adv:likely
+adv:maybe
+adv:obviously
+adv:perhaps
+adv:possibly
+adv:presumably
+adv:probably
+adv:surely
+adv:truly
+adv:undoubedly
+adv:in fact
+adv:basically
+adv:briefly
+adv:honestly
+adv:indeed
+adv:personally
+adv:seriously
+adv:simply
+adv:strictly
+adv:technically
+adv:indeed
+adv:of course
+adv:clearly
+adv:extremely
+adv:fortunately
+adv:unfortunately
+adv:truly
+adv:simply
+adv:according to
+adv:undoubtedly
+adv:seriously
+adv:ultimately
+adv:primarily
+adv:approximately
+adv:significantly
+adv:obviously
+adv:personally
+adv:nearly
+adv:mainly
+adv:relatively
+adv:strictly
+adv:surely
+adv:probably
+adv:hardly
+adv:virtually
+adv:somewhat
+adv:definitely
+adv:practically
+adv:apparently
+adv:fortunately
+adv:had better
+adv:perfectly
+adv:ideally
+adv:normally
+adv:literally
+adv:predominantly
+adv:typically
+adv:honestly
+adv:presumably
+adj:all right
+adj:amazing
+adj:bad
+adj:too bad
+adj:better
+adj:cool
+exp:boy
+exp:gee
+exp:gosh
+exp:god
+exp:geeze
+exp:wow
+exp:damn
+exp:you're kidding
+exp:
+verb:conclude
+verb:determine
+verb:know
+verb:believe
+verb:doubt
+verb:think
+verb:expect
+verb:hope
+verb:worry
+verb:argue
+verb:claim
+verb:report
+verb:say
+verb:appear
+verb:happen
+verb:seem
+verb:tend
+verb:believe
+verb:consider
+verb:intend
+verb:need
+verb:want
+verb:attempt
+verb:help
+verb:try
+verb:advise
+verb:request
+verb:remind
+verb:hear
+verb:heard
+verb:sounds 
+verb:figure
+verb:guess
+verb:know
+verb:mean
+verb:think
+verb:consider
+verb:told 
+verb:tell 
+adj:certain
+adj:clear
+adj:obvious
+adj:likely
+adj:unlikely
+adj:possible
+adj:probable
+adj:amazed
+adj:shocked
+adj:surprised
+adj:essential
+adj:noteworthy
+adj:sure
+adj:happy
+adj:pleased
+adj:essential
+adj:important
+adj:necessary
+adj:able
+adj:eager
+adj:willing
+adj:difficult
+adj:easy
+adj:hard
+adj:actual
+adj:accommodating 
+adj:absolute
+adj:serious
+adj:true
+noun:conclusion
+noun:fact
+noun:observation
+noun:assumption
+noun:claim
+noun:hypothesis
+noun:the hope
+noun:the view
+noun:comment
+noun:proposal
+noun:report
+noun:failure
+noun:obligation
+noun:tendency 
