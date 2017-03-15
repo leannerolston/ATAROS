@@ -1,0 +1,118 @@
+# Changed stance column to factor:
+fine_annotated_binary_features$stance <- as.factor(fine_annotated_binary_features$stance)
+
+# Collapsed stance 3 into stance 2:
+0    1    2 
+3718 6311 3340 
+
+# Used R's implementation of libSVM (library(e1071)) to train SVM models.
+- Train/Test set: 75/25 
+library(caTools)
+train_indices <- sample.split(fine_annotated_binary_features$stance, SplitRatio = 3/4)
+
+binary_train <- fine_annotated_binary_features[train_indices == TRUE,]
+binary_test <- fine_annotated_binary_features[train_indices == FALSE,]
+table(binary_train$stance)	table(binary_test$stance)
+rv_train <- fine_annotated_real_valued_features[train_indices == TRUE,]
+rv_test <- fine_annotated_real_valued_features[train_indices == FALSE,]
+
+0    1    2					 0    1    2
+2788 4733 2505				 930 1578  835
+
+> initial_model_binary <- svm(stance ~., data=binary_train[,3:39])
+> initial_binary_predict <- predict(initial_model_binary, binary_test)
+> table(initial_binary_predict, binary_test$stance)
+                      
+initial_binary_predict    0    1    2
+					  0  788   60   17
+					  1  112 1308  394
+					  2   30  210  424
+Accuracy: 0.75381 
+
+Parameters:
+   SVM-Type:  C-classification 
+    SVM-Kernel:  radial 
+	cost:  1 
+	gamma:  0.02777778 
+
+	Number of Support Vectors:  5374
+
+On Gamma & Cost:
+The gamma parameter defines how far the influence of a single training 
+example reaches, with low values meaning ‘far’ and high values meaning 
+‘close’. 
+C is the parameter for the soft margin cost function, which controls the 
+influence of each individual support vector.
+
+So is this gamma and cost too big?!  
+Binary tuning:
+tune(svm, stance ~., data=fine_annotated_binary_features[, 3:39], ranges = list(gamma = 2^(-1:1), cost = 1))
+
+Parameter tuning of ‘svm’:
+
+- sampling method: 10-fold cross validation 
+
+- best parameters:
+ gamma cost
+    0.5    1
+
+- best performance: 0.3303908 
+
+Real-Valued tuning:
+> tune(svm, stance ~., data=fine_annotated_real_valued_features[, 3:39], ranges = list(gamma = 2^(-1:1), cost = 1))
+
+Parameter tuning of ‘svm’:
+
+- sampling method: 10-fold cross validation 
+
+- best parameters:
+ gamma cost
+    0.5    1
+
+	- best performance: 0.3192465
+
+So it looks like accuracy goes down a bit when tuned, but this might be 
+the difference between training set and entire set.  
+
+- I can get the model from both methods, and I will compare.  
+
+Algorithm:  Train a Support Vector Machine.  Take the ``combinatorial 
+support vectors'' and use them to train a second SVM.  Then take THOSE
+support vectors and make ranking calculations. 
+
+Should try this as a binary test;
+
+Stance vs none (0 vs 1/2)
+Stance strong vs stance weak (1 vs 2)
+
+#Stance vs none:
+binary_stance_vs_none <- fine_annotated_binary_features
+binary_stance_vs_none[binary_stance_vs_none$stance == "2", ] <- 1
+binary_stance_vs_none$stance <- factor(binary_stance_vs_none$stance)
+table(binary_stance_vs_none$stance)
+   0    1 
+   3718 9651 
+
+> binary_stance_vs_none_tune
+Parameter tuning of ‘svm’:
+
+- sampling method: 10-fold cross validation 
+
+- best parameters:
+ gamma cost
+    0.5    1
+
+- best performance: 0.08587009 
+
+> rv_stance_vs_none_tune
+Parameter tuning of ‘svm’:
+
+- sampling method: 10-fold cross validation 
+
+- best parameters:
+ gamma cost
+    0.5    1
+
+- best performance: 0.08706697 
+
+#Strong vs Weak 
