@@ -116,3 +116,49 @@ Parameter tuning of ‘svm’:
 - best performance: 0.08706697 
 
 #Strong vs Weak 
+> binary_strong_vs_weak <- fine_annotated_binary_features[fine_annotated_binary_features$stance != 0,]
+> rv_strong_vs_weak <- fine_annotated_binary_features[fine_annotated_real_valued_features$stance != 0,]
+
+strength_train_indices <- sample.split(binary_strong_vs_weak$stance, SplitRatio = 3/4)
+
+binary_strength_train <- binary_strong_vs_weak[strength_train_indices == TRUE,]
+table(binary_strength_train$stance)
+   1    2 
+   4733 2505 
+binary_strength_test <- binary_strong_vs_weak[strength_train_indices == FALSE,]
+table(binary_strength_test$stance)
+    1    2 
+	1578  835
+
+Models: binary_tune, binary_stance_vs_none_tune, binary_strong_vs_weak_tune
+rv_tune, rv_stance_vs_none_tune, rv_strong_vs_weak_tune 
+
+Local models saved to combinatorial_svm_first_model:  
+binary_stance_vs_none_tune.model    rv_stance_vs_none_tune.model
+binary_strong_vs_weak_tune.model    rv_strong_vs_weak_tune.model
+binary_tune.model            rv_tune.model
+
+#Gather the "combinatorial SVs" for the next round:
+- What are our class labels?  
+<tune>$best.model&index:
+index: index of the support vectors in the input data 
+ 
+#Map these indices to a support vector, grab class.  Train on this data.
+binary_tune_SV <- fine_annotated_binary_features[binary_tune$best.model$index, ]
+rv_tune_SV <- fine_annotated_real_valued_features[rv_tune$best.model$index,]
+
+binary_stance_vs_none_tune_SV <- binary_stance_vs_none[binary_stance_vs_none_tune$best.model$index, ]
+rv_stance_vs_none_tune_SV <- rv_stance_vs_none[rv_stance_vs_none_tune$best.model$index, ]
+
+binary_strong_vs_weak_tune_SV <- binary_strong_vs_weak[binary_strong_vs_weak_tune$best.model$index, ]
+rv_strong_vs_weak_tune_SV <- rv_strong_vs_weak[rv_strong_vs_weak_tune$best.model$index, ]
+
+#Now we need to train a linear model on these.
+binary_CSV_tune <- tune(svm, stance ~., data = binary_tune_SV[, 3:39], kernel = "linear")
+
+- I'm getting errors on linear models.  Practical Guide to SVMs say
+some RBF are equivalent to linear models, so I am trying RBF.  They're
+getting bad results (~50% accuracy).  I am going to try to re-tune using
+a wider range of gamma and cost values.  There's no held out test data
+here, so overfitting is not really an issue. 
+
