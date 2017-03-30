@@ -5,77 +5,6 @@ fine_annotated_binary_features$stance <- as.factor(fine_annotated_binary_feature
 0    1    2 
 3718 6311 3340 
 
-# Used R's implementation of libSVM (library(e1071)) to train SVM models.
-- Train/Test set: 75/25 
-library(caTools)
-train_indices <- sample.split(fine_annotated_binary_features$stance, SplitRatio = 3/4)
-
-binary_train <- fine_annotated_binary_features[train_indices == TRUE,]
-binary_test <- fine_annotated_binary_features[train_indices == FALSE,]
-table(binary_train$stance)	table(binary_test$stance)
-rv_train <- fine_annotated_real_valued_features[train_indices == TRUE,]
-rv_test <- fine_annotated_real_valued_features[train_indices == FALSE,]
-
-0    1    2					 0    1    2
-2788 4733 2505				 930 1578  835
-
-> initial_model_binary <- svm(stance ~., data=binary_train[,3:39])
-> initial_binary_predict <- predict(initial_model_binary, binary_test)
-> table(initial_binary_predict, binary_test$stance)
-                      
-initial_binary_predict    0    1    2
-					  0  788   60   17
-					  1  112 1308  394
-					  2   30  210  424
-Accuracy: 0.75381 
-
-Parameters:
-   SVM-Type:  C-classification 
-    SVM-Kernel:  radial 
-	cost:  1 
-	gamma:  0.02777778 
-
-	Number of Support Vectors:  5374
-
-On Gamma & Cost:
-The gamma parameter defines how far the influence of a single training 
-example reaches, with low values meaning ‘far’ and high values meaning 
-‘close’. 
-C is the parameter for the soft margin cost function, which controls the 
-influence of each individual support vector.
-
-So is this gamma and cost too big?!  
-Binary tuning:
-tune(svm, stance ~., data=fine_annotated_binary_features[, 3:39], ranges = list(gamma = 2^(-1:1), cost = 1))
-
-Parameter tuning of ‘svm’:
-
-- sampling method: 10-fold cross validation 
-
-- best parameters:
- gamma cost
-    0.5    1
-
-- best performance: 0.3303908 
-
-Real-Valued tuning:
-> tune(svm, stance ~., data=fine_annotated_real_valued_features[, 3:39], ranges = list(gamma = 2^(-1:1), cost = 1))
-
-Parameter tuning of ‘svm’:
-
-- sampling method: 10-fold cross validation 
-
-- best parameters:
- gamma cost
-    0.5    1
-
-	- best performance: 0.3192465
-
-So it looks like accuracy goes down a bit when tuned, but this might be 
-the difference between training set and entire set.  
-
-- I can get the model from both methods, and I will compare.  
-
 Algorithm:  Train a Support Vector Machine.  Take the ``combinatorial 
 support vectors'' and use them to train a second SVM.  Then take THOSE
 support vectors and make ranking calculations. 
@@ -93,50 +22,15 @@ table(binary_stance_vs_none$stance)
    0    1 
    3718 9651 
 
-> binary_stance_vs_none_tune
-Parameter tuning of ‘svm’:
-
-- sampling method: 10-fold cross validation 
-
-- best parameters:
- gamma cost
-    0.5    1
-
-- best performance: 0.08587009 
-
-> rv_stance_vs_none_tune
-Parameter tuning of ‘svm’:
-
-- sampling method: 10-fold cross validation 
-
-- best parameters:
- gamma cost
-    0.5    1
-
-- best performance: 0.08706697 
-
 #Strong vs Weak 
-> binary_strong_vs_weak <- fine_annotated_binary_features[fine_annotated_binary_features$stance != 0,]
-> rv_strong_vs_weak <- fine_annotated_binary_features[fine_annotated_real_valued_features$stance != 0,]
+binary_strong_vs_weak <- fine_annotated_binary_features[fine_annotated_binary_features$stance != 0,]
 
-strength_train_indices <- sample.split(binary_strong_vs_weak$stance, SplitRatio = 3/4)
-
-binary_strength_train <- binary_strong_vs_weak[strength_train_indices == TRUE,]
-table(binary_strength_train$stance)
-   1    2 
-   4733 2505 
-binary_strength_test <- binary_strong_vs_weak[strength_train_indices == FALSE,]
-table(binary_strength_test$stance)
-    1    2 
-	1578  835
-
-Models: binary_tune, binary_stance_vs_none_tune, binary_strong_vs_weak_tune
-rv_tune, rv_stance_vs_none_tune, rv_strong_vs_weak_tune 
-
-Local models saved to combinatorial_svm_first_model:  
-binary_stance_vs_none_tune.model    rv_stance_vs_none_tune.model
-binary_strong_vs_weak_tune.model    rv_strong_vs_weak_tune.model
-binary_tune.model            rv_tune.model
+Models: binary_tune_2, binary_stance_vs_none_tune_2, 
+	binary_strong_vs_weak_tune_2
+Saved as:
+write.svm(binary_tune_2$best.model, svm.file = "/Users/rolston/Desktop/ATAROS/models/binary_tune_2.model")
+write.svm(binary_stance_vs_none_tune_2$best.model, svm.file = "/Users/rolston/Desktop/ATAROS/models/binary_stance_vs_none_tune_2.model")
+write.svm(binary_strong_vs_weak_tune_2$best.model, svm.file = "/Users/rolston/Desktop/ATAROS/models/binary_strong_vs_weak_tune_2.model")
 
 #Gather the "combinatorial SVs" for the next round:
 - What are our class labels?  
@@ -144,14 +38,10 @@ binary_tune.model            rv_tune.model
 index: index of the support vectors in the input data 
  
 #Map these indices to a support vector, grab class.  Train on this data.
-binary_tune_SV <- fine_annotated_binary_features[binary_tune$best.model$index, ]
-rv_tune_SV <- fine_annotated_real_valued_features[rv_tune$best.model$index,]
+binary_tune_2_SV <- fine_annotated_binary_features[binary_tune_2$best.model$index,]
+binary_strong_vs_weak_tune_2_SV <- binary_strong_vs_weak[binary_strong_vs_weak_tune_2$best.model$index, ]
+binary_stance_vs_none_tune_2_SV <- binary_stance_vs_none[binary_stance_vs_none_tune_2$best.model$index, ]
 
-binary_stance_vs_none_tune_SV <- binary_stance_vs_none[binary_stance_vs_none_tune$best.model$index, ]
-rv_stance_vs_none_tune_SV <- rv_stance_vs_none[rv_stance_vs_none_tune$best.model$index, ]
-
-binary_strong_vs_weak_tune_SV <- binary_strong_vs_weak[binary_strong_vs_weak_tune$best.model$index, ]
-rv_strong_vs_weak_tune_SV <- rv_strong_vs_weak[rv_strong_vs_weak_tune$best.model$index, ]
 
 #Now we need to train a linear model on these.
 binary_CSV_tune <- tune(svm, stance ~., data = binary_tune_SV[, 3:39], kernel = "linear")
@@ -160,5 +50,51 @@ binary_CSV_tune <- tune(svm, stance ~., data = binary_tune_SV[, 3:39], kernel = 
 some RBF are equivalent to linear models, so I am trying RBF.  They're
 getting bad results (~50% accuracy).  I am going to try to re-tune using
 a wider range of gamma and cost values.  There's no held out test data
-here, so overfitting is not really an issue. 
+here, so overfitting is not really an issue. So high C is ok.
+
+> binary_tune_2_SV_tune_SupportVectors
+
+Parameter tuning of ‘svm’:
+
+- sampling method: 10-fold cross validation 
+
+- best parameters:
+        gamma cost
+		 0.0009765625  128
+
+		 - best performance: 0.4865711 
+
+> binary_stance_vs_none_tune_2_SupportVectors
+
+Parameter tuning of ‘svm’:
+
+- sampling method: 10-fold cross validation 
+
+- best parameters:
+        gamma cost
+		 0.0009765625   32
+
+		 - best performance: 0.3884312 
+
+
+> binary_strong_vs_weak_tune_2_SupportVectors
+
+Parameter tuning of ‘svm’:
+
+- sampling method: 10-fold cross validation 
+
+- best parameters:
+        gamma cost
+		 0.0009765625    1
+
+		 - best performance: 0.4869979 
+
+write.svm(binary_tune_2_SV_tune_SupportVectors$best.model, svm.file="/Users/rolston/Desktop/ATAROS/models/binary_tune_2_SV.model")
+
+> write.svm(binary_stance_vs_none_tune_2_SupportVectors$best.model, svm.file="/Users/rolston/Desktop/ATAROS/models/binary_stance_vs_none_tune_2_SV.model")
+> write.svm(binary_strong_vs_weak_tune_2_SupportVectors$best.model, svm.file="/Users/rolston/Desktop/ATAROS/models/binary_strong_vs_weak_tune_2_SV.model")
+
+I have a list, but I'm wondering if handling the dialect act stuff 
+separately might be better:
+binary_tune_3 <- tune(svm, stance ~., data=fine_annotated_binary_features[,c(3, 16:39)], ranges = list(gamma = 2^(-10), cost = 2^(-10:15)))
 
