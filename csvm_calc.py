@@ -7,9 +7,8 @@ import operator
 
 model_file = sys.argv[1]
 
-headings = ["", "o", "s", "c", "a", "d", "r", "f", "t", "e", "i", "x", "b",
-            "period", "comma", "questionmark", "exclamationmark", "pronoun",
-            "ipron", "ppron", "singPPron", "plurPPron", "1stPPron",
+headings = ["", "period", "comma", "questionmark", "exclamationmark",
+				"pronoun", "ipron", "ppron", "singPPron", "plurPPron", "1stPPron",
             "2ndPPron", "3rdPPron", "defArt", "indefArt", "function", "prep",
             "conj", "filler", "nonflu", "swear", "tentat", "differ",
             "discrep", "certain"]
@@ -18,7 +17,7 @@ headings = ["", "o", "s", "c", "a", "d", "r", "f", "t", "e", "i", "x", "b",
 sv_header_pattern = regex.compile(r'^SV$')
 label_pattern = regex.compile(r'^label ')
 
-sums = [0] * 37
+sums = [0] * 25
 
 with open(model_file) as inp:
 	data = [l.strip() for l in inp]
@@ -57,9 +56,9 @@ maximums = sorted(range(len(sums)), key=lambda k: sums[k], reverse = True)
 #print(maximums)
 
 for m in maximums:
-	print(m, end = " ")
-	print(sums[m], end=" ")
-	print(headings[m])
+	print(headings[m], end="\t")
+	print(sums[m])
+
 
 
 
