@@ -1,0 +1,1280 @@
+1	3I	so -
+1	3I	i think the first question is -
+1	3I	how many aisles do you think this is?
+1	3I	yes.
+1	3I	we will.
+1	3I	so essentially, we're looking at -
+1	3I	four aisles. kay?
+1	3I	and it looks like this is already set up for, like, home supplies.
+1	3I	and that kind of migrates around here.
+1	3I	this seems to be more personal, like toys and travel guides.
+1	3I	this looks like more staples.
+1	3I	yeah. this is, like, bulk cooking.
+1	3I	um, cuz you never buy -
+1	3I	just one cup of sugar.
+1	3I	and then this at least over here looks like -
+1	3I	the refrigerated section.
+0	3I	cool?
+0	3I	right.
+0	3I	okay.
+0	3I	yes.
+0	3I	heavy coats.
+1	3I	yes.
+1	3I	right.
+1	3I	i think -
+1	3I	it would make most sense in the aisle here with travel guides and toys.
+0	3I	um -
+1	3I	would you put them next to the * toys or the travel guides and mousetraps?
+1	3I	i think so.
+1	3I	yes.
+1	3I	what if we -?
+1	3I	arranged them -?
+1	3I	here -?
+1	3I	so it went in a u_ shape, essentially, from the travel guides to the toys?
+1	3I	and then if there's, like, hats and backpacks we can put them after the toys.
+1	3I	kay, so -
+1	3I	okay, so heavy coats next to the travel guides.
+1	3I	agreed.
+0	3I	bars of soap.
+1	3I	how bout right next to the toilet paper?
+1	3I	do we feel like -?
+1	3I	putting it behind the toilet paper, or before?
+1	3I	okay.
+1	3I	cool.
+2	3I	right, or should they go next to cake mix?
+1	3I	yeah.
+1	3I	okay.
+0	3I	yes.
+0	3I	gas powered cook stoves.
+1	3I	i think on the far aisle here.
+0	3I	um -
+1	3I	should i go between boating supplies and siding?
+1	3I	or in - closer toward power cords?
+1	3I	okay, we'll put them next to the boating supplies.
+1	3I	awesome.
+0	3I	books.
+1	3I	how bout we put them next to the travel guides?
+1	3I	agreed.
+0	3I	fish hooks.
+1	3I	how bout right next to the boating supplies?
+1	3I	cuz you need a boat to fish, most of the time.
+1	3I	cool?
+1	3I	sounds good.
+0	3I	backpacks.
+1	3I	what if we put the backpacks on the other side of the toys, about mid-aisle?
+1	3I	that give us more room for overflow.
+0	3I	uh -
+1	3I	clothing.
+1	3I	cool.
+0	3I	rolls of duct tape.
+1	3I	how bout right near the power cords?
+1	3I	would you suggest before or after?
+1	3I	let's do before.
+2	3I	or would we like to put them next to the backpacks?
+1	3I	in case there's more -
+0	3I	like -
+1	3I	abdominal covering clothing.
+0	3I	yes.
+0	3I	sticks of butter.
+1	3I	i would vote for next to the eggs.
+1	3I	my initial thought was exercise.
+1	3I	but it could also be some sort of -
+1	3I	item for camping, to help hold stuff down.
+1	3I	since there is no other exercise equipment, i'm willing to go with the second definition.
+1	3I	cool.
+1	3I	sounds good.
+0	3I	and i've got heavy cable here.
+1	3I	where do you think we should put this?
+2	3I	what if we give it a - a little bit of space, and put the heavy cable here?
+0	3I	yes.
+0	3I	they're not disposable.
+1	3I	kay, so we've got the thick sweaters.
+1	3I	my inclination is to put them next to the large vests.
+1	3I	oh, absolutely.
+1	3I	sounds good.
+0	3I	small axes.
+1	3I	um, i would put them -
+1	3I	obviously in this aisle here.
+1	3I	what if -?
+0	3I	hmm.
+1	3I	i feel like it should be closer to the end.
+1	3I	so near the power cords, but not too close.
+0	3I	going wild and crazy.
+2	3I	or -
+1	3I	uh, yeah. let's do it.
+0	3I	scissors.
+0	3I	the question is are they small scissors, like -?
+0	3I	eyebrow scissors?
+0	3I	or are they gigantic scissors?
+1	3I	cuz we are co-managers at this imaginary store.
+1	3I	um, fantastic question.
+1	3I	let's put them next to the small axes.
+1	3I	yes. cuz -
+1	3I	that's just the area where they cut things.
+0	3I	okay.
+1	3I	what if we put the fresh produce aisle on -
+1	3I	the opposite side of the refrigerated section?
+1	3I	sounds great.
+0	3I	and i've got pouches of oatmeal.
+1	3I	which to me indicates a bulk item, that's non-perishable so i would put it by the dried figs.
+1	3I	what about next to the bottles of juice?
+0	3I	and i have flags -
+1	3I	so that seems to be a home item.
+1	3I	what would you think about putting them between the siding and the cushions?
+1	3I	i will actually put it * before the siding.
+1	3I	because you could take a flag camping, if you would like,
+1	3I	what if we put it next to mousetraps?
+1	3I	and it feels like the camping outdoor ware section would be looking for something more durable than paper.
+0	3I	light jackets.
+1	3I	what if -
+0	3I	so -
+1	3I	what if we put them right up here?
+1	3I	close to the toys?
+1	3I	but not too close.
+1	3I	yeah, almost like it's an endcap.
+1	3I	cuz it's fall, and -
+1	3I	we don't quite need the heavy jackets yet, so let's trunc popularize the light jackets.
+1	3I	yes.
+1	3I	i agree.
+1	3I	yeah.
+0	3I	empty plastic jugs.
+1	3I	it does. what if we put it right next to the buckets?
+1	3I	it is.
+1	3I	yeah!
+0	3I	i didn't know they sold bundles of sticks.
+0	3I	okay.
+0	3I	cool.
+0	3I	pre-cut wood.
+1	3I	what if we put them across from the bundles of sticks?
+1	3I	so you can turn around -
+1	3I	and have sticks and then wood.
+1	3I	perfect.
+0	3I	books of matches.
+1	3I	what if we put them -
+1	3I	close to paper bags?
+1	3I	because they are all disposable type household items.
+0	3I	okay?
+1	3I	i would put them next to the home container section.
+1	3I	yes.
+1	3I	and our favorite, wetsuits.
+1	3I	so my inclination is to actually put them across from boating supplies.
+0	3I	does that make sense? okay.
+0	3I	so they are right next to the five pound weights.
+1	3I	awesome.
+1	3I	sounds good.
+0	3I	face cream.
+1	3I	my inclination is to put it right next to the toothpaste.
+1	3I	my inclination would be to put it toward -
+1	3I	the other stuff you drink.
+1	3I	we - that's the word.
+1	3I	right maybe toward the end of the aisle.
+0	3I	so we have tow ropes.
+0	3I	boating supplies.
+1	3I	this is a type of rope, and we do have long ropey type things.
+1	3I	here.
+1	3I	so, let's put it between the heavy cable and the duct tape.
+1	3I	yes.
+1	3I	yeah, me too.
+1	3I	cool.
+0	3I	half inch tubing.
+1	3I	could we sneak that between the canvas bags and heavy cable?
+2	3I	what if -
+2	3I	we put it trunc between the * tweezers cuz this is a lot of random stuff tweezers you don't buy all the time shoelaces you don't buy all the time.
+1	3I	yes.
+0	3I	kay, chocolate bars.
+1	3I	i know.
+1	3I	should we put those before the sugar?
+1	3I	kay.
+1	3I	because -
+1	3I	beets just look so lonely.
+1	3I	but i don't know if we have like items.
+1	3I	we'll just start talking to the ice cream.
+1	3I	yeah.
+1	3I	yes.
+1	3I	kay.
+1	3I	yeah!
+0	3I	fleece lined boots.
+1	3I	what about next to the hats?
+1	3I	i will let you make the decision.
+1	3I	kay cans of peas.
+1	3I	yeah.
+1	3I	it doesn't specify if it's fresh beets.
+1	3I	or non-fresh beats.
+1	3I	yes.
+0	3I	um -
+1	3I	i feel like this is the most logical place for it.
+1	3I	so we'll put the canned peas near the peas, but not right next door.
+1	3I	sure.
+1	3I	i would say near the back.
+1	3I	yeah.
+0	3I	socks.
+1	3I	let's put them between the boots and the toys.
+1	3I	i think we will.
+1	3I	cool.
+0	3I	and fishing nets.
+1	3I	what if i put them right above pre-cut wood?
+1	3I	and good job! that's our last item.
+1	3I	yes.
+1	3I	i like how we were talking about, uh wanting to reorganize it.
+0	6B	so, how many should we cut from -?
+1	6B	what's the easiest one to look at first?
+0	6B	yeah.
+1	6B	okay.
+0	6B	right.
+1	6B	okay.
+1	6B	i don't think so.
+0	6B	um -
+1	6B	should we go list by list?
+0	6B	well -
+0	6B	let's see.
+2	6B	i think special education teachers are very important.
+0	6B	um -
+2	6B	i think speech therapy's important, as well as sex ed.
+1	6B	uh, how to you trunc t do you think is most important to keep?
+1	6B	right.
+1	6B	absolutely.
+1	6B	right.
+0	6B	yes.
+1	6B	so, it sounds like we're going to postpone and currently cut the football equipment and the sugar free juice machines.
+1	6B	co-
+1	6B	cooking classes?
+1	6B	that seems to be something where if someone wants to learn to cook -
+1	6B	they can go online. they can read a book. it's not necessarily a social activity.
+1	6B	okay.
+1	6B	okay.
+1	6B	too much argument?
+1	6B	okay.
+0	6B	public health and safety.
+1	6B	what do you think is -
+1	6B	uh, most important. or what do you think we can do without?
+2	6B	what if it's a food safety issue?
+2	6B	and if it's a food safety issue that goes out into the community and beyond and people get sick, then it reflects poorly on our community.
+0	6B	yes.
+1	6B	okay.
+0	6B	okay.
+0	6B	so we've got one.
+1	6B	uh, what about the hospital additions?
+2	6B	so, i feel reproductive education is very important.
+2	6B	chicken pox trunc chicken pox trunc vaccinations, also very important. needle exchange and the sex offender database -
+2	6B	and prenatal check-ups, i think are * all very very important.
+0	6B	hmm. right.
+1	6B	yes, and when i read that i thought of a point person within the police department that -
+1	6B	supports all the neighborhood watches.
+1	6B	which is great -
+1	6B	but i feel like we could get a volunteer or and intern -
+1	6B	to do that.
+1	6B	and the police will still be available if there's an immediate hey so and so this person's breaking into some person's house.
+1	6B	so it sounds like -
+1	6B	we would be okay with cutting neighborhood watch -
+1	6B	and weed control.
+1	6B	and hospital additions.
+1	6B	so we're good there.
+1	6B	how do you feel about recreation and public services?
+0	6B	right.
+2	6B	i'm a big football fan.
+2	6B	and i can see the benefits that a football team would bring to an area.
+2	6B	because it brings a lot of people in. it brings publicity to the area.
+2	6B	so, i am not as excited to cut that.
+0	6B	um -
+1	6B	what if -
+0	6B	let's see -
+0	6B	so -
+1	6B	yeah, it seems like we could ask the veterinary hospital to take over stray cat spaying.
+1	6B	and -
+1	6B	kitten and puppy adoption, do you think the hospital would have -?
+1	6B	some services or some people who would be willing to -?
+1	6B	take that over?
+1	6B	because that would also expand their reach.
+1	6B	within the community.
+1	6B	okay.
+1	6B	what about the reusable bag campaign?
+1	6B	right.
+1	6B	is it essential?
+1	6B	cool.
+0	6B	on to infrastructure and licensing.
+0	6B	so -
+1	6B	i vote cutting additional bus stops.
+0	6B	so we've got one.
+1	6B	that's good.
+1	6B	right, or they call them.
+0	6B	so we've got two.
+0	6B	um -
+2	6B	speed limit signs are important.
+0	6B	i'm a little confused about the subway system. is it already operable?
+0	6B	or are they building it?
+0	6B	so as the -
+0	6B	governors of this city - i know that's the wrong word. we'll go with mayors, co-mayors.
+0	6B	do we have a subway system?
+1	6B	okay.
+2	6B	let's do it.
+1	6B	right.
+1	6B	and, i'm a little confused what you repair on a flagpole other than repainting it.
+1	6B	so we are getting rid of -
+0	6B	wow, my stomach is making a lot of noises i guess.
+0	6B	apparently i'm just hungry.
+1	6B	flagpole repair.
+1	6B	additional bus stops.
+0	6B	and -
+1	6B	taxi stops.
+1	6B	so -
+1	6B	we're all done!
+1	3I	so -
+1	3I	i think the first question is -
+1	3I	how many aisles do you think this is?
+1	3I	yes.
+1	3I	we will.
+1	3I	so essentially, we're looking at -
+1	3I	four aisles. kay?
+1	3I	and it looks like this is already set up for, like, home supplies.
+1	3I	and that kind of migrates around here.
+1	3I	this seems to be more personal, like toys and travel guides.
+1	3I	this looks like more staples.
+1	3I	yeah. this is, like, bulk cooking.
+1	3I	um, cuz you never buy -
+1	3I	just one cup of sugar.
+1	3I	and then this at least over here looks like -
+1	3I	the refrigerated section.
+0	3I	cool?
+0	3I	right.
+0	3I	okay.
+0	3I	yes.
+0	3I	heavy coats.
+1	3I	yes.
+1	3I	right.
+1	3I	i think -
+1	3I	it would make most sense in the aisle here with travel guides and toys.
+0	3I	um -
+1	3I	would you put them next to the * toys or the travel guides and mousetraps?
+1	3I	i think so.
+1	3I	yes.
+1	3I	what if we -?
+1	3I	arranged them -?
+1	3I	here -?
+1	3I	so it went in a u_ shape, essentially, from the travel guides to the toys?
+1	3I	and then if there's, like, hats and backpacks we can put them after the toys.
+1	3I	kay, so -
+1	3I	okay, so heavy coats next to the travel guides.
+1	3I	agreed.
+0	3I	bars of soap.
+1	3I	how bout right next to the toilet paper?
+1	3I	do we feel like -?
+1	3I	putting it behind the toilet paper, or before?
+1	3I	okay.
+1	3I	cool.
+2	3I	right, or should they go next to cake mix?
+1	3I	yeah.
+1	3I	okay.
+0	3I	yes.
+0	3I	gas powered cook stoves.
+1	3I	i think on the far aisle here.
+0	3I	um -
+1	3I	should i go between boating supplies and siding?
+1	3I	or in - closer toward power cords?
+1	3I	okay, we'll put them next to the boating supplies.
+1	3I	awesome.
+0	3I	books.
+1	3I	how bout we put them next to the travel guides?
+1	3I	agreed.
+0	3I	fish hooks.
+1	3I	how bout right next to the boating supplies?
+1	3I	cuz you need a boat to fish, most of the time.
+1	3I	cool?
+1	3I	sounds good.
+0	3I	backpacks.
+1	3I	what if we put the backpacks on the other side of the toys, about mid-aisle?
+1	3I	that give us more room for overflow.
+0	3I	uh -
+1	3I	clothing.
+1	3I	cool.
+0	3I	rolls of duct tape.
+1	3I	how bout right near the power cords?
+1	3I	would you suggest before or after?
+1	3I	let's do before.
+2	3I	or would we like to put them next to the backpacks?
+1	3I	in case there's more -
+0	3I	like -
+1	3I	abdominal covering clothing.
+0	3I	yes.
+0	3I	sticks of butter.
+1	3I	i would vote for next to the eggs.
+1	3I	my initial thought was exercise.
+1	3I	but it could also be some sort of -
+1	3I	item for camping, to help hold stuff down.
+1	3I	since there is no other exercise equipment, i'm willing to go with the second definition.
+1	3I	cool.
+1	3I	sounds good.
+0	3I	and i've got heavy cable here.
+1	3I	where do you think we should put this?
+2	3I	what if we give it a - a little bit of space, and put the heavy cable here?
+0	3I	yes.
+0	3I	they're not disposable.
+1	3I	kay, so we've got the thick sweaters.
+1	3I	my inclination is to put them next to the large vests.
+1	3I	oh, absolutely.
+1	3I	sounds good.
+0	3I	small axes.
+1	3I	um, i would put them -
+1	3I	obviously in this aisle here.
+1	3I	what if -?
+0	3I	hmm.
+1	3I	i feel like it should be closer to the end.
+1	3I	so near the power cords, but not too close.
+0	3I	going wild and crazy.
+2	3I	or -
+1	3I	uh, yeah. let's do it.
+0	3I	scissors.
+0	3I	the question is are they small scissors, like -?
+0	3I	eyebrow scissors?
+0	3I	or are they gigantic scissors?
+1	3I	cuz we are co-managers at this imaginary store.
+1	3I	um, fantastic question.
+1	3I	let's put them next to the small axes.
+1	3I	yes. cuz -
+1	3I	that's just the area where they cut things.
+0	3I	okay.
+1	3I	what if we put the fresh produce aisle on -
+1	3I	the opposite side of the refrigerated section?
+1	3I	sounds great.
+0	3I	and i've got pouches of oatmeal.
+1	3I	which to me indicates a bulk item, that's non-perishable so i would put it by the dried figs.
+1	3I	what about next to the bottles of juice?
+0	3I	and i have flags -
+1	3I	so that seems to be a home item.
+1	3I	what would you think about putting them between the siding and the cushions?
+1	3I	i will actually put it * before the siding.
+1	3I	because you could take a flag camping, if you would like,
+1	3I	what if we put it next to mousetraps?
+1	3I	and it feels like the camping outdoor ware section would be looking for something more durable than paper.
+0	3I	light jackets.
+1	3I	what if -
+0	3I	so -
+1	3I	what if we put them right up here?
+1	3I	close to the toys?
+1	3I	but not too close.
+1	3I	yeah, almost like it's an endcap.
+1	3I	cuz it's fall, and -
+1	3I	we don't quite need the heavy jackets yet, so let's trunc popularize the light jackets.
+1	3I	yes.
+1	3I	i agree.
+1	3I	yeah.
+0	3I	empty plastic jugs.
+1	3I	it does. what if we put it right next to the buckets?
+1	3I	it is.
+1	3I	yeah!
+0	3I	i didn't know they sold bundles of sticks.
+0	3I	okay.
+0	3I	cool.
+0	3I	pre-cut wood.
+1	3I	what if we put them across from the bundles of sticks?
+1	3I	so you can turn around -
+1	3I	and have sticks and then wood.
+1	3I	perfect.
+0	3I	books of matches.
+1	3I	what if we put them -
+1	3I	close to paper bags?
+1	3I	because they are all disposable type household items.
+0	3I	okay?
+1	3I	i would put them next to the home container section.
+1	3I	yes.
+1	3I	and our favorite, wetsuits.
+1	3I	so my inclination is to actually put them across from boating supplies.
+0	3I	does that make sense? okay.
+0	3I	so they are right next to the five pound weights.
+1	3I	awesome.
+1	3I	sounds good.
+0	3I	face cream.
+1	3I	my inclination is to put it right next to the toothpaste.
+1	3I	my inclination would be to put it toward -
+1	3I	the other stuff you drink.
+1	3I	we - that's the word.
+1	3I	right maybe toward the end of the aisle.
+0	3I	so we have tow ropes.
+0	3I	boating supplies.
+1	3I	this is a type of rope, and we do have long ropey type things.
+1	3I	here.
+1	3I	so, let's put it between the heavy cable and the duct tape.
+1	3I	yes.
+1	3I	yeah, me too.
+1	3I	cool.
+0	3I	half inch tubing.
+1	3I	could we sneak that between the canvas bags and heavy cable?
+2	3I	what if -
+2	3I	we put it trunc between the * tweezers cuz this is a lot of random stuff tweezers you don't buy all the time shoelaces you don't buy all the time.
+1	3I	yes.
+0	3I	kay, chocolate bars.
+1	3I	i know.
+1	3I	should we put those before the sugar?
+1	3I	kay.
+1	3I	because -
+1	3I	beets just look so lonely.
+1	3I	but i don't know if we have like items.
+1	3I	we'll just start talking to the ice cream.
+1	3I	yeah.
+1	3I	yes.
+1	3I	kay.
+1	3I	yeah!
+0	3I	fleece lined boots.
+1	3I	what about next to the hats?
+1	3I	i will let you make the decision.
+1	3I	kay cans of peas.
+1	3I	yeah.
+1	3I	it doesn't specify if it's fresh beets.
+1	3I	or non-fresh beats.
+1	3I	yes.
+0	3I	um -
+1	3I	i feel like this is the most logical place for it.
+1	3I	so we'll put the canned peas near the peas, but not right next door.
+1	3I	sure.
+1	3I	i would say near the back.
+1	3I	yeah.
+0	3I	socks.
+1	3I	let's put them between the boots and the toys.
+1	3I	i think we will.
+1	3I	cool.
+0	3I	and fishing nets.
+1	3I	what if i put them right above pre-cut wood?
+1	3I	and good job! that's our last item.
+1	3I	yes.
+1	3I	i like how we were talking about, uh wanting to reorganize it.
+0	6B	so, how many should we cut from -?
+1	6B	what's the easiest one to look at first?
+0	6B	yeah.
+1	6B	okay.
+0	6B	right.
+1	6B	okay.
+1	6B	i don't think so.
+0	6B	um -
+1	6B	should we go list by list?
+0	6B	well -
+0	6B	let's see.
+2	6B	i think special education teachers are very important.
+0	6B	um -
+2	6B	i think speech therapy's important, as well as sex ed.
+1	6B	uh, how to you trunc t do you think is most important to keep?
+1	6B	right.
+1	6B	absolutely.
+1	6B	right.
+0	6B	yes.
+1	6B	so, it sounds like we're going to postpone and currently cut the football equipment and the sugar free juice machines.
+1	6B	co-
+1	6B	cooking classes?
+1	6B	that seems to be something where if someone wants to learn to cook -
+1	6B	they can go online. they can read a book. it's not necessarily a social activity.
+1	6B	okay.
+1	6B	okay.
+1	6B	too much argument?
+1	6B	okay.
+0	6B	public health and safety.
+1	6B	what do you think is -
+1	6B	uh, most important. or what do you think we can do without?
+2	6B	what if it's a food safety issue?
+2	6B	and if it's a food safety issue that goes out into the community and beyond and people get sick, then it reflects poorly on our community.
+0	6B	yes.
+1	6B	okay.
+0	6B	okay.
+0	6B	so we've got one.
+1	6B	uh, what about the hospital additions?
+2	6B	so, i feel reproductive education is very important.
+2	6B	chicken pox trunc chicken pox trunc vaccinations, also very important. needle exchange and the sex offender database -
+2	6B	and prenatal check-ups, i think are * all very very important.
+0	6B	hmm. right.
+1	6B	yes, and when i read that i thought of a point person within the police department that -
+1	6B	supports all the neighborhood watches.
+1	6B	which is great -
+1	6B	but i feel like we could get a volunteer or and intern -
+1	6B	to do that.
+1	6B	and the police will still be available if there's an immediate hey so and so this person's breaking into some person's house.
+1	6B	so it sounds like -
+1	6B	we would be okay with cutting neighborhood watch -
+1	6B	and weed control.
+1	6B	and hospital additions.
+1	6B	so we're good there.
+1	6B	how do you feel about recreation and public services?
+0	6B	right.
+2	6B	i'm a big football fan.
+2	6B	and i can see the benefits that a football team would bring to an area.
+2	6B	because it brings a lot of people in. it brings publicity to the area.
+2	6B	so, i am not as excited to cut that.
+0	6B	um -
+1	6B	what if -
+0	6B	let's see -
+0	6B	so -
+1	6B	yeah, it seems like we could ask the veterinary hospital to take over stray cat spaying.
+1	6B	and -
+1	6B	kitten and puppy adoption, do you think the hospital would have -?
+1	6B	some services or some people who would be willing to -?
+1	6B	take that over?
+1	6B	because that would also expand their reach.
+1	6B	within the community.
+1	6B	okay.
+1	6B	what about the reusable bag campaign?
+1	6B	right.
+1	6B	is it essential?
+1	6B	cool.
+0	6B	on to infrastructure and licensing.
+0	6B	so -
+1	6B	i vote cutting additional bus stops.
+0	6B	so we've got one.
+1	6B	that's good.
+1	6B	right, or they call them.
+0	6B	so we've got two.
+0	6B	um -
+2	6B	speed limit signs are important.
+0	6B	i'm a little confused about the subway system. is it already operable?
+0	6B	or are they building it?
+0	6B	so as the -
+0	6B	governors of this city - i know that's the wrong word. we'll go with mayors, co-mayors.
+0	6B	do we have a subway system?
+1	6B	okay.
+2	6B	let's do it.
+1	6B	right.
+1	6B	and, i'm a little confused what you repair on a flagpole other than repainting it.
+1	6B	so we are getting rid of -
+0	6B	wow, my stomach is making a lot of noises i guess.
+0	6B	apparently i'm just hungry.
+1	6B	flagpole repair.
+1	6B	additional bus stops.
+0	6B	and -
+1	6B	taxi stops.
+1	6B	so -
+1	6B	we're all done!
+1	3I	so -
+1	3I	i think the first question is -
+1	3I	how many aisles do you think this is?
+1	3I	yes.
+1	3I	we will.
+1	3I	so essentially, we're looking at -
+1	3I	four aisles. kay?
+1	3I	and it looks like this is already set up for, like, home supplies.
+1	3I	and that kind of migrates around here.
+1	3I	this seems to be more personal, like toys and travel guides.
+1	3I	this looks like more staples.
+1	3I	yeah. this is, like, bulk cooking.
+1	3I	um, cuz you never buy -
+1	3I	just one cup of sugar.
+1	3I	and then this at least over here looks like -
+1	3I	the refrigerated section.
+0	3I	cool?
+0	3I	right.
+0	3I	okay.
+0	3I	yes.
+0	3I	heavy coats.
+1	3I	yes.
+1	3I	right.
+1	3I	i think -
+1	3I	it would make most sense in the aisle here with travel guides and toys.
+0	3I	um -
+1	3I	would you put them next to the * toys or the travel guides and mousetraps?
+1	3I	i think so.
+1	3I	yes.
+1	3I	what if we -?
+1	3I	arranged them -?
+1	3I	here -?
+1	3I	so it went in a u_ shape, essentially, from the travel guides to the toys?
+1	3I	and then if there's, like, hats and backpacks we can put them after the toys.
+1	3I	kay, so -
+1	3I	okay, so heavy coats next to the travel guides.
+1	3I	agreed.
+0	3I	bars of soap.
+1	3I	how bout right next to the toilet paper?
+1	3I	do we feel like -?
+1	3I	putting it behind the toilet paper, or before?
+1	3I	okay.
+1	3I	cool.
+2	3I	right, or should they go next to cake mix?
+1	3I	yeah.
+1	3I	okay.
+0	3I	yes.
+0	3I	gas powered cook stoves.
+1	3I	i think on the far aisle here.
+0	3I	um -
+1	3I	should i go between boating supplies and siding?
+1	3I	or in - closer toward power cords?
+1	3I	okay, we'll put them next to the boating supplies.
+1	3I	awesome.
+0	3I	books.
+1	3I	how bout we put them next to the travel guides?
+1	3I	agreed.
+0	3I	fish hooks.
+1	3I	how bout right next to the boating supplies?
+1	3I	cuz you need a boat to fish, most of the time.
+1	3I	cool?
+1	3I	sounds good.
+0	3I	backpacks.
+1	3I	what if we put the backpacks on the other side of the toys, about mid-aisle?
+1	3I	that give us more room for overflow.
+0	3I	uh -
+1	3I	clothing.
+1	3I	cool.
+0	3I	rolls of duct tape.
+1	3I	how bout right near the power cords?
+1	3I	would you suggest before or after?
+1	3I	let's do before.
+2	3I	or would we like to put them next to the backpacks?
+1	3I	in case there's more -
+0	3I	like -
+1	3I	abdominal covering clothing.
+0	3I	yes.
+0	3I	sticks of butter.
+1	3I	i would vote for next to the eggs.
+1	3I	my initial thought was exercise.
+1	3I	but it could also be some sort of -
+1	3I	item for camping, to help hold stuff down.
+1	3I	since there is no other exercise equipment, i'm willing to go with the second definition.
+1	3I	cool.
+1	3I	sounds good.
+0	3I	and i've got heavy cable here.
+1	3I	where do you think we should put this?
+2	3I	what if we give it a - a little bit of space, and put the heavy cable here?
+0	3I	yes.
+0	3I	they're not disposable.
+1	3I	kay, so we've got the thick sweaters.
+1	3I	my inclination is to put them next to the large vests.
+1	3I	oh, absolutely.
+1	3I	sounds good.
+0	3I	small axes.
+1	3I	um, i would put them -
+1	3I	obviously in this aisle here.
+1	3I	what if -?
+0	3I	hmm.
+1	3I	i feel like it should be closer to the end.
+1	3I	so near the power cords, but not too close.
+0	3I	going wild and crazy.
+2	3I	or -
+1	3I	uh, yeah. let's do it.
+0	3I	scissors.
+0	3I	the question is are they small scissors, like -?
+0	3I	eyebrow scissors?
+0	3I	or are they gigantic scissors?
+1	3I	cuz we are co-managers at this imaginary store.
+1	3I	um, fantastic question.
+1	3I	let's put them next to the small axes.
+1	3I	yes. cuz -
+1	3I	that's just the area where they cut things.
+0	3I	okay.
+1	3I	what if we put the fresh produce aisle on -
+1	3I	the opposite side of the refrigerated section?
+1	3I	sounds great.
+0	3I	and i've got pouches of oatmeal.
+1	3I	which to me indicates a bulk item, that's non-perishable so i would put it by the dried figs.
+1	3I	what about next to the bottles of juice?
+0	3I	and i have flags -
+1	3I	so that seems to be a home item.
+1	3I	what would you think about putting them between the siding and the cushions?
+1	3I	i will actually put it * before the siding.
+1	3I	because you could take a flag camping, if you would like,
+1	3I	what if we put it next to mousetraps?
+1	3I	and it feels like the camping outdoor ware section would be looking for something more durable than paper.
+0	3I	light jackets.
+1	3I	what if -
+0	3I	so -
+1	3I	what if we put them right up here?
+1	3I	close to the toys?
+1	3I	but not too close.
+1	3I	yeah, almost like it's an endcap.
+1	3I	cuz it's fall, and -
+1	3I	we don't quite need the heavy jackets yet, so let's trunc popularize the light jackets.
+1	3I	yes.
+1	3I	i agree.
+1	3I	yeah.
+0	3I	empty plastic jugs.
+1	3I	it does. what if we put it right next to the buckets?
+1	3I	it is.
+1	3I	yeah!
+0	3I	i didn't know they sold bundles of sticks.
+0	3I	okay.
+0	3I	cool.
+0	3I	pre-cut wood.
+1	3I	what if we put them across from the bundles of sticks?
+1	3I	so you can turn around -
+1	3I	and have sticks and then wood.
+1	3I	perfect.
+0	3I	books of matches.
+1	3I	what if we put them -
+1	3I	close to paper bags?
+1	3I	because they are all disposable type household items.
+0	3I	okay?
+1	3I	i would put them next to the home container section.
+1	3I	yes.
+1	3I	and our favorite, wetsuits.
+1	3I	so my inclination is to actually put them across from boating supplies.
+0	3I	does that make sense? okay.
+0	3I	so they are right next to the five pound weights.
+1	3I	awesome.
+1	3I	sounds good.
+0	3I	face cream.
+1	3I	my inclination is to put it right next to the toothpaste.
+1	3I	my inclination would be to put it toward -
+1	3I	the other stuff you drink.
+1	3I	we - that's the word.
+1	3I	right maybe toward the end of the aisle.
+0	3I	so we have tow ropes.
+0	3I	boating supplies.
+1	3I	this is a type of rope, and we do have long ropey type things.
+1	3I	here.
+1	3I	so, let's put it between the heavy cable and the duct tape.
+1	3I	yes.
+1	3I	yeah, me too.
+1	3I	cool.
+0	3I	half inch tubing.
+1	3I	could we sneak that between the canvas bags and heavy cable?
+2	3I	what if -
+2	3I	we put it trunc between the * tweezers cuz this is a lot of random stuff tweezers you don't buy all the time shoelaces you don't buy all the time.
+1	3I	yes.
+0	3I	kay, chocolate bars.
+1	3I	i know.
+1	3I	should we put those before the sugar?
+1	3I	kay.
+1	3I	because -
+1	3I	beets just look so lonely.
+1	3I	but i don't know if we have like items.
+1	3I	we'll just start talking to the ice cream.
+1	3I	yeah.
+1	3I	yes.
+1	3I	kay.
+1	3I	yeah!
+0	3I	fleece lined boots.
+1	3I	what about next to the hats?
+1	3I	i will let you make the decision.
+1	3I	kay cans of peas.
+1	3I	yeah.
+1	3I	it doesn't specify if it's fresh beets.
+1	3I	or non-fresh beats.
+1	3I	yes.
+0	3I	um -
+1	3I	i feel like this is the most logical place for it.
+1	3I	so we'll put the canned peas near the peas, but not right next door.
+1	3I	sure.
+1	3I	i would say near the back.
+1	3I	yeah.
+0	3I	socks.
+1	3I	let's put them between the boots and the toys.
+1	3I	i think we will.
+1	3I	cool.
+0	3I	and fishing nets.
+1	3I	what if i put them right above pre-cut wood?
+1	3I	and good job! that's our last item.
+1	3I	yes.
+1	3I	i like how we were talking about, uh wanting to reorganize it.
+0	6B	so, how many should we cut from -?
+1	6B	what's the easiest one to look at first?
+0	6B	yeah.
+1	6B	okay.
+0	6B	right.
+1	6B	okay.
+1	6B	i don't think so.
+0	6B	um -
+1	6B	should we go list by list?
+0	6B	well -
+0	6B	let's see.
+2	6B	i think special education teachers are very important.
+0	6B	um -
+2	6B	i think speech therapy's important, as well as sex ed.
+1	6B	uh, how to you trunc t do you think is most important to keep?
+1	6B	right.
+1	6B	absolutely.
+1	6B	right.
+0	6B	yes.
+1	6B	so, it sounds like we're going to postpone and currently cut the football equipment and the sugar free juice machines.
+1	6B	co-
+1	6B	cooking classes?
+1	6B	that seems to be something where if someone wants to learn to cook -
+1	6B	they can go online. they can read a book. it's not necessarily a social activity.
+1	6B	okay.
+1	6B	okay.
+1	6B	too much argument?
+1	6B	okay.
+0	6B	public health and safety.
+1	6B	what do you think is -
+1	6B	uh, most important. or what do you think we can do without?
+2	6B	what if it's a food safety issue?
+2	6B	and if it's a food safety issue that goes out into the community and beyond and people get sick, then it reflects poorly on our community.
+0	6B	yes.
+1	6B	okay.
+0	6B	okay.
+0	6B	so we've got one.
+1	6B	uh, what about the hospital additions?
+2	6B	so, i feel reproductive education is very important.
+2	6B	chicken pox trunc chicken pox trunc vaccinations, also very important. needle exchange and the sex offender database -
+2	6B	and prenatal check-ups, i think are * all very very important.
+0	6B	hmm. right.
+1	6B	yes, and when i read that i thought of a point person within the police department that -
+1	6B	supports all the neighborhood watches.
+1	6B	which is great -
+1	6B	but i feel like we could get a volunteer or and intern -
+1	6B	to do that.
+1	6B	and the police will still be available if there's an immediate hey so and so this person's breaking into some person's house.
+1	6B	so it sounds like -
+1	6B	we would be okay with cutting neighborhood watch -
+1	6B	and weed control.
+1	6B	and hospital additions.
+1	6B	so we're good there.
+1	6B	how do you feel about recreation and public services?
+0	6B	right.
+2	6B	i'm a big football fan.
+2	6B	and i can see the benefits that a football team would bring to an area.
+2	6B	because it brings a lot of people in. it brings publicity to the area.
+2	6B	so, i am not as excited to cut that.
+0	6B	um -
+1	6B	what if -
+0	6B	let's see -
+0	6B	so -
+1	6B	yeah, it seems like we could ask the veterinary hospital to take over stray cat spaying.
+1	6B	and -
+1	6B	kitten and puppy adoption, do you think the hospital would have -?
+1	6B	some services or some people who would be willing to -?
+1	6B	take that over?
+1	6B	because that would also expand their reach.
+1	6B	within the community.
+1	6B	okay.
+1	6B	what about the reusable bag campaign?
+1	6B	right.
+1	6B	is it essential?
+1	6B	cool.
+0	6B	on to infrastructure and licensing.
+0	6B	so -
+1	6B	i vote cutting additional bus stops.
+0	6B	so we've got one.
+1	6B	that's good.
+1	6B	right, or they call them.
+0	6B	so we've got two.
+0	6B	um -
+2	6B	speed limit signs are important.
+0	6B	i'm a little confused about the subway system. is it already operable?
+0	6B	or are they building it?
+0	6B	so as the -
+0	6B	governors of this city - i know that's the wrong word. we'll go with mayors, co-mayors.
+0	6B	do we have a subway system?
+1	6B	okay.
+2	6B	let's do it.
+1	6B	right.
+1	6B	and, i'm a little confused what you repair on a flagpole other than repainting it.
+1	6B	so we are getting rid of -
+0	6B	wow, my stomach is making a lot of noises i guess.
+0	6B	apparently i'm just hungry.
+1	6B	flagpole repair.
+1	6B	additional bus stops.
+0	6B	and -
+1	6B	taxi stops.
+1	6B	so -
+1	6B	we're all done!
+1	3I	so -
+1	3I	i think the first question is -
+1	3I	how many aisles do you think this is?
+1	3I	yes.
+1	3I	we will.
+1	3I	so essentially, we're looking at -
+1	3I	four aisles. kay?
+1	3I	and it looks like this is already set up for, like, home supplies.
+1	3I	and that kind of migrates around here.
+1	3I	this seems to be more personal, like toys and travel guides.
+1	3I	this looks like more staples.
+1	3I	yeah. this is, like, bulk cooking.
+1	3I	um, cuz you never buy -
+1	3I	just one cup of sugar.
+1	3I	and then this at least over here looks like -
+1	3I	the refrigerated section.
+0	3I	cool?
+0	3I	right.
+0	3I	okay.
+0	3I	yes.
+0	3I	heavy coats.
+1	3I	yes.
+1	3I	right.
+1	3I	i think -
+1	3I	it would make most sense in the aisle here with travel guides and toys.
+0	3I	um -
+1	3I	would you put them next to the * toys or the travel guides and mousetraps?
+1	3I	i think so.
+1	3I	yes.
+1	3I	what if we -?
+1	3I	arranged them -?
+1	3I	here -?
+1	3I	so it went in a u_ shape, essentially, from the travel guides to the toys?
+1	3I	and then if there's, like, hats and backpacks we can put them after the toys.
+1	3I	kay, so -
+1	3I	okay, so heavy coats next to the travel guides.
+1	3I	agreed.
+0	3I	bars of soap.
+1	3I	how bout right next to the toilet paper?
+1	3I	do we feel like -?
+1	3I	putting it behind the toilet paper, or before?
+1	3I	okay.
+1	3I	cool.
+2	3I	right, or should they go next to cake mix?
+1	3I	yeah.
+1	3I	okay.
+0	3I	yes.
+0	3I	gas powered cook stoves.
+1	3I	i think on the far aisle here.
+0	3I	um -
+1	3I	should i go between boating supplies and siding?
+1	3I	or in - closer toward power cords?
+1	3I	okay, we'll put them next to the boating supplies.
+1	3I	awesome.
+0	3I	books.
+1	3I	how bout we put them next to the travel guides?
+1	3I	agreed.
+0	3I	fish hooks.
+1	3I	how bout right next to the boating supplies?
+1	3I	cuz you need a boat to fish, most of the time.
+1	3I	cool?
+1	3I	sounds good.
+0	3I	backpacks.
+1	3I	what if we put the backpacks on the other side of the toys, about mid-aisle?
+1	3I	that give us more room for overflow.
+0	3I	uh -
+1	3I	clothing.
+1	3I	cool.
+0	3I	rolls of duct tape.
+1	3I	how bout right near the power cords?
+1	3I	would you suggest before or after?
+1	3I	let's do before.
+2	3I	or would we like to put them next to the backpacks?
+1	3I	in case there's more -
+0	3I	like -
+1	3I	abdominal covering clothing.
+0	3I	yes.
+0	3I	sticks of butter.
+1	3I	i would vote for next to the eggs.
+1	3I	my initial thought was exercise.
+1	3I	but it could also be some sort of -
+1	3I	item for camping, to help hold stuff down.
+1	3I	since there is no other exercise equipment, i'm willing to go with the second definition.
+1	3I	cool.
+1	3I	sounds good.
+0	3I	and i've got heavy cable here.
+1	3I	where do you think we should put this?
+2	3I	what if we give it a - a little bit of space, and put the heavy cable here?
+0	3I	yes.
+0	3I	they're not disposable.
+1	3I	kay, so we've got the thick sweaters.
+1	3I	my inclination is to put them next to the large vests.
+1	3I	oh, absolutely.
+1	3I	sounds good.
+0	3I	small axes.
+1	3I	um, i would put them -
+1	3I	obviously in this aisle here.
+1	3I	what if -?
+0	3I	hmm.
+1	3I	i feel like it should be closer to the end.
+1	3I	so near the power cords, but not too close.
+0	3I	going wild and crazy.
+2	3I	or -
+1	3I	uh, yeah. let's do it.
+0	3I	scissors.
+0	3I	the question is are they small scissors, like -?
+0	3I	eyebrow scissors?
+0	3I	or are they gigantic scissors?
+1	3I	cuz we are co-managers at this imaginary store.
+1	3I	um, fantastic question.
+1	3I	let's put them next to the small axes.
+1	3I	yes. cuz -
+1	3I	that's just the area where they cut things.
+0	3I	okay.
+1	3I	what if we put the fresh produce aisle on -
+1	3I	the opposite side of the refrigerated section?
+1	3I	sounds great.
+0	3I	and i've got pouches of oatmeal.
+1	3I	which to me indicates a bulk item, that's non-perishable so i would put it by the dried figs.
+1	3I	what about next to the bottles of juice?
+0	3I	and i have flags -
+1	3I	so that seems to be a home item.
+1	3I	what would you think about putting them between the siding and the cushions?
+1	3I	i will actually put it * before the siding.
+1	3I	because you could take a flag camping, if you would like,
+1	3I	what if we put it next to mousetraps?
+1	3I	and it feels like the camping outdoor ware section would be looking for something more durable than paper.
+0	3I	light jackets.
+1	3I	what if -
+0	3I	so -
+1	3I	what if we put them right up here?
+1	3I	close to the toys?
+1	3I	but not too close.
+1	3I	yeah, almost like it's an endcap.
+1	3I	cuz it's fall, and -
+1	3I	we don't quite need the heavy jackets yet, so let's trunc popularize the light jackets.
+1	3I	yes.
+1	3I	i agree.
+1	3I	yeah.
+0	3I	empty plastic jugs.
+1	3I	it does. what if we put it right next to the buckets?
+1	3I	it is.
+1	3I	yeah!
+0	3I	i didn't know they sold bundles of sticks.
+0	3I	okay.
+0	3I	cool.
+0	3I	pre-cut wood.
+1	3I	what if we put them across from the bundles of sticks?
+1	3I	so you can turn around -
+1	3I	and have sticks and then wood.
+1	3I	perfect.
+0	3I	books of matches.
+1	3I	what if we put them -
+1	3I	close to paper bags?
+1	3I	because they are all disposable type household items.
+0	3I	okay?
+1	3I	i would put them next to the home container section.
+1	3I	yes.
+1	3I	and our favorite, wetsuits.
+1	3I	so my inclination is to actually put them across from boating supplies.
+0	3I	does that make sense? okay.
+0	3I	so they are right next to the five pound weights.
+1	3I	awesome.
+1	3I	sounds good.
+0	3I	face cream.
+1	3I	my inclination is to put it right next to the toothpaste.
+1	3I	my inclination would be to put it toward -
+1	3I	the other stuff you drink.
+1	3I	we - that's the word.
+1	3I	right maybe toward the end of the aisle.
+0	3I	so we have tow ropes.
+0	3I	boating supplies.
+1	3I	this is a type of rope, and we do have long ropey type things.
+1	3I	here.
+1	3I	so, let's put it between the heavy cable and the duct tape.
+1	3I	yes.
+1	3I	yeah, me too.
+1	3I	cool.
+0	3I	half inch tubing.
+1	3I	could we sneak that between the canvas bags and heavy cable?
+2	3I	what if -
+2	3I	we put it trunc between the * tweezers cuz this is a lot of random stuff tweezers you don't buy all the time shoelaces you don't buy all the time.
+1	3I	yes.
+0	3I	kay, chocolate bars.
+1	3I	i know.
+1	3I	should we put those before the sugar?
+1	3I	kay.
+1	3I	because -
+1	3I	beets just look so lonely.
+1	3I	but i don't know if we have like items.
+1	3I	we'll just start talking to the ice cream.
+1	3I	yeah.
+1	3I	yes.
+1	3I	kay.
+1	3I	yeah!
+0	3I	fleece lined boots.
+1	3I	what about next to the hats?
+1	3I	i will let you make the decision.
+1	3I	kay cans of peas.
+1	3I	yeah.
+1	3I	it doesn't specify if it's fresh beets.
+1	3I	or non-fresh beats.
+1	3I	yes.
+0	3I	um -
+1	3I	i feel like this is the most logical place for it.
+1	3I	so we'll put the canned peas near the peas, but not right next door.
+1	3I	sure.
+1	3I	i would say near the back.
+1	3I	yeah.
+0	3I	socks.
+1	3I	let's put them between the boots and the toys.
+1	3I	i think we will.
+1	3I	cool.
+0	3I	and fishing nets.
+1	3I	what if i put them right above pre-cut wood?
+1	3I	and good job! that's our last item.
+1	3I	yes.
+1	3I	i like how we were talking about, uh wanting to reorganize it.
+0	6B	so, how many should we cut from -?
+1	6B	what's the easiest one to look at first?
+0	6B	yeah.
+1	6B	okay.
+0	6B	right.
+1	6B	okay.
+1	6B	i don't think so.
+0	6B	um -
+1	6B	should we go list by list?
+0	6B	well -
+0	6B	let's see.
+2	6B	i think special education teachers are very important.
+0	6B	um -
+2	6B	i think speech therapy's important, as well as sex ed.
+1	6B	uh, how to you trunc t do you think is most important to keep?
+1	6B	right.
+1	6B	absolutely.
+1	6B	right.
+0	6B	yes.
+1	6B	so, it sounds like we're going to postpone and currently cut the football equipment and the sugar free juice machines.
+1	6B	co-
+1	6B	cooking classes?
+1	6B	that seems to be something where if someone wants to learn to cook -
+1	6B	they can go online. they can read a book. it's not necessarily a social activity.
+1	6B	okay.
+1	6B	okay.
+1	6B	too much argument?
+1	6B	okay.
+0	6B	public health and safety.
+1	6B	what do you think is -
+1	6B	uh, most important. or what do you think we can do without?
+2	6B	what if it's a food safety issue?
+2	6B	and if it's a food safety issue that goes out into the community and beyond and people get sick, then it reflects poorly on our community.
+0	6B	yes.
+1	6B	okay.
+0	6B	okay.
+0	6B	so we've got one.
+1	6B	uh, what about the hospital additions?
+2	6B	so, i feel reproductive education is very important.
+2	6B	chicken pox trunc chicken pox trunc vaccinations, also very important. needle exchange and the sex offender database -
+2	6B	and prenatal check-ups, i think are * all very very important.
+0	6B	hmm. right.
+1	6B	yes, and when i read that i thought of a point person within the police department that -
+1	6B	supports all the neighborhood watches.
+1	6B	which is great -
+1	6B	but i feel like we could get a volunteer or and intern -
+1	6B	to do that.
+1	6B	and the police will still be available if there's an immediate hey so and so this person's breaking into some person's house.
+1	6B	so it sounds like -
+1	6B	we would be okay with cutting neighborhood watch -
+1	6B	and weed control.
+1	6B	and hospital additions.
+1	6B	so we're good there.
+1	6B	how do you feel about recreation and public services?
+0	6B	right.
+2	6B	i'm a big football fan.
+2	6B	and i can see the benefits that a football team would bring to an area.
+2	6B	because it brings a lot of people in. it brings publicity to the area.
+2	6B	so, i am not as excited to cut that.
+0	6B	um -
+1	6B	what if -
+0	6B	let's see -
+0	6B	so -
+1	6B	yeah, it seems like we could ask the veterinary hospital to take over stray cat spaying.
+1	6B	and -
+1	6B	kitten and puppy adoption, do you think the hospital would have -?
+1	6B	some services or some people who would be willing to -?
+1	6B	take that over?
+1	6B	because that would also expand their reach.
+1	6B	within the community.
+1	6B	okay.
+1	6B	what about the reusable bag campaign?
+1	6B	right.
+1	6B	is it essential?
+1	6B	cool.
+0	6B	on to infrastructure and licensing.
+0	6B	so -
+1	6B	i vote cutting additional bus stops.
+0	6B	so we've got one.
+1	6B	that's good.
+1	6B	right, or they call them.
+0	6B	so we've got two.
+0	6B	um -
+2	6B	speed limit signs are important.
+0	6B	i'm a little confused about the subway system. is it already operable?
+0	6B	or are they building it?
+0	6B	so as the -
+0	6B	governors of this city - i know that's the wrong word. we'll go with mayors, co-mayors.
+0	6B	do we have a subway system?
+1	6B	okay.
+2	6B	let's do it.
+1	6B	right.
+1	6B	and, i'm a little confused what you repair on a flagpole other than repainting it.
+1	6B	so we are getting rid of -
+0	6B	wow, my stomach is making a lot of noises i guess.
+0	6B	apparently i'm just hungry.
+1	6B	flagpole repair.
+1	6B	additional bus stops.
+0	6B	and -
+1	6B	taxi stops.
+1	6B	so -
+1	6B	we're all done!

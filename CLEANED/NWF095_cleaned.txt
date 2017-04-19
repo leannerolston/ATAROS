@@ -1,0 +1,312 @@
+1	3I	it must be a little ways away . 
+1	3I	since it took a little while . okay . what do we have ? 
+1	3I	sure , just go for it . 
+1	3I	i think so . 
+1	3I	how about - ? 
+1	3I	with the toilet paper . 
+1	3I	no , i dunno . i dunno . 
+2	3I	well let's pick a different one and do that one later . 
+1	3I	i dunno . 
+1	3I	it's not up there yet . fleece lined boots . how about with the - ? 
+1	3I	yeah . 
+1	3I	boating supplies ? 
+1	3I	true . we could put it with the toys . 
+1	3I	or like somewhere in its own section . 
+2	3I	yeah . we could do that . let's do that . 
+2	3I	we 'll make a new section . 
+1	3I	okay . 
+1	3I	sure , that looks good . 
+2	3I	hey , there you go . light jackets , right next to the boots . 
+0	3I	loose leaf paper . 
+1	3I	mm-kay . 
+1	3I	refrigerator magnets ? 
+1	3I	yeah . 
+1	3I	sure . 
+1	3I	that 's good . 
+1	3I	it's true . 
+1	3I	super wal-mart . 
+2	3I	definitely with - yeah . 
+1	3I	yeah . 
+1	3I	siding . 
+1	3I	and windows . 
+2	3I	no . not really . 
+1	3I	heavy cable . how about with the power cords ? 
+1	3I	nice . 
+2	3I	tow ropes . boating supplies . 
+1	3I	sure . that sounds good . 
+1	3I	yep . 
+1	3I	cake mix ? 
+1	3I	yeah . looks good . 
+0	3I	mm . 
+1	3I	yeah . 
+1	3I	cake mix . 
+1	3I	underneath it , yeah . 
+2	3I	i dunno , i think i 'm - interested in cake right now . 
+1	3I	yes . 
+0	3I	yeah . 
+1	3I	with the buckets and the mouse traps ? 
+1	3I	right ? 
+0	3I	yeah . 
+2	3I	i dunno why not . 
+0	3I	i think so . 
+0	3I	mm . 
+1	3I	maybe with the boating supplies . 
+1	3I	yeah , that 's a good idea . 
+2	3I	mm . oh , okay . you 're doing a fine job . 
+0	3I	you 're welcome . 
+2	3I	toilet paper . 
+0	3I	yeah . 
+1	3I	okay . 
+1	3I	oh , with the timer right ? with the egg timer ? 
+1	3I	or i guess it could go with the outdoor stuff . 
+1	3I	yeah , cuz if the - if the - 
+1	3I	we have a trunc well , i dunno . 
+1	3I	that 's true . match might be kinda short . 
+1	3I	yeah . 
+1	3I	that 's true . 
+1	3I	okay , how about with the kitchen stuff ? 
+1	3I	yeah , with the box knives . 
+0	3I	mm . 
+2	3I	yeah . somewhere over here . sure . 
+0	3I	duct tape . and box knives . 
+1	3I	how about - under saws ? 
+1	3I	with clothes ? 
+1	3I	or - ? 
+2	3I	definitely not with pet food . 
+1	3I	okay , yeah . 
+0	3I	mm . 
+1	3I	that 's true . 
+1	3I	yeah . 
+2	3I	either of those seems reasonable . 
+3	3I	chocolate ! 
+1	3I	kay . 
+2	3I	yeah . definitely . 
+2	3I	with the chocolate obvious . 
+0	3I	soap . 
+1	3I	yes , good . 
+1	3I	water . maybe with the ice cream ? 
+2	3I	i dunno . or maybe with outdoors stuff cuz if you 're like gonna go somewhere ? 
+1	3I	it's kind of a food thing though , right ? 
+2	3I	yeah , let's put it with the ice cream . i think . 
+2	3I	awesome . 
+0	3I	yeah . 
+0	3I	did you work at a store ? 
+0	3I	oh . 
+0	3I	beets . 
+1	3I	yeah , it's true . 
+2	3I	especially if they 're canned . 
+0	3I	shoelaces . 
+2	3I	that 's true . it depends on the kinda shoes , right ? 
+1	3I	eeny meany , miny , moe ? 
+0	3I	eeny , meeny , miny , moe . catch a tiger by it's toe . if he hollers , make it pay . 
+0	3I	fifty dollars every day . my mom said to pick the very best one and you are it ! 
+2	3I	yay ! 
+1	3I	yeah , that would be good . 
+0	3I	face cream . 
+2	3I	sure , with soap . that makes sense . 
+1	3I	yeah , it's kinda stuck . 
+0	3I	juice . 
+0	3I	juice . 
+1	3I	sure . 
+1	3I	yeah , yeah . um . 
+1	3I	okay . 
+1	3I	yeah . 
+2	3I	it doesn't matter to me . oh ! that was exciting . 
+0	3I	bundles of sticks . 
+2	3I	hooray . 
+2	3I	wetsuits with the boats . 
+0	3I	cool . thick sweaters . 
+2	3I	large vests . 
+1	3I	sure . 
+1	3I	what would you do with an empty plastic jug ? 
+1	3I	i dunno either . um . 
+1	3I	how about - ? 
+0	3I	i think so . 
+1	3I	yeah . so , yeah . maybe with the bottles of juice and stuff ? 
+2	3I	yum ! 
+1	3I	yes . 
+1	3I	that 's true . 
+1	3I	breakfast . 
+2	3I	with thick sweaters ? that 's where  i would look for them . 
+2	3I	yeah , how about across from the toothpaste ? 
+1	3I	okay . 
+0	3I	hm . 
+1	3I	power cords ? 
+0	3I	yeah . 
+0	3I	uh . 
+2	3I	obviously . water and whiskey , they go together . 
+0	3I	bags of peat moss . 
+1	3I	what do you do with a bag of peat moss ? 
+1	3I	sad . there , now it has a buddy . hats . 
+1	3I	sure , yeah . makes sense . 
+1	3I	with the beans , maybe ? 
+1	3I	alright . fish hooks with fish nets . 
+1	3I	yeah . 
+2	3I	i don't either . but i feel like it kinda would go - 
+2	3I	somewhere over here ? 
+1	3I	yeah . 
+1	3I	maybe across from - 
+1	3I	trunc tow ropes . 
+1	3I	with the boats and stuff ? is that it ? 
+1	3I	alright . we 're done . 
+1	3I	yeah . 
+2	3I	yeah , it's weird . it was weird walking from - yeah . 
+0	6B	okay . 
+1	6B	let's start - with education and programs . um . 
+1	6B	math tutors are nice . 
+1	6B	assistant cooks . well , assistant to who ? 
+0	6B	or teaching people to be assistant cooks ? 
+2	6B	well , that could be - well , maybe we should keep that then . cuz people are learning - 
+2	6B	something in a certain field . sex ed is important . custodians are important . 
+0	6B	is - 
+1	6B	yeah . 
+1	6B	i dunno . i mean - i guess , well - i dunno . 
+2	6B	people who need it , it's - 
+2	6B	you know . i dunno , it's kinda - 
+2	6B	good . 
+2	6B	football equipment . can't take away their football . 
+0	6B	acting coaches - 
+2	6B	that 's not like super important . 
+0	6B	coaches . 
+2	6B	you can still have a drama program - yeah - without that , right ? 
+1	6B	okay , well - 
+1	6B	wait . okay . well , trunc yeah , okay . so poetry books - i guess poetry's important . 
+2	6B	so we can keep that . special ed teachers , i think are necessary definitely . 
+0	6B	cooking classes . 
+0	6B	well , trunc how is that different from assistant cooks ? 
+0	6B	i don't even know what assistant cooks means in education and programs . 
+1	6B	right . 
+0	6B	mm-hm . 
+1	6B	okay . 
+0	6B	note takers for disability services . 
+2	6B	honestly - 
+2	6B	uh , who - i don't know if i 've ever met that can't take notes . well , i dunno . like can't you just have a friend do it ? i dunno . you can just - 
+0	6B	well like trunc if you trunc like what , if you have no hands ? 
+2	6B	i mean . oh . oh ! well , then how do you study your notes ? if someone's taking them for - yeah , but - 
+2	6B	oh ! yeah , that 's cool . 
+1	6B	yeah , okay . sure . 
+2	6B	that honestly is not - top priority . that can be cut too , potentially . book keeping classes - what 'd th- 
+1	6B	i - i dunno . 
+0	6B	book keeping as in like filing stuff ? and - ? 
+1	6B	i guess . yeah , that 's probably important then . yeah . 
+2	6B	you shouldn't cut  them . 
+2	6B	trunc yeah ! keep that . 
+2	6B	well for sure - okay , my top choice for cutting it is the juice - machines . 
+1	6B	okay . 
+2	6B	sure , well we 'll see what we wanna cut from here . 
+1	6B	one , two , okay so . public health and safety , reproductive education . it's like - which is like sex ed . 
+0	6B	reproductive education . 
+0	6B	i don't - 
+2	6B	that could trunc be taken away maybe , yeah . 
+2	6B	that 's important . 
+2	6B	that 's important . 
+0	6B	invasive species . 
+2	6B	 i think it's important . coming from someone that 's taken environmental classes . like , i dunno . i wouldn't take that away . mm . 
+2	6B	s_t_d_ trunc well , it's - there 's like all these like branches of sexual education . just like - s_ - 
+1	6B	no , we can't . 
+2	6B	apparently . that 's the way they 're making it look . 
+1	6B	that 's important . hospital additions . 
+1	6B	yes . 
+0	6B	needle exchange . what does that mean ? 
+0	6B	like - 
+0	6B	oh . 
+0	6B	i don't either . 
+2	6B	it - trunc yeah . we shouldn't cut it if we don't know what it is . so . we 'll just keep that . sex offender database is probably important as well . 
+0	6B	medical assistance 
+1	6B	yeah . 
+2	6B	people can pull their own weeds . well like what , in like public - places ? you have like - 
+1	6B	oh . i dunno . 
+1	6B	someone takes care of it . 
+0	6B	it's the weed trunc 
+2	6B	maybe that 's actually important . 
+2	6B	i don't - mm , cuz like . well - i don't actually - and i mean if it like - 
+1	6B	if it's like trunc like - 
+1	6B	hurting likenative plants . then - 
+1	6B	then , you shouldn't have weeds . i mean but like if it's just like weeds like dandelions in a field - like - you can leave those , you know ? 
+1	6B	i dunno , we 'll leave it for now . pre-natal check-ups . 
+0	6B	what's - ? 
+1	6B	i guess . it's - it's a safety thing . 
+1	6B	that 's - yeah . 
+1	6B	yes . so . 
+1	6B	since we have sex ed . yeah , okay . sure . just both of them ? okay , cool . recreation and public services . stray cat spaying . that is probably actually good . because cats - 
+0	6B	like - 
+2	6B	they reproduce really - a lot . 
+2	6B	i dunno , i 've like - i went to turkey . full of cats . 
+2	6B	so many cats , yeah . they were cute , but i was like - v- 
+2	6B	yeah ! just like so many cats . it was - crazy . anyway so yeah it's important . we should keep that . 
+2	6B	community news ads . i hate ads . so . well , if it - unless - 
+1	6B	i dunno . 
+1	6B	community news ads ? like , does that mean like it's like it's advertising things like happening in the community ? cuz then that could be cool to keep . but if it's like advertising like - 
+2	6B	so let's keep it for now . the foodbank you should keep that . that 's good stuff . soccer league . can't - i can't take that from the kids . trunc 
+2	6B	oh my gosh . how can you say no to that ? how can you get rid of that ? definitely . 
+2	6B	that 's - that 's good . it like feeds - 
+2	6B	you know , well food bank - food bank and soup kitchen trunc are different . you know ? 
+0	6B	food banks are for people for like - 
+2	6B	you know , who i think - you know , they have a home , yeah but - those are for straight up homeless people . so that 's important . housing assistance . 
+0	6B	like what does that mean ? like - ? 
+0	6B	help you find a house . it's just you at your house . 
+0	6B	mm-hm . 
+1	6B	yeah . 
+1	6B	that 's - that 's probably good . 
+1	6B	yeah . 
+2	6B	can't take that from the kids . public access station , what is that ? 
+0	6B	i have no idea what that is . 
+0	6B	station where you publicly access - something . i dunno . 
+2	6B	so we 're cutting - we 're cutting the government veterinary hospital . 
+1	6B	okay . 
+1	6B	sure . 
+1	6B	we 'll see - 
+0	6B	i dunno . 
+2	6B	this one's harder to cut things from . 
+0	6B	the stadium upkeep . 
+1	6B	mm . yeah , i agree . 
+2	6B	pest control . well , no that 's like - that 's like rodents and stuff . 
+1	6B	in your house . uh . so , what are we cutting ? 
+0	6B	i guess . 
+1	6B	uh , these two ? 
+2	6B	well - you just said that those like just be 
+1	6B	oh . okay . never mind then . maybe community news ads . 
+2	6B	if they wanna have ads they can do it themselves . we 're not gonna pay for it , i guess . and . 
+1	6B	okay . 
+1	6B	alright . sure . 
+0	6B	okay . 
+2	6B	teaching certificates . uh , i think we should have teachers . so . we should probably have that . you said no speed limit signs , that could be cut . trunc trunc why ? just like - yeah , no that - that should be kept probably . 
+0	6B	additional bus stops . 
+2	6B	i trunc well , now that i 'm using the bus system . 
+1	6B	i kinda like that personally . but you know maybe that could be cut if like there 's something else - tattoo artist licenses . 
+2	6B	trunc trunc uh , why - do we - ? 
+2	6B	do - does the government seriously like fund that ? like what - ? 
+2	6B	that 's so random . yeah , i feel like - why would we - ? 
+2	6B	well , i don't care about tattoos . but i know people do . 
+1	6B	i dunno . we 'll - 
+1	6B	we 'll think about it . boating . we should let them boat . 
+2	6B	no , we trunc we should keep that . 
+1	6B	yeah . 
+2	6B	especially trunc if this is seattle . i dunno where we are living here but - 
+0	6B	oh . 
+2	6B	well - 
+0	6B	oh . 
+0	6B	it doesn't mean like we 're issuing it ? 
+0	6B	okay . 
+2	6B	whatever . yeah ! potholes . that 's important . um . subway system . 
+2	6B	you can live without out . i dunno . it's good . well , but like how trunc how do you cut a whole subway system if you have it already ? that doesn't make sense . we 're just gonna rip it out of the ground , guys . 
+2	6B	cuz that 's not gonna cost money . no , we should just keep it . 
+3	6B	animals . uh . see , i don't trunc i feel like i don't feel like have the authority to like cut things . cuz like i don't care about hunting or tattoos . but , like people trunc i know . but like - it's like people do those things . but like - i dunno . 
+2	6B	trunc can a taxi trunc taxis can stop wherever it wants , can't it ? 
+0	6B	oh , really ? 
+2	6B	well i guess you should keep that . cuz people use taxis . 
+1	6B	yeah . 
+1	6B	that 's true . 
+0	6B	that- 
+1	6B	i feel like is - you should keep . 
+2	6B	yeah , cuz - safety . drainage . all these are like - 
+2	6B	yeah , those are important to . so i guess if anything we 'd have to cut like licenses . cuz everything is like important , you know ? 
+2	6B	sorry , people . tattoo , uh - okay i think tattoo is like - 
+2	6B	i dunno . 
+2	6B	it's not necessary . 
+1	6B	yeah . 
+2	6B	if you 're hardcore enough to get a tattoo then , who cares if you know you get one without a trunc like a licensed person . i dunno . yeah . 
+2	6B	well , yeah . 
+2	6B	they can go to a different city and get their tattoo done . 
+2	6B	we 're taking that off . and um - 
+2	6B	they can take the bus or they can take the subway . so , okay , sure . tattoo and taxi . yes , we 're done . we are finished . 

@@ -1,5 +1,5 @@
 #Open files:
-gridPath$ = "/Users/rolston/Desktop/ATAROS/textgrids/"
+gridPath$ = "/Users/rolston/Desktop/ATAROS/textgrids/new/"
 outputPath$ = "/Users/rolston/Desktop/ATAROS/"
 
 clearinfo

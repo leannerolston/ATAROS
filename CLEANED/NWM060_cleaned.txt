@@ -1,0 +1,161 @@
+2	3I	or food . 
+1	3I	yeah , and it looks like the third column is just food , everything else is - 
+1	3I	other stuff . 
+1	3I	okay . 
+2	3I	yeah yeah , probably up - maybe even the  top where the boating supplies are , like outdoor stuff . 
+1	3I	mm . 
+1	3I	i 'd probably store them by the mousetraps . 
+0	3I	mm , i don't really - 
+1	3I	yeah , maybe up by the boating supplies too , yeah . 
+0	3I	oh - 
+0	3I	stay on the right side . yeah , thanks . 
+1	3I	uh , let's see . uh , bagels . i 'm presuming we probably put those with food . 
+1	3I	yeah . 
+1	3I	uh , mint toothpaste . probably more like toilet paper . 
+1	3I	bathroom stuff . 
+0	3I	um , books . 
+1	3I	hm . 
+1	3I	probably maybe by travel guides . 
+1	3I	trunc probably are already books . 
+0	3I	hm , no , but you 've got , like , storage , food stuff near the bottom , there . 
+1	3I	yeah , maybe . 
+1	3I	right . 
+1	3I	hm , maybe by the cake mix ? i don't kno- 
+0	3I	thanks . 
+0	3I	hm . 
+0	3I	uh , duct tape . 
+1	3I	probably more like um - 
+1	3I	yeah . 
+0	3I	and backpacks . 
+0	3I	yeah . 
+1	3I	yeah . 
+1	3I	hm . empty plastic jugs ? 
+1	3I	yeah , that sounds reasonable . 
+1	3I	yeah . 
+1	3I	mm , small axes . probably going with the power cords and duct tape , i would imagine . 
+0	3I	uh , books of trunc excuse me , books of matches . 
+1	3I	um . 
+1	3I	yeah . 
+0	3I	it's close to both . 
+0	3I	uh , box knives - 
+1	3I	probably with duct tape again , maybe ? 
+0	3I	right . 
+2	3I	mm - i don't know , maybe with refrigerator magnets . i mean , maybe that 's - 
+2	3I	place for fridge - or , uh , kitchen stuff . 
+1	3I	yeah , probably . 
+1	3I	mm i am - i 'd probably throw it with the cake mix . 
+0	3I	uh , beets . 
+1	3I	probably go with - by the eggs . i 'm presuming . 
+1	3I	yeah . 
+2	3I	oh , yeah , cuz it's a vegetable . yeah , yeah . 
+1	3I	large vests . that 's probably outdoor stuff . 
+1	3I	yeah . 
+1	3I	and heavy coats , probably same trunc same deal . travel . 
+1	3I	going outside . 
+2	3I	yeah , or the fridge magnets , or - 
+1	3I	eh , probably by the figs and oatmeal , maybe . 
+0	3I	right there . you were just - it's right - right above your hand , there yeah , keep going . there you go . 
+2	3I	mm . 
+2	3I	maybe on the side , where ice cream is . 
+2	3I	boxes of doughnuts . i 'm presuming they probably go by the chocolate bars and the ice cream . 
+1	3I	exactly . 
+1	3I	uh , sticks of butter , maybe down by the eggs and bagels . 
+1	3I	fishing net . probably up by the boating supplies and sticks . 
+1	3I	and thick sweaters , probably by the heavy coats and vests . 
+2	3I	yeah , or the jugs and buckets . i mean , they 're all kinda close together , though . so probably doesn't really matter . 
+1	3I	yeah . 
+1	3I	mm , maybe where the cases of whiskey are . 
+0	3I	um , loose-leaf paper . hm . 
+1	3I	yeah , don't really have any - i guess there 's books . we could put it by that , maybe . 
+1	3I	uh , liters of water , probably down there where the juice was . 
+1	3I	and then scissors , presumably where the paper and books are . 
+0	3I	hm . 
+2	3I	yeah , or the boating supplies there , yeah . 
+1	3I	hm , probably up with the jackets and sweaters . 
+1	3I	yeah . 
+0	3I	let's see . uh , gas-powered cookstove . 
+1	3I	probably with the - 
+1	3I	yeah . 
+2	3I	um , bags of peat moss , um , i 'd say that probably gonna go where - like , where pet food's gonna go . maybe just , like , garage , storage . 
+0	3I	um , heavy cable . 
+1	3I	hm , probably where the buckets and jugs are . 
+2	3I	and then five-pound weights , um , probably where the toys are . maybe , like , the activities room or something . 
+1	3I	yeah . 
+2	3I	mm , probably put it down with the axes and power cords . 
+0	3I	lower left . 
+1	3I	yeah probably . 
+0	3I	uh , it's right under the boat , there . top - top left . bundles of sticks . 
+2	3I	alright , let's do all four ! go crazy . 
+0	3I	uh , wetsuits . 
+1	3I	probably go with the boating supplies . 
+0	3I	electric heaters , um - 
+1	3I	yeah . 
+1	3I	socks , probably up with shoelaces and boots and so on . 
+1	3I	and tow ropes , probably with heavy cable and buckets , and - 
+0	3I	yeah . 
+1	6B	i think on education , for me , it would be either - 
+1	6B	uh , trunc juice machines . 
+1	6B	um - 
+1	6B	is that in there ? oh i didn't see that , yeah . trunc well , and acting coaches , i mean - 
+1	6B	trunc the - 
+2	6B	it seems to me trunc trunc that one's a  lot more longer term than just taking a cooking class and learning how to feed your own family , so it - 
+2	6B	would seem like that 's a trunc a lower priority . 
+1	6B	right , so maybe if we cut both that - cooking classes and the juice machines . 
+0	6B	hm . 
+1	6B	right . 
+1	6B	oh , yeah , that 's true . 
+1	6B	trunc yeah , nuke it i 'd say get rid of it . 
+2	6B	yeah , books are pretty cheap , though . comparatively . 
+1	6B	hm , so - football - 
+1	6B	cooking classes and juice machines , then ? 
+2	6B	mm . 
+0	6B	kay . 
+1	6B	yeah , i don't think weed control is high priority . uh , neighborhood watch support , i think i 'd probably let them manage that themselves . 
+0	6B	um - 
+1	6B	yeah . 
+0	6B	um - 
+1	6B	yeah . 
+1	6B	yeah , definitely . 
+0	6B	um - 
+1	6B	right . 
+2	6B	yeah , i mean , that 's three . cuz if we do the additions and the weed control , neighborhood watch support , that 's three . 
+1	6B	right , right . 
+0	6B	um - 
+2	6B	yeah i think my first thing to do would be to cut the stadium upkeep . 
+1	6B	right . 
+0	6B	um - 
+2	6B	uh pest control , i think i might be w- 
+2	6B	interested in that - getting rid of that , too , cuz that 's usually - 
+2	6B	overhead spraying and things like that that aren't optimal . 
+1	6B	right . 
+1	6B	may not be in seattle . 
+0	6B	um - 
+1	6B	right . 
+1	6B	right . 
+1	6B	right . 
+1	6B	so , if we get three , what would they be , then ? maybe fishing and hunting , and - 
+0	6B	uh - 
+2	6B	over taxi stops ? 
+2	6B	but then that 's four things . 
+2	6B	well , cuz we 've only been doing three on the lists . 
+3	6B	right , cuz that - the - 
+2	6B	but those - i mean , the flip side is that those allow people to start businesses . 
+2	6B	whereas a fishing license and a hunting tag is a much , much smaller - 
+2	6B	they make money on them  too , but it's a much , much smaller person - i mean , they 're f- 
+2	6B	for better or for worse , there 's far more tattoo parlors in town than there are hunters , probably . 
+0	6B	um - 
+1	6B	so i mean , it - 
+1	6B	right . 
+1	6B	right . 
+2	6B	well what about taxi stops , though ? 
+2	6B	no , but i mean getting rid of that instead of massage or tattoo . 
+2	6B	because those aren't really - 
+2	6B	a  taxi stop is just a - one more parking spot that doesn't get charged for . 
+1	6B	right ? 
+1	6B	yell on the corner . right . 
+1	6B	right . 
+1	6B	right . 
+0	6B	so then , what would be the three , then ? 
+0	6B	right . 
+1	6B	cool . 
+1	6B	yeah , definitely . 

@@ -1,0 +1,294 @@
+1	3I	one at a time ? 
+1	3I	okay . 
+0	3I	oh . 
+1	3I	okay . pull one out . 
+0	3I	okay . 
+0	3I	cans of peas . 
+1	3I	over he- 
+2	3I	we - much better ! 
+0	3I	um - 
+2	3I	these are refrigerated . these are refrigerated . 
+0	3I	box . 
+0	3I	bag . 
+1	3I	soybeans . we don't know if those are - 
+1	3I	dried . 
+1	3I	i would say canned peas would be going over here some place . 
+1	3I	okay . 
+1	3I	we 'll leave space to put more . 
+1	3I	fish hooks ! boating supplies ? 
+1	3I	okay . 
+0	3I	thick sweaters . where was - 
+2	3I	okay ! let's put clothes in the middle ? 
+1	3I	yeah . there were toys . i don't remember that much else to go with toys . 
+1	3I	okay . 
+2	3I	oh , and we also have to have space for the bathroom supplies . okay , there 's the bathroom there . 
+0	3I	thick s- 
+1	3I	yeah . 
+2	3I	cuz i don't think it would go - trunc trunc to me , that 's more refrigerated - siding - 
+2	3I	unless - no . 
+0	3I	um - 
+1	3I	trunc i would trunc you could put it down with mousetraps . 
+1	3I	yeah . 
+2	3I	bag of peat moss . my favorite . 
+1	3I	 i think it should go with , uh - 
+1	3I	the siding , outdoors . 
+1	3I	yeah . 
+0	3I	uh - 
+0	3I	empty plastic - 
+2	3I	let's do a different one ! 
+1	3I	okay . 
+1	3I	pre-cut wood . outdoors - 
+1	3I	with outdoors ? 
+1	3I	yeah . 
+0	3I	we don't have any - 
+1	3I	yeah i don't think so . um - 
+0	3I	i think there were nuts ? 
+0	3I	- there trunc there were , um - 
+0	3I	figs . there trunc there - there was - 
+1	3I	easy grab - what i would say was - 
+1	3I	food for - for the trail . 
+1	3I	trunc liters of water would be trunc food for the trail . 
+1	3I	where do you think ? 
+0	3I	um - 
+1	3I	we could put it right up - uh , right afterwards . 
+0	3I	yeah . 
+1	3I	how bout with uh . pre-cut wood ? 
+1	3I	kay . 
+1	3I	heavy coats . thick sweaters . 
+1	3I	tweezers . okay , now we 're getting into sundries . toilet papers - yeah . 
+0	3I	huh . 
+1	3I	still outside , but - fishing , travel guides - 
+1	3I	yeah . 
+1	3I	yeah . 
+1	3I	packages of cookies trunc go with , uh - i- 
+1	3I	grab and go . 
+1	3I	yep . 
+1	3I	trunc bundles of sticks . back with the , uh , wood . 
+0	3I	five-pound weights - 
+1	3I	why don't we just make it now a - 
+1	3I	fishing weight ! 
+0	3I	fishing net ! 
+1	3I	let's put it there . 
+1	3I	i think it's usually trunc by trunc pet food . 
+1	3I	toys ? 
+1	3I	okay . 
+0	3I	shoelaces . 
+0	3I	um - 
+1	3I	yeah . 
+1	3I	yeah . 
+1	3I	um - yeah . 
+1	3I	refrigerator ? 
+1	3I	bars of soap , uh , with , uh , face cream ? 
+1	3I	 could be trunc here . 
+0	3I	large cups . 
+1	3I	paper things , yeah . 
+0	3I	paper bags . 
+1	3I	with empty jugs ? 
+1	3I	dried figs . to me that 's - 
+1	3I	yeah . soybeans . yeah , that 's kinda , like - 
+1	3I	packaged to go . 
+1	3I	heavy cable . power cords , heavy cable . though , it - 
+1	3I	yeah , we put it with fishing . 
+1	3I	ah , it was the tow rope . so we put heavy cable down . 
+0	3I	scissors ? 
+1	3I	yeah . 
+2	3I	large vests , up with the shoelaces , clothes . 
+0	3I	bagels ? 
+0	3I	um - 
+1	3I	do grab and go . 
+1	3I	grab and go . 
+2	3I	socks . clothes . 
+1	3I	we don't know what it is , so let's go - 
+1	3I	duct tape . box knives . 
+0	3I	kay . 
+1	3I	hats with clothes . 
+0	3I	kay . cushions for deck trunc chairs . 
+1	3I	it still could go there . 
+1	3I	okay . 
+0	3I	beets . 
+1	3I	okay . 
+0	3I	buckets . 
+0	3I	where did we have - ? 
+1	3I	yeah . 
+1	3I	yeah . 
+0	3I	egg timer . where was the magnetic - ? 
+0	3I	we trunc we don't have magnetics yet ? 
+0	3I	egg timers - 
+1	3I	tools ! yeah . we 'll put it there . 
+1	3I	chocolate bars , grab and go ? 
+0	3I	bottle - 
+0	3I	yeah . 
+1	3I	mm ! 
+1	3I	okay . 
+1	3I	yeah . 
+0	3I	backpacks . 
+0	3I	light jackets . 
+0	3I	small saws . 
+1	3I	kay . 
+2	3I	do you want it with - 
+1	3I	we don't have anything over here . 
+1	3I	but i think it would 've gone over with clothes , or - 
+0	3I	pet food was there , yeah . package- 
+1	3I	yeah . 
+2	3I	well ,  should be over here . 
+1	3I	okay . 
+1	3I	okay . 
+0	3I	flags . 
+1	3I	this one ? 
+1	3I	kay . 
+1	3I	wetsuits , over trunc oh - 
+1	3I	wetsuits are kinda , like - 
+1	3I	yeah . they 're close . 
+1	3I	books ? travel guides . 
+0	3I	tow ropes 
+1	3I	yeah . 
+1	3I	we 're done . 
+0	3I	grab and go , toiletries - 
+0	3I	fresh - 
+0	3I	yeah . 
+0	3I	yeah . 
+0	3I	yeah . 
+0	3I	mm-hm . 
+0	3I	mm-hm . 
+1	3I	i think we got it . 
+2	3I	yes , we did ! 
+2	3I	we knew this to begin with . 
+1	6B	okay , so i can see - 
+2	6B	so we need to keep math tutors , assistant cook- 
+2	6B	sex ed . 
+0	6B	we put that under s- 
+0	6B	public health and safety . 
+0	6B	yeah , we - yeah , we - 
+1	6B	okay . 
+1	6B	so we count sex ed - 
+1	6B	two . 
+1	6B	three . 
+1	6B	poetry books in the library ? 
+1	6B	 i think -  i go with those , too . 
+1	6B	sugar-free machi- 
+0	6B	mm-hm ? 
+1	6B	football equipment , yeah . 
+1	6B	mm-hm . 
+1	6B	okay . 
+1	6B	okay . 
+2	6B	and cancelling trunc s_t_d_ education . 
+2	6B	trunc well , trunc those three went to one . 
+0	6B	sex e- 
+2	6B	it's in  my book , we trunc 
+2	6B	 my book , we can ! 
+1	6B	okay , um . hospital additions , we 're not expanding at the moment . 
+1	6B	okay - 
+1	6B	yeah . 
+2	6B	if we keep invasive species removal - we keep that , we can get rid of weed control . 
+1	6B	yeah . 
+1	6B	cuz weed control can go under invasive - invasive trunc species . 
+1	6B	put up there , yeah . 
+0	6B	pre-natal checkups was - we put that with the chicken pox vaccination . 
+0	6B	and the needle exchange . 
+0	6B	we put that under th- 
+1	6B	yeah , that was trunc under , okay . 
+0	6B	three . 
+0	6B	um . 
+1	6B	okay . 
+1	6B	so we 're gonna keep the k- 
+1	6B	spaying trunc we 're cutting the food bank . 
+0	6B	junior league soccer . 
+1	6B	i would cut a lot of - yeah , here . 
+2	6B	cut the adoption , the soup kitchens - 
+2	6B	uh , we outsourced the dog catcher . 
+2	6B	oh , i think that 's probably good . 
+1	6B	but that could go under - 
+1	6B	we could 've - 
+0	6B	public news station and public access station - 
+1	6B	betcha we could cut public  news station and keep the public access - access station . 
+0	6B	okay . 
+1	6B	which one ? 
+1	6B	okay . 
+0	6B	mm-hm . 
+1	6B	okay . 
+1	6B	and keep the soup k- 
+1	6B	okay . 
+1	6B	i woulda suggested the public news station . 
+0	6B	yeah . 
+0	6B	yeah , we were sending kitty and puppy trunc adoptions - outsourcing that to - 
+0	6B	um - 
+0	6B	we were outsourcing dog catcher . 
+1	6B	yeah . 
+1	6B	yeah . 
+0	6B	three for that w- 
+1	6B	kay . 
+1	6B	we were gonna get rid of the additional bus stops . 
+1	6B	the flagpole repair . 
+1	6B	and the taxi stops . 
+0	6B	so there 's three . 
+0	6B	okay , so we had - 
+0	6B	um - 
+0	6B	and the football equipment . 
+0	6B	and the acting coaches . 
+2	6B	okay , i still think we can get rid of sex ed because we got it over there under reproductive health . ? 
+0	6B	kay . 
+1	6B	um we need math tutors , we need the assistant cooks to help . 
+1	6B	we need custodians keeping - 
+1	6B	speech therapy , w- 
+2	6B	it's expensive . 
+2	6B	but i think it's - it's - trunc it's , um - 
+2	6B	i 'd rather ha- 
+2	6B	cut football - 
+2	6B	and keep - 
+2	6B	junior soccer , because that 's less expensive . 
+1	6B	yeah . 
+1	6B	yeah , yeah . 
+0	6B	so - 
+1	6B	sex trunc football equipment . 
+1	6B	yeah . 
+2	6B	no , i 'd r- 
+2	6B	no , i 'd rather get rid of the juice machine and keep the  acting coaches . 
+2	6B	i don't think it trunc i don't think it should -  any of it should be in the - in the schools 
+2	6B	i mean , when  i was in school they didn't have it . i don't think they really need it ! 
+2	6B	and why is the county trunc providing them ? 
+1	6B	i mean , um - 
+2	6B	i 'd knock that out . 
+1	6B	yeah . 
+1	6B	yeah . 
+0	6B	okay . 
+1	6B	we 're good . 
+0	6B	i don't know . 
+1	6B	unless it was telling us to - that we had to cut five or four ? 
+0	6B	we just have to be the - do the same number , yeah . 
+0	6B	oh ! 
+0	6B	that 's true . 
+0	6B	right . 
+2	6B	weed control you need . 
+0	6B	oh . 
+1	6B	you need - 
+1	6B	yeah , you need that . 
+1	6B	yeah . 
+1	6B	mm-hm . 
+1	6B	that goes with the , uh , egg farm regulations and - 
+1	6B	keeping the food healthy . 
+2	6B	uh , we don't need to expand hospitals at this time . 
+1	6B	any toxic trunc mm - i guess we need to do - take care of . 
+1	6B	mm-hm . 
+1	6B	yeah . 
+1	6B	right . 
+1	6B	right . 
+1	6B	uh-huh ! 
+0	6B	so , under - 
+0	6B	right . 
+0	6B	yeah . 
+0	6B	mm-hm . 
+0	6B	right . 
+2	6B	yeah , because it brought money in . we need to keep the potholes maintained . 
+1	6B	yeah . 
+1	6B	yeah . 
+0	6B	yeah , w- 
+1	6B	no . 
+1	6B	no , trunc trunc right . 
+0	6B	mm-hm . 
+0	6B	mm-hm . 
+1	6B	because that 's , uh trunc for water runoff , yeah . 
+1	6B	i don't think so . 
+1	6B	mm-hm . 
+1	6B	mm-hm . 
+0	6B	i wonder if they count things differently ? 
+2	6B	 i think we 're clear enough . 

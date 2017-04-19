@@ -1,0 +1,5688 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 800 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 800 
+        intervals: size = 394 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.72731685666 
+            text = "{VOC breath} {NVC}" 
+        intervals [2]:
+            xmin = 0.72731685666 
+            xmax = 5.14204081633 
+            text = "Alright, so let's look at the first one and see if there's *anything that we can agree on, first column -" 
+        intervals [3]:
+            xmin = 5.14204081633 
+            xmax = 5.57306122449 
+            text = "{VOC breath}" 
+        intervals [4]:
+            xmin = 5.57306122449 
+            xmax = 6.94106575964 
+            text = "Of *one thing -" 
+        intervals [5]:
+            xmin = 6.94106575964 
+            xmax = 7.52235827664 
+            text = "{VOC breath}" 
+        intervals [6]:
+            xmin = 7.52235827664 
+            xmax = 8.56369614512 
+            text = "That needs to be -" 
+        intervals [7]:
+            xmin = 8.56369614512 
+            xmax = 9.06517006803 
+            text = "{SIL}" 
+        intervals [8]:
+            xmin = 9.06517006803 
+            xmax = 10.9561451247 
+            text = "That *can be cut, I should say." 
+        intervals [9]:
+            xmin = 10.9561451247 
+            xmax = 32.0331972789 
+            text = "{SIL}" 
+        intervals [10]:
+            xmin = 32.0331972789 
+            xmax = 40.6819954649 
+            text = "So, looking through that list, math tutors, assistant cooks, sex ed, custodians, speech therapy, football equipment, acting coaches, poetry books -" 
+        intervals [11]:
+            xmin = 40.6819954649 
+            xmax = 41.1318820862 
+            text = "{VOC breath}" 
+        intervals [12]:
+            xmin = 41.1318820862 
+            xmax = 45.2290249433 
+            text = "Special ed teachers, cooking classes, notetakers, disability services -" 
+        intervals [13]:
+            xmin = 45.2290249433 
+            xmax = 45.5802267574 
+            text = "{VOC breath}" 
+        intervals [14]:
+            xmin = 45.5802267574 
+            xmax = 47.085170068 
+            text = "Sugar-free juice machines -" 
+        intervals [15]:
+            xmin = 47.085170068 
+            xmax = 47.7069614512 
+            text = "{VOC breath}" 
+        intervals [16]:
+            xmin = 47.7069614512 
+            xmax = 50.0331972789 
+            text = "Bookkeeping classes and music teachers." 
+        intervals [17]:
+            xmin = 50.0331972789 
+            xmax = 50.7538095238 
+            text = "{SIL}" 
+        intervals [18]:
+            xmin = 50.7538095238 
+            xmax = 54.7314285714 
+            text = "I think, for me it's very easily to say the sugar-free juice machines." 
+        intervals [19]:
+            xmin = 54.7314285714 
+            xmax = 55.3127210884 
+            text = "{SIL}" 
+        intervals [20]:
+            xmin = 55.3127210884 
+            xmax = 59.3909309543 
+            text = "Because.. I don't really th- see a need to have *any type of -" 
+        intervals [21]:
+            xmin = 59.3909309543 
+            xmax = 60.2465079365 
+            text = "{SIL}" 
+        intervals [22]:
+            xmin = 60.2465079365 
+            xmax = 63.9020181406 
+            text = "Juice machine in any school anywhere.. They can drink water." 
+        intervals [23]:
+            xmin = 63.9020181406 
+            xmax = 65.0449433107 
+            text = "{SIL}" 
+        intervals [24]:
+            xmin = 65.0449433107 
+            xmax = 67.1603401361 
+            text = "Okay, so there's our one thing.. Right?" 
+        intervals [25]:
+            xmin = 67.1603401361 
+            xmax = 67.5318594104 
+            text = "{VOC breath}" 
+        intervals [26]:
+            xmin = 67.5318594104 
+            xmax = 68.8626530612 
+            text = "{SIL}" 
+        intervals [27]:
+            xmin = 68.8626530612 
+            xmax = 69.0577804872 
+            text = "{VOC start}" 
+        intervals [28]:
+            xmin = 69.0577804872 
+            xmax = 69.8798412698 
+            text = "{SIL}" 
+        intervals [29]:
+            xmin = 69.8798412698 
+            xmax = 71.3883446712 
+            text = "Alright, you wanna read that list for us?" 
+        intervals [30]:
+            xmin = 71.3883446712 
+            xmax = 94.55138322 
+            text = "{SIL}" 
+        intervals [31]:
+            xmin = 94.55138322 
+            xmax = 95.3329478458 
+            text = "Okay." 
+        intervals [32]:
+            xmin = 95.3329478458 
+            xmax = 96.7206122449 
+            text = "{SIL}" 
+        intervals [33]:
+            xmin = 96.7206122449 
+            xmax = 99.3631273785 
+            text = "Do any of these jump out as - {VOC breath}" 
+        intervals [34]:
+            xmin = 99.3631273785 
+            xmax = 100.704739229 
+            text = "Easiest to cut?" 
+        intervals [35]:
+            xmin = 100.704739229 
+            xmax = 101.724965986 
+            text = "{SIL}" 
+        intervals [36]:
+            xmin = 101.724965986 
+            xmax = 102.89106576 
+            text = "Yeah, nei- me neither." 
+        intervals [37]:
+            xmin = 102.89106576 
+            xmax = 107.892822971 
+            text = "{SIL}" 
+        intervals [38]:
+            xmin = 107.892822971 
+            xmax = 109.762471655 
+            text = "Where did you see hospital additions?" 
+        intervals [39]:
+            xmin = 109.762471655 
+            xmax = 110.534535147 
+            text = "{SIL}" 
+        intervals [40]:
+            xmin = 110.534535147 
+            xmax = 111.764807256 
+            text = "Oh, yeah, there it is right there." 
+        intervals [41]:
+            xmin = 111.764807256 
+            xmax = 112.358367347 
+            text = "{SIL}" 
+        intervals [42]:
+            xmin = 112.358367347 
+            xmax = 112.581201814 
+            text = "Yep." 
+        intervals [43]:
+            xmin = 112.581201814 
+            xmax = 113.642721088 
+            text = "{VOC breath}" 
+        intervals [44]:
+            xmin = 113.642721088 
+            xmax = 114.695147392 
+            text = "Um, let's see -" 
+        intervals [45]:
+            xmin = 114.695147392 
+            xmax = 124.867980531 
+            text = "{SIL}" 
+        intervals [46]:
+            xmin = 124.867980531 
+            xmax = 125.968820862 
+            text = "Well, maybe it should be w-" 
+        intervals [47]:
+            xmin = 125.968820862 
+            xmax = 127.759705215 
+            text = "{SIL}" 
+        intervals [48]:
+            xmin = 127.759705215 
+            xmax = 129.365442177 
+            text = "Well maybe we should say weed control." 
+        intervals [49]:
+            xmin = 129.365442177 
+            xmax = 130.060741623 
+            text = "{SIL}" 
+        intervals [50]:
+            xmin = 130.060741623 
+            xmax = 131.205124717 
+            text = "Could be the first to go." 
+        intervals [51]:
+            xmin = 131.205124717 
+            xmax = 133.671836735 
+            text = "{SIL}" 
+        intervals [52]:
+            xmin = 133.671836735 
+            xmax = 136.37723356 
+            text = "I don't understand why you need a neighborhood watch support." 
+        intervals [53]:
+            xmin = 136.37723356 
+            xmax = 137.099623001 
+            text = "{SIL}" 
+        intervals [54]:
+            xmin = 137.099623001 
+            xmax = 139.596371882 
+            text = "I mean, neighborhoods can *have neighborhood watches." 
+        intervals [55]:
+            xmin = 139.596371882 
+            xmax = 139.893877551 
+            text = "{VOC breath}" 
+        intervals [56]:
+            xmin = 139.893877551 
+            xmax = 141.825589419 
+            text = "Why do you need a separate area to support?" 
+        intervals [57]:
+            xmin = 141.825589419 
+            xmax = 145.150839002 
+            text = "{SIL}" 
+        intervals [58]:
+            xmin = 145.150839002 
+            xmax = 145.544126984 
+            text = "Yeah." 
+        intervals [59]:
+            xmin = 145.544126984 
+            xmax = 146.180346891 
+            text = "{SIL}" 
+        intervals [60]:
+            xmin = 146.180346891 
+            xmax = 149.341519274 
+            text = "If there's a neighborhood watch and something happens, they just call the police." 
+        intervals [61]:
+            xmin = 149.341519274 
+            xmax = 150.559115646 
+            text = "{SIL}" 
+        intervals [62]:
+            xmin = 150.559115646 
+            xmax = 152.138230079 
+            text = "I don't understand why you need a separate -" 
+        intervals [63]:
+            xmin = 152.138230079 
+            xmax = 152.95599819 
+            text = "{SIL}" 
+        intervals [64]:
+            xmin = 152.95599819 
+            xmax = 153.092877831 
+            text = "{NVC}" 
+        intervals [65]:
+            xmin = 153.092877831 
+            xmax = 160.859047619 
+            text = "{SIL}" 
+        intervals [66]:
+            xmin = 160.859047619 
+            xmax = 161.159047619 
+            text = "{VOC breath}" 
+        intervals [67]:
+            xmin = 161.159047619 
+            xmax = 161.997868481 
+            text = "Yeah, I agree." 
+        intervals [68]:
+            xmin = 161.997868481 
+            xmax = 162.647415864 
+            text = "{VOC breath}" 
+        intervals [69]:
+            xmin = 162.647415864 
+            xmax = 163.258390023 
+            text = "So then, th-" 
+        intervals [70]:
+            xmin = 163.258390023 
+            xmax = 163.924136281 
+            text = "{VOC mouthnoise}" 
+        intervals [71]:
+            xmin = 163.924136281 
+            xmax = 167.440340136 
+            text = "There's a question of reproductive education, S_T_D_ education -" 
+        intervals [72]:
+            xmin = 167.440340136 
+            xmax = 168.035351474 
+            text = "{SIL}" 
+        intervals [73]:
+            xmin = 168.035351474 
+            xmax = 169.836392922 
+            text = "Those kinda seem like you could.. hit -" 
+        intervals [74]:
+            xmin = 169.836392922 
+            xmax = 170.369872548 
+            text = "{SIL}" 
+        intervals [75]:
+            xmin = 170.369872548 
+            xmax = 171.312517007 
+            text = "Two birds with one s-" 
+        intervals [76]:
+            xmin = 171.312517007 
+            xmax = 171.88430839 
+            text = "{SIL}" 
+        intervals [77]:
+            xmin = 171.88430839 
+            xmax = 172.34 
+            text = "'tone. {PRN finishing 'stone'}" 
+        intervals [78]:
+            xmin = 172.34 
+            xmax = 176.057506188 
+            text = "{SIL}" 
+        intervals [79]:
+            xmin = 176.057506188 
+            xmax = 176.373382282 
+            text = "{VOC breath}" 
+        intervals [80]:
+            xmin = 176.373382282 
+            xmax = 178.42723356 
+            text = "Yeah, but we already have sex ed -" 
+        intervals [81]:
+            xmin = 178.42723356 
+            xmax = 178.769070295 
+            text = "{VOC breath}" 
+        intervals [82]:
+            xmin = 178.769070295 
+            xmax = 183.289422956 
+            text = "Here, so the teenagers are already getting reproductive and S_T_D_ education." 
+        intervals [83]:
+            xmin = 183.289422956 
+            xmax = 183.987037201 
+            text = "{NVC}" 
+        intervals [84]:
+            xmin = 183.987037201 
+            xmax = 187.078290295 
+            text = "So if we're talking about adults, what are we trying to teach them?" 
+        intervals [85]:
+            xmin = 187.078290295 
+            xmax = 191.896332706 
+            text = "{SIL}" 
+        intervals [86]:
+            xmin = 191.896332706 
+            xmax = 192.046332706 
+            text = "{VOC mouthnoise}" 
+        intervals [87]:
+            xmin = 192.046332706 
+            xmax = 194.477165533 
+            text = "{SIL}" 
+        intervals [88]:
+            xmin = 194.477165533 
+            xmax = 195.96138322 
+            text = "Would be more important than -" 
+        intervals [89]:
+            xmin = 195.96138322 
+            xmax = 198.10276644 
+            text = "{SIL}" 
+        intervals [90]:
+            xmin = 198.10276644 
+            xmax = 199.776727437 
+            text = "Well, {VOC hesitation} so in *that case, I think -" 
+        intervals [91]:
+            xmin = 199.776727437 
+            xmax = 200.315147392 
+            text = "{SIL}" 
+        intervals [92]:
+            xmin = 200.315147392 
+            xmax = 201.937505669 
+            text = "Reproductive education -" 
+        intervals [93]:
+            xmin = 201.937505669 
+            xmax = 204.028752834 
+            text = "{SIL}" 
+        intervals [94]:
+            xmin = 204.028752834 
+            xmax = 204.184130925 
+            text = "{VOC start}" 
+        intervals [95]:
+            xmin = 204.184130925 
+            xmax = 208.120498866 
+            text = "Neighborhood watch support could go. Pre-natal checkups *can't go." 
+        intervals [96]:
+            xmin = 208.120498866 
+            xmax = 211.081972789 
+            text = "{SIL}" 
+        intervals [97]:
+            xmin = 211.081972789 
+            xmax = 213.370589569 
+            text = "Well, they *could. A- we could still just pick one." 
+        intervals [98]:
+            xmin = 213.370589569 
+            xmax = 215.173326623 
+            text = "{SIL}" 
+        intervals [99]:
+            xmin = 215.173326623 
+            xmax = 218.881519274 
+            text = "Which one of those two? Or maybe find a third one easier." 
+        intervals [100]:
+            xmin = 218.881519274 
+            xmax = 222.361882086 
+            text = "{SIL}" 
+        intervals [101]:
+            xmin = 222.361882086 
+            xmax = 226.536870748 
+            text = "Alright. So, number thr- uh, column three, recreation and public services." 
+        intervals [102]:
+            xmin = 226.536870748 
+            xmax = 227.178979592 
+            text = "{VOC breath}" 
+        intervals [103]:
+            xmin = 227.178979592 
+            xmax = 230.864897959 
+            text = "Stray cat spaying, community news ads, food bank -" 
+        intervals [104]:
+            xmin = 230.864897959 
+            xmax = 231.277052154 
+            text = "{VOC breath}" 
+        intervals [105]:
+            xmin = 231.277052154 
+            xmax = 232.432771868 
+            text = "Junior soccer league" 
+        intervals [106]:
+            xmin = 232.432771868 
+            xmax = 233.104693878 
+            text = "{SIL}" 
+        intervals [107]:
+            xmin = 233.104693878 
+            xmax = 233.166306354 
+            text = "{VOC mouthnoise}" 
+        intervals [108]:
+            xmin = 233.166306354 
+            xmax = 240.89106576 
+            text = "Kitten and puppy adoption, {VOC mouthnoise} soup kitchens, housing assistance, dog catcher, boys basketball club, public access station -" 
+        intervals [109]:
+            xmin = 240.89106576 
+            xmax = 241.404693993 
+            text = "{VOC breath}" 
+        intervals [110]:
+            xmin = 241.404693993 
+            xmax = 245.041247166 
+            text = "Veterinary hospital, football stadium upkeep, and pest control." 
+        intervals [111]:
+            xmin = 245.041247166 
+            xmax = 246.895782507 
+            text = "{SIL}" 
+        intervals [112]:
+            xmin = 246.895782507 
+            xmax = 250.302911696 
+            text = "Now why is a veterinary hospital.. a public service?" 
+        intervals [113]:
+            xmin = 250.302911696 
+            xmax = 255.371247166 
+            text = "{SIL}" 
+        intervals [114]:
+            xmin = 255.371247166 
+            xmax = 255.846646226 
+            text = "Well -" 
+        intervals [115]:
+            xmin = 255.846646226 
+            xmax = 256.937981859 
+            text = "{SIL}" 
+        intervals [116]:
+            xmin = 256.937981859 
+            xmax = 257.149863946 
+            text = "I-" 
+        intervals [117]:
+            xmin = 257.149863946 
+            xmax = 264.762410919 
+            text = "{SIL}" 
+        intervals [118]:
+            xmin = 264.762410919 
+            xmax = 268.403582766 
+            text = "Why do those need to be - but why do those need to be a public service? We have private - {VOC start}" 
+        intervals [119]:
+            xmin = 268.403582766 
+            xmax = 269.100181406 
+            text = "{SIL}" 
+        intervals [120]:
+            xmin = 269.100181406 
+            xmax = 269.343197279 
+            text = "{VOC mouthnoise}" 
+        intervals [121]:
+            xmin = 269.343197279 
+            xmax = 273.091156463 
+            text = "{SIL}" 
+        intervals [122]:
+            xmin = 273.091156463 
+            xmax = 273.948425622 
+            text = "But we have private -" 
+        intervals [123]:
+            xmin = 273.948425622 
+            xmax = 275.948974007 
+            text = "{SIL}" 
+        intervals [124]:
+            xmin = 275.948974007 
+            xmax = 279.91138322 
+            text = "{VOC start} Yeah, {VOC hesitation} don't we have - I mean, dog catcher typically has been a public -" 
+        intervals [125]:
+            xmin = 279.91138322 
+            xmax = 280.82276644 
+            text = "{SIL}" 
+        intervals [126]:
+            xmin = 280.82276644 
+            xmax = 281.394557823 
+            text = "{VOC mouthnoise}" 
+        intervals [127]:
+            xmin = 281.394557823 
+            xmax = 282.600960755 
+            text = "Publicly funded, but -" 
+        intervals [128]:
+            xmin = 282.600960755 
+            xmax = 283.085304048 
+            text = "{VOC breath}" 
+        intervals [129]:
+            xmin = 283.085304048 
+            xmax = 287.025912362 
+            text = "Kitten and puppy adoption is handled voluntarily by, like, PAWS and -" 
+        intervals [130]:
+            xmin = 287.025912362 
+            xmax = 288.377159956 
+            text = "{SIL}" 
+        intervals [131]:
+            xmin = 288.377159956 
+            xmax = 290.868163265 
+            text = "Humane Society and stuff, so I'm just unclear -" 
+        intervals [132]:
+            xmin = 290.868163265 
+            xmax = 294.563175058 
+            text = "{SIL}" 
+        intervals [133]:
+            xmin = 294.563175058 
+            xmax = 297.862834467 
+            text = "Right, but why couldn't the dog.. catcher take them to the Humane Society?" 
+        intervals [134]:
+            xmin = 297.862834467 
+            xmax = 300.673900227 
+            text = "{SIL}" 
+        intervals [135]:
+            xmin = 300.673900227 
+            xmax = 301.987278912 
+            text = "But they could. And then -" 
+        intervals [136]:
+            xmin = 301.987278912 
+            xmax = 310.912743764 
+            text = "{SIL}" 
+        intervals [137]:
+            xmin = 310.912743764 
+            xmax = 314.748662132 
+            text = "No, I don't think it is, because we *have veterinary hospitals that are.. private." 
+        intervals [138]:
+            xmin = 314.748662132 
+            xmax = 315.6087988 
+            text = "{SIL}" 
+        intervals [139]:
+            xmin = 315.6087988 
+            xmax = 322.738109374 
+            text = "Th- people who have pets {VOC start} pay - like, when I - {VOC hesitation} I - when my dog needs help, I have to ta- I ha- take him to a hospital, but it's not a -" 
+        intervals [140]:
+            xmin = 322.738109374 
+            xmax = 323.130612245 
+            text = "{VOC breath}" 
+        intervals [141]:
+            xmin = 323.130612245 
+            xmax = 324.39821356 
+            text = "Publicly funded hospital." 
+        intervals [142]:
+            xmin = 324.39821356 
+            xmax = 325.78724525 
+            text = "{SIL}" 
+        intervals [143]:
+            xmin = 325.78724525 
+            xmax = 326.13845805 
+            text = "Is it?" 
+        intervals [144]:
+            xmin = 326.13845805 
+            xmax = 326.915147392 
+            text = "{SIL}" 
+        intervals [145]:
+            xmin = 326.915147392 
+            xmax = 329.344535147 
+            text = "{VOC breath} Well, I don't know - no, I was just curious why -" 
+        intervals [146]:
+            xmin = 329.344535147 
+            xmax = 331.351088435 
+            text = "{SIL}" 
+        intervals [147]:
+            xmin = 331.351088435 
+            xmax = 335.253900227 
+            text = "{VOC  mouthnoise} I don't know. {QUAL whispering} Football stadium - football stadium can take care of (2x)." 
+        intervals [148]:
+            xmin = 335.253900227 
+            xmax = 335.944693878 
+            text = "{SIL}" 
+        intervals [149]:
+            xmin = 335.944693878 
+            xmax = 336.97877551 
+            text = "(??) {QUAL whispering}" 
+        intervals [150]:
+            xmin = 336.97877551 
+            xmax = 341.503228588 
+            text = "{SIL}" 
+        intervals [151]:
+            xmin = 341.503228588 
+            xmax = 342.846633735 
+            text = "{VOC laugh} {VOC breath}" 
+        intervals [152]:
+            xmin = 342.846633735 
+            xmax = 344.077959184 
+            text = "I think we should s- {VOC hesitation}" 
+        intervals [153]:
+            xmin = 344.077959184 
+            xmax = 345.19106576 
+            text = "{NVC} {QUAL other speaker coughing}" 
+        intervals [154]:
+            xmin = 345.19106576 
+            xmax = 349.678439895 
+            text = "I think {NVC} the public could definitely handle stray cat spraying - spaying -" 
+        intervals [155]:
+            xmin = 349.678439895 
+            xmax = 349.973257552 
+            text = "{VOC breath}" 
+        intervals [156]:
+            xmin = 349.973257552 
+            xmax = 351.163287982 
+            text = "Because I think *that -" 
+        intervals [157]:
+            xmin = 351.163287982 
+            xmax = 352.320446627 
+            text = "{SIL}" 
+        intervals [158]:
+            xmin = 352.320446627 
+            xmax = 355.186303855 
+            text = "{VOC start} {VOC hesitation} Does good, {VOC hesitation} like, a  lon-" 
+        intervals [159]:
+            xmin = 355.186303855 
+            xmax = 355.557823129 
+            text = "{VOC hesitation}" 
+        intervals [160]:
+            xmin = 355.557823129 
+            xmax = 356.257545207 
+            text = "A long way." 
+        intervals [161]:
+            xmin = 356.257545207 
+            xmax = 356.891746032 
+            text = "{VOC breath}" 
+        intervals [162]:
+            xmin = 356.891746032 
+            xmax = 358.391723356 
+            text = "I'm just not sure why -" 
+        intervals [163]:
+            xmin = 358.391723356 
+            xmax = 359.603514739 
+            text = "{SIL}" 
+        intervals [164]:
+            xmin = 359.603514739 
+            xmax = 361.900453515 
+            text = "See, like, soup kitchens I think are great, but -" 
+        intervals [165]:
+            xmin = 361.900453515 
+            xmax = 362.200453515 
+            text = "{VOC start}" 
+        intervals [166]:
+            xmin = 362.200453515 
+            xmax = 362.952199546 
+            text = "{SIL}" 
+        intervals [167]:
+            xmin = 362.952199546 
+            xmax = 363.727845805 
+            text = "Those are also -" 
+        intervals [168]:
+            xmin = 363.727845805 
+            xmax = 364.526031746 
+            text = "{SIL}" 
+        intervals [169]:
+            xmin = 364.526031746 
+            xmax = 367.150816327 
+            text = "Private. I'm - I'm just - the l- the list is bizarre!" 
+        intervals [170]:
+            xmin = 367.150816327 
+            xmax = 367.821428571 
+            text = "{VOC breath}" 
+        intervals [171]:
+            xmin = 367.821428571 
+            xmax = 370.121133787 
+            text = "{SIL}" 
+        intervals [172]:
+            xmin = 370.121133787 
+            xmax = 370.239719944 
+            text = "{VOC mouthnoise}" 
+        intervals [173]:
+            xmin = 370.239719944 
+            xmax = 372.230839002 
+            text = "Oh, they *are, but they're not usually -" 
+        intervals [174]:
+            xmin = 372.230839002 
+            xmax = 373.449750567 
+            text = "{VOC breath} {VOC hesitation}" 
+        intervals [175]:
+            xmin = 373.449750567 
+            xmax = 374.02154195 
+            text = "{SIL}" 
+        intervals [176]:
+            xmin = 374.02154195 
+            xmax = 375.359598486 
+            text = "They're not usually -" 
+        intervals [177]:
+            xmin = 375.359598486 
+            xmax = 375.926371882 
+            text = "{SIL}" 
+        intervals [178]:
+            xmin = 375.926371882 
+            xmax = 377.876848073 
+            text = "Like, the food banks where I grew up -" 
+        intervals [179]:
+            xmin = 377.876848073 
+            xmax = 378.076848073 
+            text = "{VOC breath}" 
+        intervals [180]:
+            xmin = 378.076848073 
+            xmax = 383.341496599 
+            text = "They weren't - the city didn't provide them with anything. The food banks were run voluntarily by -" 
+        intervals [181]:
+            xmin = 383.341496599 
+            xmax = 383.79452971 
+            text = "{VOC breath}" 
+        intervals [182]:
+            xmin = 383.79452971 
+            xmax = 385.721950113 
+            text = "Bazillions of little churches that got together." 
+        intervals [183]:
+            xmin = 385.721950113 
+            xmax = 386.313695751 
+            text = "{SIL}" 
+        intervals [184]:
+            xmin = 386.313695751 
+            xmax = 388.621678005 
+            text = "So I - {VOC hesitation} this is just an odd list to me." 
+        intervals [185]:
+            xmin = 388.621678005 
+            xmax = 389.273287982 
+            text = "{SIL}" 
+        intervals [186]:
+            xmin = 389.273287982 
+            xmax = 391.845963719 
+            text = "Cuz it's, like, a combination of.. weird things." 
+        intervals [187]:
+            xmin = 391.845963719 
+            xmax = 393.80185941 
+            text = "{SIL}" 
+        intervals [188]:
+            xmin = 393.80185941 
+            xmax = 399.812675737 
+            text = "That {VOC hesitation} I wouldn't even think would be on the list.. Why is a boys basketball clu- oh, see, but that could be parks and rec." 
+        intervals [189]:
+            xmin = 399.812675737 
+            xmax = 400.404672643 
+            text = "{VOC breath}" 
+        intervals [190]:
+            xmin = 400.404672643 
+            xmax = 400.906564606 
+            text = "{SIL}" 
+        intervals [191]:
+            xmin = 400.906564606 
+            xmax = 401.107619048 
+            text = "Right." 
+        intervals [192]:
+            xmin = 401.107619048 
+            xmax = 401.257619048 
+            text = "{VOC mouthnoise}" 
+        intervals [193]:
+            xmin = 401.257619048 
+            xmax = 404.746394558 
+            text = "{SIL}" 
+        intervals [194]:
+            xmin = 404.746394558 
+            xmax = 405.146394558 
+            text = "{VOC breath}" 
+        intervals [195]:
+            xmin = 405.146394558 
+            xmax = 405.696528551 
+            text = "The what what?" 
+        intervals [196]:
+            xmin = 405.696528551 
+            xmax = 407.282105345 
+            text = "{SIL}" 
+        intervals [197]:
+            xmin = 407.282105345 
+            xmax = 407.612993197 
+            text = "Yeah." 
+        intervals [198]:
+            xmin = 407.612993197 
+            xmax = 411.970861678 
+            text = "{SIL}" 
+        intervals [199]:
+            xmin = 411.970861678 
+            xmax = 412.72260771 
+            text = "Well, what do you think?" 
+        intervals [200]:
+            xmin = 412.72260771 
+            xmax = 418.832857392 
+            text = "{SIL}" 
+        intervals [201]:
+            xmin = 418.832857392 
+            xmax = 421.586190476 
+            text = "Well I think maybe kitty - kitten and puppy adoption." 
+        intervals [202]:
+            xmin = 421.586190476 
+            xmax = 422.757346939 
+            text = "{SIL}" 
+        intervals [203]:
+            xmin = 422.757346939 
+            xmax = 423.646961451 
+            text = "{VOC mouthnoise}" 
+        intervals [204]:
+            xmin = 423.646961451 
+            xmax = 424.263741497 
+            text = "{SIL}" 
+        intervals [205]:
+            xmin = 424.263741497 
+            xmax = 426.074897959 
+            text = "It's, like, if you have a community newsletter." 
+        intervals [206]:
+            xmin = 426.074897959 
+            xmax = 427.531019067 
+            text = "{SIL}" 
+        intervals [207]:
+            xmin = 427.531019067 
+            xmax = 427.860934064 
+            text = "Right?" 
+        intervals [208]:
+            xmin = 427.860934064 
+            xmax = 430.964172336 
+            text = "{SIL}" 
+        intervals [209]:
+            xmin = 430.964172336 
+            xmax = 432.355918367 
+            text = "{VOC mouthnoise} It'd still have to be handled, though." 
+        intervals [210]:
+            xmin = 432.355918367 
+            xmax = 434.491360544 
+            text = "{SIL}" 
+        intervals [211]:
+            xmin = 434.491360544 
+            xmax = 436.962312925 
+            text = "Whether it's online or paper, it would still be -" 
+        intervals [212]:
+            xmin = 436.962312925 
+            xmax = 438.454195011 
+            text = "{SIL}" 
+        intervals [213]:
+            xmin = 438.454195011 
+            xmax = 441.046122449 
+            text = "Some department somewhere.. responsible for it." 
+        intervals [214]:
+            xmin = 441.046122449 
+            xmax = 446.291496599 
+            text = "{SIL}" 
+        intervals [215]:
+            xmin = 446.291496599 
+            xmax = 449.153628118 
+            text = "I th- said I thought kitten and puppy adoption -" 
+        intervals [216]:
+            xmin = 449.153628118 
+            xmax = 449.478707483 
+            text = "{VOC breath}" 
+        intervals [217]:
+            xmin = 449.478707483 
+            xmax = 450.360272109 
+            text = "Could be handled." 
+        intervals [218]:
+            xmin = 450.360272109 
+            xmax = 450.850793651 
+            text = "{SIL}" 
+        intervals [219]:
+            xmin = 450.850793651 
+            xmax = 452.201904762 
+            text = "Not through the city." 
+        intervals [220]:
+            xmin = 452.201904762 
+            xmax = 453.45083997 
+            text = "{SIL}" 
+        intervals [221]:
+            xmin = 453.45083997 
+            xmax = 455.773460906 
+            text = "Alright, then we got infrastructure and licensing." 
+        intervals [222]:
+            xmin = 455.773460906 
+            xmax = 457.191587302 
+            text = "{SIL}" 
+        intervals [223]:
+            xmin = 457.191587302 
+            xmax = 462.268332602 
+            text = "Teaching certificates, speed limit signs, additional bus stops, tattoo artist licenses -" 
+        intervals [224]:
+            xmin = 462.268332602 
+            xmax = 462.719659864 
+            text = "{VOC breath}" 
+        intervals [225]:
+            xmin = 462.719659864 
+            xmax = 465.790907029 
+            text = "Boating licenses, pothole maintenance, subway system -" 
+        intervals [226]:
+            xmin = 465.790907029 
+            xmax = 466.301746032 
+            text = "{VOC breath}" 
+        intervals [227]:
+            xmin = 466.301746032 
+            xmax = 470.729773243 
+            text = "Hunting tags, towing services, massage certificates, taxi stops -" 
+        intervals [228]:
+            xmin = 470.729773243 
+            xmax = 473.169784257 
+            text = "{SIL}" 
+        intervals [229]:
+            xmin = 473.169784257 
+            xmax = 476.626049278 
+            text = "And (our) - {VOC mouthnoise} there we go. Taxi stops, fishing licenses -" 
+        intervals [230]:
+            xmin = 476.626049278 
+            xmax = 477.050727093 
+            text = "{VOC breath}" 
+        intervals [231]:
+            xmin = 477.050727093 
+            xmax = 479.661146218 
+            text = "Public bus upkeep and drainage ditches." 
+        intervals [232]:
+            xmin = 479.661146218 
+            xmax = 481.162489396 
+            text = "{NVC} {QUAL other speaker coughing}" 
+        intervals [233]:
+            xmin = 481.162489396 
+            xmax = 485.762927704 
+            text = "{SIL}" 
+        intervals [234]:
+            xmin = 485.762927704 
+            xmax = 486.123628118 
+            text = "{VOC breath}" 
+        intervals [235]:
+            xmin = 486.123628118 
+            xmax = 488.135056689 
+            text = "Alright, so looking at this list -" 
+        intervals [236]:
+            xmin = 488.135056689 
+            xmax = 490.520481065 
+            text = "{SIL}" 
+        intervals [237]:
+            xmin = 490.520481065 
+            xmax = 493.171111111 
+            text = "Why is towing services on here?" 
+        intervals [238]:
+            xmin = 493.171111111 
+            xmax = 495.765887053 
+            text = "{SIL}" 
+        intervals [239]:
+            xmin = 495.765887053 
+            xmax = 498.59122293 
+            text = "No, but this is - we're pretending that this is a *city or something, right?" 
+        intervals [240]:
+            xmin = 498.59122293 
+            xmax = 499.803015873 
+            text = "{SIL}" 
+        intervals [241]:
+            xmin = 499.803015873 
+            xmax = 502.692456032 
+            text = "Right, so a city doesn't *provide a towing service." 
+        intervals [242]:
+            xmin = 502.692456032 
+            xmax = 509.001882086 
+            text = "{SIL}" 
+        intervals [243]:
+            xmin = 509.001882086 
+            xmax = 511.309893825 
+            text = "No. They - what they do is they call -" 
+        intervals [244]:
+            xmin = 511.309893825 
+            xmax = 511.808276054 
+            text = "{VOC breath}" 
+        intervals [245]:
+            xmin = 511.808276054 
+            xmax = 517.520475703 
+            text = "There's a list of - I know, because I know how they handle this, but there's a list of, like, all the local towing -" 
+        intervals [246]:
+            xmin = 517.520475703 
+            xmax = 517.801360544 
+            text = "{VOC breath}" 
+        intervals [247]:
+            xmin = 517.801360544 
+            xmax = 518.451519274 
+            text = "Companies -" 
+        intervals [248]:
+            xmin = 518.451519274 
+            xmax = 518.798018746 
+            text = "{VOC breath}" 
+        intervals [249]:
+            xmin = 518.798018746 
+            xmax = 521.059274376 
+            text = "And they have to cycle through them one after another." 
+        intervals [250]:
+            xmin = 521.059274376 
+            xmax = 521.516417234 
+            text = "{VOC breath}" 
+        intervals [251]:
+            xmin = 521.516417234 
+            xmax = 524.640079132 
+            text = "So here's Triple A_ se- towing, they call them up" 
+        intervals [252]:
+            xmin = 524.640079132 
+            xmax = 525.426259466 
+            text = "{SIL}" 
+        intervals [253]:
+            xmin = 525.426259466 
+            xmax = 527.552334991 
+            text = "Yeah.. That's not part of -" 
+        intervals [254]:
+            xmin = 527.552334991 
+            xmax = 528.064756102 
+            text = "{SIL}" 
+        intervals [255]:
+            xmin = 528.064756102 
+            xmax = 529.796099773 
+            text = "Any government service." 
+        intervals [256]:
+            xmin = 529.796099773 
+            xmax = 532.137732426 
+            text = "{SIL}" 
+        intervals [257]:
+            xmin = 532.137732426 
+            xmax = 536.840702948 
+            text = "Well, what do they mea- what do you think, if they mean towing services, like, for towing their *own -" 
+        intervals [258]:
+            xmin = 536.840702948 
+            xmax = 538.362018141 
+            text = "{SIL}" 
+        intervals [259]:
+            xmin = 538.362018141 
+            xmax = 539.054263039 
+            text = "Vehicles." 
+        intervals [260]:
+            xmin = 539.054263039 
+            xmax = 540.32845805 
+            text = "{SIL}" 
+        intervals [261]:
+            xmin = 540.32845805 
+            xmax = 541.070839002 
+            text = "Do you know what I mean? Like -" 
+        intervals [262]:
+            xmin = 541.070839002 
+            xmax = 544.253728347 
+            text = "{SIL}" 
+        intervals [263]:
+            xmin = 544.253728347 
+            xmax = 545.736235828 
+            text = "Yeah, what is taxi stops?" 
+        intervals [264]:
+            xmin = 545.736235828 
+            xmax = 568.1769161 
+            text = "{SIL}" 
+        intervals [265]:
+            xmin = 568.1769161 
+            xmax = 568.581814059 
+            text = "Mm-hm." 
+        intervals [266]:
+            xmin = 568.581814059 
+            xmax = 570.598223615 
+            text = "{SIL}" 
+        intervals [267]:
+            xmin = 570.598223615 
+            xmax = 570.772887239 
+            text = "{VOC mouthnoise}" 
+        intervals [268]:
+            xmin = 570.772887239 
+            xmax = 571.316895952 
+            text = "Well, I- {VOC start}" 
+        intervals [269]:
+            xmin = 571.316895952 
+            xmax = 572.980509695 
+            text = "{SIL}" 
+        intervals [270]:
+            xmin = 572.980509695 
+            xmax = 576.162426304 
+            text = "R- yeah.. I just didn't know why towing services was on the list." 
+        intervals [271]:
+            xmin = 576.162426304 
+            xmax = 583.462131519 
+            text = "{SIL}" 
+        intervals [272]:
+            xmin = 583.462131519 
+            xmax = 584.753741497 
+            text = "Huh, that would make sense, wouldn't it?" 
+        intervals [273]:
+            xmin = 584.753741497 
+            xmax = 587.920840223 
+            text = "{SIL}" 
+        intervals [274]:
+            xmin = 587.920840223 
+            xmax = 589.442743764 
+            text = "We just need to drop one.. Yeah." 
+        intervals [275]:
+            xmin = 589.442743764 
+            xmax = 598.268979592 
+            text = "{SIL}" 
+        intervals [276]:
+            xmin = 598.268979592 
+            xmax = 598.773153725 
+            text = "What what?" 
+        intervals [277]:
+            xmin = 598.773153725 
+            xmax = 602.111496599 
+            text = "{SIL}" 
+        intervals [278]:
+            xmin = 602.111496599 
+            xmax = 602.722471655 
+            text = "{VOC breath}" 
+        intervals [279]:
+            xmin = 602.722471655 
+            xmax = 612.501133787 
+            text = "Well, that's what - it depends on the definition of towing services. If the definition of towing services is, let's say there's a car accident and someone needs to tow the car out of the road -" 
+        intervals [280]:
+            xmin = 612.501133787 
+            xmax = 612.971337868 
+            text = "{VOC breath}" 
+        intervals [281]:
+            xmin = 612.971337868 
+            xmax = 614.510193788 
+            text = "A private towing service -" 
+        intervals [282]:
+            xmin = 614.510193788 
+            xmax = 614.693854875 
+            text = "{VOC breath}" 
+        intervals [283]:
+            xmin = 614.693854875 
+            xmax = 615.499938673 
+            text = "Is called." 
+        intervals [284]:
+            xmin = 615.499938673 
+            xmax = 616.211043084 
+            text = "{SIL}" 
+        intervals [285]:
+            xmin = 616.211043084 
+            xmax = 620.141315193 
+            text = "Right, it's a contracted thing. So that's *not part of any public service." 
+        intervals [286]:
+            xmin = 620.141315193 
+            xmax = 620.713106576 
+            text = "{VOC breath}" 
+        intervals [287]:
+            xmin = 620.713106576 
+            xmax = 622.06 
+            text = "If it's - means -" 
+        intervals [288]:
+            xmin = 622.06 
+            xmax = 622.477959184 
+            text = "{VOC breath}" 
+        intervals [289]:
+            xmin = 622.477959184 
+            xmax = 624.265102041 
+            text = "The s- city's bus -" 
+        intervals [290]:
+            xmin = 624.265102041 
+            xmax = 624.853596312 
+            text = "{SIL}" 
+        intervals [291]:
+            xmin = 624.853596312 
+            xmax = 625.644535147 
+            text = "Broke down -" 
+        intervals [292]:
+            xmin = 625.644535147 
+            xmax = 626.234535147 
+            text = "{SIL}" 
+        intervals [293]:
+            xmin = 626.234535147 
+            xmax = 630.737773502 
+            text = "And they had to specially tow the city bus to the city parking garage so that -" 
+        intervals [294]:
+            xmin = 630.737773502 
+            xmax = 631.24861678 
+            text = "{VOC breath}" 
+        intervals [295]:
+            xmin = 631.24861678 
+            xmax = 632.589954649 
+            text = "The city bus could -" 
+        intervals [296]:
+            xmin = 632.589954649 
+            xmax = 633.330748299 
+            text = "{SIL}" 
+        intervals [297]:
+            xmin = 633.330748299 
+            xmax = 633.696478956 
+            text = "Yeah." 
+        intervals [298]:
+            xmin = 633.696478956 
+            xmax = 634.247959184 
+            text = "{SIL}" 
+        intervals [299]:
+            xmin = 634.247959184 
+            xmax = 636.479977324 
+            text = "W- *that you would have to keep, because you can't not -" 
+        intervals [300]:
+            xmin = 636.479977324 
+            xmax = 637.131587302 
+            text = "{SIL}" 
+        intervals [301]:
+            xmin = 637.131587302 
+            xmax = 638.148911565 
+            text = "Tow your own -" 
+        intervals [302]:
+            xmin = 638.148911565 
+            xmax = 641.554126984 
+            text = "{SIL}" 
+        intervals [303]:
+            xmin = 641.554126984 
+            xmax = 641.969961294 
+            text = "{VOC mouthnoise} {VOC start}" 
+        intervals [304]:
+            xmin = 641.969961294 
+            xmax = 642.480793651 
+            text = "Yeah, right." 
+        intervals [305]:
+            xmin = 642.480793651 
+            xmax = 643.492312925 
+            text = "{SIL}" 
+        intervals [306]:
+            xmin = 643.492312925 
+            xmax = 648.035941043 
+            text = "Yes. Let's call that public bus upkeep, and we can drop towing services." 
+        intervals [307]:
+            xmin = 648.035941043 
+            xmax = 648.636507937 
+            text = "{SIL}" 
+        intervals [308]:
+            xmin = 648.636507937 
+            xmax = 649.967301587 
+            text = "{VOC breath} {VOC mouthnoise}" 
+        intervals [309]:
+            xmin = 649.967301587 
+            xmax = 655.041247166 
+            text = "{SIL}" 
+        intervals [310]:
+            xmin = 655.041247166 
+            xmax = 655.794444444 
+            text = "'Exactly. {PRN gzakly}" 
+        intervals [311]:
+            xmin = 655.794444444 
+            xmax = 656.471574718 
+            text = "{SIL}" 
+        intervals [312]:
+            xmin = 656.471574718 
+            xmax = 658.551292517 
+            text = "Yeah, it's a big job. You can't just call -" 
+        intervals [313]:
+            xmin = 658.551292517 
+            xmax = 659.772040816 
+            text = "{VOC breath}" 
+        intervals [314]:
+            xmin = 659.772040816 
+            xmax = 660.154512472 
+            text = "Any -" 
+        intervals [315]:
+            xmin = 660.154512472 
+            xmax = 661.125396825 
+            text = "{SIL}" 
+        intervals [316]:
+            xmin = 661.125396825 
+            xmax = 661.3930839 
+            text = "Yeah." 
+        intervals [317]:
+            xmin = 661.3930839 
+            xmax = 662.493786848 
+            text = "{SIL}" 
+        intervals [318]:
+            xmin = 662.493786848 
+            xmax = 664.104671202 
+            text = "Alright, well, I think we're done then." 
+        intervals [319]:
+            xmin = 664.104671202 
+            xmax = 665.468062584 
+            text = "{SIL}" 
+        intervals [320]:
+            xmin = 665.468062584 
+            xmax = 666.800340136 
+            text = "Unless there was anything else." 
+        intervals [321]:
+            xmin = 666.800340136 
+            xmax = 680.593287982 
+            text = "{SIL}" 
+        intervals [322]:
+            xmin = 680.593287982 
+            xmax = 680.731288607 
+            text = "{VOC mouthnoise}" 
+        intervals [323]:
+            xmin = 680.731288607 
+            xmax = 681.21244898 
+            text = "It does." 
+        intervals [324]:
+            xmin = 681.21244898 
+            xmax = 681.884376417 
+            text = "{SIL}" 
+        intervals [325]:
+            xmin = 681.884376417 
+            xmax = 682.808027211 
+            text = "But as long as we -" 
+        intervals [326]:
+            xmin = 682.808027211 
+            xmax = 683.566330326 
+            text = "{SIL}" 
+        intervals [327]:
+            xmin = 683.566330326 
+            xmax = 683.776914344 
+            text = "Ge-" 
+        intervals [328]:
+            xmin = 683.776914344 
+            xmax = 686.88922502 
+            text = "{SIL}" 
+        intervals [329]:
+            xmin = 686.88922502 
+            xmax = 687.187552379 
+            text = "{NVC} Yeah." 
+        intervals [330]:
+            xmin = 687.187552379 
+            xmax = 689.35861678 
+            text = "{SIL}" 
+        intervals [331]:
+            xmin = 689.35861678 
+            xmax = 689.65861678 
+            text = "{VOC breath}" 
+        intervals [332]:
+            xmin = 689.65861678 
+            xmax = 691.502878235 
+            text = "Well that's why I think we left -" 
+        intervals [333]:
+            xmin = 691.502878235 
+            xmax = 691.997750677 
+            text = "{VOC breath}" 
+        intervals [334]:
+            xmin = 691.997750677 
+            xmax = 692.829319728 
+            text = "This one here." 
+        intervals [335]:
+            xmin = 692.829319728 
+            xmax = 694.176472207 
+            text = "{SIL}" 
+        intervals [336]:
+            xmin = 694.176472207 
+            xmax = 697.432154195 
+            text = "And took that one out.. Because by the time you're an adult - {NVC} {QUAL other speaker coughing}" 
+        intervals [337]:
+            xmin = 697.432154195 
+            xmax = 698.643945578 
+            text = "{SIL}" 
+        intervals [338]:
+            xmin = 698.643945578 
+            xmax = 703.449705215 
+            text = "I th- {VOC start} you have pre-natal checkups, but the time you're an adult.. you don't really need to know -" 
+        intervals [339]:
+            xmin = 703.449705215 
+            xmax = 704.453310658 
+            text = "{SIL}" 
+        intervals [340]:
+            xmin = 704.453310658 
+            xmax = 708.53106576 
+            text = "A woman ovulates every twenty eight days, and then -" 
+        intervals [341]:
+            xmin = 708.53106576 
+            xmax = 710.301587302 
+            text = "{VOC laugh}" 
+        intervals [342]:
+            xmin = 710.301587302 
+            xmax = 719.371247166 
+            text = "{SIL}" 
+        intervals [343]:
+            xmin = 719.371247166 
+            xmax = 720.243698917 
+            text = "No, I think -" 
+        intervals [344]:
+            xmin = 720.243698917 
+            xmax = 720.765487528 
+            text = "{VOC breath}" 
+        intervals [345]:
+            xmin = 720.765487528 
+            xmax = 723.702811791 
+            text = "{SIL}" 
+        intervals [346]:
+            xmin = 723.702811791 
+            xmax = 724.360226757 
+            text = "Absolutely." 
+        intervals [347]:
+            xmin = 724.360226757 
+            xmax = 724.716575964 
+            text = "{VOC breath}" 
+        intervals [348]:
+            xmin = 724.716575964 
+            xmax = 730.21857901 
+            text = "And I think if any of the teachers have to go, unfortunately for me, personally, it would be the acting coach -" 
+        intervals [349]:
+            xmin = 730.21857901 
+            xmax = 730.56106576 
+            text = "{VOC breath}" 
+        intervals [350]:
+            xmin = 730.56106576 
+            xmax = 733.340861678 
+            text = "But not poetry and not.. um -" 
+        intervals [351]:
+            xmin = 733.340861678 
+            xmax = 733.6369161 
+            text = "{NVC}" 
+        intervals [352]:
+            xmin = 733.6369161 
+            xmax = 734.327709751 
+            text = "Music." 
+        intervals [353]:
+            xmin = 734.327709751 
+            xmax = 734.784852608 
+            text = "{VOC breath}" 
+        intervals [354]:
+            xmin = 734.784852608 
+            xmax = 735.818467776 
+            text = "Or, like, art" 
+        intervals [355]:
+            xmin = 735.818467776 
+            xmax = 737.033151927 
+            text = "{SIL}" 
+        intervals [356]:
+            xmin = 737.033151927 
+            xmax = 740.211587302 
+            text = "{VOC mouthnoise} I- and I know that.. acting is one of those arts, but I -" 
+        intervals [357]:
+            xmin = 740.211587302 
+            xmax = 741.981587302 
+            text = "{SIL}" 
+        intervals [358]:
+            xmin = 741.981587302 
+            xmax = 744.790816327 
+            text = "Somehow think that's a smaller niche than -" 
+        intervals [359]:
+            xmin = 744.790816327 
+            xmax = 747.881587302 
+            text = "{SIL}" 
+        intervals [360]:
+            xmin = 747.881587302 
+            xmax = 748.412743764 
+            text = "That's true." 
+        intervals [361]:
+            xmin = 748.412743764 
+            xmax = 749.509886621 
+            text = "{SIL}" 
+        intervals [362]:
+            xmin = 749.509886621 
+            xmax = 749.720739806 
+            text = "{VOC mouthnoise}" 
+        intervals [363]:
+            xmin = 749.720739806 
+            xmax = 752.366213152 
+            text = "Well, luckily we didn't have to take it out, so, we're good!" 
+        intervals [364]:
+            xmin = 752.366213152 
+            xmax = 752.912675737 
+            text = "{VOC breath}" 
+        intervals [365]:
+            xmin = 752.912675737 
+            xmax = 753.7530839 
+            text = "{SIL}" 
+        intervals [366]:
+            xmin = 753.7530839 
+            xmax = 754.083968254 
+            text = "Yeah." 
+        intervals [367]:
+            xmin = 754.083968254 
+            xmax = 756.455306122 
+            text = "{SIL}" 
+        intervals [368]:
+            xmin = 756.455306122 
+            xmax = 756.993948458 
+            text = "Oh, thank you!" 
+        intervals [369]:
+            xmin = 756.993948458 
+            xmax = 757.509879302 
+            text = "{SIL}" 
+        intervals [370]:
+            xmin = 757.509879302 
+            xmax = 758.833424036 
+            text = "{VOC laugh}" 
+        intervals [371]:
+            xmin = 758.833424036 
+            xmax = 764.571496599 
+            text = "{SIL}" 
+        intervals [372]:
+            xmin = 764.571496599 
+            xmax = 765.542380952 
+            text = "Yeah. I think so." 
+        intervals [373]:
+            xmin = 765.542380952 
+            xmax = 767.053129252 
+            text = "{SIL}" 
+        intervals [374]:
+            xmin = 767.053129252 
+            xmax = 768.781315193 
+            text = "Let's see, we, uh - let's see -" 
+        intervals [375]:
+            xmin = 768.781315193 
+            xmax = 771.737120181 
+            text = "{SIL}" 
+        intervals [376]:
+            xmin = 771.737120181 
+            xmax = 776.606326531 
+            text = "Yeah. So, {VOC start} our task was to simply decide, which we have done. And they get to -" 
+        intervals [377]:
+            xmin = 776.606326531 
+            xmax = 776.888662132 
+            text = "{VOC breath}" 
+        intervals [378]:
+            xmin = 776.888662132 
+            xmax = 778.831360544 
+            text = "Bitch and moan, and that's too bad for them, but -" 
+        intervals [379]:
+            xmin = 778.831360544 
+            xmax = 779.644058957 
+            text = "{SIL}" 
+        intervals [380]:
+            xmin = 779.644058957 
+            xmax = 780.278253968 
+            text = "We decided." 
+        intervals [381]:
+            xmin = 780.278253968 
+            xmax = 782.33031746 
+            text = "{SIL}" 
+        intervals [382]:
+            xmin = 782.33031746 
+            xmax = 782.53031746 
+            text = "{VOC mouthnoise}" 
+        intervals [383]:
+            xmin = 782.53031746 
+            xmax = 783.608693615 
+            text = "No, 'that's {PRN ats} not what it says." 
+        intervals [384]:
+            xmin = 783.608693615 
+            xmax = 783.913216984 
+            text = "{VOC breath}" 
+        intervals [385]:
+            xmin = 783.913216984 
+            xmax = 785.363015873 
+            text = "Your task is to decide." 
+        intervals [386]:
+            xmin = 785.363015873 
+            xmax = 786.878118848 
+            text = "{SIL}" 
+        intervals [387]:
+            xmin = 786.878118848 
+            xmax = 788.98968254 
+            text = "And we appeared fair by.. cutting equally." 
+        intervals [388]:
+            xmin = 788.98968254 
+            xmax = 789.84675737 
+            text = "{SIL}" 
+        intervals [389]:
+            xmin = 789.84675737 
+            xmax = 790.717505669 
+            text = "{VOC laugh}" 
+        intervals [390]:
+            xmin = 790.717505669 
+            xmax = 791.425910581 
+            text = "{SIL}" 
+        intervals [391]:
+            xmin = 791.425910581 
+            xmax = 794.010589569 
+            text = "{VOC laugh} {VOC breath}" 
+        intervals [392]:
+            xmin = 794.010589569 
+            xmax = 795.927891156 
+            text = "{SIL}" 
+        intervals [393]:
+            xmin = 795.927891156 
+            xmax = 798.960316605 
+            text = "Yeah.. {QUAL spoken on quick exhale} Alright Heather! Think we're done! {VOC breath}" 
+        intervals [394]:
+            xmin = 798.960316605 
+            xmax = 800 
+            text = "{VOC breath}" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "coarse" 
+        xmin = 0 
+        xmax = 800 
+        intervals: size = 394 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.727316856660288 
+            text = "" 
+        intervals [2]:
+            xmin = 0.727316856660288 
+            xmax = 5.1420408163265305 
+            text = "1" 
+        intervals [3]:
+            xmin = 5.1420408163265305 
+            xmax = 5.573061224489796 
+            text = "" 
+        intervals [4]:
+            xmin = 5.573061224489796 
+            xmax = 6.941065759637188 
+            text = "1" 
+        intervals [5]:
+            xmin = 6.941065759637188 
+            xmax = 7.522358276643991 
+            text = "" 
+        intervals [6]:
+            xmin = 7.522358276643991 
+            xmax = 8.563696145124716 
+            text = "1" 
+        intervals [7]:
+            xmin = 8.563696145124716 
+            xmax = 9.06517006802721 
+            text = "" 
+        intervals [8]:
+            xmin = 9.06517006802721 
+            xmax = 10.956145124716553 
+            text = "1" 
+        intervals [9]:
+            xmin = 10.956145124716553 
+            xmax = 32.033197278911565 
+            text = "" 
+        intervals [10]:
+            xmin = 32.033197278911565 
+            xmax = 40.681995464852605 
+            text = "0" 
+        intervals [11]:
+            xmin = 40.681995464852605 
+            xmax = 41.1318820861678 
+            text = "" 
+        intervals [12]:
+            xmin = 41.1318820861678 
+            xmax = 45.229024943310655 
+            text = "0" 
+        intervals [13]:
+            xmin = 45.229024943310655 
+            xmax = 45.580226757369616 
+            text = "" 
+        intervals [14]:
+            xmin = 45.580226757369616 
+            xmax = 47.08517006802721 
+            text = "0" 
+        intervals [15]:
+            xmin = 47.08517006802721 
+            xmax = 47.70696145124716 
+            text = "" 
+        intervals [16]:
+            xmin = 47.70696145124716 
+            xmax = 50.033197278911565 
+            text = "0" 
+        intervals [17]:
+            xmin = 50.033197278911565 
+            xmax = 50.75380952380952 
+            text = "" 
+        intervals [18]:
+            xmin = 50.75380952380952 
+            xmax = 54.73142857142857 
+            text = "2" 
+        intervals [19]:
+            xmin = 54.73142857142857 
+            xmax = 55.312721088435374 
+            text = "" 
+        intervals [20]:
+            xmin = 55.312721088435374 
+            xmax = 59.39093095434537 
+            text = "2" 
+        intervals [21]:
+            xmin = 59.39093095434537 
+            xmax = 60.24650793650794 
+            text = "" 
+        intervals [22]:
+            xmin = 60.24650793650794 
+            xmax = 63.90201814058957 
+            text = "2" 
+        intervals [23]:
+            xmin = 63.90201814058957 
+            xmax = 65.0449433106576 
+            text = "" 
+        intervals [24]:
+            xmin = 65.0449433106576 
+            xmax = 67.16034013605444 
+            text = "1" 
+        intervals [25]:
+            xmin = 67.16034013605444 
+            xmax = 67.53185941043084 
+            text = "" 
+        intervals [26]:
+            xmin = 67.53185941043084 
+            xmax = 68.86265306122449 
+            text = "" 
+        intervals [27]:
+            xmin = 68.86265306122449 
+            xmax = 69.05778048717274 
+            text = "" 
+        intervals [28]:
+            xmin = 69.05778048717274 
+            xmax = 69.87984126984128 
+            text = "" 
+        intervals [29]:
+            xmin = 69.87984126984128 
+            xmax = 71.38834467120182 
+            text = "1" 
+        intervals [30]:
+            xmin = 71.38834467120182 
+            xmax = 94.55138321995466 
+            text = "" 
+        intervals [31]:
+            xmin = 94.55138321995466 
+            xmax = 95.332947845805 
+            text = "0" 
+        intervals [32]:
+            xmin = 95.332947845805 
+            xmax = 96.72061224489796 
+            text = "" 
+        intervals [33]:
+            xmin = 96.72061224489796 
+            xmax = 99.36312737851999 
+            text = "0" 
+        intervals [34]:
+            xmin = 99.36312737851999 
+            xmax = 100.70473922902495 
+            text = "0" 
+        intervals [35]:
+            xmin = 100.70473922902495 
+            xmax = 101.72496598639457 
+            text = "" 
+        intervals [36]:
+            xmin = 101.72496598639457 
+            xmax = 102.8910657596372 
+            text = "1+" 
+        intervals [37]:
+            xmin = 102.8910657596372 
+            xmax = 107.89282297115754 
+            text = "" 
+        intervals [38]:
+            xmin = 107.89282297115754 
+            xmax = 109.76247165532881 
+            text = "0" 
+        intervals [39]:
+            xmin = 109.76247165532881 
+            xmax = 110.5345351473923 
+            text = "" 
+        intervals [40]:
+            xmin = 110.5345351473923 
+            xmax = 111.76480725623584 
+            text = "0" 
+        intervals [41]:
+            xmin = 111.76480725623584 
+            xmax = 112.35836734693878 
+            text = "" 
+        intervals [42]:
+            xmin = 112.35836734693878 
+            xmax = 112.58120181405897 
+            text = "0" 
+        intervals [43]:
+            xmin = 112.58120181405897 
+            xmax = 113.64272108843538 
+            text = "" 
+        intervals [44]:
+            xmin = 113.64272108843538 
+            xmax = 114.69514739229025 
+            text = "0" 
+        intervals [45]:
+            xmin = 114.69514739229025 
+            xmax = 124.8679805312334 
+            text = "" 
+        intervals [46]:
+            xmin = 124.8679805312334 
+            xmax = 125.96882086167801 
+            text = "1" 
+        intervals [47]:
+            xmin = 125.96882086167801 
+            xmax = 127.75970521541952 
+            text = "" 
+        intervals [48]:
+            xmin = 127.75970521541952 
+            xmax = 129.36544217687074 
+            text = "1" 
+        intervals [49]:
+            xmin = 129.36544217687074 
+            xmax = 130.06074162307394 
+            text = "" 
+        intervals [50]:
+            xmin = 130.06074162307394 
+            xmax = 131.20512471655326 
+            text = "1" 
+        intervals [51]:
+            xmin = 131.20512471655326 
+            xmax = 133.67183673469387 
+            text = "" 
+        intervals [52]:
+            xmin = 133.67183673469387 
+            xmax = 136.3772335600907 
+            text = "2-" 
+        intervals [53]:
+            xmin = 136.3772335600907 
+            xmax = 137.09962300053132 
+            text = "" 
+        intervals [54]:
+            xmin = 137.09962300053132 
+            xmax = 139.59637188208617 
+            text = "2" 
+        intervals [55]:
+            xmin = 139.59637188208617 
+            xmax = 139.8938775510204 
+            text = "" 
+        intervals [56]:
+            xmin = 139.8938775510204 
+            xmax = 141.82558941939277 
+            text = "2-" 
+        intervals [57]:
+            xmin = 141.82558941939277 
+            xmax = 145.15083900226756 
+            text = "" 
+        intervals [58]:
+            xmin = 145.15083900226756 
+            xmax = 145.544126984127 
+            text = "0" 
+        intervals [59]:
+            xmin = 145.544126984127 
+            xmax = 146.18034689134728 
+            text = "" 
+        intervals [60]:
+            xmin = 146.18034689134728 
+            xmax = 149.34151927437642 
+            text = "2" 
+        intervals [61]:
+            xmin = 149.34151927437642 
+            xmax = 150.5591156462585 
+            text = "" 
+        intervals [62]:
+            xmin = 150.5591156462585 
+            xmax = 152.13823007874763 
+            text = "2-" 
+        intervals [63]:
+            xmin = 152.13823007874763 
+            xmax = 152.95599819005696 
+            text = "" 
+        intervals [64]:
+            xmin = 152.95599819005696 
+            xmax = 153.09287783100575 
+            text = "" 
+        intervals [65]:
+            xmin = 153.09287783100575 
+            xmax = 160.8590476190476 
+            text = "" 
+        intervals [66]:
+            xmin = 160.8590476190476 
+            xmax = 161.15904761904767 
+            text = "" 
+        intervals [67]:
+            xmin = 161.15904761904767 
+            xmax = 161.99786848072563 
+            text = "2+" 
+        intervals [68]:
+            xmin = 161.99786848072563 
+            xmax = 162.64741586356746 
+            text = "" 
+        intervals [69]:
+            xmin = 162.64741586356746 
+            xmax = 163.25839002267574 
+            text = "1" 
+        intervals [70]:
+            xmin = 163.25839002267574 
+            xmax = 163.92413628136623 
+            text = "" 
+        intervals [71]:
+            xmin = 163.92413628136623 
+            xmax = 167.4403401360544 
+            text = "1" 
+        intervals [72]:
+            xmin = 167.4403401360544 
+            xmax = 168.0353514739229 
+            text = "" 
+        intervals [73]:
+            xmin = 168.0353514739229 
+            xmax = 169.83639292178367 
+            text = "1" 
+        intervals [74]:
+            xmin = 169.83639292178367 
+            xmax = 170.36987254804558 
+            text = "" 
+        intervals [75]:
+            xmin = 170.36987254804558 
+            xmax = 171.3125170068027 
+            text = "1" 
+        intervals [76]:
+            xmin = 171.3125170068027 
+            xmax = 171.88430839002268 
+            text = "" 
+        intervals [77]:
+            xmin = 171.88430839002268 
+            xmax = 172.34 
+            text = "1" 
+        intervals [78]:
+            xmin = 172.34 
+            xmax = 176.0575061879317 
+            text = "" 
+        intervals [79]:
+            xmin = 176.0575061879317 
+            xmax = 176.37338228242888 
+            text = "" 
+        intervals [80]:
+            xmin = 176.37338228242888 
+            xmax = 178.4272335600907 
+            text = "2-" 
+        intervals [81]:
+            xmin = 178.4272335600907 
+            xmax = 178.76907029478457 
+            text = "" 
+        intervals [82]:
+            xmin = 178.76907029478457 
+            xmax = 183.28942295647067 
+            text = "2-" 
+        intervals [83]:
+            xmin = 183.28942295647067 
+            xmax = 183.98703720102463 
+            text = "" 
+        intervals [84]:
+            xmin = 183.98703720102463 
+            xmax = 187.0782902949905 
+            text = "2-" 
+        intervals [85]:
+            xmin = 187.0782902949905 
+            xmax = 191.89633270554086 
+            text = "" 
+        intervals [86]:
+            xmin = 191.89633270554086 
+            xmax = 192.0463327055409 
+            text = "" 
+        intervals [87]:
+            xmin = 192.0463327055409 
+            xmax = 194.4771655328798 
+            text = "" 
+        intervals [88]:
+            xmin = 194.4771655328798 
+            xmax = 195.96138321995466 
+            text = "1" 
+        intervals [89]:
+            xmin = 195.96138321995466 
+            xmax = 198.1027664399093 
+            text = "" 
+        intervals [90]:
+            xmin = 198.1027664399093 
+            xmax = 199.77672743726754 
+            text = "2" 
+        intervals [91]:
+            xmin = 199.77672743726754 
+            xmax = 200.31514739229024 
+            text = "" 
+        intervals [92]:
+            xmin = 200.31514739229024 
+            xmax = 201.93750566893422 
+            text = "x" 
+        intervals [93]:
+            xmin = 201.93750566893422 
+            xmax = 204.02875283446713 
+            text = "" 
+        intervals [94]:
+            xmin = 204.02875283446713 
+            xmax = 204.1841309249716 
+            text = "" 
+        intervals [95]:
+            xmin = 204.1841309249716 
+            xmax = 208.12049886621313 
+            text = "2" 
+        intervals [96]:
+            xmin = 208.12049886621313 
+            xmax = 211.08197278911564 
+            text = "" 
+        intervals [97]:
+            xmin = 211.08197278911564 
+            xmax = 213.37058956916098 
+            text = "2" 
+        intervals [98]:
+            xmin = 213.37058956916098 
+            xmax = 215.17332662258067 
+            text = "" 
+        intervals [99]:
+            xmin = 215.17332662258067 
+            xmax = 218.8815192743764 
+            text = "1" 
+        intervals [100]:
+            xmin = 218.8815192743764 
+            xmax = 222.36188208616778 
+            text = "" 
+        intervals [101]:
+            xmin = 222.36188208616778 
+            xmax = 226.53687074829932 
+            text = "1+" 
+        intervals [102]:
+            xmin = 226.53687074829932 
+            xmax = 227.17897959183674 
+            text = "" 
+        intervals [103]:
+            xmin = 227.17897959183674 
+            xmax = 230.86489795918365 
+            text = "0" 
+        intervals [104]:
+            xmin = 230.86489795918365 
+            xmax = 231.27705215419502 
+            text = "" 
+        intervals [105]:
+            xmin = 231.27705215419502 
+            xmax = 232.43277186770396 
+            text = "0" 
+        intervals [106]:
+            xmin = 232.43277186770396 
+            xmax = 233.10469387755103 
+            text = "" 
+        intervals [107]:
+            xmin = 233.10469387755103 
+            xmax = 233.16630635381406 
+            text = "" 
+        intervals [108]:
+            xmin = 233.16630635381406 
+            xmax = 240.89106575963717 
+            text = "0" 
+        intervals [109]:
+            xmin = 240.89106575963717 
+            xmax = 241.40469399263756 
+            text = "" 
+        intervals [110]:
+            xmin = 241.40469399263756 
+            xmax = 245.04124716553287 
+            text = "0" 
+        intervals [111]:
+            xmin = 245.04124716553287 
+            xmax = 246.89578250705878 
+            text = "" 
+        intervals [112]:
+            xmin = 246.89578250705878 
+            xmax = 250.30291169552177 
+            text = "2-" 
+        intervals [113]:
+            xmin = 250.30291169552177 
+            xmax = 255.37124716553288 
+            text = "" 
+        intervals [114]:
+            xmin = 255.37124716553288 
+            xmax = 255.8466462256926 
+            text = "2" 
+        intervals [115]:
+            xmin = 255.8466462256926 
+            xmax = 256.93798185941046 
+            text = "" 
+        intervals [116]:
+            xmin = 256.93798185941046 
+            xmax = 257.14986394557826 
+            text = "x" 
+        intervals [117]:
+            xmin = 257.14986394557826 
+            xmax = 264.76241091916916 
+            text = "" 
+        intervals [118]:
+            xmin = 264.76241091916916 
+            xmax = 268.4035827664399 
+            text = "2-" 
+        intervals [119]:
+            xmin = 268.4035827664399 
+            xmax = 269.10018140589574 
+            text = "" 
+        intervals [120]:
+            xmin = 269.10018140589574 
+            xmax = 269.3431972789116 
+            text = "" 
+        intervals [121]:
+            xmin = 269.3431972789116 
+            xmax = 273.09115646258505 
+            text = "" 
+        intervals [122]:
+            xmin = 273.09115646258505 
+            xmax = 273.9484256216424 
+            text = "2-" 
+        intervals [123]:
+            xmin = 273.9484256216424 
+            xmax = 275.9489740067326 
+            text = "" 
+        intervals [124]:
+            xmin = 275.9489740067326 
+            xmax = 279.9113832199547 
+            text = "2" 
+        intervals [125]:
+            xmin = 279.9113832199547 
+            xmax = 280.82276643990934 
+            text = "" 
+        intervals [126]:
+            xmin = 280.82276643990934 
+            xmax = 281.3945578231293 
+            text = "" 
+        intervals [127]:
+            xmin = 281.3945578231293 
+            xmax = 282.6009607547583 
+            text = "2" 
+        intervals [128]:
+            xmin = 282.6009607547583 
+            xmax = 283.0853040479907 
+            text = "" 
+        intervals [129]:
+            xmin = 283.0853040479907 
+            xmax = 287.025912362384 
+            text = "2" 
+        intervals [130]:
+            xmin = 287.025912362384 
+            xmax = 288.37715995582215 
+            text = "" 
+        intervals [131]:
+            xmin = 288.37715995582215 
+            xmax = 290.8681632653062 
+            text = "2-" 
+        intervals [132]:
+            xmin = 290.8681632653062 
+            xmax = 294.5631750582954 
+            text = "" 
+        intervals [133]:
+            xmin = 294.5631750582954 
+            xmax = 297.8628344671202 
+            text = "2-" 
+        intervals [134]:
+            xmin = 297.8628344671202 
+            xmax = 300.6739002267574 
+            text = "" 
+        intervals [135]:
+            xmin = 300.6739002267574 
+            xmax = 301.98727891156466 
+            text = "2-" 
+        intervals [136]:
+            xmin = 301.98727891156466 
+            xmax = 310.9127437641724 
+            text = "" 
+        intervals [137]:
+            xmin = 310.9127437641724 
+            xmax = 314.7486621315193 
+            text = "2-" 
+        intervals [138]:
+            xmin = 314.7486621315193 
+            xmax = 315.60879880041153 
+            text = "" 
+        intervals [139]:
+            xmin = 315.60879880041153 
+            xmax = 322.73810937365175 
+            text = "2-" 
+        intervals [140]:
+            xmin = 322.73810937365175 
+            xmax = 323.130612244898 
+            text = "" 
+        intervals [141]:
+            xmin = 323.130612244898 
+            xmax = 324.3982135598757 
+            text = "2-" 
+        intervals [142]:
+            xmin = 324.3982135598757 
+            xmax = 325.78724524977673 
+            text = "" 
+        intervals [143]:
+            xmin = 325.78724524977673 
+            xmax = 326.13845804988665 
+            text = "2-" 
+        intervals [144]:
+            xmin = 326.13845804988665 
+            xmax = 326.91514739229024 
+            text = "" 
+        intervals [145]:
+            xmin = 326.91514739229024 
+            xmax = 329.3445351473923 
+            text = "2" 
+        intervals [146]:
+            xmin = 329.3445351473923 
+            xmax = 331.35108843537415 
+            text = "" 
+        intervals [147]:
+            xmin = 331.35108843537415 
+            xmax = 335.25390022675737 
+            text = "1" 
+        intervals [148]:
+            xmin = 335.25390022675737 
+            xmax = 335.94469387755106 
+            text = "" 
+        intervals [149]:
+            xmin = 335.94469387755106 
+            xmax = 336.9787755102041 
+            text = "" 
+        intervals [150]:
+            xmin = 336.9787755102041 
+            xmax = 341.5032285875985 
+            text = "" 
+        intervals [151]:
+            xmin = 341.5032285875985 
+            xmax = 342.8466337353834 
+            text = "" 
+        intervals [152]:
+            xmin = 342.8466337353834 
+            xmax = 344.0779591836735 
+            text = "2" 
+        intervals [153]:
+            xmin = 344.0779591836735 
+            xmax = 345.19106575963724 
+            text = "" 
+        intervals [154]:
+            xmin = 345.19106575963724 
+            xmax = 349.67843989549993 
+            text = "2" 
+        intervals [155]:
+            xmin = 349.67843989549993 
+            xmax = 349.97325755225006 
+            text = "" 
+        intervals [156]:
+            xmin = 349.97325755225006 
+            xmax = 351.1632879818594 
+            text = "2" 
+        intervals [157]:
+            xmin = 351.1632879818594 
+            xmax = 352.32044662658905 
+            text = "" 
+        intervals [158]:
+            xmin = 352.32044662658905 
+            xmax = 355.18630385487535 
+            text = "2" 
+        intervals [159]:
+            xmin = 355.18630385487535 
+            xmax = 355.55782312925174 
+            text = "" 
+        intervals [160]:
+            xmin = 355.55782312925174 
+            xmax = 356.2575452069734 
+            text = "2" 
+        intervals [161]:
+            xmin = 356.2575452069734 
+            xmax = 356.89174603174604 
+            text = "" 
+        intervals [162]:
+            xmin = 356.89174603174604 
+            xmax = 358.3917233560091 
+            text = "1" 
+        intervals [163]:
+            xmin = 358.3917233560091 
+            xmax = 359.60351473922907 
+            text = "" 
+        intervals [164]:
+            xmin = 359.60351473922907 
+            xmax = 361.90045351473924 
+            text = "2" 
+        intervals [165]:
+            xmin = 361.90045351473924 
+            xmax = 362.2004535147393 
+            text = "" 
+        intervals [166]:
+            xmin = 362.2004535147393 
+            xmax = 362.9521995464853 
+            text = "" 
+        intervals [167]:
+            xmin = 362.9521995464853 
+            xmax = 363.7278458049887 
+            text = "2" 
+        intervals [168]:
+            xmin = 363.7278458049887 
+            xmax = 364.5260317460318 
+            text = "" 
+        intervals [169]:
+            xmin = 364.5260317460318 
+            xmax = 367.1508163265306 
+            text = "2-" 
+        intervals [170]:
+            xmin = 367.1508163265306 
+            xmax = 367.82142857142856 
+            text = "" 
+        intervals [171]:
+            xmin = 367.82142857142856 
+            xmax = 370.1211337868481 
+            text = "" 
+        intervals [172]:
+            xmin = 370.1211337868481 
+            xmax = 370.2397199443836 
+            text = "" 
+        intervals [173]:
+            xmin = 370.2397199443836 
+            xmax = 372.2308390022676 
+            text = "2-" 
+        intervals [174]:
+            xmin = 372.2308390022676 
+            xmax = 373.44975056689344 
+            text = "" 
+        intervals [175]:
+            xmin = 373.44975056689344 
+            xmax = 374.02154195011343 
+            text = "" 
+        intervals [176]:
+            xmin = 374.02154195011343 
+            xmax = 375.35959848577744 
+            text = "2-" 
+        intervals [177]:
+            xmin = 375.35959848577744 
+            xmax = 375.9263718820862 
+            text = "" 
+        intervals [178]:
+            xmin = 375.9263718820862 
+            xmax = 377.8768480725624 
+            text = "2-" 
+        intervals [179]:
+            xmin = 377.8768480725624 
+            xmax = 378.0768480725624 
+            text = "" 
+        intervals [180]:
+            xmin = 378.0768480725624 
+            xmax = 383.3414965986395 
+            text = "2-" 
+        intervals [181]:
+            xmin = 383.3414965986395 
+            xmax = 383.79452971033976 
+            text = "" 
+        intervals [182]:
+            xmin = 383.79452971033976 
+            xmax = 385.7219501133787 
+            text = "2-" 
+        intervals [183]:
+            xmin = 385.7219501133787 
+            xmax = 386.31369575111626 
+            text = "" 
+        intervals [184]:
+            xmin = 386.31369575111626 
+            xmax = 388.62167800453517 
+            text = "2-" 
+        intervals [185]:
+            xmin = 388.62167800453517 
+            xmax = 389.2732879818594 
+            text = "" 
+        intervals [186]:
+            xmin = 389.2732879818594 
+            xmax = 391.8459637188209 
+            text = "2-" 
+        intervals [187]:
+            xmin = 391.8459637188209 
+            xmax = 393.80185941043084 
+            text = "" 
+        intervals [188]:
+            xmin = 393.80185941043084 
+            xmax = 399.81267573696147 
+            text = "2-" 
+        intervals [189]:
+            xmin = 399.81267573696147 
+            xmax = 400.40467264280335 
+            text = "" 
+        intervals [190]:
+            xmin = 400.40467264280335 
+            xmax = 400.90656460608034 
+            text = "" 
+        intervals [191]:
+            xmin = 400.90656460608034 
+            xmax = 401.10761904761904 
+            text = "0" 
+        intervals [192]:
+            xmin = 401.10761904761904 
+            xmax = 401.2576190476191 
+            text = "" 
+        intervals [193]:
+            xmin = 401.2576190476191 
+            xmax = 404.7463945578232 
+            text = "" 
+        intervals [194]:
+            xmin = 404.7463945578232 
+            xmax = 405.14639455782327 
+            text = "" 
+        intervals [195]:
+            xmin = 405.14639455782327 
+            xmax = 405.6965285506348 
+            text = "0" 
+        intervals [196]:
+            xmin = 405.6965285506348 
+            xmax = 407.28210534503586 
+            text = "" 
+        intervals [197]:
+            xmin = 407.28210534503586 
+            xmax = 407.6129931972789 
+            text = "1+" 
+        intervals [198]:
+            xmin = 407.6129931972789 
+            xmax = 411.97086167800455 
+            text = "" 
+        intervals [199]:
+            xmin = 411.97086167800455 
+            xmax = 412.7226077097506 
+            text = "1" 
+        intervals [200]:
+            xmin = 412.7226077097506 
+            xmax = 418.8328573918928 
+            text = "" 
+        intervals [201]:
+            xmin = 418.8328573918928 
+            xmax = 421.5861904761905 
+            text = "1" 
+        intervals [202]:
+            xmin = 421.5861904761905 
+            xmax = 422.7573469387755 
+            text = "" 
+        intervals [203]:
+            xmin = 422.7573469387755 
+            xmax = 423.6469614512472 
+            text = "" 
+        intervals [204]:
+            xmin = 423.6469614512472 
+            xmax = 424.26374149659864 
+            text = "" 
+        intervals [205]:
+            xmin = 424.26374149659864 
+            xmax = 426.0748979591837 
+            text = "0" 
+        intervals [206]:
+            xmin = 426.0748979591837 
+            xmax = 427.5310190671248 
+            text = "" 
+        intervals [207]:
+            xmin = 427.5310190671248 
+            xmax = 427.86093406396424 
+            text = "0" 
+        intervals [208]:
+            xmin = 427.86093406396424 
+            xmax = 430.96417233560095 
+            text = "" 
+        intervals [209]:
+            xmin = 430.96417233560095 
+            xmax = 432.355918367347 
+            text = "2" 
+        intervals [210]:
+            xmin = 432.355918367347 
+            xmax = 434.49136054421774 
+            text = "" 
+        intervals [211]:
+            xmin = 434.49136054421774 
+            xmax = 436.96231292517007 
+            text = "2" 
+        intervals [212]:
+            xmin = 436.96231292517007 
+            xmax = 438.4541950113379 
+            text = "" 
+        intervals [213]:
+            xmin = 438.4541950113379 
+            xmax = 441.04612244897965 
+            text = "2" 
+        intervals [214]:
+            xmin = 441.04612244897965 
+            xmax = 446.29149659863947 
+            text = "" 
+        intervals [215]:
+            xmin = 446.29149659863947 
+            xmax = 449.15362811791385 
+            text = "2" 
+        intervals [216]:
+            xmin = 449.15362811791385 
+            xmax = 449.47870748299323 
+            text = "" 
+        intervals [217]:
+            xmin = 449.47870748299323 
+            xmax = 450.36027210884356 
+            text = "2" 
+        intervals [218]:
+            xmin = 450.36027210884356 
+            xmax = 450.85079365079366 
+            text = "" 
+        intervals [219]:
+            xmin = 450.85079365079366 
+            xmax = 452.2019047619048 
+            text = "2" 
+        intervals [220]:
+            xmin = 452.2019047619048 
+            xmax = 453.4508399700096 
+            text = "" 
+        intervals [221]:
+            xmin = 453.4508399700096 
+            xmax = 455.7734609062861 
+            text = "1" 
+        intervals [222]:
+            xmin = 455.7734609062861 
+            xmax = 457.19158730158733 
+            text = "" 
+        intervals [223]:
+            xmin = 457.19158730158733 
+            xmax = 462.26833260154524 
+            text = "0" 
+        intervals [224]:
+            xmin = 462.26833260154524 
+            xmax = 462.7196598639456 
+            text = "" 
+        intervals [225]:
+            xmin = 462.7196598639456 
+            xmax = 465.7909070294785 
+            text = "0" 
+        intervals [226]:
+            xmin = 465.7909070294785 
+            xmax = 466.30174603174606 
+            text = "" 
+        intervals [227]:
+            xmin = 466.30174603174606 
+            xmax = 470.7297732426304 
+            text = "0" 
+        intervals [228]:
+            xmin = 470.7297732426304 
+            xmax = 473.1697842567501 
+            text = "" 
+        intervals [229]:
+            xmin = 473.1697842567501 
+            xmax = 476.6260492779111 
+            text = "0" 
+        intervals [230]:
+            xmin = 476.6260492779111 
+            xmax = 477.0507270929916 
+            text = "" 
+        intervals [231]:
+            xmin = 477.0507270929916 
+            xmax = 479.66114621800034 
+            text = "0" 
+        intervals [232]:
+            xmin = 479.66114621800034 
+            xmax = 481.16248939618714 
+            text = "" 
+        intervals [233]:
+            xmin = 481.16248939618714 
+            xmax = 485.76292770425937 
+            text = "" 
+        intervals [234]:
+            xmin = 485.76292770425937 
+            xmax = 486.1236281179138 
+            text = "" 
+        intervals [235]:
+            xmin = 486.1236281179138 
+            xmax = 488.13505668934243 
+            text = "0" 
+        intervals [236]:
+            xmin = 488.13505668934243 
+            xmax = 490.52048106509807 
+            text = "" 
+        intervals [237]:
+            xmin = 490.52048106509807 
+            xmax = 493.17111111111114 
+            text = "2" 
+        intervals [238]:
+            xmin = 493.17111111111114 
+            xmax = 495.76588705317795 
+            text = "" 
+        intervals [239]:
+            xmin = 495.76588705317795 
+            xmax = 498.5912229303668 
+            text = "2-" 
+        intervals [240]:
+            xmin = 498.5912229303668 
+            xmax = 499.8030158730159 
+            text = "" 
+        intervals [241]:
+            xmin = 499.8030158730159 
+            xmax = 502.69245603153564 
+            text = "2-" 
+        intervals [242]:
+            xmin = 502.69245603153564 
+            xmax = 509.0018820861678 
+            text = "" 
+        intervals [243]:
+            xmin = 509.0018820861678 
+            xmax = 511.30989382456227 
+            text = "2-" 
+        intervals [244]:
+            xmin = 511.30989382456227 
+            xmax = 511.80827605383035 
+            text = "" 
+        intervals [245]:
+            xmin = 511.80827605383035 
+            xmax = 517.5204757029097 
+            text = "2-" 
+        intervals [246]:
+            xmin = 517.5204757029097 
+            xmax = 517.8013605442178 
+            text = "" 
+        intervals [247]:
+            xmin = 517.8013605442178 
+            xmax = 518.4515192743764 
+            text = "2-" 
+        intervals [248]:
+            xmin = 518.4515192743764 
+            xmax = 518.7980187458891 
+            text = "" 
+        intervals [249]:
+            xmin = 518.7980187458891 
+            xmax = 521.0592743764173 
+            text = "2-" 
+        intervals [250]:
+            xmin = 521.0592743764173 
+            xmax = 521.5164172335601 
+            text = "" 
+        intervals [251]:
+            xmin = 521.5164172335601 
+            xmax = 524.6400791323338 
+            text = "2-" 
+        intervals [252]:
+            xmin = 524.6400791323338 
+            xmax = 525.4262594664749 
+            text = "" 
+        intervals [253]:
+            xmin = 525.4262594664749 
+            xmax = 527.5523349914697 
+            text = "2+" 
+        intervals [254]:
+            xmin = 527.5523349914697 
+            xmax = 528.0647561021153 
+            text = "" 
+        intervals [255]:
+            xmin = 528.0647561021153 
+            xmax = 529.7960997732426 
+            text = "2-" 
+        intervals [256]:
+            xmin = 529.7960997732426 
+            xmax = 532.1377324263038 
+            text = "" 
+        intervals [257]:
+            xmin = 532.1377324263038 
+            xmax = 536.8407029478458 
+            text = "2-" 
+        intervals [258]:
+            xmin = 536.8407029478458 
+            xmax = 538.3620181405896 
+            text = "" 
+        intervals [259]:
+            xmin = 538.3620181405896 
+            xmax = 539.0542630385488 
+            text = "2-" 
+        intervals [260]:
+            xmin = 539.0542630385488 
+            xmax = 540.3284580498866 
+            text = "" 
+        intervals [261]:
+            xmin = 540.3284580498866 
+            xmax = 541.0708390022677 
+            text = "2" 
+        intervals [262]:
+            xmin = 541.0708390022677 
+            xmax = 544.2537283466831 
+            text = "" 
+        intervals [263]:
+            xmin = 544.2537283466831 
+            xmax = 545.7362358276645 
+            text = "1+" 
+        intervals [264]:
+            xmin = 545.7362358276645 
+            xmax = 568.1769160997733 
+            text = "" 
+        intervals [265]:
+            xmin = 568.1769160997733 
+            xmax = 568.581814058957 
+            text = "0" 
+        intervals [266]:
+            xmin = 568.581814058957 
+            xmax = 570.5982236145683 
+            text = "" 
+        intervals [267]:
+            xmin = 570.5982236145683 
+            xmax = 570.7728872387488 
+            text = "" 
+        intervals [268]:
+            xmin = 570.7728872387488 
+            xmax = 571.3168959521054 
+            text = "2" 
+        intervals [269]:
+            xmin = 571.3168959521054 
+            xmax = 572.9805096948861 
+            text = "" 
+        intervals [270]:
+            xmin = 572.9805096948861 
+            xmax = 576.162426303855 
+            text = "2" 
+        intervals [271]:
+            xmin = 576.162426303855 
+            xmax = 583.4621315192744 
+            text = "" 
+        intervals [272]:
+            xmin = 583.4621315192744 
+            xmax = 584.7537414965986 
+            text = "1+" 
+        intervals [273]:
+            xmin = 584.7537414965986 
+            xmax = 587.9208402230985 
+            text = "" 
+        intervals [274]:
+            xmin = 587.9208402230985 
+            xmax = 589.4427437641725 
+            text = "1+" 
+        intervals [275]:
+            xmin = 589.4427437641725 
+            xmax = 598.2689795918367 
+            text = "" 
+        intervals [276]:
+            xmin = 598.2689795918367 
+            xmax = 598.7731537245978 
+            text = "0" 
+        intervals [277]:
+            xmin = 598.7731537245978 
+            xmax = 602.1114965986395 
+            text = "" 
+        intervals [278]:
+            xmin = 602.1114965986395 
+            xmax = 602.7224716553288 
+            text = "" 
+        intervals [279]:
+            xmin = 602.7224716553288 
+            xmax = 612.5011337868482 
+            text = "2" 
+        intervals [280]:
+            xmin = 612.5011337868482 
+            xmax = 612.9713378684808 
+            text = "" 
+        intervals [281]:
+            xmin = 612.9713378684808 
+            xmax = 614.5101937878553 
+            text = "2" 
+        intervals [282]:
+            xmin = 614.5101937878553 
+            xmax = 614.6938548752835 
+            text = "" 
+        intervals [283]:
+            xmin = 614.6938548752835 
+            xmax = 615.4999386728008 
+            text = "2" 
+        intervals [284]:
+            xmin = 615.4999386728008 
+            xmax = 616.2110430839002 
+            text = "" 
+        intervals [285]:
+            xmin = 616.2110430839002 
+            xmax = 620.1413151927438 
+            text = "2" 
+        intervals [286]:
+            xmin = 620.1413151927438 
+            xmax = 620.7131065759637 
+            text = "" 
+        intervals [287]:
+            xmin = 620.7131065759637 
+            xmax = 622.06 
+            text = "2" 
+        intervals [288]:
+            xmin = 622.06 
+            xmax = 622.4779591836735 
+            text = "" 
+        intervals [289]:
+            xmin = 622.4779591836735 
+            xmax = 624.2651020408163 
+            text = "2" 
+        intervals [290]:
+            xmin = 624.2651020408163 
+            xmax = 624.8535963123435 
+            text = "" 
+        intervals [291]:
+            xmin = 624.8535963123435 
+            xmax = 625.6445351473923 
+            text = "2" 
+        intervals [292]:
+            xmin = 625.6445351473923 
+            xmax = 626.2345351473924 
+            text = "" 
+        intervals [293]:
+            xmin = 626.2345351473924 
+            xmax = 630.737773502403 
+            text = "2" 
+        intervals [294]:
+            xmin = 630.737773502403 
+            xmax = 631.2486167800454 
+            text = "" 
+        intervals [295]:
+            xmin = 631.2486167800454 
+            xmax = 632.5899546485259 
+            text = "2" 
+        intervals [296]:
+            xmin = 632.5899546485259 
+            xmax = 633.3307482993197 
+            text = "" 
+        intervals [297]:
+            xmin = 633.3307482993197 
+            xmax = 633.6964789563359 
+            text = "0" 
+        intervals [298]:
+            xmin = 633.6964789563359 
+            xmax = 634.2479591836735 
+            text = "" 
+        intervals [299]:
+            xmin = 634.2479591836735 
+            xmax = 636.479977324263 
+            text = "3" 
+        intervals [300]:
+            xmin = 636.479977324263 
+            xmax = 637.1315873015874 
+            text = "" 
+        intervals [301]:
+            xmin = 637.1315873015874 
+            xmax = 638.1489115646259 
+            text = "2" 
+        intervals [302]:
+            xmin = 638.1489115646259 
+            xmax = 641.554126984127 
+            text = "" 
+        intervals [303]:
+            xmin = 641.554126984127 
+            xmax = 641.9699612939824 
+            text = "" 
+        intervals [304]:
+            xmin = 641.9699612939824 
+            xmax = 642.4807936507937 
+            text = "2+" 
+        intervals [305]:
+            xmin = 642.4807936507937 
+            xmax = 643.4923129251702 
+            text = "" 
+        intervals [306]:
+            xmin = 643.4923129251702 
+            xmax = 648.0359410430839 
+            text = "2+" 
+        intervals [307]:
+            xmin = 648.0359410430839 
+            xmax = 648.6365079365083 
+            text = "" 
+        intervals [308]:
+            xmin = 648.6365079365083 
+            xmax = 649.9673015873017 
+            text = "" 
+        intervals [309]:
+            xmin = 649.9673015873017 
+            xmax = 655.0412471655329 
+            text = "" 
+        intervals [310]:
+            xmin = 655.0412471655329 
+            xmax = 655.7944444444445 
+            text = "1+" 
+        intervals [311]:
+            xmin = 655.7944444444445 
+            xmax = 656.471574717875 
+            text = "" 
+        intervals [312]:
+            xmin = 656.471574717875 
+            xmax = 658.5512925170068 
+            text = "2+" 
+        intervals [313]:
+            xmin = 658.5512925170068 
+            xmax = 659.7720408163262 
+            text = "" 
+        intervals [314]:
+            xmin = 659.7720408163262 
+            xmax = 660.1545124716554 
+            text = "x" 
+        intervals [315]:
+            xmin = 660.1545124716554 
+            xmax = 661.1253968253968 
+            text = "" 
+        intervals [316]:
+            xmin = 661.1253968253968 
+            xmax = 661.3930839002268 
+            text = "1+" 
+        intervals [317]:
+            xmin = 661.3930839002268 
+            xmax = 662.4937868480725 
+            text = "" 
+        intervals [318]:
+            xmin = 662.4937868480725 
+            xmax = 664.1046712018141 
+            text = "1" 
+        intervals [319]:
+            xmin = 664.1046712018141 
+            xmax = 665.4680625842404 
+            text = "" 
+        intervals [320]:
+            xmin = 665.4680625842404 
+            xmax = 666.8003401360545 
+            text = "1" 
+        intervals [321]:
+            xmin = 666.8003401360545 
+            xmax = 680.5932879818595 
+            text = "" 
+        intervals [322]:
+            xmin = 680.5932879818595 
+            xmax = 680.7312886068324 
+            text = "" 
+        intervals [323]:
+            xmin = 680.7312886068324 
+            xmax = 681.212448979592 
+            text = "1+" 
+        intervals [324]:
+            xmin = 681.212448979592 
+            xmax = 681.8843764172336 
+            text = "" 
+        intervals [325]:
+            xmin = 681.8843764172336 
+            xmax = 682.8080272108843 
+            text = "x" 
+        intervals [326]:
+            xmin = 682.8080272108843 
+            xmax = 683.5663303260081 
+            text = "" 
+        intervals [327]:
+            xmin = 683.5663303260081 
+            xmax = 683.7769143440817 
+            text = "x" 
+        intervals [328]:
+            xmin = 683.7769143440817 
+            xmax = 686.8892250203876 
+            text = "" 
+        intervals [329]:
+            xmin = 686.8892250203876 
+            xmax = 687.187552379325 
+            text = "1+" 
+        intervals [330]:
+            xmin = 687.187552379325 
+            xmax = 689.3586167800454 
+            text = "" 
+        intervals [331]:
+            xmin = 689.3586167800454 
+            xmax = 689.6586167800451 
+            text = "" 
+        intervals [332]:
+            xmin = 689.6586167800451 
+            xmax = 691.5028782347367 
+            text = "2" 
+        intervals [333]:
+            xmin = 691.5028782347367 
+            xmax = 691.9977506772095 
+            text = "" 
+        intervals [334]:
+            xmin = 691.9977506772095 
+            xmax = 692.8293197278912 
+            text = "2" 
+        intervals [335]:
+            xmin = 692.8293197278912 
+            xmax = 694.1764722067229 
+            text = "" 
+        intervals [336]:
+            xmin = 694.1764722067229 
+            xmax = 697.4321541950113 
+            text = "2" 
+        intervals [337]:
+            xmin = 697.4321541950113 
+            xmax = 698.6439455782313 
+            text = "" 
+        intervals [338]:
+            xmin = 698.6439455782313 
+            xmax = 703.4497052154195 
+            text = "2" 
+        intervals [339]:
+            xmin = 703.4497052154195 
+            xmax = 704.4533106575965 
+            text = "" 
+        intervals [340]:
+            xmin = 704.4533106575965 
+            xmax = 708.5310657596373 
+            text = "2" 
+        intervals [341]:
+            xmin = 708.5310657596373 
+            xmax = 710.3015873015873 
+            text = "" 
+        intervals [342]:
+            xmin = 710.3015873015873 
+            xmax = 719.371247165533 
+            text = "" 
+        intervals [343]:
+            xmin = 719.371247165533 
+            xmax = 720.243698917478 
+            text = "2-" 
+        intervals [344]:
+            xmin = 720.243698917478 
+            xmax = 720.7654875283448 
+            text = "" 
+        intervals [345]:
+            xmin = 720.7654875283448 
+            xmax = 723.7028117913833 
+            text = "" 
+        intervals [346]:
+            xmin = 723.7028117913833 
+            xmax = 724.3602267573697 
+            text = "2+" 
+        intervals [347]:
+            xmin = 724.3602267573697 
+            xmax = 724.7165759637189 
+            text = "" 
+        intervals [348]:
+            xmin = 724.7165759637189 
+            xmax = 730.2185790103376 
+            text = "2-" 
+        intervals [349]:
+            xmin = 730.2185790103376 
+            xmax = 730.5610657596372 
+            text = "" 
+        intervals [350]:
+            xmin = 730.5610657596372 
+            xmax = 733.3408616780046 
+            text = "2" 
+        intervals [351]:
+            xmin = 733.3408616780046 
+            xmax = 733.6369160997733 
+            text = "" 
+        intervals [352]:
+            xmin = 733.6369160997733 
+            xmax = 734.3277097505669 
+            text = "2" 
+        intervals [353]:
+            xmin = 734.3277097505669 
+            xmax = 734.7848526077098 
+            text = "" 
+        intervals [354]:
+            xmin = 734.7848526077098 
+            xmax = 735.818467775998 
+            text = "2" 
+        intervals [355]:
+            xmin = 735.818467775998 
+            xmax = 737.0331519274376 
+            text = "" 
+        intervals [356]:
+            xmin = 737.0331519274376 
+            xmax = 740.2115873015873 
+            text = "2" 
+        intervals [357]:
+            xmin = 740.2115873015873 
+            xmax = 741.9815873015873 
+            text = "" 
+        intervals [358]:
+            xmin = 741.9815873015873 
+            xmax = 744.7908163265306 
+            text = "2" 
+        intervals [359]:
+            xmin = 744.7908163265306 
+            xmax = 747.8815873015874 
+            text = "" 
+        intervals [360]:
+            xmin = 747.8815873015874 
+            xmax = 748.4127437641723 
+            text = "1+" 
+        intervals [361]:
+            xmin = 748.4127437641723 
+            xmax = 749.5098866213152 
+            text = "" 
+        intervals [362]:
+            xmin = 749.5098866213152 
+            xmax = 749.7207398059287 
+            text = "" 
+        intervals [363]:
+            xmin = 749.7207398059287 
+            xmax = 752.3662131519275 
+            text = "2" 
+        intervals [364]:
+            xmin = 752.3662131519275 
+            xmax = 752.9126757369615 
+            text = "" 
+        intervals [365]:
+            xmin = 752.9126757369615 
+            xmax = 753.7530839002268 
+            text = "" 
+        intervals [366]:
+            xmin = 753.7530839002268 
+            xmax = 754.0839682539682 
+            text = "1+" 
+        intervals [367]:
+            xmin = 754.0839682539682 
+            xmax = 756.455306122449 
+            text = "" 
+        intervals [368]:
+            xmin = 756.455306122449 
+            xmax = 756.9939484577259 
+            text = "x" 
+        intervals [369]:
+            xmin = 756.9939484577259 
+            xmax = 757.509879302006 
+            text = "" 
+        intervals [370]:
+            xmin = 757.509879302006 
+            xmax = 758.8334240362813 
+            text = "" 
+        intervals [371]:
+            xmin = 758.8334240362813 
+            xmax = 764.5714965986394 
+            text = "" 
+        intervals [372]:
+            xmin = 764.5714965986394 
+            xmax = 765.542380952381 
+            text = "1+" 
+        intervals [373]:
+            xmin = 765.542380952381 
+            xmax = 767.0531292517007 
+            text = "" 
+        intervals [374]:
+            xmin = 767.0531292517007 
+            xmax = 768.7813151927437 
+            text = "1" 
+        intervals [375]:
+            xmin = 768.7813151927437 
+            xmax = 771.7371201814059 
+            text = "" 
+        intervals [376]:
+            xmin = 771.7371201814059 
+            xmax = 776.6063265306123 
+            text = "1" 
+        intervals [377]:
+            xmin = 776.6063265306123 
+            xmax = 776.8886621315194 
+            text = "" 
+        intervals [378]:
+            xmin = 776.8886621315194 
+            xmax = 778.8313605442178 
+            text = "2" 
+        intervals [379]:
+            xmin = 778.8313605442178 
+            xmax = 779.6440589569162 
+            text = "" 
+        intervals [380]:
+            xmin = 779.6440589569162 
+            xmax = 780.278253968254 
+            text = "0" 
+        intervals [381]:
+            xmin = 780.278253968254 
+            xmax = 782.3303174603175 
+            text = "" 
+        intervals [382]:
+            xmin = 782.3303174603175 
+            xmax = 782.5303174603173 
+            text = "" 
+        intervals [383]:
+            xmin = 782.5303174603173 
+            xmax = 783.608693615472 
+            text = "2-" 
+        intervals [384]:
+            xmin = 783.608693615472 
+            xmax = 783.913216984131 
+            text = "" 
+        intervals [385]:
+            xmin = 783.913216984131 
+            xmax = 785.3630158730159 
+            text = "2-" 
+        intervals [386]:
+            xmin = 785.3630158730159 
+            xmax = 786.8781188477855 
+            text = "" 
+        intervals [387]:
+            xmin = 786.8781188477855 
+            xmax = 788.9896825396826 
+            text = "2" 
+        intervals [388]:
+            xmin = 788.9896825396826 
+            xmax = 789.8467573696146 
+            text = "" 
+        intervals [389]:
+            xmin = 789.8467573696146 
+            xmax = 790.7175056689342 
+            text = "" 
+        intervals [390]:
+            xmin = 790.7175056689342 
+            xmax = 791.4259105806258 
+            text = "" 
+        intervals [391]:
+            xmin = 791.4259105806258 
+            xmax = 794.0105895691611 
+            text = "" 
+        intervals [392]:
+            xmin = 794.0105895691611 
+            xmax = 795.9278911564626 
+            text = "" 
+        intervals [393]:
+            xmin = 795.9278911564626 
+            xmax = 798.9603166050249 
+            text = "x" 
+        intervals [394]:
+            xmin = 798.9603166050249 
+            xmax = 800 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 800 
+        intervals: size = 313 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.536961451247 
+            text = "{SIL}" 
+        intervals [2]:
+            xmin = 0.536961451247 
+            xmax = 0.788027210884 
+            text = "{NVC}" 
+        intervals [3]:
+            xmin = 0.788027210884 
+            xmax = 2.11564120355 
+            text = "{SIL}" 
+        intervals [4]:
+            xmin = 2.11564120355 
+            xmax = 2.26564120355 
+            text = "{NVC}" 
+        intervals [5]:
+            xmin = 2.26564120355 
+            xmax = 10.3954722995 
+            text = "{SIL}" 
+        intervals [6]:
+            xmin = 10.3954722995 
+            xmax = 11.4669413226 
+            text = "Oh. {QUAL breathy} {NVC}" 
+        intervals [7]:
+            xmin = 11.4669413226 
+            xmax = 12.473446712 
+            text = "This is hard." 
+        intervals [8]:
+            xmin = 12.473446712 
+            xmax = 13.9341950113 
+            text = "{SIL}" 
+        intervals [9]:
+            xmin = 13.9341950113 
+            xmax = 14.6685260771 
+            text = "Yeah." 
+        intervals [10]:
+            xmin = 14.6685260771 
+            xmax = 17.7515646259 
+            text = "{SIL}" 
+        intervals [11]:
+            xmin = 17.7515646259 
+            xmax = 18.3683446712 
+            text = "Well -" 
+        intervals [12]:
+            xmin = 18.3683446712 
+            xmax = 23.7312471655 
+            text = "{SIL}" 
+        intervals [13]:
+            xmin = 23.7312471655 
+            xmax = 24.204668609 
+            text = "{VOC breath}" 
+        intervals [14]:
+            xmin = 24.204668609 
+            xmax = 26.956893424 
+            text = "So they want us to say the words probably, so m- I'll read it. Um -" 
+        intervals [15]:
+            xmin = 26.956893424 
+            xmax = 27.229258496 
+            text = "{VOC breath}" 
+        intervals [16]:
+            xmin = 27.229258496 
+            xmax = 30.2202721088 
+            text = "Education programs. So we're starting with education first." 
+        intervals [17]:
+            xmin = 30.2202721088 
+            xmax = 49.8967573696 
+            text = "{SIL}" 
+        intervals [18]:
+            xmin = 49.8967573696 
+            xmax = 50.1467573696 
+            text = "{VOC mouthnoise}" 
+        intervals [19]:
+            xmin = 50.1467573696 
+            xmax = 55.3525396825 
+            text = "{SIL}" 
+        intervals [20]:
+            xmin = 55.3525396825 
+            xmax = 56.6144671202 
+            text = "Huh." 
+        intervals [21]:
+            xmin = 56.6144671202 
+            xmax = 62.5072108844 
+            text = "{SIL}" 
+        intervals [22]:
+            xmin = 62.5072108844 
+            xmax = 64.9707709751 
+            text = "{VOC start} Alright, let's go for it. I - I agree with that." 
+        intervals [23]:
+            xmin = 64.9707709751 
+            xmax = 65.8631519274 
+            text = "{VOC breath} 'Yep. {PRN hyep}" 
+        intervals [24]:
+            xmin = 65.8631519274 
+            xmax = 67.2567573696 
+            text = "{SIL}" 
+        intervals [25]:
+            xmin = 67.2567573696 
+            xmax = 69.8982993197 
+            text = "'Yeah. {PRN hyuh} So we gotta get (1x) rid of one on the other side." 
+        intervals [26]:
+            xmin = 69.8982993197 
+            xmax = 71.1957142857 
+            text = "{SIL}" 
+        intervals [27]:
+            xmin = 71.1957142857 
+            xmax = 71.5127437642 
+            text = "{VOC breath}" 
+        intervals [28]:
+            xmin = 71.5127437642 
+            xmax = 78.1695011338 
+            text = "Sure. Public health and safety. Reproductive education, job training programs, chicken pox vaccinations -" 
+        intervals [29]:
+            xmin = 78.1695011338 
+            xmax = 78.7804761905 
+            text = "{VOC breath}" 
+        intervals [30]:
+            xmin = 78.7804761905 
+            xmax = 82.9896371882 
+            text = "Invasive species removal, S_T_D_ education, toxic waste disposal -" 
+        intervals [31]:
+            xmin = 82.9896371882 
+            xmax = 83.3285714286 
+            text = "{VOC breath}" 
+        intervals [32]:
+            xmin = 83.3285714286 
+            xmax = 87.3702947846 
+            text = "Hospital *additions, needle exchange, sex offender database -" 
+        intervals [33]:
+            xmin = 87.3702947846 
+            xmax = 87.9232199546 
+            text = "{VOC breath}" 
+        intervals [34]:
+            xmin = 87.9232199546 
+            xmax = 94.6940444593 
+            text = "Veterans medical assistance.. weed control, pre-natal checkups, and neighborhood watch support." 
+        intervals [35]:
+            xmin = 94.6940444593 
+            xmax = 98.695251805 
+            text = "{SIL}" 
+        intervals [36]:
+            xmin = 98.695251805 
+            xmax = 99.1378913726 
+            text = "{VOC mouthnoise}" 
+        intervals [37]:
+            xmin = 99.1378913726 
+            xmax = 100.848911565 
+            text = "{SIL}" 
+        intervals [38]:
+            xmin = 100.848911565 
+            xmax = 101.066421378 
+            text = "{VOC mouthnoise}" 
+        intervals [39]:
+            xmin = 101.066421378 
+            xmax = 101.658526077 
+            text = "No." 
+        intervals [40]:
+            xmin = 101.658526077 
+            xmax = 103.258427317 
+            text = "{SIL}" 
+        intervals [41]:
+            xmin = 103.258427317 
+            xmax = 105.253818383 
+            text = "Maybe hospital additions?" 
+        intervals [42]:
+            xmin = 105.253818383 
+            xmax = 110.393854875 
+            text = "{SIL}" 
+        intervals [43]:
+            xmin = 110.393854875 
+            xmax = 112.370840115 
+            text = "Under toxic waste disposal." 
+        intervals [44]:
+            xmin = 112.370840115 
+            xmax = 115.065206832 
+            text = "{SIL}" 
+        intervals [45]:
+            xmin = 115.065206832 
+            xmax = 115.499138322 
+            text = "{VOC breath}" 
+        intervals [46]:
+            xmin = 115.499138322 
+            xmax = 119.821711853 
+            text = "Now, some would say invasive species removal, but that's really important for Seattle." 
+        intervals [47]:
+            xmin = 119.821711853 
+            xmax = 121.567565211 
+            text = "{SIL}" 
+        intervals [48]:
+            xmin = 121.567565211 
+            xmax = 124.03324263 
+            text = "And weed control is not the same thing." 
+        intervals [49]:
+            xmin = 124.03324263 
+            xmax = 125.354535147 
+            text = "{SIL}" 
+        intervals [50]:
+            xmin = 125.354535147 
+            xmax = 127.135462281 
+            text = "But they're *of the same nature." 
+        intervals [51]:
+            xmin = 127.135462281 
+            xmax = 134.501111111 
+            text = "{SIL}" 
+        intervals [52]:
+            xmin = 134.501111111 
+            xmax = 135.936394558 
+            text = "(They) say weed control -" 
+        intervals [53]:
+            xmin = 135.936394558 
+            xmax = 136.864520254 
+            text = "{SIL}" 
+        intervals [54]:
+            xmin = 136.864520254 
+            xmax = 137.675759637 
+            text = "Oh, because -" 
+        intervals [55]:
+            xmin = 137.675759637 
+            xmax = 143.353469388 
+            text = "{SIL}" 
+        intervals [56]:
+            xmin = 143.353469388 
+            xmax = 145.277843639 
+            text = "Mm, a separate office, you mean?" 
+        intervals [57]:
+            xmin = 145.277843639 
+            xmax = 146.470770975 
+            text = "{SIL}" 
+        intervals [58]:
+            xmin = 146.470770975 
+            xmax = 146.665483405 
+            text = "To -" 
+        intervals [59]:
+            xmin = 146.665483405 
+            xmax = 152.92895691 
+            text = "{SIL}" 
+        intervals [60]:
+            xmin = 152.92895691 
+            xmax = 153.575237225 
+            text = "{VOC mouthnoise}" 
+        intervals [61]:
+            xmin = 153.575237225 
+            xmax = 160.807800454 
+            text = "Yeah. Sorry, I had to sneeze, Heather. Um, neighborhood watch support, you think then.. might - it's definitely we have to keep pre-natal checkups." 
+        intervals [62]:
+            xmin = 160.807800454 
+            xmax = 162.58225925 
+            text = "{NVC}" 
+        intervals [63]:
+            xmin = 162.58225925 
+            xmax = 163.458684807 
+            text = "And the V_A_. {NVC}" 
+        intervals [64]:
+            xmin = 163.458684807 
+            xmax = 164.390385488 
+            text = "{NVC} {VOC breath}" 
+        intervals [65]:
+            xmin = 164.390385488 
+            xmax = 170.437127221 
+            text = "{SIL}" 
+        intervals [66]:
+            xmin = 170.437127221 
+            xmax = 174.364580499 
+            text = "'It's {PRN 'eights'} pretty different populations, actually. Teenagers and adults." 
+        intervals [67]:
+            xmin = 174.364580499 
+            xmax = 175.09600907 
+            text = "{VOC breath}" 
+        intervals [68]:
+            xmin = 175.09600907 
+            xmax = 177.006232775 
+            text = "Um, you could combine the two." 
+        intervals [69]:
+            xmin = 177.006232775 
+            xmax = 185.195260771 
+            text = "{SIL}" 
+        intervals [70]:
+            xmin = 185.195260771 
+            xmax = 186.093854875 
+            text = "Oh." 
+        intervals [71]:
+            xmin = 186.093854875 
+            xmax = 191.153174603 
+            text = "{SIL}" 
+        intervals [72]:
+            xmin = 191.153174603 
+            xmax = 191.782222222 
+            text = "{VOC mouthnoise}" 
+        intervals [73]:
+            xmin = 191.782222222 
+            xmax = 193.832834467 
+            text = "Well, I think maybe S_T_D_ education." 
+        intervals [74]:
+            xmin = 193.832834467 
+            xmax = 196.394172336 
+            text = "{SIL}" 
+        intervals [75]:
+            xmin = 196.394172336 
+            xmax = 197.485510204 
+            text = "Oh, this is really hard." 
+        intervals [76]:
+            xmin = 197.485510204 
+            xmax = 207.675804989 
+            text = "{SIL}" 
+        intervals [77]:
+            xmin = 207.675804989 
+            xmax = 209.788820862 
+            text = "That's two.. Two on that list" 
+        intervals [78]:
+            xmin = 209.788820862 
+            xmax = 213.533582766 
+            text = "{SIL}" 
+        intervals [79]:
+            xmin = 213.533582766 
+            xmax = 213.833582766 
+            text = "(1x) {QUAL assenting}" 
+        intervals [80]:
+            xmin = 213.833582766 
+            xmax = 217.400768661 
+            text = "{SIL}" 
+        intervals [81]:
+            xmin = 217.400768661 
+            xmax = 217.941772519 
+            text = "{VOC breath}" 
+        intervals [82]:
+            xmin = 217.941772519 
+            xmax = 222.633560091 
+            text = "Well, neighbors could be helping in a time of budget, so yeah, let's get rid of neighborhood watch support." 
+        intervals [83]:
+            xmin = 222.633560091 
+            xmax = 233.395510204 
+            text = "{SIL}" 
+        intervals [84]:
+            xmin = 233.395510204 
+            xmax = 233.645510204 
+            text = "{NVC}" 
+        intervals [85]:
+            xmin = 233.645510204 
+            xmax = 245.434693878 
+            text = "{SIL}" 
+        intervals [86]:
+            xmin = 245.434693878 
+            xmax = 245.864263039 
+            text = "Hm." 
+        intervals [87]:
+            xmin = 245.864263039 
+            xmax = 250.833877551 
+            text = "{SIL}" 
+        intervals [88]:
+            xmin = 250.833877551 
+            xmax = 252.893469388 
+            text = "Because it handles the d- animals." 
+        intervals [89]:
+            xmin = 252.893469388 
+            xmax = 253.860793651 
+            text = "{SIL}" 
+        intervals [90]:
+            xmin = 253.860793651 
+            xmax = 254.571904762 
+            text = "Public health." 
+        intervals [91]:
+            xmin = 254.571904762 
+            xmax = 255.381979562 
+            text = "{SIL}" 
+        intervals [92]:
+            xmin = 255.381979562 
+            xmax = 260.567071125 
+            text = "Look, you got stray cat spraying, and baby and kitten 'puppy {PRN pupping} adoption *and the veterinary hospital." 
+        intervals [93]:
+            xmin = 260.567071125 
+            xmax = 264.796509633 
+            text = "{SIL}" 
+        intervals [94]:
+            xmin = 264.796509633 
+            xmax = 266.071732877 
+            text = "It's a public service." 
+        intervals [95]:
+            xmin = 266.071732877 
+            xmax = 268.858526077 
+            text = "{SIL}" 
+        intervals [96]:
+            xmin = 268.858526077 
+            xmax = 270.968644006 
+            text = "Uh, to keep, uh, vermin down." 
+        intervals [97]:
+            xmin = 270.968644006 
+            xmax = 271.474517689 
+            text = "{SIL}" 
+        intervals [98]:
+            xmin = 271.474517689 
+            xmax = 272.56585034 
+            text = "Disease control." 
+        intervals [99]:
+            xmin = 272.56585034 
+            xmax = 273.979181441 
+            text = "{SIL}" 
+        intervals [100]:
+            xmin = 273.979181441 
+            xmax = 274.316430563 
+            text = "{VOC breath}" 
+        intervals [101]:
+            xmin = 274.316430563 
+            xmax = 275.697044158 
+            text = "You also have dog catcher on there." 
+        intervals [102]:
+            xmin = 275.697044158 
+            xmax = 289.910120739 
+            text = "{SIL}" 
+        intervals [103]:
+            xmin = 289.910120739 
+            xmax = 294.212811791 
+            text = "Well, the dog catcher picks up the puppies and the kittens. And then they adopt them out." 
+        intervals [104]:
+            xmin = 294.212811791 
+            xmax = 298.794671202 
+            text = "{SIL}" 
+        intervals [105]:
+            xmin = 298.794671202 
+            xmax = 300.585124717 
+            text = "The dog catcher doesn't do that." 
+        intervals [106]:
+            xmin = 300.585124717 
+            xmax = 302.096303559 
+            text = "{SIL}" 
+        intervals [107]:
+            xmin = 302.096303559 
+            xmax = 304.530706676 
+            text = "It would be a more humane world if they did, yes." 
+        intervals [108]:
+            xmin = 304.530706676 
+            xmax = 305.345725389 
+            text = "{SIL}" 
+        intervals [109]:
+            xmin = 305.345725389 
+            xmax = 309.533008156 
+            text = "Right, so in a hypothetical world.. {VOC start} veterinary hospital *would be essential." 
+        intervals [110]:
+            xmin = 309.533008156 
+            xmax = 314.370311671 
+            text = "{SIL}" 
+        intervals [111]:
+            xmin = 314.370311671 
+            xmax = 317.802410509 
+            text = "{NVC}" 
+        intervals [112]:
+            xmin = 317.802410509 
+            xmax = 324.733786848 
+            text = "{SIL}" 
+        intervals [113]:
+            xmin = 324.733786848 
+            xmax = 325.225759637 
+            text = "Alright." 
+        intervals [114]:
+            xmin = 325.225759637 
+            xmax = 325.881996645 
+            text = "{SIL}" 
+        intervals [115]:
+            xmin = 325.881996645 
+            xmax = 327.659773243 
+            text = "So, get rid of the veterinary hospital?" 
+        intervals [116]:
+            xmin = 327.659773243 
+            xmax = 328.249652941 
+            text = "{SIL}" 
+        intervals [117]:
+            xmin = 328.249652941 
+            xmax = 330.363061224 
+            text = "'Is {PRN ih} that more important than football stadium upkeep?" 
+        intervals [118]:
+            xmin = 330.363061224 
+            xmax = 331.270729411 
+            text = "{SIL}" 
+        intervals [119]:
+            xmin = 331.270729411 
+            xmax = 333.60325519 
+            text = "Couldn't the football stadium people take care of their own upkeep?" 
+        intervals [120]:
+            xmin = 333.60325519 
+            xmax = 335.890225801 
+            text = "{SIL}" 
+        intervals [121]:
+            xmin = 335.890225801 
+            xmax = 339.95292517 
+            text = "(??) conference rooms, you gotta lead a f- leave a conference room clean. You ha- you leave a stadium clean?" 
+        intervals [122]:
+            xmin = 339.95292517 
+            xmax = 341.042811791 
+            text = "{SIL}" 
+        intervals [123]:
+            xmin = 341.042811791 
+            xmax = 341.428843537 
+            text = "Kidding." 
+        intervals [124]:
+            xmin = 341.428843537 
+            xmax = 342.325714286 
+            text = "{SIL}" 
+        intervals [125]:
+            xmin = 342.325714286 
+            xmax = 345.70185941 
+            text = "{NVC} {VOC cough} {VOC cough} {VOC cough}" 
+        intervals [126]:
+            xmin = 345.70185941 
+            xmax = 346.759818594 
+            text = "{SIL}" 
+        intervals [127]:
+            xmin = 346.759818594 
+            xmax = 347.845351474 
+            text = "{VOC cough} {NVC}" 
+        intervals [128]:
+            xmin = 347.845351474 
+            xmax = 350.51432515 
+            text = "{SIL}" 
+        intervals [129]:
+            xmin = 350.51432515 
+            xmax = 350.792970522 
+            text = "{VOC cough}" 
+        intervals [130]:
+            xmin = 350.792970522 
+            xmax = 354.195351474 
+            text = "{SIL}" 
+        intervals [131]:
+            xmin = 354.195351474 
+            xmax = 354.495351474 
+            text = "{VOC cough}" 
+        intervals [132]:
+            xmin = 354.495351474 
+            xmax = 358.354897959 
+            text = "{SIL}" 
+        intervals [133]:
+            xmin = 358.354897959 
+            xmax = 358.726417234 
+            text = "{VOC cough}" 
+        intervals [134]:
+            xmin = 358.726417234 
+            xmax = 359.236792026 
+            text = "{SIL}" 
+        intervals [135]:
+            xmin = 359.236792026 
+            xmax = 360.034263039 
+            text = "So sorry!" 
+        intervals [136]:
+            xmin = 360.034263039 
+            xmax = 364.273628118 
+            text = "{SIL}" 
+        intervals [137]:
+            xmin = 364.273628118 
+            xmax = 364.724965986 
+            text = "{VOC mouthnoise}" 
+        intervals [138]:
+            xmin = 364.724965986 
+            xmax = 366.635079365 
+            text = "{SIL}" 
+        intervals [139]:
+            xmin = 366.635079365 
+            xmax = 366.835079365 
+            text = "{VOC cough}" 
+        intervals [140]:
+            xmin = 366.835079365 
+            xmax = 368.040058572 
+            text = "{SIL}" 
+        intervals [141]:
+            xmin = 368.040058572 
+            xmax = 368.236787226 
+            text = "{VOC mouthnoise}" 
+        intervals [142]:
+            xmin = 368.236787226 
+            xmax = 369.838606973 
+            text = "No, those are essential for homeless." 
+        intervals [143]:
+            xmin = 369.838606973 
+            xmax = 372.774399093 
+            text = "{SIL}" 
+        intervals [144]:
+            xmin = 372.774399093 
+            xmax = 373.807687075 
+            text = "There aren't enough of them." 
+        intervals [145]:
+            xmin = 373.807687075 
+            xmax = 385.137204567 
+            text = "{SIL}" 
+        intervals [146]:
+            xmin = 385.137204567 
+            xmax = 386.439773243 
+            text = "{VOC breath} {NVC}" 
+        intervals [147]:
+            xmin = 386.439773243 
+            xmax = 388.688745802 
+            text = "{SIL}" 
+        intervals [148]:
+            xmin = 388.688745802 
+            xmax = 389.03653396 
+            text = "Yeah." 
+        intervals [149]:
+            xmin = 389.03653396 
+            xmax = 402.575112296 
+            text = "{SIL}" 
+        intervals [150]:
+            xmin = 402.575112296 
+            xmax = 404.247305861 
+            text = "You'll have to keep the junior soccer league." 
+        intervals [151]:
+            xmin = 404.247305861 
+            xmax = 405.777278912 
+            text = "{SIL}" 
+        intervals [152]:
+            xmin = 405.777278912 
+            xmax = 405.927278912 
+            text = "{VOC mouthnoise}" 
+        intervals [153]:
+            xmin = 405.927278912 
+            xmax = 407.03893424 
+            text = "The junior soccer league." 
+        intervals [154]:
+            xmin = 407.03893424 
+            xmax = 410.989773243 
+            text = "{SIL}" 
+        intervals [155]:
+            xmin = 410.989773243 
+            xmax = 411.089773243 
+            text = "{VOC mouthnoise}" 
+        intervals [156]:
+            xmin = 411.089773243 
+            xmax = 411.620793651 
+            text = "Well, hm-" 
+        intervals [157]:
+            xmin = 411.620793651 
+            xmax = 413.064624053 
+            text = "{SIL}" 
+        intervals [158]:
+            xmin = 413.064624053 
+            xmax = 414.483767192 
+            text = "{VOC mouthnoise} There has to be one thing to go." 
+        intervals [159]:
+            xmin = 414.483767192 
+            xmax = 420.594557823 
+            text = "{SIL}" 
+        intervals [160]:
+            xmin = 420.594557823 
+            xmax = 420.722648787 
+            text = "{VOC mouthnoise}" 
+        intervals [161]:
+            xmin = 420.722648787 
+            xmax = 423.037609907 
+            text = "What are the community news ads? That's important." 
+        intervals [162]:
+            xmin = 423.037609907 
+            xmax = 428.232879819 
+            text = "{SIL}" 
+        intervals [163]:
+            xmin = 428.232879819 
+            xmax = 430.173446712 
+            text = "Some would say that could go online." 
+        intervals [164]:
+            xmin = 430.173446712 
+            xmax = 431.03651036 
+            text = "{SIL}" 
+        intervals [165]:
+            xmin = 431.03651036 
+            xmax = 434.010816327 
+            text = "{NVC}" 
+        intervals [166]:
+            xmin = 434.010816327 
+            xmax = 443.249614512 
+            text = "{SIL}" 
+        intervals [167]:
+            xmin = 443.249614512 
+            xmax = 443.619663501 
+            text = "Well -" 
+        intervals [168]:
+            xmin = 443.619663501 
+            xmax = 444.427542605 
+            text = "{SIL}" 
+        intervals [169]:
+            xmin = 444.427542605 
+            xmax = 446.179206349 
+            text = "What do you s- what do you suggest?" 
+        intervals [170]:
+            xmin = 446.179206349 
+            xmax = 450.804036281 
+            text = "{SIL}" 
+        intervals [171]:
+            xmin = 450.804036281 
+            xmax = 450.954491159 
+            text = "{VOC mouthnoise}" 
+        intervals [172]:
+            xmin = 450.954491159 
+            xmax = 451.453338819 
+            text = "'Go {PRN ho} for it." 
+        intervals [173]:
+            xmin = 451.453338819 
+            xmax = 452.347029478 
+            text = "{SIL}" 
+        intervals [174]:
+            xmin = 452.347029478 
+            xmax = 452.659047619 
+            text = "Uh-huh." 
+        intervals [175]:
+            xmin = 452.659047619 
+            xmax = 475.134240363 
+            text = "{SIL}" 
+        intervals [176]:
+            xmin = 475.134240363 
+            xmax = 481.186303855 
+            text = "{NVC} {VOC cough} {VOC cough} {VOC cough}" 
+        intervals [177]:
+            xmin = 481.186303855 
+            xmax = 482.277641723 
+            text = "{SIL}" 
+        intervals [178]:
+            xmin = 482.277641723 
+            xmax = 483.088888889 
+            text = "So sorry, Heather." 
+        intervals [179]:
+            xmin = 483.088888889 
+            xmax = 483.460408163 
+            text = "{NVC}" 
+        intervals [180]:
+            xmin = 483.460408163 
+            xmax = 484.772335601 
+            text = "{SIL}" 
+        intervals [181]:
+            xmin = 484.772335601 
+            xmax = 484.855142166 
+            text = "{VOC mouthnoise}" 
+        intervals [182]:
+            xmin = 484.855142166 
+            xmax = 485.339070295 
+            text = "'I'm {PRN m} sorry." 
+        intervals [183]:
+            xmin = 485.339070295 
+            xmax = 485.851360544 
+            text = "{VOC laugh}" 
+        intervals [184]:
+            xmin = 485.851360544 
+            xmax = 493.898049887 
+            text = "{SIL}" 
+        intervals [185]:
+            xmin = 493.898049887 
+            xmax = 495.028571429 
+            text = "That's how you make your {NVC} money." 
+        intervals [186]:
+            xmin = 495.028571429 
+            xmax = 499.194801552 
+            text = "{SIL}" 
+        intervals [187]:
+            xmin = 499.194801552 
+            xmax = 499.858760762 
+            text = "Yeah." 
+        intervals [188]:
+            xmin = 499.858760762 
+            xmax = 504.646768529 
+            text = "{SIL}" 
+        intervals [189]:
+            xmin = 504.646768529 
+            xmax = 506.273922902 
+            text = "But they have to tow the cars they're -" 
+        intervals [190]:
+            xmin = 506.273922902 
+            xmax = 506.849313274 
+            text = "{SIL}" 
+        intervals [191]:
+            xmin = 506.849313274 
+            xmax = 510.323151927 
+            text = "Towing away to the.. tow yard for the parking tickets." 
+        intervals [192]:
+            xmin = 510.323151927 
+            xmax = 518.513356009 
+            text = "{SIL}" 
+        intervals [193]:
+            xmin = 518.513356009 
+            xmax = 518.944240363 
+            text = "Mm-hm?" 
+        intervals [194]:
+            xmin = 518.944240363 
+            xmax = 522.453542885 
+            text = "{SIL}" 
+        intervals [195]:
+            xmin = 522.453542885 
+            xmax = 522.964376417 
+            text = "{VOC breath}" 
+        intervals [196]:
+            xmin = 522.964376417 
+            xmax = 526.169229025 
+            text = "So that's an easy one. You say towing system - services?" 
+        intervals [197]:
+            xmin = 526.169229025 
+            xmax = 532.095079365 
+            text = "{SIL}" 
+        intervals [198]:
+            xmin = 532.095079365 
+            xmax = 532.806190476 
+            text = "So the- mm -" 
+        intervals [199]:
+            xmin = 532.806190476 
+            xmax = 541.02264118 
+            text = "{SIL}" 
+        intervals [200]:
+            xmin = 541.02264118 
+            xmax = 542.613492063 
+            text = "Well, then taxi stops?" 
+        intervals [201]:
+            xmin = 542.613492063 
+            xmax = 544.858622377 
+            text = "{SIL}" 
+        intervals [202]:
+            xmin = 544.858622377 
+            xmax = 545.05183802 
+            text = "{VOC mouthnoise}" 
+        intervals [203]:
+            xmin = 545.05183802 
+            xmax = 546.152539683 
+            text = "{SIL}" 
+        intervals [204]:
+            xmin = 546.152539683 
+            xmax = 547.054254685 
+            text = "Those are signs." 
+        intervals [205]:
+            xmin = 547.054254685 
+            xmax = 548.114263039 
+            text = "{SIL}" 
+        intervals [206]:
+            xmin = 548.114263039 
+            xmax = 550.279085833 
+            text = "A signing service. Speed limit signs -" 
+        intervals [207]:
+            xmin = 550.279085833 
+            xmax = 550.784959517 
+            text = "{SIL}" 
+        intervals [208]:
+            xmin = 550.784959517 
+            xmax = 551.837120181 
+            text = "Additional bus stops." 
+        intervals [209]:
+            xmin = 551.837120181 
+            xmax = 553.429138322 
+            text = "{SIL}" 
+        intervals [210]:
+            xmin = 553.429138322 
+            xmax = 555.040022676 
+            text = "Pothole maintenance *has to stay." 
+        intervals [211]:
+            xmin = 555.040022676 
+            xmax = 557.63147855 
+            text = "{SIL}" 
+        intervals [212]:
+            xmin = 557.63147855 
+            xmax = 560.24260771 
+            text = "The subway system *has to stay. {NVC}" 
+        intervals [213]:
+            xmin = 560.24260771 
+            xmax = 561.973447416 
+            text = "{SIL}" 
+        intervals [214]:
+            xmin = 561.973447416 
+            xmax = 562.345826655 
+            text = "{VOC breath}" 
+        intervals [215]:
+            xmin = 562.345826655 
+            xmax = 563.469876812 
+            text = "So, you say -" 
+        intervals [216]:
+            xmin = 563.469876812 
+            xmax = 564.657274764 
+            text = "{SIL}" 
+        intervals [217]:
+            xmin = 564.657274764 
+            xmax = 568.250204082 
+            text = "Towing services.. but the public bus upkeep is important." 
+        intervals [218]:
+            xmin = 568.250204082 
+            xmax = 570.660725624 
+            text = "{SIL}" 
+        intervals [219]:
+            xmin = 570.660725624 
+            xmax = 572.400929705 
+            text = "And the drainage ditches are essential." 
+        intervals [220]:
+            xmin = 572.400929705 
+            xmax = 573.098979592 
+            text = "{NVC}" 
+        intervals [221]:
+            xmin = 573.098979592 
+            xmax = 575.427714271 
+            text = "{SIL}" 
+        intervals [222]:
+            xmin = 575.427714271 
+            xmax = 577.953151927 
+            text = "But those drainage ditches could be maintained by -" 
+        intervals [223]:
+            xmin = 577.953151927 
+            xmax = 580.096393225 
+            text = "{SIL}" 
+        intervals [224]:
+            xmin = 580.096393225 
+            xmax = 582.874778798 
+            text = "{VOC mouthnoise} Invasive species removal.. department." 
+        intervals [225]:
+            xmin = 582.874778798 
+            xmax = 585.955124717 
+            text = "{SIL}" 
+        intervals [226]:
+            xmin = 585.955124717 
+            xmax = 586.450911115 
+            text = "{VOC mouthnoise} {VOC breath}" 
+        intervals [227]:
+            xmin = 586.450911115 
+            xmax = 589.067991241 
+            text = "But we're down to {QUAL lengthened} just w- one item." 
+        intervals [228]:
+            xmin = 589.067991241 
+            xmax = 591.979183673 
+            text = "{SIL}" 
+        intervals [229]:
+            xmin = 591.979183673 
+            xmax = 594.709660848 
+            text = "So what would you propose if the towing service people said -" 
+        intervals [230]:
+            xmin = 594.709660848 
+            xmax = 595.289307778 
+            text = "{SIL}" 
+        intervals [231]:
+            xmin = 595.289307778 
+            xmax = 596.09367387 
+            text = "We're essential?" 
+        intervals [232]:
+            xmin = 596.09367387 
+            xmax = 598.991794931 
+            text = "{SIL}" 
+        intervals [233]:
+            xmin = 598.991794931 
+            xmax = 601.742369501 
+            text = "Where would the towing services be absorbed into?" 
+        intervals [234]:
+            xmin = 601.742369501 
+            xmax = 602.213113068 
+            text = "{NVC}" 
+        intervals [235]:
+            xmin = 602.213113068 
+            xmax = 612.635878003 
+            text = "{SIL}" 
+        intervals [236]:
+            xmin = 612.635878003 
+            xmax = 612.974013605 
+            text = "Right." 
+        intervals [237]:
+            xmin = 612.974013605 
+            xmax = 613.510504329 
+            text = "{SIL}" 
+        intervals [238]:
+            xmin = 613.510504329 
+            xmax = 616.180393215 
+            text = "The dispatcher.. (1x) contracted. Yeah." 
+        intervals [239]:
+            xmin = 616.180393215 
+            xmax = 631.338470741 
+            text = "{SIL}" 
+        intervals [240]:
+            xmin = 631.338470741 
+            xmax = 633.653431461 
+            text = "Yeah, y- um, I think I understand, yeah." 
+        intervals [241]:
+            xmin = 633.653431461 
+            xmax = 638.419954649 
+            text = "{SIL}" 
+        intervals [242]:
+            xmin = 638.419954649 
+            xmax = 641.690544218 
+            text = "But wouldn't that be a part of the budget for public bus upkeep already?" 
+        intervals [243]:
+            xmin = 641.690544218 
+            xmax = 642.587414966 
+            text = "{SIL}" 
+        intervals [244]:
+            xmin = 642.587414966 
+            xmax = 644.11472594 
+            text = "The towing services would be in that." 
+        intervals [245]:
+            xmin = 644.11472594 
+            xmax = 644.755646259 
+            text = "{NVC}" 
+        intervals [246]:
+            xmin = 644.755646259 
+            xmax = 646.219019944 
+            text = "{SIL}" 
+        intervals [247]:
+            xmin = 646.219019944 
+            xmax = 646.826657382 
+            text = "{NVC}" 
+        intervals [248]:
+            xmin = 646.826657382 
+            xmax = 648.137010743 
+            text = "{SIL}" 
+        intervals [249]:
+            xmin = 648.137010743 
+            xmax = 649.884580499 
+            text = "Because if the public bus is stuck -" 
+        intervals [250]:
+            xmin = 649.884580499 
+            xmax = 651.154574201 
+            text = "{SIL}" 
+        intervals [251]:
+            xmin = 651.154574201 
+            xmax = 651.744760165 
+            text = "{VOC breath}" 
+        intervals [252]:
+            xmin = 651.744760165 
+            xmax = 656.620593224 
+            text = "Or the public transportation pool is stuck, they would *have to have something *big enough as a bus." 
+        intervals [253]:
+            xmin = 656.620593224 
+            xmax = 659.401088435 
+            text = "{SIL}" 
+        intervals [254]:
+            xmin = 659.401088435 
+            xmax = 660.911836735 
+            text = "That's the worst case scenario." 
+        intervals [255]:
+            xmin = 660.911836735 
+            xmax = 664.008798186 
+            text = "{SIL}" 
+        intervals [256]:
+            xmin = 664.008798186 
+            xmax = 664.10659397 
+            text = "{VOC mouthnoise}" 
+        intervals [257]:
+            xmin = 664.10659397 
+            xmax = 668.891088724 
+            text = "{SIL}" 
+        intervals [258]:
+            xmin = 668.891088724 
+            xmax = 671.543298567 
+            text = "So it looks like we identified at least two things." 
+        intervals [259]:
+            xmin = 671.543298567 
+            xmax = 671.884060701 
+            text = "{VOC breath}" 
+        intervals [260]:
+            xmin = 671.884060701 
+            xmax = 680.80015873 
+            text = "Now, I'm - I'm glad that you.. and I agreed on that s- S_T_D_ education and.. reproductive education. The way those are worded, it makes it harder to make the choice." 
+        intervals [261]:
+            xmin = 680.80015873 
+            xmax = 683.000521542 
+            text = "{SIL}" 
+        intervals [262]:
+            xmin = 683.000521542 
+            xmax = 683.0725486 
+            text = "{VOC mouthnoise}" 
+        intervals [263]:
+            xmin = 683.0725486 
+            xmax = 685.162790557 
+            text = "And sex ed is *kinda the same thing, but -" 
+        intervals [264]:
+            xmin = 685.162790557 
+            xmax = 686.859461619 
+            text = "{SIL}" 
+        intervals [265]:
+            xmin = 686.859461619 
+            xmax = 686.96485197 
+            text = "{VOC mouthnoise}" 
+        intervals [266]:
+            xmin = 686.96485197 
+            xmax = 688.960129026 
+            text = "I wonder if there's a way to involve all of them." 
+        intervals [267]:
+            xmin = 688.960129026 
+            xmax = 695.34446712 
+            text = "{SIL}" 
+        intervals [268]:
+            xmin = 695.34446712 
+            xmax = 697.94984127 
+            text = "{NVC} {VOC cough} {VOC cough}" 
+        intervals [269]:
+            xmin = 697.94984127 
+            xmax = 698.585487528 
+            text = "'Excuse {PRN scuse} {NVC} me." 
+        intervals [270]:
+            xmin = 698.585487528 
+            xmax = 705.291552057 
+            text = "{SIL}" 
+        intervals [271]:
+            xmin = 705.291552057 
+            xmax = 706.72185941 
+            text = "You very thoughtful person." 
+        intervals [272]:
+            xmin = 706.72185941 
+            xmax = 707.627591247 
+            text = "{VOC breath}" 
+        intervals [273]:
+            xmin = 707.627591247 
+            xmax = 715.039818747 
+            text = "It's really nice that you took that - now, and we left the math tutors and the acting coaches. Some would say the acting coaches need to go. Some would say -" 
+        intervals [274]:
+            xmin = 715.039818747 
+            xmax = 715.971519274 
+            text = "{VOC breath}" 
+        intervals [275]:
+            xmin = 715.971519274 
+            xmax = 717.751749789 
+            text = "The music teachers need to go." 
+        intervals [276]:
+            xmin = 717.751749789 
+            xmax = 719.239954649 
+            text = "{SIL}" 
+        intervals [277]:
+            xmin = 719.239954649 
+            xmax = 719.332491465 
+            text = "{VOC mouthnoise}" 
+        intervals [278]:
+            xmin = 719.332491465 
+            xmax = 719.982398628 
+            text = "But I think the m-" 
+        intervals [279]:
+            xmin = 719.982398628 
+            xmax = 720.245874505 
+            text = "{VOC breath}" 
+        intervals [280]:
+            xmin = 720.245874505 
+            xmax = 723.40044542 
+            text = "Music teachers are more essential than the sugar-free juice machines." 
+        intervals [281]:
+            xmin = 723.40044542 
+            xmax = 730.405163563 
+            text = "{SIL}" 
+        intervals [282]:
+            xmin = 730.405163563 
+            xmax = 731.040905095 
+            text = "Yeah?" 
+        intervals [283]:
+            xmin = 731.040905095 
+            xmax = 733.436779069 
+            text = "{SIL}" 
+        intervals [284]:
+            xmin = 733.436779069 
+            xmax = 733.856712018 
+            text = "{NVC}" 
+        intervals [285]:
+            xmin = 733.856712018 
+            xmax = 736.391108317 
+            text = "{SIL}" 
+        intervals [286]:
+            xmin = 736.391108317 
+            xmax = 736.682574702 
+            text = "Yeah." 
+        intervals [287]:
+            xmin = 736.682574702 
+            xmax = 745.687823129 
+            text = "{SIL}" 
+        intervals [288]:
+            xmin = 745.687823129 
+            xmax = 746.156826081 
+            text = "{VOC mouthnoise} {VOC breath}" 
+        intervals [289]:
+            xmin = 746.156826081 
+            xmax = 747.853333333 
+            text = "It *does help with social behavior." 
+        intervals [290]:
+            xmin = 747.853333333 
+            xmax = 749.641269841 
+            text = "{SIL}" 
+        intervals [291]:
+            xmin = 749.641269841 
+            xmax = 751.152018141 
+            text = "Well, we didn't have to take it off." 
+        intervals [292]:
+            xmin = 751.152018141 
+            xmax = 751.974146273 
+            text = "{VOC breath}" 
+        intervals [293]:
+            xmin = 751.974146273 
+            xmax = 753.558514546 
+            text = "But I can see where there's (a little) wiggle room." 
+        intervals [294]:
+            xmin = 753.558514546 
+            xmax = 754.93952381 
+            text = "{SIL}" 
+        intervals [295]:
+            xmin = 754.93952381 
+            xmax = 755.198977421 
+            text = "{VOC breath}" 
+        intervals [296]:
+            xmin = 755.198977421 
+            xmax = 756.354172336 
+            text = "You're very thoughtful person." 
+        intervals [297]:
+            xmin = 756.354172336 
+            xmax = 757.84416164 
+            text = "{SIL}" 
+        intervals [298]:
+            xmin = 757.84416164 
+            xmax = 762.108844249 
+            text = "So do you think we - we could.. present to a committee and.. would seem -" 
+        intervals [299]:
+            xmin = 762.108844249 
+            xmax = 763.018714277 
+            text = "{SIL}" 
+        intervals [300]:
+            xmin = 763.018714277 
+            xmax = 763.909773243 
+            text = "I - I think we've done -" 
+        intervals [301]:
+            xmin = 763.909773243 
+            xmax = 765.010612245 
+            text = "{VOC breath}" 
+        intervals [302]:
+            xmin = 765.010612245 
+            xmax = 765.646258503 
+            text = "Done well." 
+        intervals [303]:
+            xmin = 765.646258503 
+            xmax = 780.253741497 
+            text = "{SIL}" 
+        intervals [304]:
+            xmin = 780.253741497 
+            xmax = 782.20739229 
+            text = "Or we (are) trying to move others to help." 
+        intervals [305]:
+            xmin = 782.20739229 
+            xmax = 785.959795918 
+            text = "{SIL}" 
+        intervals [306]:
+            xmin = 785.959795918 
+            xmax = 786.398991886 
+            text = "Yeah." 
+        intervals [307]:
+            xmin = 786.398991886 
+            xmax = 789.375510204 
+            text = "{SIL}" 
+        intervals [308]:
+            xmin = 789.375510204 
+            xmax = 789.859194818 
+            text = "We did." 
+        intervals [309]:
+            xmin = 789.859194818 
+            xmax = 791.452653061 
+            text = "{SIL}" 
+        intervals [310]:
+            xmin = 791.452653061 
+            xmax = 792.834602136 
+            text = "{VOC mouthnoise} I like that method, actually." 
+        intervals [311]:
+            xmin = 792.834602136 
+            xmax = 794.330839002 
+            text = "{SIL}" 
+        intervals [312]:
+            xmin = 794.330839002 
+            xmax = 795.748049887 
+            text = "We - yeah. Again, thanks." 
+        intervals [313]:
+            xmin = 795.748049887 
+            xmax = 800 
+            text = "{SIL}" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "coarse" 
+        xmin = 0 
+        xmax = 800 
+        intervals: size = 313 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5369614512471655 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5369614512471655 
+            xmax = 0.7880272108843538 
+            text = "" 
+        intervals [3]:
+            xmin = 0.7880272108843538 
+            xmax = 2.115641203552065 
+            text = "" 
+        intervals [4]:
+            xmin = 2.115641203552065 
+            xmax = 2.2656412035520646 
+            text = "" 
+        intervals [5]:
+            xmin = 2.2656412035520646 
+            xmax = 10.39547229949114 
+            text = "" 
+        intervals [6]:
+            xmin = 10.39547229949114 
+            xmax = 11.466941322606173 
+            text = "x" 
+        intervals [7]:
+            xmin = 11.466941322606173 
+            xmax = 12.47344671201814 
+            text = "2-" 
+        intervals [8]:
+            xmin = 12.47344671201814 
+            xmax = 13.934195011337868 
+            text = "" 
+        intervals [9]:
+            xmin = 13.934195011337868 
+            xmax = 14.668526077097505 
+            text = "0" 
+        intervals [10]:
+            xmin = 14.668526077097505 
+            xmax = 17.751564625850342 
+            text = "" 
+        intervals [11]:
+            xmin = 17.751564625850342 
+            xmax = 18.368344671201815 
+            text = "0" 
+        intervals [12]:
+            xmin = 18.368344671201815 
+            xmax = 23.73124716553288 
+            text = "" 
+        intervals [13]:
+            xmin = 23.73124716553288 
+            xmax = 24.20466860895567 
+            text = "" 
+        intervals [14]:
+            xmin = 24.20466860895567 
+            xmax = 26.956893424036284 
+            text = "1" 
+        intervals [15]:
+            xmin = 26.956893424036284 
+            xmax = 27.22925849604336 
+            text = "" 
+        intervals [16]:
+            xmin = 27.22925849604336 
+            xmax = 30.220272108843538 
+            text = "1" 
+        intervals [17]:
+            xmin = 30.220272108843538 
+            xmax = 49.89675736961451 
+            text = "" 
+        intervals [18]:
+            xmin = 49.89675736961451 
+            xmax = 50.1467573696145 
+            text = "" 
+        intervals [19]:
+            xmin = 50.1467573696145 
+            xmax = 55.35253968253968 
+            text = "" 
+        intervals [20]:
+            xmin = 55.35253968253968 
+            xmax = 56.61446712018141 
+            text = "0" 
+        intervals [21]:
+            xmin = 56.61446712018141 
+            xmax = 62.507210884353746 
+            text = "" 
+        intervals [22]:
+            xmin = 62.507210884353746 
+            xmax = 64.9707709750567 
+            text = "1+" 
+        intervals [23]:
+            xmin = 64.9707709750567 
+            xmax = 65.86315192743764 
+            text = "0" 
+        intervals [24]:
+            xmin = 65.86315192743764 
+            xmax = 67.25675736961452 
+            text = "" 
+        intervals [25]:
+            xmin = 67.25675736961452 
+            xmax = 69.8982993197279 
+            text = "1+" 
+        intervals [26]:
+            xmin = 69.8982993197279 
+            xmax = 71.19571428571429 
+            text = "" 
+        intervals [27]:
+            xmin = 71.19571428571429 
+            xmax = 71.51274376417234 
+            text = "" 
+        intervals [28]:
+            xmin = 71.51274376417234 
+            xmax = 78.16950113378685 
+            text = "1+" 
+        intervals [29]:
+            xmin = 78.16950113378685 
+            xmax = 78.7804761904762 
+            text = "" 
+        intervals [30]:
+            xmin = 78.7804761904762 
+            xmax = 82.98963718820862 
+            text = "0" 
+        intervals [31]:
+            xmin = 82.98963718820862 
+            xmax = 83.32857142857144 
+            text = "" 
+        intervals [32]:
+            xmin = 83.32857142857144 
+            xmax = 87.37029478458051 
+            text = "0" 
+        intervals [33]:
+            xmin = 87.37029478458051 
+            xmax = 87.92321995464853 
+            text = "" 
+        intervals [34]:
+            xmin = 87.92321995464853 
+            xmax = 94.69404445928346 
+            text = "0" 
+        intervals [35]:
+            xmin = 94.69404445928346 
+            xmax = 98.69525180499645 
+            text = "" 
+        intervals [36]:
+            xmin = 98.69525180499645 
+            xmax = 99.13789137257483 
+            text = "" 
+        intervals [37]:
+            xmin = 99.13789137257483 
+            xmax = 100.84891156462585 
+            text = "" 
+        intervals [38]:
+            xmin = 100.84891156462585 
+            xmax = 101.06642137803988 
+            text = "" 
+        intervals [39]:
+            xmin = 101.06642137803988 
+            xmax = 101.65852607709752 
+            text = "2" 
+        intervals [40]:
+            xmin = 101.65852607709752 
+            xmax = 103.25842731658729 
+            text = "" 
+        intervals [41]:
+            xmin = 103.25842731658729 
+            xmax = 105.25381838313106 
+            text = "1" 
+        intervals [42]:
+            xmin = 105.25381838313106 
+            xmax = 110.39385487528345 
+            text = "" 
+        intervals [43]:
+            xmin = 110.39385487528345 
+            xmax = 112.37084011470242 
+            text = "0" 
+        intervals [44]:
+            xmin = 112.37084011470242 
+            xmax = 115.06520683232688 
+            text = "" 
+        intervals [45]:
+            xmin = 115.06520683232688 
+            xmax = 115.49913832199547 
+            text = "" 
+        intervals [46]:
+            xmin = 115.49913832199547 
+            xmax = 119.82171185287598 
+            text = "2" 
+        intervals [47]:
+            xmin = 119.82171185287598 
+            xmax = 121.56756521140389 
+            text = "" 
+        intervals [48]:
+            xmin = 121.56756521140389 
+            xmax = 124.0332426303855 
+            text = "2" 
+        intervals [49]:
+            xmin = 124.0332426303855 
+            xmax = 125.3545351473923 
+            text = "" 
+        intervals [50]:
+            xmin = 125.3545351473923 
+            xmax = 127.13546228114882 
+            text = "2" 
+        intervals [51]:
+            xmin = 127.13546228114882 
+            xmax = 134.50111111111113 
+            text = "" 
+        intervals [52]:
+            xmin = 134.50111111111113 
+            xmax = 135.93639455782312 
+            text = "x" 
+        intervals [53]:
+            xmin = 135.93639455782312 
+            xmax = 136.86452025384824 
+            text = "" 
+        intervals [54]:
+            xmin = 136.86452025384824 
+            xmax = 137.6757596371882 
+            text = "x" 
+        intervals [55]:
+            xmin = 137.6757596371882 
+            xmax = 143.3534693877551 
+            text = "" 
+        intervals [56]:
+            xmin = 143.3534693877551 
+            xmax = 145.2778436387633 
+            text = "0" 
+        intervals [57]:
+            xmin = 145.2778436387633 
+            xmax = 146.4707709750567 
+            text = "" 
+        intervals [58]:
+            xmin = 146.4707709750567 
+            xmax = 146.66548340498213 
+            text = "0" 
+        intervals [59]:
+            xmin = 146.66548340498213 
+            xmax = 152.9289569099604 
+            text = "" 
+        intervals [60]:
+            xmin = 152.9289569099604 
+            xmax = 153.575237225488 
+            text = "" 
+        intervals [61]:
+            xmin = 153.575237225488 
+            xmax = 160.80780045351474 
+            text = "2" 
+        intervals [62]:
+            xmin = 160.80780045351474 
+            xmax = 162.58225924962073 
+            text = "" 
+        intervals [63]:
+            xmin = 162.58225924962073 
+            xmax = 163.45868480725625 
+            text = "1" 
+        intervals [64]:
+            xmin = 163.45868480725625 
+            xmax = 164.39038548752833 
+            text = "" 
+        intervals [65]:
+            xmin = 164.39038548752833 
+            xmax = 170.4371272206677 
+            text = "" 
+        intervals [66]:
+            xmin = 170.4371272206677 
+            xmax = 174.3645804988662 
+            text = "2-" 
+        intervals [67]:
+            xmin = 174.3645804988662 
+            xmax = 175.09600907029477 
+            text = "" 
+        intervals [68]:
+            xmin = 175.09600907029477 
+            xmax = 177.0062327754207 
+            text = "2" 
+        intervals [69]:
+            xmin = 177.0062327754207 
+            xmax = 185.19526077097504 
+            text = "" 
+        intervals [70]:
+            xmin = 185.19526077097504 
+            xmax = 186.09385487528345 
+            text = "0" 
+        intervals [71]:
+            xmin = 186.09385487528345 
+            xmax = 191.1531746031746 
+            text = "" 
+        intervals [72]:
+            xmin = 191.1531746031746 
+            xmax = 191.78222222222223 
+            text = "" 
+        intervals [73]:
+            xmin = 191.78222222222223 
+            xmax = 193.83283446712016 
+            text = "1" 
+        intervals [74]:
+            xmin = 193.83283446712016 
+            xmax = 196.3941723356009 
+            text = "" 
+        intervals [75]:
+            xmin = 196.3941723356009 
+            xmax = 197.48551020408163 
+            text = "2-" 
+        intervals [76]:
+            xmin = 197.48551020408163 
+            xmax = 207.67580498866212 
+            text = "" 
+        intervals [77]:
+            xmin = 207.67580498866212 
+            xmax = 209.788820861678 
+            text = "x" 
+        intervals [78]:
+            xmin = 209.788820861678 
+            xmax = 213.5335827664399 
+            text = "" 
+        intervals [79]:
+            xmin = 213.5335827664399 
+            xmax = 213.83358276643997 
+            text = "1+" 
+        intervals [80]:
+            xmin = 213.83358276643997 
+            xmax = 217.40076866108654 
+            text = "" 
+        intervals [81]:
+            xmin = 217.40076866108654 
+            xmax = 217.94177251930856 
+            text = "" 
+        intervals [82]:
+            xmin = 217.94177251930856 
+            xmax = 222.63356009070296 
+            text = "2" 
+        intervals [83]:
+            xmin = 222.63356009070296 
+            xmax = 233.39551020408163 
+            text = "" 
+        intervals [84]:
+            xmin = 233.39551020408163 
+            xmax = 233.6455102040817 
+            text = "" 
+        intervals [85]:
+            xmin = 233.6455102040817 
+            xmax = 245.434693877551 
+            text = "" 
+        intervals [86]:
+            xmin = 245.434693877551 
+            xmax = 245.86426303854876 
+            text = "0" 
+        intervals [87]:
+            xmin = 245.86426303854876 
+            xmax = 250.8338775510204 
+            text = "" 
+        intervals [88]:
+            xmin = 250.8338775510204 
+            xmax = 252.8934693877551 
+            text = "2-" 
+        intervals [89]:
+            xmin = 252.8934693877551 
+            xmax = 253.86079365079362 
+            text = "" 
+        intervals [90]:
+            xmin = 253.86079365079362 
+            xmax = 254.57190476190476 
+            text = "1" 
+        intervals [91]:
+            xmin = 254.57190476190476 
+            xmax = 255.38197956183726 
+            text = "" 
+        intervals [92]:
+            xmin = 255.38197956183726 
+            xmax = 260.56707112529153 
+            text = "2" 
+        intervals [93]:
+            xmin = 260.56707112529153 
+            xmax = 264.7965096326973 
+            text = "" 
+        intervals [94]:
+            xmin = 264.7965096326973 
+            xmax = 266.0717328767681 
+            text = "2" 
+        intervals [95]:
+            xmin = 266.0717328767681 
+            xmax = 268.8585260770975 
+            text = "" 
+        intervals [96]:
+            xmin = 268.8585260770975 
+            xmax = 270.9686440055883 
+            text = "2" 
+        intervals [97]:
+            xmin = 270.9686440055883 
+            xmax = 271.4745176891867 
+            text = "" 
+        intervals [98]:
+            xmin = 271.4745176891867 
+            xmax = 272.5658503401361 
+            text = "2" 
+        intervals [99]:
+            xmin = 272.5658503401361 
+            xmax = 273.97918144066335 
+            text = "" 
+        intervals [100]:
+            xmin = 273.97918144066335 
+            xmax = 274.3164305630623 
+            text = "" 
+        intervals [101]:
+            xmin = 274.3164305630623 
+            xmax = 275.69704415788283 
+            text = "2" 
+        intervals [102]:
+            xmin = 275.69704415788283 
+            xmax = 289.910120738952 
+            text = "" 
+        intervals [103]:
+            xmin = 289.910120738952 
+            xmax = 294.2128117913832 
+            text = "2" 
+        intervals [104]:
+            xmin = 294.2128117913832 
+            xmax = 298.7946712018141 
+            text = "" 
+        intervals [105]:
+            xmin = 298.7946712018141 
+            xmax = 300.5851247165533 
+            text = "2-" 
+        intervals [106]:
+            xmin = 300.5851247165533 
+            xmax = 302.0963035586097 
+            text = "" 
+        intervals [107]:
+            xmin = 302.0963035586097 
+            xmax = 304.5307066762532 
+            text = "1+" 
+        intervals [108]:
+            xmin = 304.5307066762532 
+            xmax = 305.3457253887172 
+            text = "" 
+        intervals [109]:
+            xmin = 305.3457253887172 
+            xmax = 309.53300815582315 
+            text = "2+" 
+        intervals [110]:
+            xmin = 309.53300815582315 
+            xmax = 314.37031167055886 
+            text = "" 
+        intervals [111]:
+            xmin = 314.37031167055886 
+            xmax = 317.8024105086325 
+            text = "" 
+        intervals [112]:
+            xmin = 317.8024105086325 
+            xmax = 324.7337868480726 
+            text = "" 
+        intervals [113]:
+            xmin = 324.7337868480726 
+            xmax = 325.2257596371882 
+            text = "0" 
+        intervals [114]:
+            xmin = 325.2257596371882 
+            xmax = 325.8819966454188 
+            text = "" 
+        intervals [115]:
+            xmin = 325.8819966454188 
+            xmax = 327.6597732426304 
+            text = "1" 
+        intervals [116]:
+            xmin = 327.6597732426304 
+            xmax = 328.24965294092084 
+            text = "" 
+        intervals [117]:
+            xmin = 328.24965294092084 
+            xmax = 330.3630612244898 
+            text = "2" 
+        intervals [118]:
+            xmin = 330.3630612244898 
+            xmax = 331.2707294110707 
+            text = "" 
+        intervals [119]:
+            xmin = 331.2707294110707 
+            xmax = 333.6032551896562 
+            text = "2" 
+        intervals [120]:
+            xmin = 333.6032551896562 
+            xmax = 335.8902258009238 
+            text = "" 
+        intervals [121]:
+            xmin = 335.8902258009238 
+            xmax = 339.95292517006806 
+            text = "2" 
+        intervals [122]:
+            xmin = 339.95292517006806 
+            xmax = 341.04281179138326 
+            text = "" 
+        intervals [123]:
+            xmin = 341.04281179138326 
+            xmax = 341.428843537415 
+            text = "x" 
+        intervals [124]:
+            xmin = 341.428843537415 
+            xmax = 342.3257142857143 
+            text = "" 
+        intervals [125]:
+            xmin = 342.3257142857143 
+            xmax = 345.70185941043087 
+            text = "" 
+        intervals [126]:
+            xmin = 345.70185941043087 
+            xmax = 346.75981859410433 
+            text = "" 
+        intervals [127]:
+            xmin = 346.75981859410433 
+            xmax = 347.8453514739229 
+            text = "" 
+        intervals [128]:
+            xmin = 347.8453514739229 
+            xmax = 350.51432514991666 
+            text = "" 
+        intervals [129]:
+            xmin = 350.51432514991666 
+            xmax = 350.792970521542 
+            text = "" 
+        intervals [130]:
+            xmin = 350.792970521542 
+            xmax = 354.1953514739229 
+            text = "" 
+        intervals [131]:
+            xmin = 354.1953514739229 
+            xmax = 354.495351473923 
+            text = "" 
+        intervals [132]:
+            xmin = 354.495351473923 
+            xmax = 358.3548979591837 
+            text = "" 
+        intervals [133]:
+            xmin = 358.3548979591837 
+            xmax = 358.72641723356014 
+            text = "" 
+        intervals [134]:
+            xmin = 358.72641723356014 
+            xmax = 359.23679202627596 
+            text = "" 
+        intervals [135]:
+            xmin = 359.23679202627596 
+            xmax = 360.0342630385488 
+            text = "x" 
+        intervals [136]:
+            xmin = 360.0342630385488 
+            xmax = 364.27362811791386 
+            text = "" 
+        intervals [137]:
+            xmin = 364.27362811791386 
+            xmax = 364.7249659863946 
+            text = "" 
+        intervals [138]:
+            xmin = 364.7249659863946 
+            xmax = 366.6350793650794 
+            text = "" 
+        intervals [139]:
+            xmin = 366.6350793650794 
+            xmax = 366.8350793650794 
+            text = "" 
+        intervals [140]:
+            xmin = 366.8350793650794 
+            xmax = 368.0400585715433 
+            text = "" 
+        intervals [141]:
+            xmin = 368.0400585715433 
+            xmax = 368.23678722627596 
+            text = "" 
+        intervals [142]:
+            xmin = 368.23678722627596 
+            xmax = 369.83860697299707 
+            text = "2-" 
+        intervals [143]:
+            xmin = 369.83860697299707 
+            xmax = 372.77439909297055 
+            text = "" 
+        intervals [144]:
+            xmin = 372.77439909297055 
+            xmax = 373.80768707482997 
+            text = "2-" 
+        intervals [145]:
+            xmin = 373.80768707482997 
+            xmax = 385.1372045667878 
+            text = "" 
+        intervals [146]:
+            xmin = 385.1372045667878 
+            xmax = 386.4397732426304 
+            text = "" 
+        intervals [147]:
+            xmin = 386.4397732426304 
+            xmax = 388.68874580237775 
+            text = "" 
+        intervals [148]:
+            xmin = 388.68874580237775 
+            xmax = 389.0365339598516 
+            text = "1+" 
+        intervals [149]:
+            xmin = 389.0365339598516 
+            xmax = 402.575112296123 
+            text = "" 
+        intervals [150]:
+            xmin = 402.575112296123 
+            xmax = 404.247305861351 
+            text = "2" 
+        intervals [151]:
+            xmin = 404.247305861351 
+            xmax = 405.7772789115647 
+            text = "" 
+        intervals [152]:
+            xmin = 405.7772789115647 
+            xmax = 405.9272789115647 
+            text = "" 
+        intervals [153]:
+            xmin = 405.9272789115647 
+            xmax = 407.03893424036283 
+            text = "0" 
+        intervals [154]:
+            xmin = 407.03893424036283 
+            xmax = 410.9897732426304 
+            text = "" 
+        intervals [155]:
+            xmin = 410.9897732426304 
+            xmax = 411.08977324263043 
+            text = "" 
+        intervals [156]:
+            xmin = 411.08977324263043 
+            xmax = 411.6207936507937 
+            text = "0" 
+        intervals [157]:
+            xmin = 411.6207936507937 
+            xmax = 413.0646240533848 
+            text = "" 
+        intervals [158]:
+            xmin = 413.0646240533848 
+            xmax = 414.4837671921399 
+            text = "0" 
+        intervals [159]:
+            xmin = 414.4837671921399 
+            xmax = 420.59455782312926 
+            text = "" 
+        intervals [160]:
+            xmin = 420.59455782312926 
+            xmax = 420.7226487871725 
+            text = "" 
+        intervals [161]:
+            xmin = 420.7226487871725 
+            xmax = 423.0376099072998 
+            text = "1" 
+        intervals [162]:
+            xmin = 423.0376099072998 
+            xmax = 428.23287981859414 
+            text = "" 
+        intervals [163]:
+            xmin = 428.23287981859414 
+            xmax = 430.1734467120182 
+            text = "2" 
+        intervals [164]:
+            xmin = 430.1734467120182 
+            xmax = 431.0365103598516 
+            text = "" 
+        intervals [165]:
+            xmin = 431.0365103598516 
+            xmax = 434.01081632653063 
+            text = "" 
+        intervals [166]:
+            xmin = 434.01081632653063 
+            xmax = 443.2496145124717 
+            text = "" 
+        intervals [167]:
+            xmin = 443.2496145124717 
+            xmax = 443.6196635006664 
+            text = "0" 
+        intervals [168]:
+            xmin = 443.6196635006664 
+            xmax = 444.42754260507337 
+            text = "" 
+        intervals [169]:
+            xmin = 444.42754260507337 
+            xmax = 446.17920634920637 
+            text = "0" 
+        intervals [170]:
+            xmin = 446.17920634920637 
+            xmax = 450.80403628117915 
+            text = "" 
+        intervals [171]:
+            xmin = 450.80403628117915 
+            xmax = 450.9544911588217 
+            text = "" 
+        intervals [172]:
+            xmin = 450.9544911588217 
+            xmax = 451.4533388190368 
+            text = "1+" 
+        intervals [173]:
+            xmin = 451.4533388190368 
+            xmax = 452.34702947845807 
+            text = "" 
+        intervals [174]:
+            xmin = 452.34702947845807 
+            xmax = 452.65904761904767 
+            text = "0" 
+        intervals [175]:
+            xmin = 452.65904761904767 
+            xmax = 475.1342403628118 
+            text = "" 
+        intervals [176]:
+            xmin = 475.1342403628118 
+            xmax = 481.18630385487535 
+            text = "" 
+        intervals [177]:
+            xmin = 481.18630385487535 
+            xmax = 482.27764172335606 
+            text = "" 
+        intervals [178]:
+            xmin = 482.27764172335606 
+            xmax = 483.0888888888889 
+            text = "x" 
+        intervals [179]:
+            xmin = 483.0888888888889 
+            xmax = 483.46040816326536 
+            text = "" 
+        intervals [180]:
+            xmin = 483.46040816326536 
+            xmax = 484.77233560090707 
+            text = "" 
+        intervals [181]:
+            xmin = 484.77233560090707 
+            xmax = 484.8551421657581 
+            text = "" 
+        intervals [182]:
+            xmin = 484.8551421657581 
+            xmax = 485.3390702947846 
+            text = "x" 
+        intervals [183]:
+            xmin = 485.3390702947846 
+            xmax = 485.8513605442177 
+            text = "" 
+        intervals [184]:
+            xmin = 485.8513605442177 
+            xmax = 493.8980498866213 
+            text = "" 
+        intervals [185]:
+            xmin = 493.8980498866213 
+            xmax = 495.02857142857147 
+            text = "2" 
+        intervals [186]:
+            xmin = 495.02857142857147 
+            xmax = 499.1948015524004 
+            text = "" 
+        intervals [187]:
+            xmin = 499.1948015524004 
+            xmax = 499.85876076212327 
+            text = "1+" 
+        intervals [188]:
+            xmin = 499.85876076212327 
+            xmax = 504.6467685285022 
+            text = "" 
+        intervals [189]:
+            xmin = 504.6467685285022 
+            xmax = 506.27392290249435 
+            text = "2-" 
+        intervals [190]:
+            xmin = 506.27392290249435 
+            xmax = 506.84931327449647 
+            text = "" 
+        intervals [191]:
+            xmin = 506.84931327449647 
+            xmax = 510.32315192743766 
+            text = "2-" 
+        intervals [192]:
+            xmin = 510.32315192743766 
+            xmax = 518.5133560090703 
+            text = "" 
+        intervals [193]:
+            xmin = 518.5133560090703 
+            xmax = 518.9442403628117 
+            text = "0" 
+        intervals [194]:
+            xmin = 518.9442403628117 
+            xmax = 522.4535428854612 
+            text = "" 
+        intervals [195]:
+            xmin = 522.4535428854612 
+            xmax = 522.9643764172336 
+            text = "" 
+        intervals [196]:
+            xmin = 522.9643764172336 
+            xmax = 526.1692290249433 
+            text = "2" 
+        intervals [197]:
+            xmin = 526.1692290249433 
+            xmax = 532.0950793650793 
+            text = "" 
+        intervals [198]:
+            xmin = 532.0950793650793 
+            xmax = 532.8061904761905 
+            text = "0" 
+        intervals [199]:
+            xmin = 532.8061904761905 
+            xmax = 541.0226411795093 
+            text = "" 
+        intervals [200]:
+            xmin = 541.0226411795093 
+            xmax = 542.6134920634921 
+            text = "1" 
+        intervals [201]:
+            xmin = 542.6134920634921 
+            xmax = 544.8586223774496 
+            text = "" 
+        intervals [202]:
+            xmin = 544.8586223774496 
+            xmax = 545.0518380204907 
+            text = "" 
+        intervals [203]:
+            xmin = 545.0518380204907 
+            xmax = 546.1525396825397 
+            text = "" 
+        intervals [204]:
+            xmin = 546.1525396825397 
+            xmax = 547.0542546847342 
+            text = "0" 
+        intervals [205]:
+            xmin = 547.0542546847342 
+            xmax = 548.1142630385488 
+            text = "" 
+        intervals [206]:
+            xmin = 548.1142630385488 
+            xmax = 550.2790858330003 
+            text = "0" 
+        intervals [207]:
+            xmin = 550.2790858330003 
+            xmax = 550.7849595165986 
+            text = "" 
+        intervals [208]:
+            xmin = 550.7849595165986 
+            xmax = 551.8371201814059 
+            text = "0" 
+        intervals [209]:
+            xmin = 551.8371201814059 
+            xmax = 553.4291383219955 
+            text = "" 
+        intervals [210]:
+            xmin = 553.4291383219955 
+            xmax = 555.040022675737 
+            text = "2" 
+        intervals [211]:
+            xmin = 555.040022675737 
+            xmax = 557.6314785496138 
+            text = "" 
+        intervals [212]:
+            xmin = 557.6314785496138 
+            xmax = 560.2426077097506 
+            text = "2" 
+        intervals [213]:
+            xmin = 560.2426077097506 
+            xmax = 561.9734474158262 
+            text = "" 
+        intervals [214]:
+            xmin = 561.9734474158262 
+            xmax = 562.3458266551417 
+            text = "" 
+        intervals [215]:
+            xmin = 562.3458266551417 
+            xmax = 563.4698768117977 
+            text = "2" 
+        intervals [216]:
+            xmin = 563.4698768117977 
+            xmax = 564.6572747635772 
+            text = "" 
+        intervals [217]:
+            xmin = 564.6572747635772 
+            xmax = 568.2502040816327 
+            text = "2" 
+        intervals [218]:
+            xmin = 568.2502040816327 
+            xmax = 570.6607256235828 
+            text = "" 
+        intervals [219]:
+            xmin = 570.6607256235828 
+            xmax = 572.4009297052155 
+            text = "2" 
+        intervals [220]:
+            xmin = 572.4009297052155 
+            xmax = 573.0989795918367 
+            text = "" 
+        intervals [221]:
+            xmin = 573.0989795918367 
+            xmax = 575.4277142714978 
+            text = "" 
+        intervals [222]:
+            xmin = 575.4277142714978 
+            xmax = 577.9531519274377 
+            text = "2" 
+        intervals [223]:
+            xmin = 577.9531519274377 
+            xmax = 580.0963932250341 
+            text = "" 
+        intervals [224]:
+            xmin = 580.0963932250341 
+            xmax = 582.8747787979253 
+            text = "2" 
+        intervals [225]:
+            xmin = 582.8747787979253 
+            xmax = 585.9551247165533 
+            text = "" 
+        intervals [226]:
+            xmin = 585.9551247165533 
+            xmax = 586.4509111153567 
+            text = "" 
+        intervals [227]:
+            xmin = 586.4509111153567 
+            xmax = 589.0679912409662 
+            text = "1" 
+        intervals [228]:
+            xmin = 589.0679912409662 
+            xmax = 591.9791836734694 
+            text = "" 
+        intervals [229]:
+            xmin = 591.9791836734694 
+            xmax = 594.7096608484173 
+            text = "2" 
+        intervals [230]:
+            xmin = 594.7096608484173 
+            xmax = 595.2893077775404 
+            text = "" 
+        intervals [231]:
+            xmin = 595.2893077775404 
+            xmax = 596.093673870256 
+            text = "x" 
+        intervals [232]:
+            xmin = 596.093673870256 
+            xmax = 598.991794931198 
+            text = "" 
+        intervals [233]:
+            xmin = 598.991794931198 
+            xmax = 601.7423695010904 
+            text = "1" 
+        intervals [234]:
+            xmin = 601.7423695010904 
+            xmax = 602.2131130677723 
+            text = "" 
+        intervals [235]:
+            xmin = 602.2131130677723 
+            xmax = 612.6358780028926 
+            text = "" 
+        intervals [236]:
+            xmin = 612.6358780028926 
+            xmax = 612.9740136054422 
+            text = "0" 
+        intervals [237]:
+            xmin = 612.9740136054422 
+            xmax = 613.5105043294412 
+            text = "" 
+        intervals [238]:
+            xmin = 613.5105043294412 
+            xmax = 616.1803932150993 
+            text = "1+" 
+        intervals [239]:
+            xmin = 616.1803932150993 
+            xmax = 631.3384707412237 
+            text = "" 
+        intervals [240]:
+            xmin = 631.3384707412237 
+            xmax = 633.6534314613508 
+            text = "1+" 
+        intervals [241]:
+            xmin = 633.6534314613508 
+            xmax = 638.4199546485261 
+            text = "" 
+        intervals [242]:
+            xmin = 638.4199546485261 
+            xmax = 641.690544217687 
+            text = "2-" 
+        intervals [243]:
+            xmin = 641.690544217687 
+            xmax = 642.5874149659865 
+            text = "" 
+        intervals [244]:
+            xmin = 642.5874149659865 
+            xmax = 644.1147259404058 
+            text = "2" 
+        intervals [245]:
+            xmin = 644.1147259404058 
+            xmax = 644.7556462585036 
+            text = "" 
+        intervals [246]:
+            xmin = 644.7556462585036 
+            xmax = 646.2190199437074 
+            text = "" 
+        intervals [247]:
+            xmin = 646.2190199437074 
+            xmax = 646.8266573816901 
+            text = "" 
+        intervals [248]:
+            xmin = 646.8266573816901 
+            xmax = 648.1370107426775 
+            text = "" 
+        intervals [249]:
+            xmin = 648.1370107426775 
+            xmax = 649.8845804988663 
+            text = "2" 
+        intervals [250]:
+            xmin = 649.8845804988663 
+            xmax = 651.1545742011358 
+            text = "" 
+        intervals [251]:
+            xmin = 651.1545742011358 
+            xmax = 651.7447601653339 
+            text = "" 
+        intervals [252]:
+            xmin = 651.7447601653339 
+            xmax = 656.6205932240042 
+            text = "2" 
+        intervals [253]:
+            xmin = 656.6205932240042 
+            xmax = 659.4010884353742 
+            text = "" 
+        intervals [254]:
+            xmin = 659.4010884353742 
+            xmax = 660.9118367346939 
+            text = "2" 
+        intervals [255]:
+            xmin = 660.9118367346939 
+            xmax = 664.008798185941 
+            text = "" 
+        intervals [256]:
+            xmin = 664.008798185941 
+            xmax = 664.1065939695743 
+            text = "" 
+        intervals [257]:
+            xmin = 664.1065939695743 
+            xmax = 668.8910887242617 
+            text = "" 
+        intervals [258]:
+            xmin = 668.8910887242617 
+            xmax = 671.5432985667878 
+            text = "1" 
+        intervals [259]:
+            xmin = 671.5432985667878 
+            xmax = 671.8840607008784 
+            text = "" 
+        intervals [260]:
+            xmin = 671.8840607008784 
+            xmax = 680.8001587301587 
+            text = "2" 
+        intervals [261]:
+            xmin = 680.8001587301587 
+            xmax = 683.0005215419501 
+            text = "" 
+        intervals [262]:
+            xmin = 683.0005215419501 
+            xmax = 683.0725486001061 
+            text = "" 
+        intervals [263]:
+            xmin = 683.0725486001061 
+            xmax = 685.162790556641 
+            text = "2" 
+        intervals [264]:
+            xmin = 685.162790556641 
+            xmax = 686.8594616190368 
+            text = "" 
+        intervals [265]:
+            xmin = 686.8594616190368 
+            xmax = 686.9648519697864 
+            text = "" 
+        intervals [266]:
+            xmin = 686.9648519697864 
+            xmax = 688.9601290259731 
+            text = "2" 
+        intervals [267]:
+            xmin = 688.9601290259731 
+            xmax = 695.3444671201814 
+            text = "" 
+        intervals [268]:
+            xmin = 695.3444671201814 
+            xmax = 697.9498412698413 
+            text = "" 
+        intervals [269]:
+            xmin = 697.9498412698413 
+            xmax = 698.5854875283447 
+            text = "x" 
+        intervals [270]:
+            xmin = 698.5854875283447 
+            xmax = 705.2915520571104 
+            text = "" 
+        intervals [271]:
+            xmin = 705.2915520571104 
+            xmax = 706.7218594104309 
+            text = "2+" 
+        intervals [272]:
+            xmin = 706.7218594104309 
+            xmax = 707.6275912473875 
+            text = "" 
+        intervals [273]:
+            xmin = 707.6275912473875 
+            xmax = 715.039818747433 
+            text = "2+" 
+        intervals [274]:
+            xmin = 715.039818747433 
+            xmax = 715.9715192743764 
+            text = "" 
+        intervals [275]:
+            xmin = 715.9715192743764 
+            xmax = 717.7517497887172 
+            text = "2" 
+        intervals [276]:
+            xmin = 717.7517497887172 
+            xmax = 719.2399546485261 
+            text = "" 
+        intervals [277]:
+            xmin = 719.2399546485261 
+            xmax = 719.3324914652885 
+            text = "" 
+        intervals [278]:
+            xmin = 719.3324914652885 
+            xmax = 719.9823986282447 
+            text = "2" 
+        intervals [279]:
+            xmin = 719.9823986282447 
+            xmax = 720.2458745051189 
+            text = "" 
+        intervals [280]:
+            xmin = 720.2458745051189 
+            xmax = 723.4004454195518 
+            text = "2+" 
+        intervals [281]:
+            xmin = 723.4004454195518 
+            xmax = 730.4051635633651 
+            text = "" 
+        intervals [282]:
+            xmin = 730.4051635633651 
+            xmax = 731.0409050948812 
+            text = "0" 
+        intervals [283]:
+            xmin = 731.0409050948812 
+            xmax = 733.43677906859 
+            text = "" 
+        intervals [284]:
+            xmin = 733.43677906859 
+            xmax = 733.8567120181405 
+            text = "" 
+        intervals [285]:
+            xmin = 733.8567120181405 
+            xmax = 736.3911083165985 
+            text = "" 
+        intervals [286]:
+            xmin = 736.3911083165985 
+            xmax = 736.6825747023322 
+            text = "1+" 
+        intervals [287]:
+            xmin = 736.6825747023322 
+            xmax = 745.6878231292518 
+            text = "" 
+        intervals [288]:
+            xmin = 745.6878231292518 
+            xmax = 746.1568260807057 
+            text = "" 
+        intervals [289]:
+            xmin = 746.1568260807057 
+            xmax = 747.8533333333334 
+            text = "2-" 
+        intervals [290]:
+            xmin = 747.8533333333334 
+            xmax = 749.6412698412698 
+            text = "" 
+        intervals [291]:
+            xmin = 749.6412698412698 
+            xmax = 751.1520181405896 
+            text = "2" 
+        intervals [292]:
+            xmin = 751.1520181405896 
+            xmax = 751.9741462727396 
+            text = "" 
+        intervals [293]:
+            xmin = 751.9741462727396 
+            xmax = 753.5585145456761 
+            text = "1" 
+        intervals [294]:
+            xmin = 753.5585145456761 
+            xmax = 754.9395238095238 
+            text = "" 
+        intervals [295]:
+            xmin = 754.9395238095238 
+            xmax = 755.1989774210056 
+            text = "" 
+        intervals [296]:
+            xmin = 755.1989774210056 
+            xmax = 756.354172335601 
+            text = "2+" 
+        intervals [297]:
+            xmin = 756.354172335601 
+            xmax = 757.8441616401483 
+            text = "" 
+        intervals [298]:
+            xmin = 757.8441616401483 
+            xmax = 762.1088442491443 
+            text = "1" 
+        intervals [299]:
+            xmin = 762.1088442491443 
+            xmax = 763.018714277283 
+            text = "" 
+        intervals [300]:
+            xmin = 763.018714277283 
+            xmax = 763.9097732426304 
+            text = "1" 
+        intervals [301]:
+            xmin = 763.9097732426304 
+            xmax = 765.0106122448981 
+            text = "" 
+        intervals [302]:
+            xmin = 765.0106122448981 
+            xmax = 765.6462585034014 
+            text = "1+" 
+        intervals [303]:
+            xmin = 765.6462585034014 
+            xmax = 780.2537414965988 
+            text = "" 
+        intervals [304]:
+            xmin = 780.2537414965988 
+            xmax = 782.2073922902495 
+            text = "2-" 
+        intervals [305]:
+            xmin = 782.2073922902495 
+            xmax = 785.9597959183674 
+            text = "" 
+        intervals [306]:
+            xmin = 785.9597959183674 
+            xmax = 786.3989918859761 
+            text = "0" 
+        intervals [307]:
+            xmin = 786.3989918859761 
+            xmax = 789.3755102040816 
+            text = "" 
+        intervals [308]:
+            xmin = 789.3755102040816 
+            xmax = 789.859194817583 
+            text = "1+" 
+        intervals [309]:
+            xmin = 789.859194817583 
+            xmax = 791.4526530612245 
+            text = "" 
+        intervals [310]:
+            xmin = 791.4526530612245 
+            xmax = 792.8346021357413 
+            text = "2" 
+        intervals [311]:
+            xmin = 792.8346021357413 
+            xmax = 794.3308390022676 
+            text = "" 
+        intervals [312]:
+            xmin = 794.3308390022676 
+            xmax = 795.7480498866214 
+            text = "x" 
+        intervals [313]:
+            xmin = 795.7480498866214 
+            xmax = 800 
+            text = "" 

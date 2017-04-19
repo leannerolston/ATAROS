@@ -1,0 +1,267 @@
+0	3I	okay . 
+1	3I	food aisle , probably . 
+2	3I	i trunc i think so , cuz it looks like there 's a lot in there , and i don't think we could fit them on - 
+1	3I	the same side . 
+2	3I	this is , like , the outdoor - yes . 
+0	3I	and - 
+1	3I	yeah , that sounds - that sounds good . 
+0	3I	let's see what they - 
+1	3I	yeah , that sounds - 
+1	3I	second aisle - 
+1	3I	if i remember right , we had more , like , outdoorsy words ? so second - yeah , so like trunc second - 
+1	3I	oh , yeah . 
+1	3I	where do we want the clothes ? 
+1	3I	we could do them there , that 's a big - 
+2	3I	toilet paper . i would say that sounds good . rolls of duct tape . do you think that 's , like , outdoor , or inside ? 
+1	3I	power trunc power cords ? 
+2	3I	if i was looking for a power cord i might also trunc be looking for duct tape . yep , heavy coats . 
+1	3I	like , start with toys ? 
+1	3I	where should we put our alcohol ? 
+0	3I	i know , avoid that . 
+1	3I	that 's probably - 
+1	3I	trunc did we say outdoors were in aisle one ? 
+1	3I	yeah , i 'm say , cuz boating - yeah , so boating supplies - trunc trunc trunc pre-cut wood's probably more - yeah , like outdoor - wherever . 
+1	3I	that looks good . 
+1	3I	trunc that 's probably - 
+1	3I	trunc household ? like , toilet , by - kinda by toilet paper , maybe ? 
+1	3I	sure , that 's refrigerated , right ? 
+0	3I	um , heavy cable . 
+1	3I	out door ? or is that home improvement ? i don't even know what a heavy cable is . do they mean , like , towing rope ? 
+1	3I	power cords . and then electric heaters . 
+1	3I	eh , i 'll put it next to the siding . 
+1	3I	yeah , probably . 
+1	3I	that sounds good . 
+1	3I	got ta get your water and your whiskey at the same time . 
+0	3I	boxes of doughnuts . 
+1	3I	cake mix . 
+0	3I	hm . 
+2	3I	yeah , just stick it - yeah , just go trunc stick it with the pet food . yeah . i feel like when i go into , like , walmart or target it's , like , pet food , like - 
+1	3I	random stuff , and then everything else . 
+1	3I	probably with the wood if you 're gonna cut wood . 
+1	3I	might need an ax . shoelaces . too bad we don't have shoes , cuz then we would put them next to them . but i think - were we doing - ? here ? 
+1	3I	or should i start at the bottom , so we can put maybe shoes there ? . 
+1	3I	probably more bathroom . 
+1	3I	yeah . 
+2	3I	oh , our egg timers . those are random . maybe by refrigerator magnets ! that seems like it would be - 
+1	3I	and then fish hooks . do you wanna stick em up by our - like , i don't know - if you go boating you might need a trunc fish hook . 
+1	3I	closing . closing , i can't even speak . clothing . 
+1	3I	like , dried - yeah trunc put it with the dry stuff . 
+1	3I	fleece lined boots . maybe by the shoelaces ? 
+1	3I	packages of cookies . doughnuts . 
+0	3I	sorry , i grabbed a lot . bagels . 
+0	3I	i don't remember . 
+1	3I	soybeans . 
+0	3I	wetsuits . 
+2	3I	i 'd say over here , - i would say over by the boating supplies . 
+2	3I	that could go - 
+1	3I	i would say it could go with travel guides . i mean , that 's kinda the , like , outdoorsy aisle . 
+0	3I	hats . 
+1	3I	stick it with the - yeah , stick it with the - 
+0	3I	yeah , there was an ax . there was a small ax . 
+2	3I	well , you could stick it across cuz we have the both , uh - i think we have both sides of the aisle . 
+0	3I	box knives . i wonder if they 're talking about kitchen knives , or - ? 
+0	3I	yeah , like a box knife . 
+1	3I	trunc probably you 're right , it's probably , like , a box cutter , cuz it would be box  of knives . 
+1	3I	where should we stick it ? 
+1	3I	duct tape , power trunc yeah , that sounds like a- 
+1	3I	that 's outdoor ? i don't know , it's kinda random . 
+2	3I	i say trunc it's be somewhere over here . that 's where i would put it too . 
+1	3I	electric heaters , sure . 
+0	3I	cushions for deck chairs . 
+1	3I	mm , probably with our clothes ? 
+1	3I	yeah , i 'd stick it with trunc our box stuff . 
+0	3I	buckets . 
+1	3I	we don't seem to have cleaning supplies . 
+1	3I	mousetraps , box knives , buckets , yeah . 
+0	3I	loose-leaf paper . 
+2	3I	that 's like - we have scissors ! 
+1	3I	tweezers . bathroom - 
+2	3I	well , we kinda used up our bathroom space . i wonder if we could just - 
+1	3I	trunc put it on trunc yeah , that 's what i was just gonna say . if we have more bathroom stuff , we can put it there . and then bucket - i can't read -  bundles of sticks . let's put it up here with the pre-cut wood . 
+1	3I	yeah , by the figs . it's all dry . 
+2	3I	sure ! put it between the cookies and the sugar . 
+1	3I	i would put it maybe over - 
+1	3I	i feel like , on this - ? 
+1	3I	our random - 
+1	3I	yeah . 
+0	3I	light jacket . 
+1	3I	they could fit there . 
+1	3I	either or . 
+0	3I	fishing net . 
+1	3I	fish hooks ? f- 
+0	3I	empty plastic jugs . 
+1	3I	our buckets were right here stick trunc by the peat moss . 
+2	3I	bundle - by bundles of sticks ? 
+0	3I	gas-powered cookstoves . maybe - 
+1	3I	by the books of matches or the boating supplies ? 
+1	3I	maybe we 'll stick it there . 
+2	3I	yes . sure . next to soybeans . that makes sense . 
+0	3I	socks . where - 
+0	3I	our are - 
+2	3I	where are - eh . i think we ended up using all of our - above toys , yeah . 
+0	3I	beets . 
+2	3I	since we - might as well , since we have all this space for food . 
+1	3I	so somewhere over here . 
+2	3I	i know . i know . i don't know if ours is any better . 
+1	3I	yeah , that sounds trunc logical . 
+1	3I	and our tow rope . last one . boating supplies . 
+2	3I	i think that 's a little better . 
+1	3I	i mean , this is a little confusing , but that 's okay . 
+0	3I	i know . 
+0	6B	okay . 
+1	6B	i know . 
+1	6B	so , education programs . why don't we - ? 
+1	6B	yeah , let's - and then why don't we read through , like , the whole list - 
+1	6B	first ? do you think ? 
+1	6B	and then maybe come up with , like - 
+1	6B	the one that you would - 
+0	6B	like - 
+2	6B	if you trunc like , if you put them in , like most important to , like , least important . 
+1	6B	like , in your head . i don't know . 
+1	6B	i - i would p- 
+0	6B	did you - did you finish ? 
+0	6B	um - 
+3	6B	i was just gonna say the sugar-free juice machine ! yeah , you could - they don't need juice , you could just drink water . that 's what i would cut too . um - 
+2	6B	yeah , i wonder - yeah , we could probably maybe - 
+1	6B	why don't we like , cut one , and then if we need to go back an- 
+0	6B	cut more . so - below are departments that are decide which expense you must choose the same number of items from each department . 
+0	6B	oh , we must discuss each item . okay . okay . okay , just kidding . so , math tutors . 
+1	6B	i think that 's important . 
+1	6B	yes . um - 
+0	6B	assistant cooks - 
+2	6B	i would personally probably put on the , like , not  quite as important . but - 
+0	6B	um - 
+1	6B	i don't know . 
+2	6B	a school , right ? i mean , if there 's , like , a thousand kids , like - 
+2	6B	two cooks , we 'd probably need more . but , um - sex ed . i feel like sex ed's important . i think it's really important for people . i don't know , my school district didn't do a lot of sex ed education , and it's , like , that 's  kind of important , and it's kind of just biology , so you trunc should - 
+1	6B	yeah . yes , down . um - 
+2	6B	yeah , they 're important . um . speech therapy can be important - being  in speech - like , if somebody's in , like the speech department - i - it also is - only serves a select - 
+2	6B	population . and so , like , if i  personally was on a budget committee i would  probably look to see what - 
+1	6B	i don't know , like - 
+1	6B	yeah , trunc yeah . that 's what i trunc mean , i guess . football equipment . 
+2	6B	is important . yeah . 
+1	6B	cooking classes , yeah . 
+1	6B	for trunc equally . 
+1	6B	yeah . 
+0	6B	acting coaches ? 
+2	6B	yeah . the only thing about acting coaches - if it said , like , drama teacher , i would say no no no , keep it . but , like , for me , when i see the word  coach , i think of , like - 
+2	6B	like - yeah , like , an individualized thing . and so i wouldn't want to cut like , a drama department . but if it was , like - 
+2	6B	extra coaching , i might say , oh , well - 
+2	6B	you have a drama teacher . so - 
+1	6B	i mean , it kinda depends . 
+2	6B	mean , and i don't know , cuz this is kinda vague , so i don't know what that 's referring to . but poetry books i think are probably important . for the library . although if you 're gonna cut - shouldn't you already have your - i mean , they 're not gonna , like , throw the books away . um - 
+0	6B	special ed teachers . 
+2	6B	i think it's important too . cooking classes , i - people don't know how to cook . i think they 're kind of important . yeah , i mean , i could see , like - i don't know , you don't need to offer  ten cooking classes , but i think it's important to at least have a couple . 
+1	6B	um , notetakers for disability services . yeah , i 'm pretty sure that 's - yeah . sugar-free juice machines , kicked those out . bookkeeping classes - 
+1	6B	i think that is - yeah , say . like , i feel like you can incorporate trunc them somewhere else . 
+1	6B	yeah . 
+1	6B	um , music teachers , i - i would say that 's important to keep . yeah . okay , check . 
+0	6B	so , we cut - 
+0	6B	sugar-free juice machines . 
+1	6B	trunc get rid of more . 
+0	6B	um - 
+0	6B	public health and safety . reproductive education . 
+1	6B	i think - yeah , i think so . i think that 's important . yeah . 
+1	6B	job training programs . i think that 's important . chicken pox vaccinations . i trunc i think they can get it , i trunc i don't really know , i should probably know . um - 
+2	6B	yeah , i would say , cuz i  personally didn't have a vaccination because - 
+0	6B	i got it when i was little . um - i th- 
+2	6B	important . but also for chicken pox - i - if it was just , like , vaccinations in general , i 'd be like , that 's important , but for chicken pox , especially cuz it's not , like - 
+1	6B	it's not super bad . so i don't know . i 've - haven't read the other ones on the list , so i don't know . 
+0	6B	um - 
+0	6B	invasive species removal . 
+2	6B	i feel like it's important . yeah , i - 
+2	6B	versus , like , a invasive species . i would maybe , like , k- 
+1	6B	weed control . 
+1	6B	yeah . 
+2	6B	oh yeah , i totally didn't even - yeah , i tend to think of just all weeds as , like , bad , but - yeah , there 's invasive species versus - yeah . so we could probably - like , if we had to pick between the two , i 'd - yeah , pick the weed control to go . um - 
+2	6B	so , s_t_d_ education , i think that 's important . i feel like - if these were my departments , that i would , like - 
+2	6B	have them try to consolidate . um . toxic waste disposal . like , that 's important . you can't , like , just dump it down the drain ! um - 
+0	6B	hospital additions . 
+0	6B	i wonder what it means by additions . like , a new building ? like , new - 
+2	6B	i mean , keeping your hospitals up is nice , but - feel like there 's too much we don't know . like , is our hospital old and sagging , or - ? i do- 
+1	6B	yeah , yeah . like , maybe , maybe wait a little bit . um , needle exchange , i think that 's really important . um - 
+1	6B	sex offender database . that seems important . and i think people would be upset if people cut it . um , veterans medical assistance ? i think that 's important . 
+1	6B	um , weed control , we said i think that we 'd cut that one . pre-natal - 
+1	6B	yeah . pre-natal check-ups . yeah , trunc think that 's important . 
+0	6B	and parent - er parent . neighborhood - yeah , neighborhood watch support - i don't - 
+1	6B	important either . 
+1	6B	yeah . 
+1	6B	i definitely agree there . 
+0	6B	public - 
+0	6B	and - recreation public services . 
+0	6B	okay , let's see how many - 
+1	6B	the cats are - yeah . 
+0	6B	is that , like - 
+0	6B	um - 
+1	6B	i think the newspaper's important . not sure - 
+2	6B	i feel like - but i feel like advertisements bring you money , so - 
+1	6B	know what they would be - i guess i 'm kinda confused on that one . 
+1	6B	feeling - yeah . especially - 
+1	6B	especially , i feel like in a - , depends on the size of our , like - 
+1	6B	of our city . i don't know . if it's a huge - like , seattle . like , community news ads are - 
+0	6B	i guess it says a community . our committee in charge of - 
+1	6B	of a trunc county . so that 's - that 's a - that 's a whole county , that 's a pretty big - 
+1	6B	area . 
+1	6B	yeah . 
+1	6B	probably - yeah . food bank , that 's important . junior soccer league . i think it's - 
+1	6B	nice . 
+1	6B	for , like , cheaper than joining , like , a y_m_c_a_ . um , so that might be nice . i don't know , i haven't read the - gonna read the other ones . 
+2	6B	i don't know . um . i think it's important to stay active , but - oh , kitten puppy adoption . 
+3	6B	yeah , trunc i know , that would mean - i would cry ! 
+1	6B	um , soup kitchens are important . um housing assistance - 
+1	6B	yeah . um , a dog catcher - 
+2	6B	eh . i feel like if i ha- 
+2	6B	i - i trunc i trunc saw it on the hundred and one dalmatians , but i don't - i don't actually know if that 's real . it's probably not real life . i think they  do have them , but - 
+2	6B	yeah , cutting a dog catcher . i 'd definitely cut the dog catcher ! um - 
+1	6B	boy's basketball club . i feel like that 's kinda like the junior soccer league . 
+0	6B	um , what's a public access station ? i don't even know what that trunc no , i don't know what that is . 
+0	6B	like , a - a show ? like - 
+0	6B	what do you mean ? like - 
+1	6B	oh , i didn't know that ! um , i mean that 's kinda cool . 
+2	6B	yeah , i wanna say , i wanna say , i wouldn't - i mean , you know . soup kitchen or - i would probably cut the public acid - i trunc i - cuz the dog catcher - i mean , if you don't - if people don't know that they 're missing it , if they don't know that they - 
+2	6B	had a public access station , that - 
+1	6B	they wouldn't - 
+1	6B	care . i don't know . vet - 
+1	6B	yeah . vet - vet hospital , i think is important . 
+0	6B	um , football stadium upkeep . 
+2	6B	trunc uh - i mean , i don't know . like , in - trunc in puyallup , like , the football stadium - 
+2	6B	is , like , all three high schools use it . um , trunc football teams use it , like , the parks and recs teams , um , they do , like , cancer walks there . like , it's - it's , like community - it's a community thing , so i think that would be important . um - 
+2	6B	i don't know , like a high school , like , practice field , that - 
+1	6B	yeah . 
+1	6B	yeah - 
+2	6B	you can't have - trunc , like ,  bedbugs . yeah , or - ew ech ! 
+1	6B	i would trunc i don't know , i would probably cut - 
+1	6B	i - that 's what i would probably cut . 
+1	6B	oh . it - yeah , we could do that . 
+2	6B	i know . can we maybe - ? i don't - i just - like - i feel like , especially - 
+2	6B	community  news ad . 
+2	6B	i don't even know what trunc where to get that . 
+1	6B	trunc probably . 
+1	6B	yeah , maybe . 
+1	6B	the news ads , keep the trunc public access station . 
+1	6B	okay . that sounds good . 
+2	6B	trunc infrastructure and licensing . okay , this 'll be trunc that 's is kind of important . um , speed limit signs ! i think that 's a no-brainer ! um , this road is sixty now . um - 
+2	6B	additional bus stops ? i maybe wouldn't say additional bus stops , because that , to me , sounds like they already have ten , and we wanna add more ? 
+2	6B	oh , i would choose the bus - yeah , a private service . so i would pick the more - oh yeah , didn't even - i should read all these first . um . 
+1	6B	yeah , i definitely would - 
+2	6B	yeah , i would too . if - i mean , if it was that and the taxi stops . um , tattoo artist licenses . i feel like that 's really important , um , only because people trunc get tattoos and - it 'd be - it's good to have some you know , oversight ? yeah . um , boating licenses . especially in washington - 
+2	6B	i mean , if you 're in montana , there 's not a whole lot you 're gonna boat on . but , um - 
+1	6B	yeah , but if you - specially in washington , i feel like that 's kind of important . 
+1	6B	yeah , with - yeah . 
+1	6B	yeah . otherwise you 're - yeah . 
+0	6B	subway system . trunc is it - ? 
+1	6B	i - i would trunc i would  think that it was already existing , so i 'd say that 's probably important to , like , keep it up . hunting tags ? i don't know what a hunting tag is . 
+0	6B	like - 
+1	6B	trunc i would think it trunc trunc maybe , like , a hunting license . i think that 's important . so you don't , i don't know . 
+1	6B	going out , yeah . towing services . 
+1	6B	yeah . 
+1	6B	yeah . 
+1	6B	i think - 
+2	6B	yeah . especially - i mean , you 've been on i_-five , you know ? when it's like , there 's a - literally a car blocking an entire lane of traffic . you know , and it's like , you need to get that hauled away . um , massage certificates ? 
+1	6B	yeah . 
+1	6B	a taxi stops is probably the one we 're gonna get rid of . yeah . 
+1	6B	fishing licenses . trunc that 's important . yep . 
+0	6B	public bus upkeep . 
+2	6B	and drainage ditches ? especially - especially in washington . i know . trunc trunc you look at , like - you see , like , it pour down rain in arizona , and there 's just , like , water everywhere . cuz they don't have any trunc drainage ditches . i think we did good ! 
+1	6B	i think it would be actually really harder , cuz we didn't have to cut - 
+1	6B	that much . 

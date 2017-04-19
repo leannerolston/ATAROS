@@ -1,0 +1,369 @@
+0	3I	alright . 
+0	3I	that 's okay . 
+1	3I	here , just put it on the table . 
+0	3I	there we go , keys off the floor . okay . um , i have tweezers ,  light jackets , and you have egg timers . 
+1	3I	alright . 
+2	3I	siding . 
+1	3I	food , yeah , which is good . 
+0	3I	kay . 
+1	3I	this gets more into that kind of , um - 
+1	3I	stuff . 
+0	3I	um - 
+1	3I	trunc tweezers , maybe with toilet paper ? 
+1	3I	as a , um , personal hygiene item . 
+1	3I	that 's what i thought . trunc magnets , yeah . 
+1	3I	alright , then we have jackets . do we have  any clothing items up here at all ? 
+2	3I	well , what we could do then is maybe make this room ? 
+1	3I	kay . 
+1	3I	that 's right , we get three at a time . 
+1	3I	ah , here . 
+2	3I	hats hats and light jackets should definitely go together . 
+2	3I	well , knowing what might be in there - 
+0	3I	see , trunc this large swath ? 
+2	3I	i think if we end up with all the hats and sweaters and - 
+2	3I	yeah , that would all be over here . 
+0	3I	mm-hm . 
+1	3I	which would be with the shoes . 
+2	3I	cuz we have axes , matches - 
+3	3I	um , for  this arrangement we have identified no area for clothing . 
+2	3I	trunc well , this is foods of all kinds , so far . except for pet food . 
+2	3I	yeah this - 
+2	3I	could be . and this could all be , um - this is m- 
+2	3I	i don't know . it seems like this area is open and we could put clothing in there . but - 
+1	3I	wetsuits ? 
+1	3I	kay . 
+1	3I	yeah , there 's a whole bunch of - 
+2	3I	hats and jackets should go with clothing of whatever - 
+2	3I	cuz we 're - remember we also have shoes - 
+0	3I	and , um - 
+2	3I	see , i don't know . when i think about a  store , i don't think about going to - 
+2	3I	different areas . i think about - 
+3	3I	trunc one of these  big stores - 
+3	3I	all the  clothing is in one area . 
+2	3I	so i wouldn't separate jackets out into boating supplies , cuz it would be w- 
+2	3I	but this isn't . 
+2	3I	right , but they 're - oh , okay . 
+2	3I	i - that 's not how i would - 
+2	3I	design a store , though . 
+1	3I	mm-hm . 
+2	3I	well , these are the utilities . 
+2	3I	i think so . but i wouldn't mix up - 
+2	3I	well , i just think they need to - 
+3	3I	there just needs to be an  area that can be dedicated to clothing , wherever we decide . 
+2	3I	you know what i mean ? cuz if - if you just walk down , you looked at toys , ran into clothes , pet food , or whether you do - 
+1	3I	that 'd be fine . 
+1	3I	sure . 
+1	3I	alright . 
+0	3I	plastic jugs . tow ropes . 
+2	3I	small axes . this all seems like this . 
+1	3I	sure . 
+2	3I	trunc i think all those go - doesn't matter . 
+1	3I	i don't think it matters where those go . 
+1	3I	sure . 
+1	3I	this could be with mousetraps , or - 
+0	3I	just kinda - okay , now we have shoelaces . 
+2	3I	bagels , and chocolate bars . so these have to go over here somewhere , and shoelaces goes with shoes , if we ever get any . 
+1	3I	can't move them . yep . 
+2	3I	well , no , they  have to be with our f- 
+2	3I	clothing . 
+2	3I	which could be on this side , too , remember ? 
+2	3I	we don't - we don't have any shoes yet , but wherever shoes are is where shoelaces would be . 
+1	3I	exactly . so what do you think with these ? 
+0	3I	chocolate bars - 
+2	3I	think this is good . and bagels would be - 
+2	3I	really , it's own thing , yeah there you go , i like the sound of that . 
+0	3I	alright . 
+2	3I	 i think so . 
+0	3I	 box knives . 
+2	3I	okay . and this was  definitely something around here , right ? 
+2	3I	face cream , toilet paper , tweezers right here , right here . 
+2	3I	apparently we 've been to , uh - 
+2	3I	large stores together before . 
+2	3I	there we go . soap - ooh , cookies . packages of them . 
+1	3I	right there , maybe ? 
+2	3I	sure ! 
+1	3I	canned - maybe here ? 
+0	3I	alright here's three more . 
+2	3I	ooh , butter . 
+2	3I	that 'd be next to eggs . 
+1	3I	yep . 
+1	3I	oh , very good . small axes . okay . 
+1	3I	 cushions for  deck chairs no . 
+1	3I	these are all gonna be - 
+1	3I	okay . 
+1	3I	yeah ! i think so . 
+1	3I	and those are - 
+1	3I	gonna go on that side , too . 
+1	3I	very good . 
+1	3I	sure ! 
+2	3I	i trunc i think anybody who's looking for that trunc is gonna go through that whole aisle . 
+0	3I	kay . now we have some boots - 
+0	3I	some books , and some backpacks . 
+1	3I	mm-hm . that 'd be good . 
+1	3I	backpacks and books . maybe by toys or by travel guides . 
+2	3I	well , this could be here . 
+1	3I	yeah , i agree . 
+0	3I	and - 
+2	3I	see , that 's the problem with having it here and not in a larger area . 
+2	3I	so if we 're doing this , i think we should - 
+1	3I	that 's true . 
+2	3I	yeah . then this could be boots and this is clothing . 
+0	3I	an- 
+1	3I	, works for me . 
+1	3I	what about beets ? maybe here ? 
+2	3I	no , this is veggies . 
+0	3I	well this doesn't say canned . 
+2	3I	i think trunc doughnuts will be - 
+0	3I	um - 
+1	3I	next to sugar ? 
+1	3I	that 's funny . 
+2	3I	yeah ! i like where you stuck it . 
+2	3I	well , the - on the other side . the little kiddies won't know . and the parents could pick it up while their kids are shopping ! 
+1	3I	alright . 
+2	3I	i could actually - 
+1	3I	well , that 's true . 
+0	3I	alright , pouches of oatmeal . 
+1	3I	i think it's fine there . 
+2	3I	we don't want it next to all the - 
+2	3I	we don't want it next to here , cuz we don't want people doing a whole buncha - yeah . 
+1	3I	whole buncha drinking while you - 
+0	3I	alright , mint toothpaste . 
+1	3I	that 's okay . 
+1	3I	sounds good . 
+1	3I	doesn't matter . 
+1	3I	what do you think about heavy coats here ? 
+0	3I	now we got some dried figs . 
+1	3I	in here ? 
+1	3I	alright , we 're getting close ! we 're getting close . 
+2	3I	uh , i don't know if we 're gonna make it . ooh ! here's the water - 
+1	3I	for the empty buckets we don't have . 
+2	3I	mm , or we could have it - 
+2	3I	actually , water a lot of times is where the - 
+1	3I	isn't it ? 
+1	3I	how bout that ? 
+2	3I	ooh . trunc we have this too , though . 
+0	3I	mm . 
+1	3I	alright . 
+1	3I	there it is . 
+0	3I	okay . 
+0	3I	okay , we got duct tape electric heaters , and bags of peat moss . 
+1	3I	i think mousetraps . 
+1	3I	with this one or with your two ? 
+1	3I	okay . 
+2	3I	you know , we also have  this area . which maybe could correspond to - 
+1	3I	yeah , maybe . 
+0	3I	um . 
+2	3I	i don't think we  have anything else pet-related . 
+1	3I	trunc i think we could totally do that . 
+1	3I	okay . 
+1	3I	and duct tape could be - 
+1	3I	oh , that could go by box knives , though ! 
+1	3I	yeah ! 
+1	3I	alright now , here's random . 
+0	3I	five-pound weights . 
+0	3I	small saws . 
+1	3I	so maybe that 's here ? yeah . 
+0	3I	and then  matches . 
+1	3I	maybe here ? 
+1	3I	i 'm just trying to think of - 
+0	3I	oh . 
+1	3I	oh , you 're right . that does make sense right there . 
+1	3I	i think so . 
+1	3I	either way . 
+2	3I	alright , here's a nother good one . 
+1	3I	for maybe - 
+1	3I	this area . 
+0	3I	hm . 
+2	3I	that 's where we 'd stick that . th- 
+1	3I	kay . 
+0	3I	large cups . 
+1	3I	yeah , sure . 
+1	3I	maybe there ? 
+1	3I	well , it looks like we 're - 
+1	3I	oh , trunc trunc trunc true . 
+0	3I	hm . 
+2	3I	how bout here , though ? cuz then we have all these other kinda kitchen-y items like , what you 'd turn around and see now . 
+1	3I	that 's true . 
+0	3I	i always end up in that weird , like - 
+0	3I	foil aisle . 
+1	3I	i think it would be - 
+1	3I	well , not - it's hard to - hard to say . 
+1	3I	yeah , that 's true . for all this stuff , too . 
+0	3I	bottles of juice and loose-leaf paper . 
+1	3I	be like , right here , right ? or - 
+1	3I	i 'll just stick that right there . yep ! . 
+0	3I	that leaves us with  this one . 
+1	3I	trying to see - maybe travel guides ? so maybe here ? 
+0	3I	that was it . yeah . 
+1	3I	wherever . 
+1	3I	yeah ! 
+1	3I	it could go next to the bottles of juice . that 's not a bad idea . 
+1	3I	yep . 
+0	3I	and we 're done , we think . 
+1	6B	alright , so let's look at the first one and see if there 's  anything that we can agree on , first column - 
+1	6B	of  one thing - 
+1	6B	that needs to be - 
+1	6B	that  can be cut , i should say . 
+0	6B	so , looking through that list , math tutors , assistant cooks , sex ed , custodians , speech therapy , football equipment , acting coaches , poetry books - 
+0	6B	special ed teachers , cooking classes , notetakers , disability services - 
+0	6B	sugar-free juice machines - 
+0	6B	bookkeeping classes and music teachers . 
+2	6B	i think , for me it's very easily to say the sugar-free juice machines . 
+2	6B	because i don't really trunc see a need to have  any type of - 
+2	6B	juice machine in any school anywhere they can drink water . 
+1	6B	okay , so there 's our one thing right ? 
+1	6B	alright , you wanna read that list for us ? 
+0	6B	okay . 
+0	6B	do any of these jump out as - 
+0	6B	easiest to cut ? 
+1	6B	yeah , trunc me neither . 
+0	6B	where did you see hospital additions ? 
+0	6B	oh , yeah , there it is right there . 
+0	6B	yep . 
+0	6B	um , let's see - 
+1	6B	well , maybe it should be w- 
+1	6B	well maybe we should say weed control . 
+1	6B	could be the first to go . 
+2	6B	i don't understand why you need a neighborhood watch support . 
+2	6B	i mean , neighborhoods can  have neighborhood watches . 
+2	6B	why do you need a separate area to support ? 
+0	6B	yeah . 
+2	6B	if there 's a neighborhood watch and something happens , they just call the police . 
+2	6B	i don't understand why you need a separate - 
+2	6B	yeah , i agree . 
+1	6B	so then , th- 
+1	6B	there 's a question of reproductive education , s_t_d_ education - 
+1	6B	those kinda seem like you could hit - 
+1	6B	two birds with one s- 
+1	6B	tone . 
+2	6B	yeah , but we already have sex ed - 
+2	6B	here , so the teenagers are already getting reproductive and s_t_d_ education . 
+2	6B	so if we 're talking about adults , what are we trying to teach them ? 
+1	6B	would be more important than - 
+2	6B	well , so in  that case , i think - 
+2	6B	neighborhood watch support could go . pre-natal checkups  can't go . 
+2	6B	well , they  could . trunc we could still just pick one . 
+1	6B	which one of those two ? or maybe find a third one easier . 
+1	6B	alright . so , number trunc uh , column three , recreation and public services . 
+0	6B	stray cat spaying , community news ads , food bank - 
+0	6B	junior soccer league 
+0	6B	kitten and puppy adoption , soup kitchens , housing assistance , dog catcher , boys basketball club , public access station - 
+0	6B	veterinary hospital , football stadium upkeep , and pest control . 
+2	6B	now why is a veterinary hospital a public service ? 
+2	6B	well - 
+2	6B	why do those need to be - but why do those need to be a public service ? we have private - 
+2	6B	but we have private - 
+2	6B	yeah , don't we have - i mean , dog catcher typically has been a public - 
+2	6B	publicly funded , but - 
+2	6B	kitten and puppy adoption is handled voluntarily by , like , paws and - 
+2	6B	humane society and stuff , so i 'm just unclear - 
+2	6B	right , but why couldn't the dog catcher take them to the humane society ? 
+2	6B	but they could . and then - 
+2	6B	no , i don't think it is , because we  have veterinary hospitals that are private . 
+2	6B	trunc people who have pets pay - like , when i - i - when my dog needs help , i have to trunc i trunc take him to a hospital , but it's not a - 
+2	6B	publicly funded hospital . 
+2	6B	is it ? 
+2	6B	well , i don't know - no , i was just curious why - 
+1	6B	i don't know . football stadium - football stadium can take care of . 
+2	6B	i think we should trunc 
+2	6B	i think the public could definitely handle stray cat spraying - spaying - 
+2	6B	because i think  that - 
+2	6B	does good , like , a lon- 
+2	6B	a long way . 
+1	6B	i 'm just not sure why - 
+2	6B	see , like , soup kitchens i think are great , but - 
+2	6B	those are also - 
+2	6B	private . i 'm - i 'm just - the trunc the list is bizarre ! 
+2	6B	oh , they  are , but they 're not usually - 
+2	6B	they 're not usually - 
+2	6B	like , the food banks where i grew up - 
+2	6B	they weren't - the city didn't provide them with anything . the food banks were run voluntarily by - 
+2	6B	bazillions of little churches that got together . 
+2	6B	so i - this is just an odd list to me . 
+2	6B	cuz it's , like , a combination of weird things . 
+2	6B	that i wouldn't even think would be on the list why is a boys basketball trunc oh , see , but that could be parks and rec . 
+0	6B	right . 
+0	6B	the what what ? 
+1	6B	yeah . 
+1	6B	well , what do you think ? 
+1	6B	well i think maybe kitty - kitten and puppy adoption . 
+0	6B	it's , like , if you have a community newsletter . 
+0	6B	right ? 
+2	6B	it 'd still have to be handled , though . 
+2	6B	whether it's online or paper , it would still be - 
+2	6B	some department somewhere responsible for it . 
+2	6B	i trunc said i thought kitten and puppy adoption - 
+2	6B	could be handled . 
+2	6B	not through the city . 
+1	6B	alright , then we got infrastructure and licensing . 
+0	6B	teaching certificates , speed limit signs , additional bus stops , tattoo artist licenses - 
+0	6B	boating licenses , pothole maintenance , subway system - 
+0	6B	hunting tags , towing services , massage certificates , taxi stops - 
+0	6B	and our - there we go . taxi stops , fishing licenses - 
+0	6B	public bus upkeep and drainage ditches . 
+0	6B	alright , so looking at this list - 
+2	6B	why is towing services on here ? 
+2	6B	no , but this is - we 're pretending that this is a  city or something , right ? 
+2	6B	right , so a city doesn't  provide a towing service . 
+2	6B	no . they - what they do is they call - 
+2	6B	there 's a list of - i know , because i know how they handle this , but there 's a list of , like , all the local towing - 
+2	6B	companies - 
+2	6B	and they have to cycle through them one after another . 
+2	6B	so here's triple a_ trunc towing , they call them up 
+2	6B	yeah that 's not part of - 
+2	6B	any government service . 
+2	6B	well , what do they trunc what do you think , if they mean towing services , like , for towing their  own - 
+2	6B	vehicles . 
+2	6B	do you know what i mean ? like - 
+1	6B	yeah , what is taxi stops ? 
+0	6B	mm-hm . 
+2	6B	well , trunc 
+2	6B	trunc yeah i just didn't know why towing services was on the list . 
+1	6B	huh , that would make sense , wouldn't it ? 
+1	6B	we just need to drop one yeah . 
+0	6B	what what ? 
+2	6B	well , that 's what - it depends on the definition of towing services . if the definition of towing services is , let's say there 's a car accident and someone needs to tow the car out of the road - 
+2	6B	a private towing service - 
+2	6B	is called . 
+2	6B	right , it's a contracted thing . so that 's  not part of any public service . 
+2	6B	if it's - means - 
+2	6B	the trunc city's bus - 
+2	6B	broke down - 
+2	6B	and they had to specially tow the city bus to the city parking garage so that - 
+2	6B	the city bus could - 
+0	6B	yeah . 
+3	6B	trunc  that you would have to keep , because you can't not - 
+2	6B	tow your own - 
+2	6B	yeah , right . 
+2	6B	yes . let's call that public bus upkeep , and we can drop towing services . 
+1	6B	exactly . 
+2	6B	yeah , it's a big job . you can't just call - 
+1	6B	yeah . 
+1	6B	alright , well , i think we 're done then . 
+1	6B	unless there was anything else . 
+1	6B	it does . 
+1	6B	yeah . 
+2	6B	well that 's why i think we left - 
+2	6B	this one here . 
+2	6B	and took that one out because by the time you 're an adult - 
+2	6B	i trunc you have pre-natal checkups , but the time you 're an adult you don't really need to know - 
+2	6B	a woman ovulates every twenty eight days , and then - 
+2	6B	no , i think - 
+2	6B	absolutely . 
+2	6B	and i think if any of the teachers have to go , unfortunately for me , personally , it would be the acting coach - 
+2	6B	but not poetry and not um - 
+2	6B	music . 
+2	6B	or , like , art 
+2	6B	trunc and i know that acting is one of those arts , but i - 
+2	6B	somehow think that 's a smaller niche than - 
+1	6B	that 's true . 
+2	6B	well , luckily we didn't have to take it out , so , we 're good ! 
+1	6B	yeah . 
+1	6B	yeah . i think so . 
+1	6B	let's see , we , uh - let's see - 
+1	6B	yeah . so , our task was to simply decide , which we have done . and they get to - 
+2	6B	bitch and moan , and that 's too bad for them , but - 
+0	6B	we decided . 
+2	6B	no , that 's not what it says . 
+2	6B	your task is to decide . 
+2	6B	and we appeared fair by cutting equally . 

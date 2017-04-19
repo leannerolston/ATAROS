@@ -1,0 +1,286 @@
+1	3I	we just do , uh , one at a time , then ? 
+1	3I	okay , so yes , let's do a random draw . 
+0	3I	uh , fishing net . 
+2	3I	trunc trunc got ta be near here . 
+1	3I	yeah . 
+1	3I	yeah . 
+1	3I	alright , go ahead . yeah , go for it . 
+1	3I	trunc uh - yeah yeah yeah . 
+0	3I	uh - 
+1	3I	yeah , that 's true . any - any - any deadly weapons . yeah . 
+0	3I	kay , let's see . 
+0	3I	we got - we got empty plastic jugs . 
+2	3I	maybe - i feel like it should be trunc somewhere around refrigerator magnets or something . 
+1	3I	yeah . yeah yeah , let's do that . let's do . 
+1	3I	yeah . yeah yeah . this is , like , home depot trunc part . 
+1	3I	yeah , yeah , this trunc that looks good . 
+0	3I	okay . 
+0	3I	we got wetsuits . 
+1	3I	oh , yeah yeah that 's true . yeah , this is trunc you could , like ,  travel . you trunc get some wetsuits . 
+1	3I	yeah . 
+1	3I	yeah . 
+1	3I	that 's , like , camping . 
+0	3I	mm - 
+1	3I	yeah . i trunc feel like it could go in either one of these . 
+0	3I	oh , no no , trunc i think that 's just , like the smallest - like trunc like the - yeah , yeah yeah , exactly . 
+1	3I	yeah , th- 
+1	3I	oh . oh , yeah yeah . yeah yeah , this - this trunc probably on this - 
+1	3I	i would put it , like , over here . 
+1	3I	yeah . 
+1	3I	oh , yeah yeah . like , outdoors stuff . 
+1	3I	yeah . 
+0	3I	kay . 
+0	3I	we got pouches of oatmeal . 
+1	3I	yeah . 
+1	3I	cake - somewhere near cake mix , maybe . 
+1	3I	oh , yeah yeah . 
+1	3I	yeah , that 's true . let's - let's do it here , then . 
+1	3I	yeah , that 's true . 
+0	3I	kay , books . 
+1	3I	don't know if we have anything like books . 
+1	3I	maybe books and - 
+1	3I	yeah , i agree . 
+1	3I	yeah , yeah that 's - that sounds reasonable . yeah , exactly . 
+1	3I	that 's a good way to do it . 
+0	3I	box knives . 
+1	3I	weapons weapons . 
+1	3I	yeah , yeah . 
+1	3I	okay . that sounds good . 
+1	3I	yeah . 
+0	3I	scissors . 
+0	3I	so - 
+2	3I	there 's a couple - yeah , there 's a couple arguments . um - 
+2	3I	mm , yeah . just keep all the weapons together . yes . 
+0	3I	uh . 
+1	3I	it's got ta be trunc 
+1	3I	yeah . 
+2	3I	we should just make this whole thing , like , foods and edibles . 
+0	3I	oh . 
+1	3I	oh , yeah . maybe , like - 
+0	3I	mm - 
+1	3I	that 's true , yeah . let's keep it on the end . let's just keep it on the end . yeah . 
+0	3I	kay . bottles of juice . 
+1	3I	yeah . uh - 
+2	3I	maybe , uh - 
+1	3I	like , here ? 
+1	3I	that should be yeah , i think by the books . 
+2	3I	yeah . 
+0	3I	flags . 
+1	3I	oh , yeah , that 's true . you always see flags near trunc travel books . 
+0	3I	shoelaces . 
+1	3I	oh , that 's right , i forgot . 
+1	3I	uh , do we have enough room ? 
+1	3I	oh , that 's true . that 's fine . yeah . 
+1	3I	yeah , we 'll just - do a little placeholder there . yeah . 
+1	3I	yeah . we 'll use it as a placeholder . canvas bags . 
+1	3I	nice . perfect 
+1	3I	yep . 
+0	3I	paper bags . 
+0	3I	mm-hm . 
+1	3I	maybe - maybe here ? 
+0	3I	okay . 
+2	3I	see , fish hooks . oh , dang . 
+2	3I	well , we kinda hafta - 
+2	3I	put it in this section . 
+1	3I	yes . 
+1	3I	nice . perfect . 
+1	3I	oh , yeah , or shoes tow ropes . 
+1	3I	maybe , like - 
+1	3I	down here , with the power cords ? 
+1	3I	yeah . 
+2	3I	oh , nice . you called it ! you called it . 
+0	3I	beets . 
+1	3I	yeah . 
+1	3I	next to soybeans ? 
+1	3I	i 'm not sure well , let's do that . 
+1	3I	yeah , we 'll - we 'll trunc we 'll keep an extra space on the end , just in case . 
+1	3I	nice . beverages 
+1	3I	large vests is clothes , right ? 
+1	3I	yeah . 
+1	3I	yeah . 
+1	3I	oh , yeah yeah . 
+0	3I	books of matches . 
+2	3I	that 'd go well with , like , the camping stuff . 
+1	3I	yeah yeah , that 's close enough . 
+0	3I	face cream . 
+1	3I	yeah , exactly . i 'll leave a space . 
+1	3I	yep . 
+0	3I	alright , large cups . 
+1	3I	trunc like - 
+1	3I	yeah , we are . matches , bags , yeah let's - let's just - yeah , keep - keep going here . 
+0	3I	hm . 
+1	3I	oh , kay . we 'll leave it . 
+0	3I	electric heaters . 
+1	3I	yeah . uh , we could also put it with the power cords . yeah . 
+1	3I	yeah . 
+1	3I	yes . 
+1	3I	dried figs . that 's pretty healthy . 
+0	3I	hats . 
+1	3I	go in - go in here ? yeah . 
+1	3I	the - that would go with - trunc i 'd say that goes with eggs . 
+1	3I	yeah . 
+1	3I	yeah . 
+0	3I	packages of cookies . 
+1	3I	got ta go with ice cream or sugar ? 
+1	3I	yeah . 
+1	3I	yeah . yeah . 
+0	3I	canned peas . 
+1	3I	yeah , i think that 'd be with the other vegetables . 
+1	3I	okay that looks good . 
+1	3I	yeah . 
+0	3I	small saws . 
+0	3I	well - 
+2	3I	put it with the small  axes . yeah . we don't carry any  large weapons . 
+1	3I	yeah . that 's perfect . 
+1	3I	kay , we got egg timers . this like - 
+1	3I	oh , yeah , perfect . yeah , it's , like , kitchen stuff . 
+2	3I	wow , that 's really specific . 
+2	3I	definitely on the outdoors - 
+1	3I	yeah . 
+1	3I	yeah . 
+0	3I	kay , light jackets . 
+0	3I	yeah . 
+1	3I	yeah , toiletries . 
+1	3I	yeah . 
+1	3I	nice . 
+1	3I	oops . boxes of doughnuts . 
+1	3I	yep , yep . 
+2	3I	can't have one without the other . 
+2	3I	yeah . uh , well - 
+1	3I	yeah , let's see . um - 
+0	3I	weights - 
+1	3I	you could put it here , i think , maybe . 
+1	3I	it's kind of random 
+0	3I	oh . 
+1	3I	oh , that 's true that 's true , yeah yeah . let's do that . yeah , that 's good . 
+0	3I	alright , bundles of sticks . 
+3	3I	who sells - yeah . what kinda store has this ? 
+1	3I	bundles of sticks . i guess it's kinda outdoorsy ? 
+1	3I	yeah , let's do next to the scissors . middle o- 
+1	3I	yeah . 
+1	3I	yes , perfect . perfect . 
+0	3I	alright , we got thick sweaters . 
+1	3I	yep . 
+0	3I	ooh . 
+0	3I	trunc i don't think so . 
+1	3I	yeah , let's - let's keep it - yeah . all that stuff's in the middle already . 
+2	3I	okay , bags of peat moss . this is definitely outdoors , like , home improvement . 
+1	3I	yeah , that 's good . 
+1	3I	yeah . 
+1	3I	you need the box knies to cut the duct tape ! 
+0	3I	buckets . 
+1	3I	maybe , trunc i would say here or here ? 
+1	3I	oh , okay yes . 
+1	3I	nice ! 
+0	3I	and , chocolate bars . 
+1	3I	like , next to ice cream , yep . 
+0	3I	well we got less food than i thought . 
+0	3I	huh . 
+1	3I	yeah . this one filled up a lot . 
+1	3I	yeah . 
+0	3I	alright ! 
+0	6B	okay . 
+0	6B	yeah . 
+0	6B	no . 
+0	6B	yeah , we got it . 
+0	6B	alright , so - 
+1	6B	maybe we should , uh , pick - either pick a - a number right now - 
+1	6B	or just go through a list , and then , like , pick based on th- 
+1	6B	yeah yeah . 
+1	6B	yeah yeah . okay . so , let's go through education and programs . 
+2	6B	 that one's getting cut . 
+1	6B	sugar-free juice machines . 
+1	6B	yep . 
+1	6B	yeah , bookkeeping classes . 
+0	6B	uh , so that 's - that 's two . 
+0	6B	um - 
+1	6B	cooking - 
+1	6B	assistant cooks . 
+1	6B	yeah . 
+0	6B	um . 
+1	6B	yes . we don't want the trunc toilets to overflow . 
+0	6B	um 
+1	6B	cooking classes - i feel like you could cut , too . you don't really - generally don't have that . 
+1	6B	yeah . 
+1	6B	yeah . 
+1	6B	yeah yeah yeah . 
+1	6B	yeah . 
+1	6B	yeah . 
+1	6B	maybe acting coaches could be cut ? 
+0	6B	yeah . i don't know what that - 
+1	6B	that seems like , if you wan- 
+2	6B	yeah , if you wanna do that , you can do that on your own . 
+2	6B	we 're not trunc trunc like , how many actors are there gonna be ? 
+1	6B	oh , i see , i see . 
+1	6B	oh , i see , i see , i see . 
+1	6B	yeah , let's do poetry . let's do poetry . 
+2	6B	yeah , you go trunc go the library ! go to the library ! 
+1	6B	okay , we got five . yeah , five cut . okay , sounds good . 
+1	6B	let's go on to public health . 
+0	6B	um , let's see - 
+1	6B	yeah . 
+1	6B	yeah . that 's - that 's - 
+1	6B	yeah . 
+1	6B	yeah , i agree . 
+1	6B	yeah . 
+1	6B	yeah . 
+1	6B	okay , i would do - we 'll do weed control . 
+2	6B	i feel like bagel factory inspections is very specific . 
+1	6B	okay . we have one more . 
+1	6B	yeah . 
+1	6B	i feel like reproductive and s_t_d_ is very similar . one of trunc is kinda - kinda - k- 
+2	6B	yeah , yeah , we could just cover in reproductive , yeah . 
+1	6B	yeah . 
+1	6B	yeah . 
+1	6B	that looks good . 
+1	6B	okay . recr- 
+1	6B	think dog catcher stands out for me . 
+2	6B	yeah . how many - how many , like , feral dogs and cats are there ? 
+1	6B	yeah . 
+1	6B	yeah . 
+2	6B	i don't think we have to worry about stray cats , either . like , there 's not that many , like - 
+2	6B	abandoned animals . 
+0	6B	yeah just so trunc they don't produce more . 
+1	6B	yeah , trunc yeah . 
+1	6B	yep . 
+1	6B	yep . 
+0	6B	hm . 
+1	6B	yeah . 
+1	6B	and even - 
+2	6B	yeah , yeah , trunc there 's four . i - i feel we could even get rid of the public news station . 
+1	6B	oh , that 's true , that 's true . 
+1	6B	uh , let's see - 
+1	6B	we could cut - we could cut one of the sports so we have boy's basketball club and junior soccer league . 
+1	6B	okay . that 's fine . 
+1	6B	yeah , yeah . 
+1	6B	okay , that 's five . we got that one . now , infrastructure and licensing . 
+1	6B	yeah . 
+1	6B	yeah . 
+1	6B	yeah . 
+1	6B	yeah . 
+2	6B	obviously need those . 
+1	6B	kind of import- 
+2	6B	well , if we get a  subway system we don't need these additional bus stops . 
+1	6B	oh , that 's true . 
+1	6B	oh , that 's true . that 's true . 
+1	6B	yeah . i feel trunc may- 
+0	6B	i really don't know . 
+1	6B	maybe we can get rid of them . 
+1	6B	oh yeah . okay there you go . 
+3	6B	flagpole repair , get out ! 
+2	6B	get out ! 
+1	6B	yeah . uh , so we just need to pick one more . 
+1	6B	yes , we definitely do . 
+1	6B	what about , um - 
+0	6B	what was the one i was looking at ? 
+1	6B	yeah , that 's what i was thinking of . 
+1	6B	yeah , it's already privatized for the most part . 
+1	6B	so . 
+1	6B	yeah . 
+1	6B	nice . we got it . 
+1	6B	what is trunc trunc 
+1	6B	we coulda - 
+1	6B	yep yeah . 
+1	6B	there 's no way to lose . 
+1	6B	yeah , it's , like sims city . where , like , your town is just , like , a nuclear wasteland . 
+1	6B	yeah . 

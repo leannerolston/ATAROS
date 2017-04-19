@@ -1,0 +1,317 @@
+1	3I	um , i guess next to power cord ? 
+1	3I	yeah , makes sense . yeah . 
+2	3I	sure ! 
+1	3I	fishing net . next to boating ? 
+0	3I	hm . 
+1	3I	yeah , yeah . that makes sense . 
+2	3I	um , sure ! 
+2	3I	that 's okay . in the middle i think . yeah ! 
+1	3I	uh , like next to - 
+1	3I	oh , yeah yeah yeah . here ? 
+0	3I	paper bags . 
+0	3I	mm . 
+1	3I	should go by the checkout . 
+0	3I	um - 
+2	3I	maybe like - 
+0	3I	uh - 
+2	3I	gosh . 
+1	3I	yeah . 
+1	3I	um , like lunch bags ? like - 
+1	3I	i think two . 
+1	3I	yeah . 
+1	3I	yeah , i think so . 
+1	3I	sure . 
+0	3I	oh , gas powered cook stoves . 
+0	3I	um - 
+1	3I	next to these - 
+1	3I	power things ? 
+0	3I	oh f- 
+1	3I	yeah , i think so . 
+0	3I	chocolate bars ! 
+0	3I	um - 
+1	3I	next to - 
+1	3I	baking - ? 
+1	3I	stuff ? 
+1	3I	i guess ? yeah . 
+2	3I	that 's out of place . because that 's in the freezer . 
+0	3I	bagels . 
+0	3I	hm . 
+0	3I	um - 
+1	3I	yeah , that makes sense . 
+1	3I	yeah . 
+0	3I	is it a boating hat ? 
+1	3I	um , something over here i guess . 
+1	3I	a travel hat ! 
+1	3I	fishing hat ? 
+1	3I	here ? 
+0	3I	sticks of butter . 
+1	3I	yeah . next to eggs ? 
+1	3I	refrigerated - 
+1	3I	item . 
+0	3I	egg timers . 
+1	3I	yeah . 
+1	3I	that makes sense . 
+0	3I	face cream . 
+2	3I	next to toilet paper ? 
+1	3I	yeah . 
+0	3I	large cups . 
+1	3I	yeah . 
+0	3I	mm . 
+1	3I	bagels , yeah . 
+1	3I	yeah 
+0	3I	yep . 
+0	3I	pouches of oatmeal . 
+0	3I	hm . 
+1	3I	mm-hm . 
+1	3I	yeah . 
+1	3I	right . 
+1	3I	yeah . 
+0	3I	hm . 
+1	3I	like - 
+1	3I	here ? 
+0	3I	alright . 
+1	3I	yeah . 
+1	3I	sure . 
+0	3I	i don't know what that is anyway . 
+0	3I	light jackets . 
+1	3I	uh , next to the hats ? 
+0	3I	beets . 
+0	3I	uh are they canned or are they fresh ? 
+2	3I	um , then it - they have to go by the refrigerated items 
+1	3I	yeah . 
+0	3I	five pound weights . 
+1	3I	yeah . 
+1	3I	hm i 'm gonna say over here . 
+1	3I	there i think . 
+0	3I	scissors . 
+1	3I	uh , maybe next to those items ? on two ? 
+1	3I	um . down . yeah , i think so . 
+0	3I	rolls of duct tape . 
+2	3I	oh yeah . yeah . 
+1	3I	yeah . 
+1	3I	yeah . 
+1	3I	yeah . 
+0	3I	liters of water ? 
+0	3I	hm . 
+0	3I	hm . 
+2	3I	hm , yeah maybe . 
+1	3I	oh , right . 
+1	3I	yeah . mm-hm . 
+0	3I	mm-hm . 
+0	3I	hm . 
+1	3I	yeah . 
+0	3I	buckets . 
+1	3I	mm-hm . 
+1	3I	hm . mm-hm . mm-hm . 
+1	3I	sure . 
+0	3I	tweezers . 
+1	3I	around here-ish ? 
+0	3I	cookies . 
+1	3I	yeah ! 
+1	3I	yeah . 
+0	3I	shoelaces . 
+1	3I	next to the hats and the jackets ? 
+1	3I	here ? 
+1	3I	bars of soap . yep . 
+0	3I	heavy coats . 
+1	3I	next to the light coats . 
+1	3I	maybe here ? or here ? 
+0	3I	tow ropes . 
+1	3I	yeah . 
+1	3I	sure . 
+0	3I	small axes . 
+1	3I	okay . 
+0	3I	wetsuits . 
+1	3I	boating . 
+1	3I	yeah . 
+0	3I	coats . 
+0	3I	heavy coats . 
+1	3I	okay . 
+1	3I	i think up . 
+1	3I	yeah . 
+1	3I	yes . large vests . 
+1	3I	here . 
+0	3I	canvas bags . 
+1	3I	yeah . 
+0	3I	fish hooks . 
+2	3I	oh man ! 
+1	3I	yeah . okay . 
+1	3I	alright . 
+0	3I	socks . 
+0	3I	hm . 
+1	3I	yeah . shoot . 
+1	3I	sure . i don't know . yeah , that makes sense . 
+0	3I	flags . 
+0	3I	mm . oh , yeah . uh-huh . 
+0	3I	yeah . yeah . 
+1	3I	yeah . 
+0	3I	bottles of juice . 
+1	3I	oh yeah yeah , that makes sense . 
+1	3I	next to the beverages . 
+0	3I	heavy cable . 
+1	3I	yeah 
+0	3I	bags of peat moss . 
+2	3I	hm . or maybe next to the scissors ? you think ? 
+1	3I	yeah . 
+0	3I	books . 
+0	3I	hm . 
+1	3I	yeah ? 
+0	3I	matches ? 
+0	3I	hm . 
+1	3I	yeah , that makes sense . 
+1	3I	yeah . 
+0	3I	small saws . 
+1	3I	okay . 
+1	3I	yeah . 
+0	3I	mint toothpaste . 
+0	3I	hm . 
+1	3I	yeah . under face cream ? 
+1	3I	backpacks . shoot . 
+1	3I	maybe they 're kids backpacks . 
+1	3I	alright . 
+2	3I	oh no . 
+1	3I	yeah . 
+0	3I	pre-cut wood . 
+0	3I	mm ! 
+1	3I	yeah . 
+0	3I	cushions for deck chairs . 
+1	3I	yeah . 
+0	3I	yeah . 
+1	6B	sure . 
+1	6B	okay . makes sense . 
+0	6B	okay . 
+0	6B	hm . 
+1	6B	yeah . 
+1	6B	yeah , i think so . 
+0	6B	mm . 
+1	6B	yeah . 
+1	6B	yeah . 
+1	6B	mmhm . 
+1	6B	yeah . 
+2	6B	okay . yeah . alright . 
+2	6B	yeah , they can fundraise . 
+1	6B	yeah . 
+1	6B	mmhm . 
+1	6B	yeah . 
+1	6B	yeah . think so . 
+1	6B	yeah . 
+1	6B	mmhm . 
+1	6B	i don't think that 's important . 
+2	6B	i never took any bookkeeping classes . did you ? 
+1	6B	yeah . 
+2	6B	music's important . 
+0	6B	mm-hm 
+1	6B	math tutors . 
+0	6B	yeah . 
+1	6B	uh , does it really belong under there ? 
+1	6B	okay . 
+1	6B	yeah . 
+1	6B	mmhm . 
+1	6B	yeah . 
+1	6B	yeah . 
+0	6B	um - 
+2	6B	um it does seem important but is the government paying for it ? 
+1	6B	i don't know . 
+1	6B	yeah . 
+2	6B	no . 
+1	6B	yeah . 
+0	6B	oh , okay . 
+0	6B	mmhm . 
+0	6B	okay . 
+0	6B	yeah . 
+1	6B	yeah . yeah . 
+1	6B	yeah . 
+2	6B	i don't know how to decide where it should belong though . 
+2	6B	no , and we 're not , but it seems like it doesn't - 
+2	6B	belong in that - 
+2	6B	category . i don't know . 
+1	6B	yeah . 
+0	6B	mmhm . 
+1	6B	yeah . 
+2	6B	how many bagel factories are there ? 
+1	6B	mm-hm . mm-hm . 
+1	6B	mm-hm . 
+1	6B	yeah right . 
+1	6B	yes . 
+1	6B	um yeah . 
+1	6B	yeah . 
+1	6B	yeah . 
+0	6B	right . 
+1	6B	yeah . 
+0	6B	um is this for , like , low income people , or - 
+1	6B	okay . 
+1	6B	okay , then i say yes . 
+1	6B	mm-hm . 
+1	6B	yeah right . 
+1	6B	yeah . 
+1	6B	mm-hm . 
+1	6B	mm-hm . 
+1	6B	um , job training ? 
+0	6B	hm . 
+1	6B	mm-hm . 
+1	6B	mm-hm . 
+1	6B	yeah . 
+1	6B	okay . 
+1	6B	yeah . 
+1	6B	yeah . 
+1	6B	yes yeah . 
+1	6B	mm-hm . 
+1	6B	mm-hm yeah . 
+2	6B	trunc i support it . 
+2	6B	yes . i say yes . 
+2	6B	i say yes . 
+1	6B	trunc yeah , yeah . 
+1	6B	yeah . 
+1	6B	yeah , yeah . 
+0	6B	um , i don't know what that means . 
+0	6B	okay . 
+0	6B	oh . 
+0	6B	um - 
+1	6B	isn't it , um - ? 
+2	6B	self sustaining though ? 
+1	6B	yeah , yeah , yeah . 
+2	6B	they can fundraise . 
+0	6B	pest control . 
+1	6B	i don't - is that a city expense ? 
+1	6B	where - are the p- ? yeah . 
+1	6B	okay . 
+0	6B	soup kitchen 
+0	6B	housing 
+1	6B	okay . 
+1	6B	okay . 
+1	6B	yeah . 
+1	6B	okay . 
+1	6B	yeah . 
+0	6B	hm . 
+1	6B	yeah . yeah . 
+1	6B	yeah . 
+2	6B	yes . 
+1	6B	mm-hm mm-hm yeah . 
+1	6B	yeah . 
+1	6B	uh i don't know . 
+2	6B	yeah , it does . 
+1	6B	okay . 
+1	6B	yeah . 
+2	6B	trunc seems like the same thing . 
+1	6B	okay . 
+1	6B	yes . 
+2	6B	it would be really - yeah , it would yeah . 
+2	6B	yeah . 
+1	6B	yeah . 
+2	6B	no , doesn't . 
+1	6B	sames 
+0	6B	um 
+1	6B	yeah . 
+1	6B	mm-hm . 
+1	6B	yeah . 
+2	6B	we don't have any here . i mean - 
+1	6B	yeah . 
+2	6B	um , i say yeah . yeah . 
+1	6B	yeah . 
+2	6B	yeah , yeah . 
+0	6B	hm . 
+2	6B	yeah , i was gonna say that one too . 
+1	6B	yeah . 
+1	6B	it is , yeah . 
+1	6B	okay . 
+0	6B	yep . 

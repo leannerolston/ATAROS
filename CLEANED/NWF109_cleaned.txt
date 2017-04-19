@@ -1,0 +1,206 @@
+1	3I	it's up to you . it's up to you . 
+1	3I	so , outdoor - okay . 
+1	3I	okay trunc where's clothes ? 
+2	3I	and then gadgets . 
+0	3I	um . 
+1	3I	backpacks , buckets . and then food is - 
+1	3I	cushions . see . 
+0	3I	small axes . 
+1	3I	uh . yeah . canvas bags . 
+1	3I	trunc this is kinda camping trip stuff . 
+1	3I	rolls of duct tape . i spose - 
+1	3I	yeah , let's - okay . books . 
+0	3I	um . 
+1	3I	uh , well it depends on what kinda books . 
+1	3I	large vests are clothes . 
+1	3I	boxes of doughnuts are food . 
+0	3I	heavy cable . 
+0	3I	light jackets . 
+0	3I	beets . 
+1	3I	yeah . tow ropes . 
+1	3I	yeah . 
+1	3I	that 's probably gonna to be close to the food . 
+1	3I	oh , that 's for fishing . 
+2	3I	fleece lined boots is kinda clothes , but - 
+1	3I	yeah , i think . 
+0	3I	gas-powered cook stove . yeah . 
+0	3I	box knives . 
+0	3I	half-inch tubing , fishing net . face cream . 
+0	3I	soy beans . 
+0	3I	loose leaf paper . 
+1	3I	okay . so now - so let just trunc take the food ? 
+0	3I	okay . 
+0	3I	liters of water . 
+0	3I	so tell me - 
+0	3I	mm , okay . 
+0	3I	trunc that - 
+1	3I	the processed stuff . um . so . 
+0	3I	okay . 
+1	3I	sticks of butter would be trunc um - that 's with the - 
+1	3I	oh , the dairy , yes . you 're - kay . cases of whiskey . i spose that 's kinda - 
+1	3I	yeah . 
+1	3I	dried figs would be with the - 
+1	3I	yeah , yeah . beets . 
+0	3I	can of peas . 
+0	3I	boxes of doughnuts . 
+1	3I	well that 's - that 's - yeah . packages of cookies . 
+0	3I	bottles of juice . 
+2	3I	bagels . probably bagels and trunc doughnuts . 
+1	3I	pouches of oatmeal . so that 's um - that 's with uh - 
+1	3I	chocolate bars . well , let's just put it with ice cream . 
+1	3I	bad stuff . 
+0	3I	bottles of water . 
+2	3I	i 'm gonna put bottles of water and whiskey together . and liters of water . 
+2	3I	goes with the peas . 
+1	3I	okay . 
+1	3I	now , are we gonna have enough room ? do we need to - ? 
+1	3I	to - to uh - like , sugar and cake mix . we 're kinda - 
+0	3I	and then uh - 
+2	3I	we can always move it . 
+1	3I	let's - 
+2	3I	let's do the - 
+1	3I	okay . 
+1	3I	yeah . 
+1	3I	okay . 
+1	3I	yeah , let's - okay . go ahead and take some . 
+1	3I	so this is the - the guys . 
+1	3I	boating supplies . so let's do - i 'm gonna - let's just kinda - 
+2	3I	i 'm gonna do fish hooks , five-pound weights . 
+2	3I	fishing net . this is all fishing stuff . half-inch tubing , of course . that 's - that has something to do with fishing . 
+2	3I	box knives have something to do with - now , siding has more to do with - 
+0	3I	uh , 
+2	3I	uh , home depot . 
+1	3I	so , let's - let's put - ooh , ooh , ooh . ooh , trunc okay . okay . 
+1	3I	oh , okay . siding . 
+1	3I	okay . 
+1	3I	okay . oh , here's camping stuff . 
+1	3I	travel guides . yeah , okay . 
+2	3I	tow ropes . trunc that 's with the fishing . 
+1	3I	small saws . that 's with the power cord . 
+0	3I	bundles of sticks . 
+1	3I	oh , we can't - 
+1	3I	okay . 
+1	3I	um . bags of peat moss . that - 
+1	3I	that 's more - yeah , okay . let's go - uh , that 's gardening . heavy cable . that 's kinda with this . 
+0	3I	rolls of duct tape . 
+2	3I	uh , let's just wait on that . cushions , deck chairs . that 's - that 's there . buckets . 
+1	3I	there . 
+0	3I	backpacks . 
+1	3I	that - okay . 
+1	3I	canvas bags . small axes . canvas . so duct tape would be , to me , with uh , 
+0	3I	uh , 
+1	3I	uh . okay . that 's uh - 
+1	3I	yeah . that 's fine . 
+2	3I	okay . depends on what kinda books you - okay . 
+2	3I	this is - this is little gadgets . 
+1	3I	bart - okay . 
+2	3I	okay , so . this is kinda trunc electric heaters . do you know what i wanna do ? i wanna put electric heaters with this . 
+1	3I	so - and then the egg timers , to me , would be - 
+1	3I	egg timers would be with the - the - 
+1	3I	wouldn't you - like it's - wouldn't - where would you go get a timer ? 
+0	3I	well , yeah . 
+0	3I	okay . 
+1	3I	okay . shoelaces . 
+1	3I	okay . scissors . okay , let's make a little - this is kinda - 
+0	3I	did - did they put that there or did we ? okay . 
+0	3I	fleece lined book . 
+0	3I	um . 
+2	3I	do you know what ? i 'm gonna put face cream , tweezers , 
+1	3I	scissors - depends on what kinda trunc shoelaces . 
+1	3I	okay . 
+1	3I	an egg timer . i - i - i 'm actually gonna put the timer over here . kay . 
+1	3I	yeah . heavy coats . socks . 
+2	3I	flags would be with the pet food . 
+1	3I	um . actually - 
+1	3I	yeah , just put the flags up there . yeah , okay . 
+0	3I	okay , we 're done , heather . 
+1	6B	so let's - let's - just go through this . and see if there 's anything that just needs to be eliminated . 
+2	6B	so , if education and programs . we need the math tutors . 
+2	6B	need to be there . 
+2	6B	assistant cooks . i can't really see - let's just - 
+2	6B	that 's one thing i 'm thinking - 
+0	6B	i know . so , sex ed is an trunc custodians . 
+0	6B	speech therapy . football equip- 
+1	6B	no , no . 
+0	6B	trunc football equipment . 
+0	6B	poetry books . trunc special ed teachers . cooking classes . 
+0	6B	note-takers , disability - 
+1	6B	trunc disabilities . oh , i spose note-takers are - uh . 
+1	6B	oh i . that 's - that 's something n- 
+0	6B	uh , sugar free - 
+0	6B	juice machines . book keeping classes and music teachers . okay . 
+0	6B	so , is there anything there that you can just easily remove ? 
+2	6B	okay . football equipment . and i can easily remove assistant cooks and sugar free juice machines . 
+1	6B	okay , so - okay . trunc okay . trunc okay . so - sure .
+2	6B	people can drink water . they don't need to drink juice . okay , so - so - 
+2	6B	well , that 's - 
+2	6B	that 's uh - 
+2	6B	the arts . so - so - so trunc there 's two . 
+2	6B	we can always go back and add more , but - take out more , but right now , we wanna eliminate this ? 
+1	6B	sugar free - and uh , what was the other one ? 
+2	6B	oh , football equipment . yeah , you can tell we 're women . okay . so now , we - 
+0	6B	okay . 
+1	6B	so now we 're gonna go to the next one . so we definitely hafta get rid of two . 
+0	6B	okay , so public health and safety . reproduction- 
+0	6B	reproductive education . 
+0	6B	job training programs , chicken pox vaccination , invasive species removal . s_t_d_ , toxic waste disposable disposal . 
+0	6B	bagel factory inspections . 
+0	6B	needle exchange , sex offender database . 
+0	6B	veterans medical assistant , trunc egg farm regulations , weed control , prenatal check-ups , neighborhoods watch support . 
+2	6B	okay , so to me , one that can go off is bagel factory inspections . 
+1	6B	cuz i don't like bagels . 
+2	6B	well - this - there isn't anything that just - 
+2	6B	that just screams . 
+2	6B	you know , like trunc like we had over here . but , because we took two here , we got ta take two here . so now what we hafta do is - 
+0	6B	neighborhood watch support . 
+0	6B	that 's like safe streets . 
+2	6B	that 's important . 
+2	6B	they all are . 
+0	6B	i don't know . 
+2	6B	all the rest of em are really - i mean , i can't ima- 
+1	6B	hospital additions . 
+1	6B	okay , that 's a good trunc okay the- 
+1	6B	yeah . yeah . 
+0	6B	uh . 
+0	6B	invasive . 
+0	6B	chicken pox , training 
+0	6B	job training programs . 
+0	6B	reproductive 
+1	6B	so , what trunc we did come off with the - 
+0	6B	what was the - ? 
+1	6B	and the hospital trunc okay . okay . so we 'll do those two . 
+1	6B	yeah . 
+1	6B	yeah . mm-kay . 
+1	6B	okay , first of all , let's read through it . stray cat spaying . 
+0	6B	public news station . 
+0	6B	food bank . 
+0	6B	junior soccer league . 
+0	6B	kitten and puppy adoption . 
+0	6B	soup kitchens , housing assistant , dog catcher . 
+0	6B	boys bask- 
+0	6B	public access station . 
+0	6B	reusable bag campaign , veterinary hospital , football stadium upkeep , and pest control . do you see anything that - ? 
+1	6B	okay . 
+1	6B	oh what about junior soccer league ? 
+2	6B	i know , but i mean - we - we wanna spay stray cats . 
+2	6B	we need to - we don't want a lot of stray cats . i mean , we wanna stop the - 
+1	6B	okay . so you - okay , okay . 
+0	6B	public - 
+1	6B	what about public news station ? 
+1	6B	housing assistant we need . dog catcher - 
+2	6B	let's - let's get rid of the and the football stadium upkeep . 
+2	6B	the football players can upkeep the stadium . 
+0	6B	okay . okay , so we got those two . 
+2	6B	infrastructure and trunc and licensing . teaching certificates we need . speed limit signs , we need . additional bus stops , we don't necessarily need . 
+1	6B	tattoo artist license , we want that . boat license . pothole maintenance . we want trunc subway system . 
+0	6B	hunting tags , towing services , massage certificates , flag pole repair . 
+0	6B	taxi stops , fishing license , public bus upkeep . 
+2	6B	we don't need flag pole repair . 
+0	6B	um . 
+2	6B	i think we don't need a trunc additional bus stops . i mean - 
+2	6B	i mean , you already have bus stops - 
+2	6B	i mean , if you got ta eliminate something , eliminate addition- 
+1	6B	so . okay , so we 're done that . 
+1	6B	no . no , i think - i think - yeah . 
+0	6B	we uh - 
+1	6B	no , no . 

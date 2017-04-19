@@ -1,0 +1,293 @@
+0	3I	paper , so - 
+2	3I	no , just put it there for now . hats obviously with the clothing . 
+1	3I	axes , is the wood out yet ? 
+1	3I	we can go with box knives for now . 
+2	3I	oh , buckets seem more , uh , outdoorsy to me , and tow ropes do too . 
+1	3I	see , is there a bathroom - ? oh , there 's soap . 
+0	3I	um . 
+1	3I	maybe the cups ? 
+1	3I	could be with the food . i don't know . 
+1	3I	oh , probably with out- 
+1	3I	doorsy stuff . 
+1	3I	um , this might go with food . i don't really see anything else it would go with . 
+0	3I	these - 
+2	3I	books - i don't know . well , we can leave that - 
+0	3I	aside so - 
+0	3I	well , we see sugar and cake mix , um - 
+1	3I	or do you wanna ? 
+1	3I	well , let's go - well , let's see . that 's dairy-ish , right ? 
+2	3I	butter . 
+1	3I	bottles of juice could - could be . 
+0	3I	is there anything else ? 
+1	3I	alright . um , well - 
+1	3I	yeah . 
+2	3I	uh , well there 's gonna end up being a gap . we can't move that . 
+2	3I	but that 's frozen and this isn't , so i guess we can put this here ? 
+0	3I	so , bottles of juice - 
+2	3I	to sticks of butter , and eggs . mm-kay , let's see . 
+2	3I	well , water could  go next to juice . 
+0	3I	liters of water . 
+1	3I	next to juice . 
+0	3I	see if there 's any other food up here soybeans , sugar . 
+1	3I	yeah . 
+2	3I	which would - i mean - this trunc i often find chocolate near baking in stores or some reason . 
+1	3I	yeah , that 's - that could go - um - 
+1	3I	the cookies and the donuts could be on the other side of the cake mix , or something . 
+1	3I	yeah , an- 
+0	3I	soybeans , um - 
+1	3I	it's kind of its own thing . 
+0	3I	oh . 
+2	3I	not finished products could go between it and sugar . is that what you 're thinking ? i mean not - not these cuz those are made and those are made , or what are you thinking ? 
+1	3I	these are made . 
+0	3I	so these  are already baked . 
+1	3I	and these are two things . 
+1	3I	that could go into the baking along with - yeah . 
+0	3I	have an egg timer there . 
+1	3I	uh , figs can go in baked stuff too . 
+2	3I	we could put the , uh - 
+2	3I	the - trunc the baked stuff on this side of the cake mix , below it . 
+1	3I	do you have any - ? 
+1	3I	order ; cookies , donuts , bagels ? 
+1	3I	so here ? 
+1	3I	below the cake mix . 
+1	3I	probably next , boxes of donuts ? 
+1	3I	and bagels . 
+0	3I	alright . 
+0	3I	let's see . 
+0	3I	so - 
+0	3I	between the sugar - 
+2	3I	and the cake mix . it would make sense - well , i think  these three would make sense , the figs , chocolate , and oatmeal . what do you think ? 
+1	3I	or is that ? 
+0	3I	yeah . 
+1	3I	do you have a order preference ? 
+1	3I	alright . 
+1	3I	okay um - 
+0	3I	beats and peas . so we have those beans that are there and we can't move them . 
+0	3I	um - 
+1	3I	would you wanna just put those on either side of it ? i don't see any other food . there 's liquor but - 
+1	3I	yeah . 
+1	3I	okay . 
+1	3I	might be able to leave those for - 
+1	3I	yeah . 
+0	3I	um - 
+1	3I	oh , that 's probably true should we put it under ? 
+1	3I	okay , we 'll put it under egg timers - oh - 
+0	3I	hasn't stuck yet . 
+1	3I	okay , above . 
+1	3I	egg timers above refrigerator magnets ? 
+0	3I	um , soap , face cream , mint toothpaste . 
+0	3I	tweezers , um - 
+1	3I	we going  up or down ? 
+1	3I	do you think ? 
+2	3I	so i can see this going under refrigerator magnets , cuz they 're small , and - you know trunc okay . t- 
+2	3I	tweezers under magnets , and then these three . 
+1	3I	so , you want face cream next ? 
+0	3I	face cream below tweezers . 
+1	3I	then - 
+2	3I	the mint toothpaste . and then below the mint toothpaste the bars of soap - 
+1	3I	toilet paper , alright . 
+0	3I	hm . 
+1	3I	and there 's not much room above toys you could put books above toys maybe . 
+1	3I	i 'm just looking for something that doesn't go with anything else . 
+2	3I	i mean you could put the whiskey up there . it's not like we 're doing this as a , uh , business school project . so , do you want the whiskey next to the toy ? 
+1	3I	okay , above the toys ? the books above the toys ? 
+0	3I	kay . 
+1	3I	oh . um i mean i guess these go . what kind of cups  are these ? 
+0	3I	oh , yeah . 
+2	3I	put em next to egg timers , i mean just - or - or next to the toilet trunc yeah , you often see that , just with paper goods and stuff . 
+1	3I	oh , yeah . so maybe the - 
+1	3I	cups as a buffer ? or something ? 
+0	3I	large cups . 
+1	3I	loose leaf paper below large cups and scissors below , um - 
+1	3I	mm-hm . uh , let's see . 
+0	3I	clothes . 
+2	3I	what ? yeah , and it doesn't look like there is any other clothing up , so - 
+0	3I	mmhm . 
+2	3I	socks and shoe laces together . 
+1	3I	mm-kay , so these first . 
+1	3I	yeah . 
+1	3I	we could start with the outerwear , i guess . next to the toys , going down , or - ? 
+1	3I	or pet food , going up ? i don't - 
+1	3I	okay , heavy coats , light jackets . 
+1	3I	kay . 
+1	3I	mm-kay . 
+1	3I	sure . 
+1	3I	this could actually go with outdoorsy stuff too , 
+0	3I	um - 
+1	3I	if there 's nothing that 's gonna be well - 
+1	3I	yeah , and i was just thinking , where's that whiskey gonna go ? um - 
+1	3I	yeah , i mean i guess it should be near trunc well - 
+2	3I	should be near some sorta - i don't know . maybe it should be back in the back . 
+1	3I	you know . 
+1	3I	okay . 
+1	3I	yeah . 
+2	3I	well , here's - i mean this is water , right ? 
+1	3I	and that 's water . 
+1	3I	is there any other ? oh , fishing net - 
+2	3I	so those go together . 
+1	3I	that - yeah . 
+1	3I	wood . 
+1	3I	saws . 
+1	3I	this kind of camping ? i mean it's really - so is this the camping ? 
+2	3I	backpacks should go there too then . 
+0	3I	um , duct tape . 
+1	3I	yeah . 
+1	3I	box knives , something 
+1	3I	okay , that makes sense . cuts , and then cable . 
+0	3I	uh . 
+1	3I	so , i don't know . go up there , or - ? 
+1	3I	yeah , it could just be miscellaneous , i guess . 
+0	3I	so we have four - 
+0	3I	boat related things . 
+0	3I	yeah . 
+0	3I	mmhm . 
+2	3I	and siding is , you know , construction related . that kinda looks - 
+2	3I	well , axes um - 
+1	3I	i mean , they could be like - 
+1	3I	cable , tubing tape . 
+0	3I	um - 
+1	3I	kay . um - 
+1	3I	kay , we 'll put that above the - supplies . we have net , wetsuit , and fishhooks . 
+1	3I	oh yeah . um - 
+2	3I	put the fish hooks , cuz they 're small next to the supplies . 
+2	3I	and then the nets below there . 
+0	3I	and the wetsuits . 
+1	3I	okay , wetsuits above tow ropes . 
+0	3I	oh , right . let's see . 
+1	3I	heaters and stoves could go . 
+1	3I	next to the power chords i guess . 
+1	3I	and stoves . 
+1	3I	going up or - so , power cords , heavy cable . 
+1	3I	above it ? 
+1	3I	electric heaters above  that . 
+1	3I	put stoves above that . 
+1	3I	desk chairs above cook stoves . 
+0	3I	um . 
+1	3I	yeah . 
+1	3I	sure , that 'll work . 
+1	3I	yeah , that makes sense . 
+1	3I	five pound weights under a net . 
+0	3I	trunc are there any tools up there ? 
+0	3I	not really but - well , there 's boating stuff , but other than that - 
+0	3I	see - 
+1	3I	okay , um - 
+1	3I	well , these are small . 
+1	3I	these are small . 
+2	3I	so these - i would say these should come after mousetraps cuz they 're small like mousetraps . 
+0	3I	books of matches . 
+1	3I	next - 
+1	3I	or- 
+1	3I	maybe the knives next - the box knives below the mousetraps , and the books of matches below the - 
+0	3I	box knives . 
+0	3I	oh . 
+0	3I	um . 
+1	3I	and then small saws and small axes maybe ? or are we running outta - ? oh , going up ? 
+1	3I	okay . 
+1	3I	um , i 'll put the saws first unless you care so , small saws above mousetraps , small axes above small saws - 
+1	3I	oh yeah , for the bulkier things . 
+1	3I	yeah . 
+0	3I	m- 
+1	3I	alright . 
+1	3I	little sort of utilitarian things . 
+1	3I	do we want to go down from the power cords , or up , or on both sides , or - 
+1	3I	sure . 
+1	3I	and then tubing or one of those . i don't know . 
+1	3I	alright tubing above duct tape . 
+1	3I	you can put your bait in it , i guess . 
+1	3I	bait as well . 
+2	3I	well , that 's a pretty funny looking store , but - it makes some sense . 
+1	3I	there 's just lots of empty aisles . 
+2	3I	beets . 
+2	3I	i like beats . 
+0	3I	really ? 
+0	3I	you have a two year old who likes beets ? 
+0	3I	oh . 
+0	3I	so , um , i suppose we 're done . 
+0	3I	borscht . 
+1	3I	oh , i do too . grew up on it . 
+0	6B	how do you wanna attack this ? 
+0	6B	um . 
+1	6B	like category by category or - ? 
+1	6B	okay . 
+1	6B	yeah , well - 
+2	6B	i - i hate cutting education , but let's see here , um - 
+0	6B	hm . hm-hm . 
+2	6B	well , i can think of - so , we - there 's some things you just can't cut , so - 
+2	6B	you need to keep the school clean , so you can't cut the custodians . 
+2	6B	uh , special trunc special ed teachers are probably a federal requirement , and so are note takers for disabled kids , so those three are safe i think . 
+1	6B	yeah , i would say if i had to axe on of these it would probably be that . 
+1	6B	so , yeah sugar free juice machines are out . 
+0	6B	um . 
+2	6B	public health , hate to cut there too , but let's see . 
+0	6B	training - 
+0	6B	invasive species removal , s_t_d_ education , toxic waste disposal , hospital additions - 
+0	6B	needle exchange , sex offender database , veteran's medical assistance , prenatal check-ups , and neighborhood watch support . i - 
+1	6B	don't know about you , but - um - 
+1	6B	uh , the invasive - the invasive species or weed control is the one - i don't know which one , but i 'd - 
+1	6B	yeah . 
+1	6B	trunc so we kill one of them and let the other program take up the slack , or - ? 
+1	6B	okay . 
+1	6B	okay . 
+1	6B	that sounds good , so - we 've killed one in the first two - 
+0	6B	recreation , stray cat spaying - 
+0	6B	community news ads . i don't even really know what that is . um - 
+0	6B	i mean , i know what community news  is , but what - ? what do the mean by the ads ? 
+0	6B	oh . 
+0	6B	oh , okay . 
+2	6B	that should be under public health . um - 
+0	6B	junior soccer league , kitten puppy adoptions , soup kitchens - 
+0	6B	housing assistance , dog catcher , boys basketball club , public access t_v_ , public access station , veterinary hospital , football stadium upkeep - 
+0	6B	and pest control . well . um - 
+2	6B	as long as not upkeeping the football stadium doesn't mean it falls to bits - 
+2	6B	and it only means it gets , you know , a little old . 
+1	6B	mm . that 's true . 
+1	6B	killing the stadium trunc keep to add a girls , but anyway - 
+1	6B	uh , we can - sure , let's kill the basketball club . we can - 
+1	6B	play , uh - 
+1	6B	basketball somewhere else i guess . 
+0	6B	yeah , okay . so , infrastructure and licensing , teaching certificates - 
+0	6B	speed limit signs , additional bus stops - 
+0	6B	tattoo artist licenses , boating licenses - 
+0	6B	pothole maintenance , subway system , hunting tags - 
+0	6B	towing services , massage certificates , taxi stops ? 
+0	6B	fishing licenses , public bus upkeep , and drainage ditches . well - 
+2	6B	you can't really - 
+2	6B	dispense with teaching certificates . 
+2	6B	and the speed limit signs do too . 
+0	6B	um - 
+2	6B	yeah , i 'm not really sure why this city is - 
+2	6B	doing that . 
+0	6B	or whatever trunc oh , it's a county . yeah , um - 
+1	6B	yeah , i 'd probably axe the towing services . 
+1	6B	yeah . 
+1	6B	yeah , if we 're just getting rid of one i would say , um - 
+2	6B	um . axe the taxi stops . i 'm not every sure what the city is doing . 
+2	6B	oh , right . 
+2	6B	now , i forgot we 'd agreed on that . i 'm still not sure what the city's doing , or the county's doing with taxi stops , but - um - yeah , towing services is - can go first . 
+0	6B	mm . 
+1	6B	or maybe it's lost parking revenue or something . 
+0	6B	okay . so - 
+0	6B	so we got rid of the towing services , the boys basketball club , the weed control ? 
+0	6B	the sugar free juice machines it looks like . 
+0	6B	um - 
+1	6B	i don't know if we need to . 
+2	6B	oh yeah . that 's redundant . 
+2	6B	i 'd say get rid of s_t_d_ since it should be covered in reproductive . 
+0	6B	um - 
+0	6B	where are they ? 
+0	6B	oh , we 're getting rid of another one there ? 
+1	6B	okay . 
+1	6B	okay , well you never know . um - oh , yeah acting coaches . that 's fine . 
+0	6B	um - 
+2	6B	public services - i still have my eye on that stadium . 
+0	6B	oh yeah . what - ? oh the public - 
+2	6B	trunc stadium would save more money . 
+1	6B	that 's true . alright , news ads it is . um , and what about licensing ? 
+1	6B	yeah , i 'm for that . kill the taxi stops . 
+0	6B	oh , that 's eight programs . 
+0	6B	alright . 
+1	6B	guess that 's it . 
+1	6B	and hope it was enough . 
+1	6B	money saved . 
+2	6B	oh yeah , that 's true still would need the puppy adoptions though . 
+0	6B	hm . 

@@ -1,0 +1,848 @@
+1	3I	alright, so i'm just gonna draw some of these at random.
+0	3I	i've got face cream.
+1	3I	i think next to * ice cream is the obvious - naw, no no no.
+1	3I	probably near toilet paper, right? alright.
+1	3I	throw it on.
+1	3I	i would probably maybe put that near sort-of, uh, the siding area? like, it's a home improvement -
+1	3I	thing.
+1	3I	uh yeah, i might put it * across from siding.
+1	3I	or down there. yeah, whatever.
+0	3I	beets.
+1	3I	food probably, maybe by soybeans. that seems sort of a producey -
+2	3I	i would have a backpack near trunc but again also by toys, that's tough.
+1	3I	yeah, cuz you're trunc , makes sense you're backpacking.
+0	3I	yeah.
+0	3I	alright, i've got sticks of butter.
+2	3I	probably put that in between eggs and cake mix.
+1	3I	yeah. do we have, uh - ? i guess we have boating supplies.
+2	3I	maybe by * mousetraps, though.
+1	3I	sort of a thing you'd keep around your house?
+2	3I	this is gonna be, like, a jumbly-ass store at some point.
+0	3I	thick sweaters.
+2	3I	we start a new clothes section, yeah, that's what i was thinking.
+1	3I	this is - i'll put it, like, right there.
+2	3I	that's now our clothes section.
+2	3I	well, i mean, like power cords is sort of a * tool.
+2	3I	we're sort of having tools, like, we could do -
+2	3I	but you might use a saw.
+1	3I	yeah, okay. like, put it right - right in here?
+1	3I	alright, cool.
+0	3I	canvas bags.
+1	3I	i'd probably put that near boating supplies.
+1	3I	yeah, sure. yeah.
+1	3I	i've got some loose-leaf paper, i think that could go along with refrigerator magnets and books area.
+1	3I	i'd probably say down by power cords, tools-ish.
+0	3I	heavy coats.
+1	3I	could probably go right next to thick sweaters.
+1	3I	yeah, maybe - like, we could have books of matches, small saws, bundles of sticks.
+1	3I	i've got half-inch tubing, that's kind of a home improvement-y tool-ish thing.
+1	3I	yeah, maybe, like, right in between here?
+1	3I	it can sort of - in this area.
+1	3I	generally.
+0	3I	i've got wetsuits.
+1	3I	i trunc i think boating supplies is the answer.
+1	3I	yeah, it's sort of, like - like, sort of camping travel.
+2	3I	and usually in a grocery store, like, the bottled water's in it's own area.
+1	3I	yeah.
+0	3I	uh, pre-cut wood?
+1	3I	i think.
+2	3I	i'm trunc i'm thinking maybe near bundles of sticks.
+1	3I	okay.
+1	3I	yeah, sorta have it around tools-ish area.
+0	3I	pouches of oatmeal -
+2	3I	i think i'd put near cake mix, it's sort of a * dry good.
+2	3I	oh, but maybe also camping - well, it's there now.
+2	3I	yeah, i guess trunc it's kinda, like, a trunc i think maybe, like, right here. it's kinda, like, a home improvement thing. for your * garden.
+1	3I	think light jackets can probably go right by heavy coats.
+1	3I	yeah.
+2	3I	i've got chocolate bars i think sort of near sugar and ice cream, i think this is, like, the sugary -
+1	3I	yeah.
+0	3I	cans of peas?
+2	3I	i'm thinking maybe by soybeans?
+1	3I	i'm not really sure what pet food kinda goes with.
+0	3I	like, what's - at a grocery store, what is pet food usually with?
+0	3I	yeah.
+1	3I	yeah. junk food.
+0	3I	i've got * fish hooks.
+1	3I	think boating supplies.
+1	3I	mm-hm.
+0	3I	large vests.
+2	3I	can continue to be in the clothes section.
+1	3I	yeah.
+0	3I	egg timers?
+1	3I	i think maybe -
+2	3I	trunc trunc egg timer's not really * for eggs, though. it's, like, a cake - just like a - just a general kitchen timer.
+1	3I	yeah, why not?
+1	3I	it's not really a * food, it's sort of, like, a - mm, sort of pet food, kitchen items -
+1	3I	area.
+1	3I	or i guess, yeah, sorta general items.
+1	3I	sure.
+1	3I	shoelaces, i guess, is, uh clothing?
+1	3I	i would say so.
+0	3I	fleece-lined boots.
+0	3I	hm. gas-powered cookstoves?
+2	3I	that seems like a camping sorta thing, doesn't it?
+1	3I	trunc put it up by backpacks?
+1	3I	tow ropes. probably with boating supplies.
+1	3I	yeah.
+2	3I	we might not be the best managers in the world - tell you the truth.
+1	3I	mm.
+1	3I	think, uh paper bags, along with, like, pet food and egg timers?
+1	3I	really * anywhere in this column, it could go.
+1	3I	yeah.
+1	3I	you would use duct tape maybe if your stove breaks down.
+0	3I	fishing net.
+2	3I	gonna sorta wedge that in there probably shoulda gone closer to the boat.
+1	3I	okay.
+1	3I	i've got large cups. i think along with paper bags?
+2	3I	yeah. i'm gonna put package of cookies up here between chocolate bars and ice cream.
+2	3I	i mean, i'd put it, like, right here, fishing net. you might use some weights for your fishing trip.
+2	3I	this is sorta just your outdoorsy area.
+1	3I	i might * also put over there.
+1	3I	well where - where - where trunc you think about empty trunc like, it's an empty jug.
+1	3I	okay.
+1	3I	by the - yeah. sorta there, toiletries-ish.
+1	3I	or up there, yeah.
+0	3I	tweezers.
+1	3I	i trunc put -
+1	3I	right there. and, uh, that's it!
+2	3I	that's our store! there's * not a lot of food in our store.
+1	3I	yeah, i mean -
+1	6B	so let's start with educations and programs.
+2	6B	well -
+2	6B	those are both good things.
+2	6B	maybe. i mean, i think - bookkeeping classes, you know, that's important. that's basically accounting, that's - teaching people how to manage their money, that's good for the community.
+0	6B	um -
+1	6B	yeah, those could probably go.
+1	6B	i mean -
+2	6B	our kids are gonna be fat no matter what.
+1	6B	alright, what, uh - let's see, i think we hafta -
+0	6B	how many have we cut so far?
+1	6B	cut sugar-free. alright.
+1	6B	uh, maybe trunc we could cut acting coaches?
+1	6B	that seems like something that people could do privately.
+1	6B	yeah, an-
+1	6B	see, poetry books could probably also go.
+1	6B	okay, i mean, yeah, i -
+1	6B	assistant cooks.
+1	6B	i think that could probably go.
+0	6B	um -
+1	6B	i would say keep math tutors.
+2	6B	* definitely keep sex ed.
+1	6B	keep custodians, speech therapy.
+1	6B	uh, special ed teachers, definitely keep.
+1	6B	notetakers, keep.
+1	6B	i would say keep music teachers, you know. art's important.
+0	6B	so we - trunc what's, uh - cut, uh, sugar-free juice machines -
+0	6B	assistant cooks.
+0	6B	and acting coaches.
+1	6B	alright, three things. we can do this.
+2	6B	i trunc it's the same as sex ed, isn't it?
+2	6B	but it can't hurt to have two, honestly.
+2	6B	oh, okay, this is for adults.
+1	6B	yeah, okay. fair enough, fair enough.
+2	6B	job training programs we should definitely keep. chicken pox vaccinations we should probably keep.
+2	6B	yeah. we should * definitely keep toxic waste disposal.
+1	6B	uh, hospital * additions?
+2	6B	well, trunc let's trunc let's come back to that one. i think we can get rid of the bagel factory inspections.
+2	6B	just cuz -
+2	6B	if it was, like, factory inspections in general, we should keep that, but specific to bagel factories seems like a weird targeted, almost anti-'semitic -
+2	6B	government thing to be funding.
+2	6B	just. there's more food than bagels.
+2	6B	uh, i would say keep needle exchange.
+2	6B	uh, trunc keep the sex offender database.
+1	6B	keep veterans medical assistance.
+2	6B	yeah. like, say, we're trunc we're dumping bagel factory inspections and weed control.
+1	6B	uh, egg farms regulations?
+2	6B	i don't know what those * are, but, i mean, it probably wouldn't hurt to keep them.
+2	6B	that's people's food.
+1	6B	i would say yeah, keep that. it's a public health -
+2	6B	* i would get rid of neighborhood watch support.
+2	6B	presumably you already have police.
+2	6B	yeah, but neighborhood watch support i feel a lot of time is just people spying on their neighbors.
+1	6B	okay, so is that three?
+0	6B	alright.1+
+0	6B	recreation, public services.
+1	6B	let's just do a quick scan, see if anything can just go from, like the get go.
+1	6B	i * like most of these. um -
+2	6B	i - i - i - i would be with you on the football stadium upkeep, just cuz it already exists, but i wouldn't wanna cut the sports clubs.
+1	6B	i think maybe kitty trunc kitten and puppy adoption could be trunc done by a private charity.
+1	6B	doesn't necessarily need to be run by the city.
+0	6B	um -
+2	6B	definitely keep housing assistance and soup kitchens and food banks.
+2	6B	so if we * have a public * news station, i'm not sure if we need a public * access station?
+2	6B	well -
+2	6B	i'm * for that, personally but that's cuz i used to live in seoul, that has a huge stray cat problem.
+2	6B	and i'm * very much in favor of getting rid of, like, more stray cats.
+2	6B	i don't want them to keep making more.
+2	6B	like, those things are * loud.
+2	6B	and they're gross.
+1	6B	alright, so trunc trunc so we got football stadium upkeep -
+1	6B	uh, kitten and puppy adoption.
+2	6B	trunc trunc my vote is public access if we already have public news. i've seen the public access channel. it's a lot of * weird stuff that * is * not particularly helpful.
+2	6B	i don't remember the number, but it's just, like, a bunch of people can get on, have their own shows. there's one guy who's been running a kurt cobain was murdered show for like ten years now and it's - it's * funny, but it's not -
+2	6B	if it was keep that or keep p_b_s_, i'm keeping p_b_s_ every single time.
+1	6B	alright, so -
+0	6B	uh, i've heard of it, but i've never actually seen it.
+0	6B	it's, like, our local s_n_l_ sketch comedy sort of trunc thing?
+2	6B	it's not hard to do.
+2	6B	okay, it was trunc it was hard to do, then. back then it was good.
+0	6B	haven't heard of it.
+0	6B	mm-hm.
+0	6B	yeah.
+0	6B	no, but i - i know who she is. um she comes to some of the stuff at meany hall.
+0	6B	to do reviews of it, i guess.
+1	6B	yeah.
+0	6B	i've never seen her, just know the name. i mean, maybe i have. i wouldn't know.
+0	6B	alright, so.
+0	6B	yeah, infrastructure licensing, um -
+1	6B	yeah. um -
+1	6B	maybe flagpole repair?
+1	6B	we could cut some space there.
+1	6B	they seem pretty tough.
+1	6B	yeah, i mean i guess you trunc you can - these days, you just * call a taxi.
+2	6B	naw, i would keep - i mean, if you've ever been to spokane, you wanna know about keeping pothole maintenance.
+2	6B	they trunc they got rid of that and it's a nightmare.
+1	6B	maybe trunc yeah, i was gonna say that, or more, tattoo artist licenses.
+1	6B	yeah, i guess they should be licensed.
+1	6B	and not just random folks.
+2	6B	i'd say if you're having an unlicensed masseuse, it's less dangerous that's a good point.
+1	6B	alright, yeah. so i say we cut massage, uh, flagpole, and taxi stops all there right in a row.
+0	6B	alright, cool!
+1	6B	budget solved.
+1	3I	alright, so i'm just gonna draw some of these at random.
+0	3I	i've got face cream.
+1	3I	i think next to * ice cream is the obvious - naw, no no no.
+1	3I	probably near toilet paper, right? alright.
+1	3I	throw it on.
+1	3I	i would probably maybe put that near sort-of, uh, the siding area? like, it's a home improvement -
+1	3I	thing.
+1	3I	uh yeah, i might put it * across from siding.
+1	3I	or down there. yeah, whatever.
+0	3I	beets.
+1	3I	food probably, maybe by soybeans. that seems sort of a producey -
+2	3I	i would have a backpack near trunc but again also by toys, that's tough.
+1	3I	yeah, cuz you're trunc , makes sense you're backpacking.
+0	3I	yeah.
+0	3I	alright, i've got sticks of butter.
+2	3I	probably put that in between eggs and cake mix.
+1	3I	yeah. do we have, uh - ? i guess we have boating supplies.
+2	3I	maybe by * mousetraps, though.
+1	3I	sort of a thing you'd keep around your house?
+2	3I	this is gonna be, like, a jumbly-ass store at some point.
+0	3I	thick sweaters.
+2	3I	we start a new clothes section, yeah, that's what i was thinking.
+1	3I	this is - i'll put it, like, right there.
+2	3I	that's now our clothes section.
+2	3I	well, i mean, like power cords is sort of a * tool.
+2	3I	we're sort of having tools, like, we could do -
+2	3I	but you might use a saw.
+1	3I	yeah, okay. like, put it right - right in here?
+1	3I	alright, cool.
+0	3I	canvas bags.
+1	3I	i'd probably put that near boating supplies.
+1	3I	yeah, sure. yeah.
+1	3I	i've got some loose-leaf paper, i think that could go along with refrigerator magnets and books area.
+1	3I	i'd probably say down by power cords, tools-ish.
+0	3I	heavy coats.
+1	3I	could probably go right next to thick sweaters.
+1	3I	yeah, maybe - like, we could have books of matches, small saws, bundles of sticks.
+1	3I	i've got half-inch tubing, that's kind of a home improvement-y tool-ish thing.
+1	3I	yeah, maybe, like, right in between here?
+1	3I	it can sort of - in this area.
+1	3I	generally.
+0	3I	i've got wetsuits.
+1	3I	i trunc i think boating supplies is the answer.
+1	3I	yeah, it's sort of, like - like, sort of camping travel.
+2	3I	and usually in a grocery store, like, the bottled water's in it's own area.
+1	3I	yeah.
+0	3I	uh, pre-cut wood?
+1	3I	i think.
+2	3I	i'm trunc i'm thinking maybe near bundles of sticks.
+1	3I	okay.
+1	3I	yeah, sorta have it around tools-ish area.
+0	3I	pouches of oatmeal -
+2	3I	i think i'd put near cake mix, it's sort of a * dry good.
+2	3I	oh, but maybe also camping - well, it's there now.
+2	3I	yeah, i guess trunc it's kinda, like, a trunc i think maybe, like, right here. it's kinda, like, a home improvement thing. for your * garden.
+1	3I	think light jackets can probably go right by heavy coats.
+1	3I	yeah.
+2	3I	i've got chocolate bars i think sort of near sugar and ice cream, i think this is, like, the sugary -
+1	3I	yeah.
+0	3I	cans of peas?
+2	3I	i'm thinking maybe by soybeans?
+1	3I	i'm not really sure what pet food kinda goes with.
+0	3I	like, what's - at a grocery store, what is pet food usually with?
+0	3I	yeah.
+1	3I	yeah. junk food.
+0	3I	i've got * fish hooks.
+1	3I	think boating supplies.
+1	3I	mm-hm.
+0	3I	large vests.
+2	3I	can continue to be in the clothes section.
+1	3I	yeah.
+0	3I	egg timers?
+1	3I	i think maybe -
+2	3I	trunc trunc egg timer's not really * for eggs, though. it's, like, a cake - just like a - just a general kitchen timer.
+1	3I	yeah, why not?
+1	3I	it's not really a * food, it's sort of, like, a - mm, sort of pet food, kitchen items -
+1	3I	area.
+1	3I	or i guess, yeah, sorta general items.
+1	3I	sure.
+1	3I	shoelaces, i guess, is, uh clothing?
+1	3I	i would say so.
+0	3I	fleece-lined boots.
+0	3I	hm. gas-powered cookstoves?
+2	3I	that seems like a camping sorta thing, doesn't it?
+1	3I	trunc put it up by backpacks?
+1	3I	tow ropes. probably with boating supplies.
+1	3I	yeah.
+2	3I	we might not be the best managers in the world - tell you the truth.
+1	3I	mm.
+1	3I	think, uh paper bags, along with, like, pet food and egg timers?
+1	3I	really * anywhere in this column, it could go.
+1	3I	yeah.
+1	3I	you would use duct tape maybe if your stove breaks down.
+0	3I	fishing net.
+2	3I	gonna sorta wedge that in there probably shoulda gone closer to the boat.
+1	3I	okay.
+1	3I	i've got large cups. i think along with paper bags?
+2	3I	yeah. i'm gonna put package of cookies up here between chocolate bars and ice cream.
+2	3I	i mean, i'd put it, like, right here, fishing net. you might use some weights for your fishing trip.
+2	3I	this is sorta just your outdoorsy area.
+1	3I	i might * also put over there.
+1	3I	well where - where - where trunc you think about empty trunc like, it's an empty jug.
+1	3I	okay.
+1	3I	by the - yeah. sorta there, toiletries-ish.
+1	3I	or up there, yeah.
+0	3I	tweezers.
+1	3I	i trunc put -
+1	3I	right there. and, uh, that's it!
+2	3I	that's our store! there's * not a lot of food in our store.
+1	3I	yeah, i mean -
+1	6B	so let's start with educations and programs.
+2	6B	well -
+2	6B	those are both good things.
+2	6B	maybe. i mean, i think - bookkeeping classes, you know, that's important. that's basically accounting, that's - teaching people how to manage their money, that's good for the community.
+0	6B	um -
+1	6B	yeah, those could probably go.
+1	6B	i mean -
+2	6B	our kids are gonna be fat no matter what.
+1	6B	alright, what, uh - let's see, i think we hafta -
+0	6B	how many have we cut so far?
+1	6B	cut sugar-free. alright.
+1	6B	uh, maybe trunc we could cut acting coaches?
+1	6B	that seems like something that people could do privately.
+1	6B	yeah, an-
+1	6B	see, poetry books could probably also go.
+1	6B	okay, i mean, yeah, i -
+1	6B	assistant cooks.
+1	6B	i think that could probably go.
+0	6B	um -
+1	6B	i would say keep math tutors.
+2	6B	* definitely keep sex ed.
+1	6B	keep custodians, speech therapy.
+1	6B	uh, special ed teachers, definitely keep.
+1	6B	notetakers, keep.
+1	6B	i would say keep music teachers, you know. art's important.
+0	6B	so we - trunc what's, uh - cut, uh, sugar-free juice machines -
+0	6B	assistant cooks.
+0	6B	and acting coaches.
+1	6B	alright, three things. we can do this.
+2	6B	i trunc it's the same as sex ed, isn't it?
+2	6B	but it can't hurt to have two, honestly.
+2	6B	oh, okay, this is for adults.
+1	6B	yeah, okay. fair enough, fair enough.
+2	6B	job training programs we should definitely keep. chicken pox vaccinations we should probably keep.
+2	6B	yeah. we should * definitely keep toxic waste disposal.
+1	6B	uh, hospital * additions?
+2	6B	well, trunc let's trunc let's come back to that one. i think we can get rid of the bagel factory inspections.
+2	6B	just cuz -
+2	6B	if it was, like, factory inspections in general, we should keep that, but specific to bagel factories seems like a weird targeted, almost anti-'semitic -
+2	6B	government thing to be funding.
+2	6B	just. there's more food than bagels.
+2	6B	uh, i would say keep needle exchange.
+2	6B	uh, trunc keep the sex offender database.
+1	6B	keep veterans medical assistance.
+2	6B	yeah. like, say, we're trunc we're dumping bagel factory inspections and weed control.
+1	6B	uh, egg farms regulations?
+2	6B	i don't know what those * are, but, i mean, it probably wouldn't hurt to keep them.
+2	6B	that's people's food.
+1	6B	i would say yeah, keep that. it's a public health -
+2	6B	* i would get rid of neighborhood watch support.
+2	6B	presumably you already have police.
+2	6B	yeah, but neighborhood watch support i feel a lot of time is just people spying on their neighbors.
+1	6B	okay, so is that three?
+0	6B	alright.1+
+0	6B	recreation, public services.
+1	6B	let's just do a quick scan, see if anything can just go from, like the get go.
+1	6B	i * like most of these. um -
+2	6B	i - i - i - i would be with you on the football stadium upkeep, just cuz it already exists, but i wouldn't wanna cut the sports clubs.
+1	6B	i think maybe kitty trunc kitten and puppy adoption could be trunc done by a private charity.
+1	6B	doesn't necessarily need to be run by the city.
+0	6B	um -
+2	6B	definitely keep housing assistance and soup kitchens and food banks.
+2	6B	so if we * have a public * news station, i'm not sure if we need a public * access station?
+2	6B	well -
+2	6B	i'm * for that, personally but that's cuz i used to live in seoul, that has a huge stray cat problem.
+2	6B	and i'm * very much in favor of getting rid of, like, more stray cats.
+2	6B	i don't want them to keep making more.
+2	6B	like, those things are * loud.
+2	6B	and they're gross.
+1	6B	alright, so trunc trunc so we got football stadium upkeep -
+1	6B	uh, kitten and puppy adoption.
+2	6B	trunc trunc my vote is public access if we already have public news. i've seen the public access channel. it's a lot of * weird stuff that * is * not particularly helpful.
+2	6B	i don't remember the number, but it's just, like, a bunch of people can get on, have their own shows. there's one guy who's been running a kurt cobain was murdered show for like ten years now and it's - it's * funny, but it's not -
+2	6B	if it was keep that or keep p_b_s_, i'm keeping p_b_s_ every single time.
+1	6B	alright, so -
+0	6B	uh, i've heard of it, but i've never actually seen it.
+0	6B	it's, like, our local s_n_l_ sketch comedy sort of trunc thing?
+2	6B	it's not hard to do.
+2	6B	okay, it was trunc it was hard to do, then. back then it was good.
+0	6B	haven't heard of it.
+0	6B	mm-hm.
+0	6B	yeah.
+0	6B	no, but i - i know who she is. um she comes to some of the stuff at meany hall.
+0	6B	to do reviews of it, i guess.
+1	6B	yeah.
+0	6B	i've never seen her, just know the name. i mean, maybe i have. i wouldn't know.
+0	6B	alright, so.
+0	6B	yeah, infrastructure licensing, um -
+1	6B	yeah. um -
+1	6B	maybe flagpole repair?
+1	6B	we could cut some space there.
+1	6B	they seem pretty tough.
+1	6B	yeah, i mean i guess you trunc you can - these days, you just * call a taxi.
+2	6B	naw, i would keep - i mean, if you've ever been to spokane, you wanna know about keeping pothole maintenance.
+2	6B	they trunc they got rid of that and it's a nightmare.
+1	6B	maybe trunc yeah, i was gonna say that, or more, tattoo artist licenses.
+1	6B	yeah, i guess they should be licensed.
+1	6B	and not just random folks.
+2	6B	i'd say if you're having an unlicensed masseuse, it's less dangerous that's a good point.
+1	6B	alright, yeah. so i say we cut massage, uh, flagpole, and taxi stops all there right in a row.
+0	6B	alright, cool!
+1	6B	budget solved.
+1	3I	alright, so i'm just gonna draw some of these at random.
+0	3I	i've got face cream.
+1	3I	i think next to * ice cream is the obvious - naw, no no no.
+1	3I	probably near toilet paper, right? alright.
+1	3I	throw it on.
+1	3I	i would probably maybe put that near sort-of, uh, the siding area? like, it's a home improvement -
+1	3I	thing.
+1	3I	uh yeah, i might put it * across from siding.
+1	3I	or down there. yeah, whatever.
+0	3I	beets.
+1	3I	food probably, maybe by soybeans. that seems sort of a producey -
+2	3I	i would have a backpack near trunc but again also by toys, that's tough.
+1	3I	yeah, cuz you're trunc , makes sense you're backpacking.
+0	3I	yeah.
+0	3I	alright, i've got sticks of butter.
+2	3I	probably put that in between eggs and cake mix.
+1	3I	yeah. do we have, uh - ? i guess we have boating supplies.
+2	3I	maybe by * mousetraps, though.
+1	3I	sort of a thing you'd keep around your house?
+2	3I	this is gonna be, like, a jumbly-ass store at some point.
+0	3I	thick sweaters.
+2	3I	we start a new clothes section, yeah, that's what i was thinking.
+1	3I	this is - i'll put it, like, right there.
+2	3I	that's now our clothes section.
+2	3I	well, i mean, like power cords is sort of a * tool.
+2	3I	we're sort of having tools, like, we could do -
+2	3I	but you might use a saw.
+1	3I	yeah, okay. like, put it right - right in here?
+1	3I	alright, cool.
+0	3I	canvas bags.
+1	3I	i'd probably put that near boating supplies.
+1	3I	yeah, sure. yeah.
+1	3I	i've got some loose-leaf paper, i think that could go along with refrigerator magnets and books area.
+1	3I	i'd probably say down by power cords, tools-ish.
+0	3I	heavy coats.
+1	3I	could probably go right next to thick sweaters.
+1	3I	yeah, maybe - like, we could have books of matches, small saws, bundles of sticks.
+1	3I	i've got half-inch tubing, that's kind of a home improvement-y tool-ish thing.
+1	3I	yeah, maybe, like, right in between here?
+1	3I	it can sort of - in this area.
+1	3I	generally.
+0	3I	i've got wetsuits.
+1	3I	i trunc i think boating supplies is the answer.
+1	3I	yeah, it's sort of, like - like, sort of camping travel.
+2	3I	and usually in a grocery store, like, the bottled water's in it's own area.
+1	3I	yeah.
+0	3I	uh, pre-cut wood?
+1	3I	i think.
+2	3I	i'm trunc i'm thinking maybe near bundles of sticks.
+1	3I	okay.
+1	3I	yeah, sorta have it around tools-ish area.
+0	3I	pouches of oatmeal -
+2	3I	i think i'd put near cake mix, it's sort of a * dry good.
+2	3I	oh, but maybe also camping - well, it's there now.
+2	3I	yeah, i guess trunc it's kinda, like, a trunc i think maybe, like, right here. it's kinda, like, a home improvement thing. for your * garden.
+1	3I	think light jackets can probably go right by heavy coats.
+1	3I	yeah.
+2	3I	i've got chocolate bars i think sort of near sugar and ice cream, i think this is, like, the sugary -
+1	3I	yeah.
+0	3I	cans of peas?
+2	3I	i'm thinking maybe by soybeans?
+1	3I	i'm not really sure what pet food kinda goes with.
+0	3I	like, what's - at a grocery store, what is pet food usually with?
+0	3I	yeah.
+1	3I	yeah. junk food.
+0	3I	i've got * fish hooks.
+1	3I	think boating supplies.
+1	3I	mm-hm.
+0	3I	large vests.
+2	3I	can continue to be in the clothes section.
+1	3I	yeah.
+0	3I	egg timers?
+1	3I	i think maybe -
+2	3I	trunc trunc egg timer's not really * for eggs, though. it's, like, a cake - just like a - just a general kitchen timer.
+1	3I	yeah, why not?
+1	3I	it's not really a * food, it's sort of, like, a - mm, sort of pet food, kitchen items -
+1	3I	area.
+1	3I	or i guess, yeah, sorta general items.
+1	3I	sure.
+1	3I	shoelaces, i guess, is, uh clothing?
+1	3I	i would say so.
+0	3I	fleece-lined boots.
+0	3I	hm. gas-powered cookstoves?
+2	3I	that seems like a camping sorta thing, doesn't it?
+1	3I	trunc put it up by backpacks?
+1	3I	tow ropes. probably with boating supplies.
+1	3I	yeah.
+2	3I	we might not be the best managers in the world - tell you the truth.
+1	3I	mm.
+1	3I	think, uh paper bags, along with, like, pet food and egg timers?
+1	3I	really * anywhere in this column, it could go.
+1	3I	yeah.
+1	3I	you would use duct tape maybe if your stove breaks down.
+0	3I	fishing net.
+2	3I	gonna sorta wedge that in there probably shoulda gone closer to the boat.
+1	3I	okay.
+1	3I	i've got large cups. i think along with paper bags?
+2	3I	yeah. i'm gonna put package of cookies up here between chocolate bars and ice cream.
+2	3I	i mean, i'd put it, like, right here, fishing net. you might use some weights for your fishing trip.
+2	3I	this is sorta just your outdoorsy area.
+1	3I	i might * also put over there.
+1	3I	well where - where - where trunc you think about empty trunc like, it's an empty jug.
+1	3I	okay.
+1	3I	by the - yeah. sorta there, toiletries-ish.
+1	3I	or up there, yeah.
+0	3I	tweezers.
+1	3I	i trunc put -
+1	3I	right there. and, uh, that's it!
+2	3I	that's our store! there's * not a lot of food in our store.
+1	3I	yeah, i mean -
+1	6B	so let's start with educations and programs.
+2	6B	well -
+2	6B	those are both good things.
+2	6B	maybe. i mean, i think - bookkeeping classes, you know, that's important. that's basically accounting, that's - teaching people how to manage their money, that's good for the community.
+0	6B	um -
+1	6B	yeah, those could probably go.
+1	6B	i mean -
+2	6B	our kids are gonna be fat no matter what.
+1	6B	alright, what, uh - let's see, i think we hafta -
+0	6B	how many have we cut so far?
+1	6B	cut sugar-free. alright.
+1	6B	uh, maybe trunc we could cut acting coaches?
+1	6B	that seems like something that people could do privately.
+1	6B	yeah, an-
+1	6B	see, poetry books could probably also go.
+1	6B	okay, i mean, yeah, i -
+1	6B	assistant cooks.
+1	6B	i think that could probably go.
+0	6B	um -
+1	6B	i would say keep math tutors.
+2	6B	* definitely keep sex ed.
+1	6B	keep custodians, speech therapy.
+1	6B	uh, special ed teachers, definitely keep.
+1	6B	notetakers, keep.
+1	6B	i would say keep music teachers, you know. art's important.
+0	6B	so we - trunc what's, uh - cut, uh, sugar-free juice machines -
+0	6B	assistant cooks.
+0	6B	and acting coaches.
+1	6B	alright, three things. we can do this.
+2	6B	i trunc it's the same as sex ed, isn't it?
+2	6B	but it can't hurt to have two, honestly.
+2	6B	oh, okay, this is for adults.
+1	6B	yeah, okay. fair enough, fair enough.
+2	6B	job training programs we should definitely keep. chicken pox vaccinations we should probably keep.
+2	6B	yeah. we should * definitely keep toxic waste disposal.
+1	6B	uh, hospital * additions?
+2	6B	well, trunc let's trunc let's come back to that one. i think we can get rid of the bagel factory inspections.
+2	6B	just cuz -
+2	6B	if it was, like, factory inspections in general, we should keep that, but specific to bagel factories seems like a weird targeted, almost anti-'semitic -
+2	6B	government thing to be funding.
+2	6B	just. there's more food than bagels.
+2	6B	uh, i would say keep needle exchange.
+2	6B	uh, trunc keep the sex offender database.
+1	6B	keep veterans medical assistance.
+2	6B	yeah. like, say, we're trunc we're dumping bagel factory inspections and weed control.
+1	6B	uh, egg farms regulations?
+2	6B	i don't know what those * are, but, i mean, it probably wouldn't hurt to keep them.
+2	6B	that's people's food.
+1	6B	i would say yeah, keep that. it's a public health -
+2	6B	* i would get rid of neighborhood watch support.
+2	6B	presumably you already have police.
+2	6B	yeah, but neighborhood watch support i feel a lot of time is just people spying on their neighbors.
+1	6B	okay, so is that three?
+0	6B	alright.1+
+0	6B	recreation, public services.
+1	6B	let's just do a quick scan, see if anything can just go from, like the get go.
+1	6B	i * like most of these. um -
+2	6B	i - i - i - i would be with you on the football stadium upkeep, just cuz it already exists, but i wouldn't wanna cut the sports clubs.
+1	6B	i think maybe kitty trunc kitten and puppy adoption could be trunc done by a private charity.
+1	6B	doesn't necessarily need to be run by the city.
+0	6B	um -
+2	6B	definitely keep housing assistance and soup kitchens and food banks.
+2	6B	so if we * have a public * news station, i'm not sure if we need a public * access station?
+2	6B	well -
+2	6B	i'm * for that, personally but that's cuz i used to live in seoul, that has a huge stray cat problem.
+2	6B	and i'm * very much in favor of getting rid of, like, more stray cats.
+2	6B	i don't want them to keep making more.
+2	6B	like, those things are * loud.
+2	6B	and they're gross.
+1	6B	alright, so trunc trunc so we got football stadium upkeep -
+1	6B	uh, kitten and puppy adoption.
+2	6B	trunc trunc my vote is public access if we already have public news. i've seen the public access channel. it's a lot of * weird stuff that * is * not particularly helpful.
+2	6B	i don't remember the number, but it's just, like, a bunch of people can get on, have their own shows. there's one guy who's been running a kurt cobain was murdered show for like ten years now and it's - it's * funny, but it's not -
+2	6B	if it was keep that or keep p_b_s_, i'm keeping p_b_s_ every single time.
+1	6B	alright, so -
+0	6B	uh, i've heard of it, but i've never actually seen it.
+0	6B	it's, like, our local s_n_l_ sketch comedy sort of trunc thing?
+2	6B	it's not hard to do.
+2	6B	okay, it was trunc it was hard to do, then. back then it was good.
+0	6B	haven't heard of it.
+0	6B	mm-hm.
+0	6B	yeah.
+0	6B	no, but i - i know who she is. um she comes to some of the stuff at meany hall.
+0	6B	to do reviews of it, i guess.
+1	6B	yeah.
+0	6B	i've never seen her, just know the name. i mean, maybe i have. i wouldn't know.
+0	6B	alright, so.
+0	6B	yeah, infrastructure licensing, um -
+1	6B	yeah. um -
+1	6B	maybe flagpole repair?
+1	6B	we could cut some space there.
+1	6B	they seem pretty tough.
+1	6B	yeah, i mean i guess you trunc you can - these days, you just * call a taxi.
+2	6B	naw, i would keep - i mean, if you've ever been to spokane, you wanna know about keeping pothole maintenance.
+2	6B	they trunc they got rid of that and it's a nightmare.
+1	6B	maybe trunc yeah, i was gonna say that, or more, tattoo artist licenses.
+1	6B	yeah, i guess they should be licensed.
+1	6B	and not just random folks.
+2	6B	i'd say if you're having an unlicensed masseuse, it's less dangerous that's a good point.
+1	6B	alright, yeah. so i say we cut massage, uh, flagpole, and taxi stops all there right in a row.
+0	6B	alright, cool!
+1	6B	budget solved.
+1	3I	alright, so i'm just gonna draw some of these at random.
+0	3I	i've got face cream.
+1	3I	i think next to * ice cream is the obvious - naw, no no no.
+1	3I	probably near toilet paper, right? alright.
+1	3I	throw it on.
+1	3I	i would probably maybe put that near sort-of, uh, the siding area? like, it's a home improvement -
+1	3I	thing.
+1	3I	uh yeah, i might put it * across from siding.
+1	3I	or down there. yeah, whatever.
+0	3I	beets.
+1	3I	food probably, maybe by soybeans. that seems sort of a producey -
+2	3I	i would have a backpack near trunc but again also by toys, that's tough.
+1	3I	yeah, cuz you're trunc , makes sense you're backpacking.
+0	3I	yeah.
+0	3I	alright, i've got sticks of butter.
+2	3I	probably put that in between eggs and cake mix.
+1	3I	yeah. do we have, uh - ? i guess we have boating supplies.
+2	3I	maybe by * mousetraps, though.
+1	3I	sort of a thing you'd keep around your house?
+2	3I	this is gonna be, like, a jumbly-ass store at some point.
+0	3I	thick sweaters.
+2	3I	we start a new clothes section, yeah, that's what i was thinking.
+1	3I	this is - i'll put it, like, right there.
+2	3I	that's now our clothes section.
+2	3I	well, i mean, like power cords is sort of a * tool.
+2	3I	we're sort of having tools, like, we could do -
+2	3I	but you might use a saw.
+1	3I	yeah, okay. like, put it right - right in here?
+1	3I	alright, cool.
+0	3I	canvas bags.
+1	3I	i'd probably put that near boating supplies.
+1	3I	yeah, sure. yeah.
+1	3I	i've got some loose-leaf paper, i think that could go along with refrigerator magnets and books area.
+1	3I	i'd probably say down by power cords, tools-ish.
+0	3I	heavy coats.
+1	3I	could probably go right next to thick sweaters.
+1	3I	yeah, maybe - like, we could have books of matches, small saws, bundles of sticks.
+1	3I	i've got half-inch tubing, that's kind of a home improvement-y tool-ish thing.
+1	3I	yeah, maybe, like, right in between here?
+1	3I	it can sort of - in this area.
+1	3I	generally.
+0	3I	i've got wetsuits.
+1	3I	i trunc i think boating supplies is the answer.
+1	3I	yeah, it's sort of, like - like, sort of camping travel.
+2	3I	and usually in a grocery store, like, the bottled water's in it's own area.
+1	3I	yeah.
+0	3I	uh, pre-cut wood?
+1	3I	i think.
+2	3I	i'm trunc i'm thinking maybe near bundles of sticks.
+1	3I	okay.
+1	3I	yeah, sorta have it around tools-ish area.
+0	3I	pouches of oatmeal -
+2	3I	i think i'd put near cake mix, it's sort of a * dry good.
+2	3I	oh, but maybe also camping - well, it's there now.
+2	3I	yeah, i guess trunc it's kinda, like, a trunc i think maybe, like, right here. it's kinda, like, a home improvement thing. for your * garden.
+1	3I	think light jackets can probably go right by heavy coats.
+1	3I	yeah.
+2	3I	i've got chocolate bars i think sort of near sugar and ice cream, i think this is, like, the sugary -
+1	3I	yeah.
+0	3I	cans of peas?
+2	3I	i'm thinking maybe by soybeans?
+1	3I	i'm not really sure what pet food kinda goes with.
+0	3I	like, what's - at a grocery store, what is pet food usually with?
+0	3I	yeah.
+1	3I	yeah. junk food.
+0	3I	i've got * fish hooks.
+1	3I	think boating supplies.
+1	3I	mm-hm.
+0	3I	large vests.
+2	3I	can continue to be in the clothes section.
+1	3I	yeah.
+0	3I	egg timers?
+1	3I	i think maybe -
+2	3I	trunc trunc egg timer's not really * for eggs, though. it's, like, a cake - just like a - just a general kitchen timer.
+1	3I	yeah, why not?
+1	3I	it's not really a * food, it's sort of, like, a - mm, sort of pet food, kitchen items -
+1	3I	area.
+1	3I	or i guess, yeah, sorta general items.
+1	3I	sure.
+1	3I	shoelaces, i guess, is, uh clothing?
+1	3I	i would say so.
+0	3I	fleece-lined boots.
+0	3I	hm. gas-powered cookstoves?
+2	3I	that seems like a camping sorta thing, doesn't it?
+1	3I	trunc put it up by backpacks?
+1	3I	tow ropes. probably with boating supplies.
+1	3I	yeah.
+2	3I	we might not be the best managers in the world - tell you the truth.
+1	3I	mm.
+1	3I	think, uh paper bags, along with, like, pet food and egg timers?
+1	3I	really * anywhere in this column, it could go.
+1	3I	yeah.
+1	3I	you would use duct tape maybe if your stove breaks down.
+0	3I	fishing net.
+2	3I	gonna sorta wedge that in there probably shoulda gone closer to the boat.
+1	3I	okay.
+1	3I	i've got large cups. i think along with paper bags?
+2	3I	yeah. i'm gonna put package of cookies up here between chocolate bars and ice cream.
+2	3I	i mean, i'd put it, like, right here, fishing net. you might use some weights for your fishing trip.
+2	3I	this is sorta just your outdoorsy area.
+1	3I	i might * also put over there.
+1	3I	well where - where - where trunc you think about empty trunc like, it's an empty jug.
+1	3I	okay.
+1	3I	by the - yeah. sorta there, toiletries-ish.
+1	3I	or up there, yeah.
+0	3I	tweezers.
+1	3I	i trunc put -
+1	3I	right there. and, uh, that's it!
+2	3I	that's our store! there's * not a lot of food in our store.
+1	3I	yeah, i mean -
+1	6B	so let's start with educations and programs.
+2	6B	well -
+2	6B	those are both good things.
+2	6B	maybe. i mean, i think - bookkeeping classes, you know, that's important. that's basically accounting, that's - teaching people how to manage their money, that's good for the community.
+0	6B	um -
+1	6B	yeah, those could probably go.
+1	6B	i mean -
+2	6B	our kids are gonna be fat no matter what.
+1	6B	alright, what, uh - let's see, i think we hafta -
+0	6B	how many have we cut so far?
+1	6B	cut sugar-free. alright.
+1	6B	uh, maybe trunc we could cut acting coaches?
+1	6B	that seems like something that people could do privately.
+1	6B	yeah, an-
+1	6B	see, poetry books could probably also go.
+1	6B	okay, i mean, yeah, i -
+1	6B	assistant cooks.
+1	6B	i think that could probably go.
+0	6B	um -
+1	6B	i would say keep math tutors.
+2	6B	* definitely keep sex ed.
+1	6B	keep custodians, speech therapy.
+1	6B	uh, special ed teachers, definitely keep.
+1	6B	notetakers, keep.
+1	6B	i would say keep music teachers, you know. art's important.
+0	6B	so we - trunc what's, uh - cut, uh, sugar-free juice machines -
+0	6B	assistant cooks.
+0	6B	and acting coaches.
+1	6B	alright, three things. we can do this.
+2	6B	i trunc it's the same as sex ed, isn't it?
+2	6B	but it can't hurt to have two, honestly.
+2	6B	oh, okay, this is for adults.
+1	6B	yeah, okay. fair enough, fair enough.
+2	6B	job training programs we should definitely keep. chicken pox vaccinations we should probably keep.
+2	6B	yeah. we should * definitely keep toxic waste disposal.
+1	6B	uh, hospital * additions?
+2	6B	well, trunc let's trunc let's come back to that one. i think we can get rid of the bagel factory inspections.
+2	6B	just cuz -
+2	6B	if it was, like, factory inspections in general, we should keep that, but specific to bagel factories seems like a weird targeted, almost anti-'semitic -
+2	6B	government thing to be funding.
+2	6B	just. there's more food than bagels.
+2	6B	uh, i would say keep needle exchange.
+2	6B	uh, trunc keep the sex offender database.
+1	6B	keep veterans medical assistance.
+2	6B	yeah. like, say, we're trunc we're dumping bagel factory inspections and weed control.
+1	6B	uh, egg farms regulations?
+2	6B	i don't know what those * are, but, i mean, it probably wouldn't hurt to keep them.
+2	6B	that's people's food.
+1	6B	i would say yeah, keep that. it's a public health -
+2	6B	* i would get rid of neighborhood watch support.
+2	6B	presumably you already have police.
+2	6B	yeah, but neighborhood watch support i feel a lot of time is just people spying on their neighbors.
+1	6B	okay, so is that three?
+0	6B	alright.1+
+0	6B	recreation, public services.
+1	6B	let's just do a quick scan, see if anything can just go from, like the get go.
+1	6B	i * like most of these. um -
+2	6B	i - i - i - i would be with you on the football stadium upkeep, just cuz it already exists, but i wouldn't wanna cut the sports clubs.
+1	6B	i think maybe kitty trunc kitten and puppy adoption could be trunc done by a private charity.
+1	6B	doesn't necessarily need to be run by the city.
+0	6B	um -
+2	6B	definitely keep housing assistance and soup kitchens and food banks.
+2	6B	so if we * have a public * news station, i'm not sure if we need a public * access station?
+2	6B	well -
+2	6B	i'm * for that, personally but that's cuz i used to live in seoul, that has a huge stray cat problem.
+2	6B	and i'm * very much in favor of getting rid of, like, more stray cats.
+2	6B	i don't want them to keep making more.
+2	6B	like, those things are * loud.
+2	6B	and they're gross.
+1	6B	alright, so trunc trunc so we got football stadium upkeep -
+1	6B	uh, kitten and puppy adoption.
+2	6B	trunc trunc my vote is public access if we already have public news. i've seen the public access channel. it's a lot of * weird stuff that * is * not particularly helpful.
+2	6B	i don't remember the number, but it's just, like, a bunch of people can get on, have their own shows. there's one guy who's been running a kurt cobain was murdered show for like ten years now and it's - it's * funny, but it's not -
+2	6B	if it was keep that or keep p_b_s_, i'm keeping p_b_s_ every single time.
+1	6B	alright, so -
+0	6B	uh, i've heard of it, but i've never actually seen it.
+0	6B	it's, like, our local s_n_l_ sketch comedy sort of trunc thing?
+2	6B	it's not hard to do.
+2	6B	okay, it was trunc it was hard to do, then. back then it was good.
+0	6B	haven't heard of it.
+0	6B	mm-hm.
+0	6B	yeah.
+0	6B	no, but i - i know who she is. um she comes to some of the stuff at meany hall.
+0	6B	to do reviews of it, i guess.
+1	6B	yeah.
+0	6B	i've never seen her, just know the name. i mean, maybe i have. i wouldn't know.
+0	6B	alright, so.
+0	6B	yeah, infrastructure licensing, um -
+1	6B	yeah. um -
+1	6B	maybe flagpole repair?
+1	6B	we could cut some space there.
+1	6B	they seem pretty tough.
+1	6B	yeah, i mean i guess you trunc you can - these days, you just * call a taxi.
+2	6B	naw, i would keep - i mean, if you've ever been to spokane, you wanna know about keeping pothole maintenance.
+2	6B	they trunc they got rid of that and it's a nightmare.
+1	6B	maybe trunc yeah, i was gonna say that, or more, tattoo artist licenses.
+1	6B	yeah, i guess they should be licensed.
+1	6B	and not just random folks.
+2	6B	i'd say if you're having an unlicensed masseuse, it's less dangerous that's a good point.
+1	6B	alright, yeah. so i say we cut massage, uh, flagpole, and taxi stops all there right in a row.
+0	6B	alright, cool!
+1	6B	budget solved.

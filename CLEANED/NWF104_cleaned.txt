@@ -1,0 +1,214 @@
+0	3I	so , basically , these simulate aisles ? 
+1	3I	okay , so i would i guess put it on the last row with food . 
+0	3I	um hm ! 
+1	3I	uh , i don't know . 
+1	3I	up to you ! 
+1	3I	i would say next to , yeah , the toilet paper . 
+1	3I	that looks good there , yeah . 
+1	3I	power trunc cords ? 
+1	3I	maybe next to boating supplies ? 
+1	3I	probably trunc yeah , on the same . 
+1	3I	yep ! 
+1	3I	should probably be saying these too . 
+0	3I	electric - 
+0	3I	electric heaters . 
+1	3I	yep . 
+1	3I	oh yeah . 
+1	3I	i think books can be next to - 
+1	3I	the travel guides , or - 
+0	3I	yeah . 
+1	3I	food . 
+1	3I	toilet paper ? 
+0	3I	sticks of butter . 
+0	3I	packages of cookies . 
+0	3I	mint toothpaste . 
+1	3I	that makes sense . bags of peat moss , which i still don't know what is that . 
+0	3I	buckets . 
+2	3I	or , maybe - 
+2	3I	next to the mousetraps . beets . 
+1	3I	yeah . 
+0	3I	cans of peas 
+0	3I	bottles of juice . 
+1	3I	okay . 
+0	3I	dried figs . 
+1	3I	right here next to packages of cookies ? 
+1	3I	alright . 
+1	3I	yep . 
+1	3I	mm-hm . 
+1	3I	yeah . 
+1	3I	mm-hm . 
+1	3I	alright . 
+0	3I	thanks . 
+0	3I	empty plastic jugs . 
+2	3I	seems like a camping or outdoors thing . next to - 
+2	3I	this ? next to the bundles of sticks . large cups . 
+1	3I	yeah . 
+2	3I	it seems like the empty plastic jugs could 've been with large cups , maybe . i don't know . 
+2	3I	hm . or maybe i 'll just put it here , next to th- 
+1	3I	refrigerator magnets . 
+0	3I	egg timers . 
+1	3I	yeah . 
+0	3I	loose-leaf paper . 
+1	3I	how bout next to toys ? 
+0	3I	box knives ? 
+1	3I	next to backpacks , or - ? 
+1	3I	or trunc siding , or - 
+0	3I	cushions for deck chairs . 
+1	3I	or - where is that again ? 
+0	3I	oh . 
+0	3I	small saws . 
+1	3I	next to the box knives ? 
+1	3I	mm-hm . 
+1	3I	uh-huh . 
+1	3I	that makes sense . 
+1	3I	yep . 
+1	3I	yeah . 
+1	3I	yeah . 
+1	3I	i guess - yeah , we can put on . 
+1	3I	yeah . 
+2	3I	thanks . so , i guess thick sweaters , in the clothing section . 
+1	3I	large vests . 
+0	3I	fleece-lined boots . 
+1	3I	maybe next to the shoe area . heavy coats . 
+1	3I	next to this ? 
+0	3I	fish hooks ? 
+2	3I	fish trunc next to the fishing net . 
+2	3I	we can't do that , right ? 
+1	3I	alright . 
+1	3I	okay . 
+1	3I	okay . 
+2	3I	cuz there 's no room , here , so - 
+1	3I	yeah . 
+2	3I	it wouldn't be good to put it with the human food , right ? no . 
+1	6B	alright . 
+1	6B	think that 's important . 
+2	6B	i don't know . doesn't trunc this is for funding , right ? 
+1	6B	alright . 
+1	6B	mm-hm . 
+1	6B	yeah . 
+1	6B	um , not really . 
+1	6B	mm-hm . 
+1	6B	yeah . 
+1	6B	i think that 's - 
+1	6B	educational , - 
+1	6B	yeah . 
+2	6B	special ed teacher , seems important . 
+2	6B	along with the notetakers . 
+1	6B	yeah . 
+1	6B	yeah . hm . 
+2	6B	that seems controversial , i feel like they 'd want that . 
+2	6B	but - 
+2	6B	i don't know . trunc sugar-free juice machines doesn't seem as important as the other things . 
+1	6B	yeah , bookkeeping classes seems - 
+1	6B	helpful . 
+0	6B	music teachers - 
+1	6B	alright . 
+1	6B	mm-hm . 
+1	6B	yeah . 
+1	6B	and assistant cooks ? 
+1	6B	mm-hm yeah . 
+0	6B	how many is that ? 
+2	6B	what trunc were we gonna get rid of the juice machines , or - ? 
+2	6B	alright . wow , we 're very fiscally conservative . 
+2	6B	well job training programs is pretty crucial , so - 
+2	6B	and so is - chicken pox vaccinations , right ? and i should probably stop , um , mumbling ! i 'll speak louder . 
+1	6B	what do you think ? 
+0	6B	have you ever had it ? or - i 've never had it i probably - 
+0	6B	no . 
+2	6B	yeah , so for my case , i 'd probably - isn't it more serious as an adult , if - ? 
+1	6B	but i guess it's not really - 
+1	6B	important , then ? 
+1	6B	alright . 
+1	6B	yeah . 
+2	6B	sounds like the other thing . like sex ed and reproductive - 
+2	6B	education . why is it all in different categories ? 
+1	6B	yeah . 
+1	6B	mm-hm . 
+0	6B	hospital additions . 
+1	6B	alright . needle exchange . 
+0	6B	i 'm not sure , but i  should know because i work in healthcare i 'm sure it's something about syringes . 
+0	6B	hm . 
+0	6B	but i 'm not quite sure , so - 
+2	6B	 i - think that 's important . 
+2	6B	veterans medical trunc i think that 's important . 
+0	6B	and weed control is - not marijuana , but - 
+0	6B	just , like , gardening and stuff , right ? 
+1	6B	yeah . 
+1	6B	mm-hm . 
+1	6B	uh-huh . 
+1	6B	yeah . 
+2	6B	yeah , i think s_t_d_ - trunc is more important to stress - 
+1	6B	than reproductive education , right ? 
+0	6B	right . 
+1	6B	alright . 
+0	6B	and how many is that ? 
+1	6B	needle exchange , maybe ? 
+1	6B	okay . 
+0	6B	stray cat spaying 
+1	6B	yeah . 
+0	6B	community news ads . 
+1	6B	that 's good for business and stuff i guess . 
+0	6B	food bank 
+1	6B	yeah . 
+2	6B	but food bank seems like something that people donate . 
+2	6B	not necessarily fund , so - 
+1	6B	yeah . 
+1	6B	it's kind of a non-profit thing . i don't know . 
+0	6B	don't really know how that 's funded trunc necessarily . 
+0	6B	so - 
+0	6B	junior soccer league . 
+1	6B	yeah . 
+0	6B	kitten and puppy adoption . 
+1	6B	would you fund that , or - ? 
+1	6B	eh , no . 
+1	6B	yeah . 
+1	6B	mm-hm . 
+2	6B	i think soup kitchens - 
+1	6B	yeah . 
+1	6B	mm-hm . 
+0	6B	what is that ? 
+0	6B	isn't that , like , animal control ? 
+0	6B	uh-huh . 
+1	6B	yeah . 
+1	6B	yeah . 
+1	6B	right . 
+1	6B	yeah . 
+0	6B	i don't know . 
+0	6B	oh ! oh , like a - the t_v_ station for - 
+0	6B	trunc for local - 
+0	6B	shows and stuff . 
+0	6B	you 've never seen public access channel ? oh , okay . 
+1	6B	yeah . 
+1	6B	mm-hm . 
+1	6B	yeah . 
+1	6B	the boy's basketball club ? 
+1	6B	the vet hospital ? 
+1	6B	okay . 
+1	6B	yeah . 
+2	6B	okay , infrastructure and licensing . teaching certificates , seems important . speed limit signs are very important , i guess . additional bus stops . 
+2	6B	i mean , for which city is this for ? for seattle , there 's a lot of - 
+0	6B	transit in this area , so - 
+1	6B	i would - 
+2	6B	for seattle , i wouldn't fund more for that . 
+0	6B	um - 
+2	6B	so i would get rid of that . 
+0	6B	tattoo artist licenses ? 
+0	6B	i didn't - hm - 
+0	6B	kno- 
+1	6B	yeah . 
+1	6B	so we could cut that ? 
+2	6B	yeah , boating licenses seems more important than a  tattoo artist license , . 
+2	6B	pothole maintenance . cuz seattle has lot's of potholes , i guess . in fact , they 're not trunc okay , i 'm not gonna be political , but yeah . subway system . 
+1	6B	uh-huh . 
+0	6B	hunting tags . 
+1	6B	yeah towing services . 
+1	6B	um - 
+1	6B	not really that important , i guess mm - massage certificates . 
+1	6B	mm . 
+0	6B	taxi stops . 
+0	6B	mm - 
+1	6B	alright . fishing licenses . 
+1	6B	alright ! 
+1	6B	oh ! we were gonna get rid of towing services ? 
+2	6B	yeah , i trunc uh , do- 
+2	6B	i guess so . 

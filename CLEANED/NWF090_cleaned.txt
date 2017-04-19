@@ -1,0 +1,364 @@
+0	3I	okay . 
+0	3I	okay . 
+0	3I	kay , whatcha got ? 
+1	3I	okay . 
+2	3I	well , i thought they were for fishing , like trunc boats trunc like anchors . 
+1	3I	okay . 
+1	3I	yeah , i think so . 
+1	3I	okay . 
+0	3I	okay , electric  heaters . do we have a stove up there , or - we have - 
+2	3I	oh , i see . household . okay . 
+0	3I	electric heaters . oh - 
+2	3I	trunc power cords or siding ? siding goes outside . electric heaters ? okay . 
+1	3I	i do too . 
+1	3I	here's your wetsuits . okay . 
+2	3I	why ? 
+1	3I	yeah . 
+2	3I	yeah , see i thought there were for , like , starting fires too . which went with camping . yeah . yeah . 
+2	3I	although they could be used at home for trunc okay . okay . 
+1	3I	yeah . 
+3	3I	nah . oh well , depends . but we 're adults ! 
+1	3I	okay . 
+1	3I	and box knives ? 
+1	3I	mouse traps . 
+1	3I	yeah . 
+2	3I	well , now i have pre-cut wood , so - 
+1	3I	yeah . 
+2	3I	well then , okay . you 're right . mouse traps , box knives , hardware . 
+1	3I	okay . 
+1	3I	okay . 
+1	3I	okay . 
+0	3I	bags of peat moss . 
+0	3I	where's the garden stuff ? 
+2	3I	they have no garden stuff ? in the northwest , they have no garden stuff ? 
+1	3I	kay , let's put it right there . 
+3	3I	okay this is in - well , these big box things are kind of - 
+1	3I	everything store . they 're not - 
+1	3I	you know , in - in the city we have - 
+1	3I	camping stores , and we have - 
+2	3I	you know , they 're more - they 're not as centralized , but this is all centralized , so - target trunc yeah so i 'd put em under - yeah . trunc yeah . 
+1	3I	okay . 
+0	3I	kay , mint toothpaste . 
+1	3I	toilet paper . 
+0	3I	oh . what do you use liters of water for ? people buy em for drinking water , don't they ? 
+0	3I	so there 's - 
+1	3I	yeah . 
+2	3I	well , i used to use em for photography stuff . so - but this is not - that 's not - i think it would go with eggs . 
+1	3I	groceries . 
+1	3I	along with the sticks of butter , right ? 
+2	3I	wait a minute . sticks of butter , eggs , and liters of water . 
+2	3I	and this is sugar , and cake mix , so - 
+1	3I	okay , so where are clothes gonna go ? 
+1	3I	no . 
+1	3I	clothing is dry goods . 
+2	3I	well - yeah- 
+2	3I	well - 
+1	3I	yeah , this is kinda hardware . and these are toys , travel guides , books . 
+1	3I	are we ? 
+1	3I	hm . 
+1	3I	okay . 
+1	3I	yeah , it doesn't really fit any of these places , does it ? 
+1	3I	that 's true . that 's a good point . 
+1	3I	yeah . 
+1	3I	let's put it below here . 
+1	3I	okay . 
+2	3I	well , what are the trunc uh 
+1	3I	trunc let's make a whole clothing section . let's not mix em up . 
+2	3I	if we had camouflage gear that would go over - yeah . okay . socks ? 
+1	3I	okay . 
+1	3I	yeah . 
+1	3I	i trunc i agree . 
+1	3I	and half-inch tubing , that 's in here . 
+2	3I	well - 
+1	3I	pat uses it for like trunc some little fishing things . so - he also uses it for scientific stuff but , um - 
+1	3I	yeah . 
+1	3I	yeah . 
+1	3I	sure . 
+1	3I	and fishing net . 
+3	3I	shoe laces . you know what ? i find when i go - yeah , oh good . cuz i find when i go into a store , a lot of times shoelaces are off in some little miscellaneous section with all those things hanging on the wall . 
+2	3I	yeah . yeah . oh , yeah . 
+2	3I	large cups , kitchen stuff . 
+2	3I	trunc um . i guess . 
+2	3I	refrigerator magnets . but that 's - 
+1	3I	yeah , okay . 
+0	3I	we have - 
+1	3I	picnic supplies ? 
+0	3I	no . 
+1	3I	yeah . 
+2	3I	so , we 'd have to assume that this is paper large cups . 
+1	3I	okay . 
+1	3I	okay . 
+2	3I	now , this is gas powered cook stoves . now , since i haven't seen any other appliances i would - 
+1	3I	yeah . 
+1	3I	we 'll have to move it down . 
+0	3I	a little .  cheat a little . 
+1	3I	toiletries . 
+2	3I	well that means they have to trunc trunc restock . oh no . no . we didn't . no . that 's - yeah . right . okay . trunc trunc hats . 
+1	3I	okay . 
+1	3I	okay . 
+0	3I	large vests . 
+3	3I	along with  boxes of donuts ! yes . 
+0	3I	did we do toiletries ? yes . 
+1	3I	okay , face cream , right ? 
+1	3I	yeah . 
+1	3I	okay . 
+1	3I	okay . 
+0	3I	whatcha got ? 
+1	3I	that 's cooking stuff . 
+1	3I	yeah . 
+3	3I	oh but  eggs ! well , uh , heck yes . gosh . that was an obvious one that i missed . 
+0	3I	oh , where's the water ? 
+0	3I	books of matches . 
+1	3I	right here ? okay . 
+1	3I	okay . 
+0	3I	dried figs ? 
+1	3I	snacks ? 
+2	3I	because trunc trunc we eat this for  snacks . sometimes . cuz trunc you know , there 's different kinds ! 
+1	3I	yeah , okay . okay . 
+1	3I	okay . 
+1	3I	yeah , kay . 
+1	3I	okay . 
+0	3I	cuz we don't have landscaping stuff , do we ? 
+1	3I	oh , yeah . yeah . okay , yeah that 's a good place . 
+0	3I	loose leaf paper . 
+1	3I	school supplies ? mm-kay . 
+2	3I	cases of whiskey . oh , put it under the camping . i guess . i guess . yeah . 
+2	3I	there we go . it's on the end of the trunc right . 
+1	3I	yeah . 
+1	3I	yeah . right . that 's right . 
+0	3I	it's on the end cap . 
+1	3I	okay . cans of peas ? 
+0	3I	kay . 
+1	3I	trunc we should put  chocolate on the end of the ai- . 
+1	3I	yeah . okay . 
+1	3I	yeah . okay . 
+0	3I	pouches of oatmeal . 
+1	3I	well , we 've got food over here . let's put em with the eggs . 
+1	3I	oh yeah . 
+1	3I	yeah . 
+1	3I	well face trunc face cream . soap . 
+1	3I	buckets . mousetraps . 
+2	3I	but they 're  little . 
+1	3I	hey that 's - yeah . 
+1	3I	oh , yeah . trunc small saws and small axes . scissors . 
+1	3I	okay . 
+1	3I	it means - means something trunc siding . where's siding ? 
+1	3I	yeah . 
+2	3I	hey , there we go . should we move this electric heater ? 
+1	3I	yeah , cuz it - this is - yeah , i do . hardware ? 
+0	3I	and empty plastic jugs . 
+1	3I	okay . 
+1	3I	okay . 
+0	3I	okay m- 
+0	3I	cushions for deck chairs , boating supplies , five pound weights , wet suits , tow ropes , half-inch tubing , books of matches , power cords , heavy cable , empty plastics - that makes sense . 
+0	3I	hooks , nets , sticks - 
+1	3I	yeah . 
+1	3I	okay . 
+0	3I	what ? 
+1	3I	okay . we didn't leave very much room for books . 
+2	3I	oh but trunc but they 'd have room up here and up here . okay . 
+0	3I	rolls of duct tape , mouse traps , box knives , precut wood , buckets . okay . 
+0	3I	shoelaces , socks , clothes - 
+0	3I	yeah . 
+1	3I	here we go . 
+0	3I	ice cream , chocolate bars . 
+3	3I	trunc no but we trunc we 're deciding right now . i mean , they 've already started moving things in - 
+3	3I	i mean we 're running - i mean there must be  four miles between these aisles , but we 're running back and forth putting trunc up signs where they 're supposed to be , right ? okay . 
+1	3I	yeah , me too . i like it . 
+2	3I	yeah , well you could shop here . 
+2	6B	we 're gonna not fund junior soccer league because the community will pick it up . 
+0	6B	now - uh , where is that ? 
+0	6B	is this the - ? 
+2	6B	oh , there it is .  upkeep . but see , the stadium's there , but that - it's the upkeep . 
+2	6B	well , trunc yeah , you need to advertise , uh - 
+2	6B	well , your upcoming events and stuff , to fill up the stadium , and community news , you need to know what's going on in the police department , and - 
+1	6B	okay . you trunc ? 
+1	6B	okay . 
+1	6B	yeah . 
+1	6B	okay . 
+1	6B	okay . 
+2	6B	no , we need that . 
+0	6B	junior soccer league . 
+1	6B	yes . 
+1	6B	there 's going to be a lot of it if we cut stray cat spaying . 
+2	6B	well . they already doing all the food banks . 
+0	6B	okay , so that 's two . what do we - ? what - ? okay . 
+1	6B	okay . 
+1	6B	okay . 
+2	6B	but wait a minute ! community news - 
+1	6B	yeah . 
+1	6B	yeah . yeah . 
+1	6B	okay . 
+1	6B	okay . 
+2	6B	well , yeah because otherwise we 're gonna pay for it in trunc you know , that 's expensive . 
+1	6B	yeah . 
+1	6B	i agree . 
+1	6B	yep . boys basketball club . 
+2	6B	there 's already - well , see we can talk about - about our own communities , cuz it's like in seattle we have boys and girls clubs with all that stuff . 
+1	6B	yeah . 
+1	6B	yeah . 
+0	6B	okay so that 's , um - one - no . one . 
+0	6B	two . 
+0	6B	three . 
+0	6B	and four . 
+0	6B	that 's four . 
+1	6B	maybe . 
+1	6B	okay . 
+2	6B	yeah , see the reason behind that one though is public health . 
+2	6B	and take out - take out the licensing stuff ? we 're losing income . 
+1	6B	taxi stops ? 
+1	6B	okay . 
+0	6B	i don't know . 
+1	6B	okay , yeah - yeah . yep . 
+0	6B	mm-kay , that 's two . 
+1	6B	what about massage certificates ? 
+0	6B	is that to keep an eye on massage parlors ? 
+0	6B	okay . oh , okay . 
+1	6B	okay . 
+1	6B	okay . 
+0	6B	yeah . 
+2	6B	uh , the junior soccer league , and the boys basketball club . 
+1	6B	yeah . 
+1	6B	kind of . 
+1	6B	we wanna put the soccer league back in ? 
+2	6B	see , i 'm kinda not for trunc well that 's trunc that 's recreation , okay . 
+2	6B	so we take out the public access station and put back in - ? 
+1	6B	yeah . 
+0	6B	public access , and community and news ads ? 
+2	6B	mm . i think it's important to keep the community news ads to keep the community informed and together . 
+2	6B	we have a little activist group in our neighborhood that pays attention to this an- 
+1	6B	yeah . 
+1	6B	yeah . 
+1	6B	yeah . 
+1	6B	well let's go for king county . 
+1	6B	yeah . 
+1	6B	okay . 
+1	6B	mm-hm , two so far . 
+1	6B	yeah . 
+2	6B	hospital additions . you get federal and state money for that . 
+2	6B	well - 
+2	6B	i don't know , cuz we - you get state and federal money for it . 
+2	6B	well , it's just additions . 
+2	6B	when we did the harborview project , we had state and federal money for that . 
+2	6B	cuz i can't remember if we had county money or not . we must have had county money , cuz we had five - we had five funding sources . part of it was trunc bonds - 
+2	6B	that were set aside already . 
+2	6B	so the money was already there for it . 
+0	6B	yeah . 
+2	6B	well , it's a regional hospital now . it's part of a - 
+0	6B	yeah . 
+2	6B	well no , it's operated by - excuse me i keep going back and - it's operated by university of washington , which is - which is a - 
+1	6B	yeah . 
+2	6B	the thing is , we had county funds , but they were from bonds that had been sold way a long time ago . 
+0	6B	where's our screen ? 
+0	6B	they get funds . 
+1	6B	yeah , okay . 
+1	6B	okay . 
+1	6B	yeah . 
+0	6B	prenatal , neighborhood watch , weed control , veteran's medical . 
+0	6B	that 's a federal , isn't it ? 
+0	6B	okay . 
+1	6B	those are big things . trunc hospital and veterans . 
+1	6B	yeah . 
+1	6B	okay . 
+2	6B	uh . 
+2	6B	the county , uh , has stations . so you can take all of your old paint and stuff - 
+1	6B	and all your old pest chemicals that you 're not supposed to use anymore . you take em down there . 
+2	6B	oh good , because we had some - they - but they accidentally broke in the garage so we swept em up . but um - 
+1	6B	yeah , okay . good , i 'm glad you told me that . 
+0	6B	yeah . 
+0	6B	yeah . 
+0	6B	yeah . 
+0	6B	yeah . 
+2	6B	oh , for pete's sake . 
+0	6B	i 'll look it up . 
+0	6B	okay . so - okay . 
+0	6B	veteran's and hospital . 
+2	6B	boy , we need that . 
+0	6B	it's in the schools . 
+2	6B	well . okay . trunc in king county , if you 're under twenty-one , and um - 
+1	6B	you 're low income , you go to public health clinic , and they help you with birth control - 
+1	6B	and they talk to you about reproduction , and stuff . they 're like - they 're like the trunc the - they 're the like the poor man's trunc planned parenthood . 
+2	6B	although planned parenthood takes care of a lot of it too . but it's like school kids . there 's clinics all over . 
+1	6B	yeah . 
+0	6B	yeah . oh , do they still ? 
+0	6B	they used to . 
+0	6B	yeah . 
+0	6B	yeah . 
+2	6B	if they 'll do it . 
+2	6B	i 'd - i trunc oh , i had a terrible time with that when i was a watch captain . but we have a good one in our neighborhood . but that 's - trunc i mean , that 's - i don't know how many other neighborhoods do . 
+1	6B	okay , so neighborhood watch instead of veterans ? okay . 
+1	6B	alright , okay . 
+1	6B	okay . 
+0	6B	yeah . 
+0	6B	we got two , two , and two . 
+3	6B	yeah , it's - trunc trunc i useta work for the health department , and they had all kinds trunc i mean - yeah . 
+2	6B	kids can go there . if they 'll go there . 
+2	6B	they have to know about it . 
+0	6B	football equipment . 
+1	6B	out . 
+2	6B	well - uh - you know , uh , sports kept my kids off the streets too . but - 
+2	6B	i guess i just have a - kind of a - 
+2	6B	bone to pick with - 
+3	6B	where are the impassive - 
+3	6B	trunc things for trunc the quiet kids ? where are the drama , and the music , and the art , and the poetry , and all this stuff , when football has the big bucks ? 
+0	6B	yeah . 
+0	6B	sure . 
+1	6B	yeah . 
+1	6B	okay . 
+2	6B	cooking classes ? 
+3	6B	no , if you 're gonna leave in football , we need poetry . 
+0	6B	oh , football equipment ? oh . 
+1	6B	okay . 
+1	6B	yeah . 
+2	6B	geez this is hard . 
+0	6B	math , assistant cooks , sex ed , custodians , speech therapy , 
+0	6B	okay . 
+0	6B	what ? 
+1	6B	no ! no . 
+0	6B	acting coaches . not every school has a drama department . 
+1	6B	we 're leaving in music , and we 're leaving in poetry . 
+1	6B	well , we 're taking out sugar free juice . yeah . 
+1	6B	okay , so you wanna take out poetry ? 
+1	6B	okay . 
+1	6B	okay . 
+1	6B	oh , okay . 
+2	6B	oh , what about the county library ? 
+1	6B	yeah . 
+2	6B	okay . i don't know about your kids , but my kids spent a lot of time in the public library . 
+1	6B	yeah . 
+1	6B	oh my gosh . 
+0	6B	sugar free juice , and poetry . 
+1	6B	okay . 
+2	6B	no no , no no no no . it's okay . 
+1	6B	okay . 
+1	6B	we would . 
+0	6B	so who's gonna supply the equipment ? 
+0	6B	do you think they do trunc do you think they 'll do funding drives ? 
+1	6B	okay . 
+0	6B	football and - 
+1	6B	okay . and no sugar . 
+1	6B	okay . sugar free , okay . 
+0	6B	okay we got - 
+0	6B	football and sugar free . we 've got , uh - 
+0	6B	and - 
+0	6B	okay . 
+0	6B	okay . 
+0	6B	and we 've got uh - 
+0	6B	basketball club and junior soccer league . 
+0	6B	yeah . 
+0	6B	taxi stop- 
+1	6B	yeah . okay . 
+1	6B	no . 
+3	6B	i 'm furious ! i don't want to do this . ah . 
+1	6B	i know . 
+3	6B	well , but trunc that - some - mean , some of these things , you know , they do - for me , they do punch a button . 
+2	6B	well , trunc a few years ago someone did uh , some reporting on this and said that they don't really know how much money they spend on sports . 
+2	6B	you know how much money they  don't spend on some of the other things . like they  don't have art teachers , and some of them don't have music teachers , until you 're in high school . 
+0	6B	yeah , we did too . 
+0	6B	yeah . 
+0	6B	yeah . 
+2	6B	my son did . 
+1	6B	yeah . 
+0	6B	yeah . 
+0	6B	yeah , all that stuff . yeah . 
+0	6B	we 're done really . 

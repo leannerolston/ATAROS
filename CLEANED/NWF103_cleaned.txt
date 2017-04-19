@@ -1,0 +1,208 @@
+0	3I	empty plastic jugs . um - 
+1	3I	i - i guess so , it seems kind of outdoorsy , doesn't it ? i mean - um - 
+1	3I	depends on what the empty plastic jugs are being used for . 
+1	3I	yeah face cream . trunc probably next to toilet paper , um - 
+1	3I	yeah . 
+0	3I	thick sweaters , um - 
+1	3I	maybe next - 
+1	3I	yeah . 
+1	3I	that would make sense . 
+0	3I	pouches of oatmeal . 
+1	3I	uh - 
+1	3I	yeah . 
+1	3I	let's go with that . 
+1	3I	uh - i think i 'll go with the siding thing here . this is - 
+1	3I	pre-cut wood . rolls of duct tape , they seem like home - 
+1	3I	fleece lined boots . well we can put those next to the thick sweaters 
+0	3I	um . 
+1	3I	oh yeah , true . 
+0	3I	rolls of duct tape . 
+1	3I	hmm . 
+1	3I	next to mouse traps , maybe ? i don- 
+0	3I	okay . 
+0	3I	electric heaters . 
+0	3I	um . 
+1	3I	uh would that 
+1	3I	yeah , with the fleece lined boots . 
+1	3I	yep . 
+1	3I	um . 
+0	3I	uh - 
+0	3I	hmm . 
+1	3I	yeah , so - somewhere around there . yeah . 
+1	3I	next to cake mix or chocolate bars yeah . 
+1	3I	yeah . 
+2	3I	we 'll make that the refrigerator section . 
+0	3I	uh , boxes of donuts . 
+1	3I	okay . 
+1	3I	tweezers how about next to - this - ? 
+1	3I	scissors . um - 
+1	3I	i don't know . 
+1	3I	yeah . 
+2	3I	i don't know . maybe we 'll put it down here . 
+0	3I	box knives 
+1	3I	uh - 
+1	3I	yeah . 
+0	3I	tow ropes 
+1	3I	okay . 
+2	3I	empty plastic jugs , let's put it next to that maybe . 
+1	3I	or i don't know . 
+1	3I	um . 
+1	3I	well , it should probably be like in here , i guess . 
+1	3I	yeah . 
+2	3I	maybe i 'm grabbing more than i should . loose leaf paper . um - 
+1	3I	that doesn't seem to go anywhere . liters of water . 
+1	3I	uh - 
+1	3I	yeah . 
+0	3I	mm , what aisle though ? 
+1	3I	well , mint toothpaste , that seems pretty - 
+1	3I	yeah . 
+0	3I	oops . 
+0	3I	large cups . 
+2	3I	this aisle is getting neglected . 
+2	3I	okay , sure . um - let's be non-committal and put it in the middle . 
+0	3I	liters of water and bottles of juice . 
+1	3I	let's just put it down here . 
+0	3I	loose leaf paper , still . 
+1	3I	yeah . 
+1	3I	but , yeah . 
+0	3I	books of matches . 
+1	3I	mm . 
+1	3I	yeah . 
+1	3I	we are running out of space here . 
+1	3I	that 's true . 
+1	3I	yeah . light jackets . 
+1	3I	oh , i guess we can put em right there . 
+1	3I	yeah . 
+1	3I	there . 
+1	3I	yeah , that makes sense . 
+1	3I	okay . 
+1	3I	uh - 
+1	3I	yeah . 
+0	3I	dried figs . 
+1	3I	okay . 
+0	3I	hats . 
+1	3I	here . 
+1	3I	maybe right here . 
+0	3I	bags of peat moss . 
+0	3I	gas powered cook stoves where did we put electric heaters again ? 
+1	3I	okay , how bout right there ? 
+1	3I	yeah . 
+1	3I	heavy cable . sure . go with it . 
+1	3I	okay . yeah . 
+2	3I	let's put it next to refrigerator magnets . 
+0	3I	bagels . 
+1	3I	um - 
+1	3I	yeah . 
+2	3I	though we only have , like , a few things left . egg timers . 
+1	3I	yeah . um , books . 
+1	3I	maybe next to the paper . 
+1	3I	uh - 
+1	3I	like right here ? 
+1	3I	okay . 
+2	3I	think that 's it with these . these are all sorta not really stocked very well but - 
+1	3I	yep . 
+1	6B	yeah . 
+1	6B	um - 
+2	6B	sugar free juice machines , that seems , like , a little non-essential . um - 
+0	6B	i - i don't know . 
+2	6B	but it seems like - since it's - 
+0	6B	it's trunc it's - either - 
+0	6B	teaching people - it's probably teaching people how to - 
+0	6B	be assistant cooks , or at least employing people . 
+0	6B	so - 
+0	6B	i don't know . 
+1	6B	yeah we - trunc it says we  must discuss each item and reach an agreement about whether - to cut it or to continue funding . 
+1	6B	yeah . 
+1	6B	assistant cooks , that one's questionable it sounds like . um . sex ed - 
+1	6B	yeah , i think so too . uh , custodians - 
+2	6B	yeah , yeah . definitely . 
+2	6B	who else is gonna clean up ? cuz no one cleans up after themselves . um , speech therapy ? 
+1	6B	yeah . football equipment ? 
+1	6B	yeah . 
+2	6B	question mark . um , acting coaches ? 
+1	6B	yeah , unless , like , we 're trying to preserve the arts . um - 
+1	6B	yeah . cooking classes . uh , note takers , disability services , um - 
+1	6B	i think that if - that should stay probably if - especially if we 're gonna keep the special ed . 
+2	6B	stuff , um - sugar free juice machines , i still uh , i question the essential ness of that one . um - 
+1	6B	yeah . 
+0	6B	music teachers . 
+1	6B	i think we should keep those . 
+0	6B	um . so - 
+0	6B	what were the things we had questions marks next to ? sugar free juice machines . 
+0	6B	uh - 
+0	6B	yeah . 
+3	6B	trunc i still feel like the sugar free juice machines is , like - why not just put water fountains , you know ? 
+3	6B	and then we have zero calories instead of , you know , like some artificial juice . 
+0	6B	okay . um - 
+0	6B	maybe they 're actually teaching you how - 
+0	6B	yeah . 
+0	6B	um - 
+1	6B	yeah - 
+1	6B	yeah . 
+0	6B	invasive species removal . 
+2	6B	yeah , s_t_d_ education  needs to stay . 
+0	6B	uh , toxic waste disposal . 
+1	6B	mm-hm , hospital additions . 
+2	6B	um . what's the budget for that anymore ? um - 
+2	6B	question mark , i think , even though it's probably important . uh , needle exchange . 
+1	6B	i think that should stay , um - 
+0	6B	sex offender database . 
+1	6B	yeah , veteran's medical assistance . i think so . weed control ? 
+1	6B	yeah . 
+2	6B	yeah , we can make that - uh , weeds are trunc invasive species . let's consider it that . prenatal check-ups . yeah . neighborhood watch - 
+1	6B	it sounds like weed control is the one to go . 
+0	6B	okay . 
+0	6B	um - 
+2	6B	yeah , or else it's , uh - or else like what trunc then cats would be just , you know , reproducing everywhere , and you have a bunch of cats - 
+0	6B	uh , community news ads ? 
+2	6B	who - does that anymore ? like , don't people use twitter , or something else ? 
+1	6B	i don't know . uh , the food bank needs - yeah , junior soccer league - 
+1	6B	yeah , kitten and puppy adoption . 
+2	6B	yeah . i mean or else the - the pounds are gonna - 
+2	6B	get filled up . soup kitchens , yeah . 
+1	6B	dog catcher , yeah . 
+1	6B	yeah . i think so . 
+0	6B	um - 
+0	6B	i guess it's like - 
+0	6B	uh - 
+0	6B	u_ dub broadcasts some lectures or something . maybe it's like that . 
+0	6B	like it's - 
+0	6B	just a local cable thingy . 
+1	6B	i don't know question - question mark , like , on that one . um - 
+1	6B	yeah . 
+1	6B	mm . 
+1	6B	yeah , pest control . yeah . 
+2	6B	i think it's because we don't really know what community news ads are , or the public access station - 
+0	6B	um . 
+2	6B	i think that the community news ads would - are like - 
+2	6B	would become less essential . 
+2	6B	moving into the future , so let's cut that one . 
+0	6B	um - 
+1	6B	infrastructure and licensing . teaching certificates needs to stay . 
+1	6B	yeah , additional bus stops . mm-hm . 
+2	6B	why do we need additional bus stops ? question mark . tattoo artist licenses . yeah boating licenses . 
+1	6B	yeah . pothole maintenance . 
+1	6B	yeah . 
+0	6B	subway system . 
+1	6B	yeah . 
+1	6B	hunting tags , yeah . 
+1	6B	mmhm . 
+1	6B	yeah . i - i don't know . 
+0	6B	um , is it like for - ? 
+0	6B	like registered massage therapists . like trunc like that work in chiropractor offices , and stuff ? 
+0	6B	um , taxi stops . 
+1	6B	sounds kind of important . 
+0	6B	like , trunc there are some places on the road that are designated taxi stops instead of parking spaces , like usually they 're in front of like clubs or - and stuff like that , or at the airport . 
+1	6B	so , i guess that 's kind of important . 
+1	6B	yeah . 
+1	6B	yeah , i guess i 've seen them , like - 
+2	6B	i saw a few in boston once , or like in summerville , which is just outside boston , but i guess its not really , like ,  that essential . i 'm sure that the city will , you know , move on , like without trunc the taxi stops cuz the trunc the parking spaces that open up could generate more revenue . 
+1	6B	so , we can question mark on that one . 
+1	6B	mm-hm . 
+1	6B	yeah . but - 
+0	6B	so - 
+1	6B	yeah . 
+0	6B	yeah , weed control . 
+0	6B	trunc community news ads and taxi stops . 
+2	6B	we probably didn't cut that much out of the budget , but you know what ? that 's - that was the minimum that they were asking . 
+1	6B	i think that 's it . 

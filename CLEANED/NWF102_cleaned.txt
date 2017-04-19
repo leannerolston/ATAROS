@@ -1,0 +1,153 @@
+1	3I	boating supplies ? 
+1	3I	or - near siding ? i don't know . 
+1	3I	we can do it later . 
+0	3I	got face cream . 
+1	3I	toilet paper . 
+0	3I	small saws ? 
+1	3I	power cords . 
+1	3I	near travel guides ? 
+1	3I	cake mix ? 
+0	3I	pre-cut wood . 
+0	3I	we have like the small saws and stuff there . 
+1	3I	yeah . 
+2	3I	well that could be , like , near here . 
+0	3I	socks . 
+1	3I	i guess can go up there . 
+0	3I	heavy coats . 
+0	3I	chocolate bars . 
+1	3I	near oatmeal ? 
+0	3I	packages of cookies . 
+1	3I	sticks of butter , near eggs ? 
+1	3I	near cookies . 
+1	3I	yeah . 
+1	3I	maybe around here ? 
+1	3I	or toys ? 
+1	3I	well , that should go there too . 
+1	3I	there 's boating supplies up there . 
+0	3I	got buckets . 
+0	3I	shoelaces . 
+1	3I	backpack . that could be near travel guides . 
+1	3I	that could go with the food . 
+1	3I	face cream . 
+1	3I	they can go somewhere in that aisle . 
+2	3I	that could be like , down here somewhere or up here . 
+1	3I	they could be near toys . it's like a school supplies . 
+2	3I	or magnets . yeah like , alls the random things you have in your house . 
+2	3I	thinking it could be either here , or , like , here . 
+1	3I	could be near wood . 
+1	3I	use them to build fires . 
+1	3I	yeah . 
+0	3I	wetsuits . 
+1	3I	i guess over there . 
+0	3I	large vests . 
+0	3I	bars of soap . 
+0	3I	beets . 
+0	3I	and your soybeans . 
+0	3I	cases of whiskey . 
+1	3I	down here ? 
+0	3I	cans of peas . 
+1	3I	soybeans . 
+2	3I	that could be like trunc chocolate bars . 
+1	3I	yeah . 
+1	3I	yeah . 
+0	3I	down here . 
+0	3I	small axes . 
+1	3I	here . 
+0	3I	half inch tubing . 
+1	3I	heavy cable . let's see how many more - 
+0	3I	five pound weights . 
+0	3I	bagels . 
+2	3I	i wonder , five pound - maybe up here ? 
+0	3I	cushions for deck chairs . 
+0	3I	bagels . 
+1	3I	next to oatmeal ? 
+1	3I	yeah . 
+1	3I	could be the top . 
+1	3I	near toys ? 
+1	3I	yeah . 
+1	3I	i think we did okay . 
+1	6B	well , we could - hm ? 
+2	6B	i wasn't trunc we could take one thing off of each . 
+0	6B	what are you gonna say ? 
+0	6B	uh , let's see what else . 
+0	6B	assistant cooks . 
+0	6B	is - 
+0	6B	i don't understand . is that like , uh - teaching you to become an assistant cook ? 
+0	6B	or - ? 
+1	6B	anyway . should we , like - i guess go through each ? 
+0	6B	okay so - 
+1	6B	math tutors sounds pretty essential . 
+0	6B	uh . 
+1	6B	sex ed is - is very important , i believe . 
+2	6B	i think custodians are pretty trunc like actually keeping custodians around , feel like we should do . 
+1	6B	that sounds important . 
+2	6B	i trunc it's less important , but it's also good . 
+1	6B	also question mark . 
+1	6B	poetry books ? yeah . special ed teachers sounds really important . 
+1	6B	yeah . 
+2	6B	book keeping classes . i guess it's good if - for people who , like , run their own businesses . 
+1	6B	i think we should keep them too . 
+0	6B	okay , so - 
+0	6B	assistant - 
+0	6B	and assistant cooks . 
+0	6B	and acting coaches . 
+0	6B	is it the one think you feel like - 
+0	6B	most strongly is - 
+0	6B	non-essential ? 
+1	6B	that 's true . yeah . 
+1	6B	this is true . 
+1	6B	alright , you can take that one out . 
+0	6B	okay , public health and safety . 
+2	6B	reproductive education . how is that different from sex ed ? 
+0	6B	oh , i see what you mean . 
+0	6B	sure . okay . well - 
+1	6B	job training programs sounds important . 
+1	6B	chicken pox vaccinations sounds important . 
+1	6B	why not ? 
+1	6B	also important . 
+1	6B	should also stay . 
+1	6B	yes . 
+1	6B	hm . 
+1	6B	question mark ? 
+1	6B	we already have invasive species removal . 
+1	6B	yeah . 
+1	6B	neighborhood watch support , sure . 
+1	6B	okay . 
+0	6B	recreation . stray cat spaying . 
+1	6B	could go . 
+1	6B	that 's true . 
+0	6B	what are - ? what are those ? 
+0	6B	what are - ? i don't really understand what community news ads are . 
+1	6B	that sounds important . 
+1	6B	sounds nice to have . 
+1	6B	housing assistance ? yes . dog catcher ? sure . boys basketball club . 
+0	6B	public access station ? i don't know what that is . 
+0	6B	mm-hm . 
+0	6B	oh . 
+1	6B	veterinary hospitals , that 's important . 
+0	6B	football stadium upkeep . 
+1	6B	could be important . 
+1	6B	so this is like a harder thing i guess . 
+1	6B	yeah . 
+1	6B	that 's - yes 
+1	6B	alright . that 's good . 
+1	6B	yes . speed limit signs ? yes . 
+1	6B	okay . 
+1	6B	sure . 
+1	6B	yes . 
+1	6B	hunting tags ? yes . towing services ? i guess yes . massage certificates ? maybe not ? 
+0	6B	i see . 
+0	6B	i see . 
+0	6B	what are taxi stops ? 
+0	6B	oh . 
+1	6B	that 's funny . 
+2	6B	i don't know . actually , i live in new york - 
+2	6B	i 've never heard of taxi stops . there 's taxis everywhere . they just stop wherever they want to stop . 
+1	6B	yeah . yeah . okay . 
+1	6B	fishing licenses - i mean i guess we 're - if we 're keeping hunting tags - 
+1	6B	public bus upkeep , sounds good . drainage ditches also sounds good . 
+1	6B	maybe taxi stops ? 
+0	6B	okay , so the things we 're cutting are sugar free juice machines - 
+0	6B	okay , yes . 
+0	6B	yes , and - 
+1	6B	alright . 

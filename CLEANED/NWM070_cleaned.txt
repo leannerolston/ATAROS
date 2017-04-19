@@ -1,0 +1,375 @@
+1	3I	so , first out of the truck . what do we have ? let's do hats . 
+1	3I	hats . is there any clothing anywhere else ? um . 
+1	3I	suppose we can just make a place . so i think - like the sides count as aisles too . 
+1	3I	okay . so we can just choose one for clothing maybe . 
+0	3I	some . 
+1	3I	or maybe like this - this aisle is trunc almost all empty . 
+0	3I	so i think there 's - 
+1	3I	so food looks like it's over here on this side . 
+0	3I	more like - 
+1	3I	useful stuff like - 
+1	3I	like construction , boating supplies . 
+0	3I	so clothing - 
+1	3I	what do you think ? 
+1	3I	maybe . 
+1	3I	on the - 
+1	3I	sounds good . 
+2	3I	so travel guides on like the first like full column maybe . let's put that up - up at the top . since hats - hats go on your head . 
+0	3I	tweezers . alright . 
+1	3I	okay . 
+2	3I	there we go , let's do that . so right underneath the toilet paper . alright . so next uh bottles of juice . 
+0	3I	um bottles of juice . so we have food stuffs - um . 
+0	3I	oh . that - 
+2	3I	that would be very good . ice cream's frozen so let's put that bottles of juice underneath the eggs . that 's a - i see that in the grocery store sometimes . 
+0	3I	beets . alright . so - 
+1	3I	produce . 
+1	3I	yep . so - 
+1	3I	sure . sounds good . 
+1	3I	sounds good . i 've got some shoe laces next . so i pulled those out of a random box . um . those - 
+2	3I	can go with clothing stuff . so i 'm going to put trunc with the hats at the top of the - 
+2	3I	left side of the store . 
+0	3I	okay . 
+1	3I	cool . yeah , like supplies and stuff . 
+1	3I	um . i think - you may as well just put it with like - the other - like the other - like food stuffs . 
+1	3I	consumables 
+1	3I	sure . sounds good . they 're both liquids that - that - that counts . 
+1	3I	alright . so i 've got flags next . so where do we wanna put some patriotic stuff ? 
+1	3I	alright . yeah . there we go . that 's a good idea . so right above the boating supplies . 
+2	3I	ooh . very nice . not - not - not just - not just normal whisky 
+0	3I	alright . 
+1	3I	okay . keep liquids with liquids . 
+1	3I	sounds good . so i 've got some pouches of oatmeal . um . those can probably go in like near the cake mix , maybe . 
+1	3I	so right trunc right underneath the cake mix in the right of the store . 
+0	3I	paper bags . kay . 
+1	3I	sure . 
+1	3I	sure . sounds good . 
+1	3I	that 'll work . 
+2	3I	i 've got some heavy coats next . so those 'll go up with the - up with the clothing aisle . so near to the hats and shoe laces on the other side of the aisle from the travel guides . 
+0	3I	box knives . 
+1	3I	i 'm trunc i 'm thinking yeah . 
+0	3I	go and grab a couple more . 
+2	3I	um . and i have some small axes which would probably go very good with the box knives as well . 
+0	3I	alright . 
+2	3I	i think they go near the boating supplies . that sounds good . 
+1	3I	just incase you fall in . 
+2	3I	alright . so i 've got socks next . um . socks are gonna go up in the clothing aisle . so near the heavy coats and shoe laces and hats and stuff . 
+1	3I	very good . very good . 
+2	3I	sounds good . i 've got some fleece lined boots . those are very comfy . 
+2	3I	i 'll put those where the socks . cuz you got ta kinda wear those together , so . 
+1	3I	kay . 
+1	3I	sounds good . alright . so i 've got some - bundles of sticks . so those are probably good - 
+1	3I	as like uh for like fire wood and stuff so . 
+1	3I	um . maybe a - patriotic bonfire . um . near the flags and boating supplies . 
+0	3I	kay . 
+1	3I	oh . very good . very good . 
+1	3I	sounds good . 
+1	3I	alright . got some large cups next . so those 'll probably go in uh - 
+1	3I	where should i put those ? maybe with like - kitchen supplies near the refrigerator magnets there . 
+1	3I	sounds good . near the middle of the store . 
+1	3I	sounds good . 
+2	3I	got some cans of peas next . so peas are trunc small green circular things . i 'll put those with the soy beans . 
+1	3I	sure . got ta - 
+1	3I	stick stuff together . sounds good . 
+2	3I	alright . got some pre-cut wood . so that would go up there but we 're looking a little crammed up in that corner of the store - 
+2	3I	so i 'm gonna put some with the sidings . wood siding maybe . 
+1	3I	sounds good . 
+2	3I	alright . got a fishing net . that 'll go great with the fish hook and wet suits and boating supplies 
+0	3I	kay . 
+1	3I	sure . 
+2	3I	sounds good . i 've got some thick sweaters so that 'll - those 'll go nice with the large vests . got ta get extra warm . 
+1	3I	very good . awesome . 
+2	3I	got some heavy cable next . that sounds pretty utility-ish . 
+2	3I	so i 'll do that over there . on that side of the store . 
+0	3I	oh . 
+1	3I	sounds good . 
+2	3I	sounds good . got ta get some bars of soap there too . so . got ta - got ta stay clean . 
+0	3I	grab some more stuff off the truck . 
+0	3I	alright . 
+1	3I	yeah . got ta keep warm while you 're cooking . 
+1	3I	sounds good . got some chocolate bars . 
+1	3I	maybe put those above the sugar . that sounds like a good idea . 
+2	3I	sounds good . got some half inch tubing that 'll go over on the far left side with the heavy cable , five pound weights . 
+2	3I	all the other utility stuff . 
+0	3I	alright . 
+1	3I	sure . why not . 
+1	3I	got some canvas bags . um . let's see , where should i put those ? 
+1	3I	maybe . 
+1	3I	with just miscellaneous stuff with the bags of peat moss and paper bags 
+0	3I	kay . 
+1	3I	maybe . maybe near the travel guides ? 
+1	3I	sounds good . 
+1	3I	i have some dried figs . those are - kinda produce-y - so i 'll put those with the - underneath the beets with the soy beans . 
+0	3I	oh . 
+2	3I	very tasty . 
+1	3I	sounds good . 
+1	3I	yeah . yeah . that 's a good idea . 
+1	3I	alright . i 've got some buckets . um . where should i put these buckets ? buckets  'll probably go in the utility area so . 
+1	3I	underneath the half inch tubing and heavy cable . 
+0	3I	kay . 
+1	3I	oh . yep . school supplies . got ta get them travel trunc guides . 
+2	3I	alright . so . tow ropes . um those would probably be good with boating supplies but since that area of the store is pretty crammed up - 
+2	3I	um . and i won't shove it in the middle of the aisle . um . i 'll just put those underneath buckets . 
+1	3I	yeah . 
+0	3I	alright . so , i 've got some scissors next . trunc a nice shipment of scissors here . 
+2	3I	um , let's put those near the backpacks . got ta get kids ready for school . 
+1	3I	sounds good . 
+2	3I	i 've got some books . those 'll go great with uh travel guides . in like the literature section maybe there , up above the loose leaf paper . 
+1	3I	kay . i 've got some cushions for deck chairs . um those are - 
+2	3I	let's see , those are probably good - miscellaneous stuff cause we already used up the boating area . so those 'll be right above mouse traps and paper bags . 
+1	3I	sounds good . 
+1	3I	very nice . and the last thing we have . uh . celebratory box of doughnuts . um , let's put those - 
+1	3I	near the cake mix and the butter . 
+1	3I	on the right side of the store . 
+1	3I	alright . and looks like our - 
+2	3I	ooh yeah . oh yeah . 
+1	3I	yep . 
+1	6B	alright . here we go . which category do you wanna start at ? 
+1	6B	sounds good . alright , education programs . math tutors , how important are those ? 
+1	6B	i agree . um , they - 
+1	6B	there may - uh , yeah , they 're - they 're important . it depends on like what kind of math obviously . um but if - if - if i think it's like - everyday stuff like um - 
+1	6B	important things like taxes or uh stuff like that then math - math tutors can be very , very handy . 
+1	6B	we already have normal cooks , don't we ? 
+1	6B	um . so the assistant cooks maybe cut those guys . um . 
+2	6B	no . no . dear god no . no . that a - yeah . that is - needed everybody . 
+1	6B	trunc yeah got ta keep stuff clean . um . speech therapy . 
+1	6B	i really like it . and it's a good idea . um . let's see what else we have uh before we do that . 
+0	6B	it's football equipment . 
+1	6B	they could deal with a little less . 
+1	6B	maybe . i 'm not a big fan personally but i can't let like personal opinions gets in the way . 
+1	6B	true . that 's very true . 
+0	6B	yeah . 
+1	6B	yeah . 
+1	6B	maybe - cut - 
+1	6B	yeah . see - see how things go . maybe next year we can vote on it 
+1	6B	sounds good . poetry books ? 
+1	6B	i don't think so . there 's - there 's enough . 
+1	6B	there 's enough . yeah . 
+2	6B	um . special ed teachers . speech therapy could fall under that . so we could keep the special ed teachers and get rid of speech therapy . 
+0	6B	alright . 
+0	6B	um . 
+1	6B	yeah , yeah . not - not too bad . 
+2	6B	um . note takers , disability services um those trunc maybe fall under special ed teachers . 
+1	6B	um , although it's it's pretty different . 
+1	6B	yeah . 
+2	6B	it's - pretty necessary - for those people . 
+0	6B	just as a side note , i actually did that my freshman year . 
+0	6B	i took - took notes for the disability services people . 
+0	6B	okay . um . sugar free juice machines . 
+1	6B	eh . it's - i - i don't care . yeah . not un- 
+0	6B	bookkeeping classes . 
+0	6B	um . 
+1	6B	eh . i don't think we need to keep funding that . 
+1	6B	um . it's not - 
+1	6B	too hard to learn . 
+1	6B	maybe . i dunno . 
+1	6B	true . true . let's keep math tutors . 
+1	6B	i think that 's a little better . music teachers . 
+1	6B	yeah . i know 
+1	6B	yeah . 
+1	6B	i think we can keep that . 
+0	6B	so assistant cooks . um . speech therapy . 
+0	6B	acting coaches , poetry books . 
+0	6B	cooking classes . i thought you said someone sugar trunc - six . 
+0	6B	can we manage to get rid of six from every single thing else ? 
+1	6B	alright . sounds good . so . 
+2	6B	it could fall under sex ed . 
+0	6B	or - 
+2	6B	cause i mean they 're - pretty similar . 
+2	6B	sex ed could - 
+1	6B	true . 
+1	6B	true . 
+1	6B	true . yeah . yeah . 
+0	6B	mm-hm . 
+1	6B	yeah . reproductive education . yeah . that - that - yeah that should work for that . 
+0	6B	job training programs . 
+1	6B	yeah . 
+2	6B	so i think keep that . keep the vaccinations . 
+0	6B	um . invasive species removal . 
+2	6B	not  as important . um . it's still - it's still a big issue . um . 
+1	6B	yeah . 
+1	6B	these are all the drastic trial cuts . alright . 
+2	6B	i - i think it's important . 
+1	6B	um it could - 
+1	6B	uh . i dunno if we can like cross things between categories . 
+1	6B	okay 
+1	6B	yeah it's 
+1	6B	no . no . 
+2	6B	we already are over at hanford . 
+0	6B	um . 
+2	6B	pfft . this is tough . 
+0	6B	um . 
+2	6B	they 're already pretty good . 
+0	6B	um . hm . 
+1	6B	true . 
+2	6B	could screw bagel factory inspections . 
+0	6B	uh . 
+1	6B	yeah . 
+1	6B	mm-hm . 
+1	6B	do you think needle exchange could fall under s_t_d_ education ? potentially ? 
+1	6B	i 'm not sure about that one . 
+0	6B	oh . 
+1	6B	makes sense . 
+1	6B	yeah . 
+2	6B	sex offender database . i think personally it's pretty broken because people who just like - drunkenly pee in public or moon somebody they get put on there , ruined for the rest of their lives . i think it's pretty broken . 
+0	6B	um . 
+2	6B	yeah so . cut that for now , come up with something else later . 
+2	6B	veterans medical assistance . keep it . yep . yep . yep . 
+0	6B	eh . 
+1	6B	they are . they 're good enough . 
+2	6B	um . we - we can - keep either weed control or invasive species removal . they 're pretty much - they 're - 
+1	6B	yeah . 
+2	6B	it's a little more important . yeah . prenatal checkups could fall trunc fall under reproductive education cuz like you - er . 
+1	6B	which one were you talking about for that ? 
+2	6B	oh , yeah , they 're definitely important . 
+0	6B	um . 
+0	6B	it's just a matter of - oh , i can feel a sneeze coming . 
+0	6B	okay . i think i 'm good . 
+2	6B	oh yeah . 
+0	6B	listening to random thing , oh hey there 's a sneeze . okay , okay . continuing . uh . prenatal checkups . 
+1	6B	yeah . 
+0	6B	reproductive education . 
+1	6B	yeah . 
+1	6B	okay . 
+1	6B	yeah . 
+1	6B	yeah . 
+1	6B	okay . sounds good . 
+0	6B	um . neighborhood watch support . 
+1	6B	no . i think people are good enough on their own . 
+1	6B	exactly . 
+0	6B	sokay . so that was - an - 
+0	6B	yes . 
+2	6B	no , keeping that . um . 
+0	6B	did you just say hospital additions ? 
+0	6B	bagel factory . 
+0	6B	um . sex offender . egg - or - egg farm and weed control . 
+2	6B	perfect ! 
+0	6B	six . 
+1	6B	okay . so that means we can keep one . 
+1	6B	and if we - if we wanna keep with that . 
+1	6B	yes . yes . that 's a good idea . 
+2	6B	perfect . awesome . 
+0	6B	okay recreation and public services . um , stray cat spaying . 
+2	6B	and it's so sad when they all have to get put down . i 'm such a cat person , i can't do that . 
+2	6B	it's - yeah exactly . than it does to spay them . okay , keeping that . um . 
+0	6B	trunc screen went dark . okay . um , public news station . 
+2	6B	i think it's good but - honestly - 
+2	6B	personally i get all my news from the internet . 
+0	6B	um . 
+2	6B	that being said there are still a ton of people who watch it . um . 
+1	6B	i dunno . 
+2	6B	yeah we come back to that . food bank . yes . um . junior soccer league . they can play on their own . 
+1	6B	i know . it's - that 's fine . 
+1	6B	yeah . 
+1	6B	if the spaying does good - as - as much as it does - 
+0	6B	um . 
+1	6B	then that won't have to be as much of a - 
+1	6B	no . 
+2	6B	there 's plenty of people - 
+2	6B	who would do that on their own . out of their own good will . 
+1	6B	okay . 
+2	6B	yes . um . housing - yes . 
+0	6B	um . dog catcher - can - 
+0	6B	uh . 
+1	6B	i dunno . cuz we have something for cats . stray cat spaying . 
+1	6B	only that like encompass dogs too . 
+1	6B	it's true . 
+1	6B	yeah . 
+1	6B	okay . um . or maybe lump it under pest control ? 
+2	6B	alright . boys basketball club . same thing with the junior soccer league . 
+0	6B	um public access trunc is that like - 
+1	6B	that 's kinda what i was thinking . 
+0	6B	yeah . trunc public access station's like - um - like p_b_s , right ? 
+1	6B	okay . so trunc yeah those can be - those can be merged . 
+1	6B	it's pretty - 
+2	6B	it's - i know . people are doing pretty good . 
+1	6B	yeah . 
+1	6B	at least - at least now , in here , if we 're doing that . 
+1	6B	yeah . yeah . me too . 
+1	6B	sounds good . um . i 'd - i 'd like to keep that . 
+1	6B	true . 
+1	6B	yeah . 
+1	6B	i mean , we have the stray cat spaying . 
+0	6B	um . 
+2	6B	let's - i 'd - we 've already like cut a few so let's go ahead and just see what we have . um , football stadium upkeep . 
+2	6B	isn't that already private anyways ? 
+2	6B	screw that . 
+1	6B	okay . yeah , no . and then keep pest control . 
+0	6B	okay . so - 
+0	6B	yes . um , junior soccer league . 
+0	6B	adoption . um . dog catcher . basketball . 
+0	6B	um . reusable bag . 
+1	6B	oh , okay . so we can keep vets . um . 
+1	6B	and maybe , um . 
+1	6B	um . maybe keep the public access trunc ugh - access in favor of the football ? 
+1	6B	or keep one of the other things in favor of the football stadium upkeep . 
+1	6B	like maybe - maybe adoption or something like that . 
+1	6B	okay . and so - 
+2	6B	no . no . i don't either . 
+2	6B	and all the money that 's bringing in goes straight to the other peoples' pockets . so there 's not public so screw that . okay . um . so i think that 's - i think that 's good . so get rid of public news , lump that into - public access . um . 
+0	6B	uh , so public news , junior soccer . 
+0	6B	dog catcher , boys basketball . 
+0	6B	reusable bag and football . 
+1	6B	cool . sounds good . those are the six . last but not least , infrastructure and licensing . 
+2	6B	yes please . yes please . um . speed limit signs . 
+1	6B	everybody speeds anyways . 
+2	6B	those - yeah those - those things - yeah . those - those are already up there . 
+1	6B	i hope not . that - that 'd be a little crazy . um . 
+2	6B	i think - they 're already planning on cutting the bus stops . i really don't want them to - um - 
+2	6B	we don't need additional ones . we just need the ones that we already have . to keep them . 
+0	6B	um . 
+2	6B	yeah . so keep what we have . um . tattoo artist licenses it's definitely a good idea to keep them licensed . 
+2	6B	keep licensing most things . so like boating - 
+2	6B	yeah . pothole maintenance . oh god , yes please . i - i hate potholes . unless there 's - unless there 's something we can lump it under . 
+1	6B	um . i kinda already have that and it's already - 
+0	6B	hm . 
+1	6B	well , i mean - 
+1	6B	the sound - the like - the link light rail is already kind of a subway . 
+1	6B	like it's - it's - it's - it's - 
+0	6B	yeah . it's - it's - like being built right now underneath capitol hill and the u_ district . 
+0	6B	um . so i mean it's already there . it's already getting funded . um . 
+0	6B	eh . 
+2	6B	well we need to keep it until it's done . 
+1	6B	no . 
+2	6B	keep that for now . um . 
+0	6B	uh . 
+1	6B	i dunno . 
+1	6B	yeah . 
+1	6B	yes . 
+0	6B	um . 
+2	6B	yes . it mostly already is anyways . 
+1	6B	okay . 
+2	6B	yeah . don't want random people touching you . 
+2	6B	like two , maybe . 
+1	6B	yeah . 
+2	6B	i think we should get rid of taxi stops . um . because - no . 
+2	6B	yeah . it's stupid . it's unnecessary . 
+1	6B	yeah . i mean trunc they 're - 
+3	6B	they 're getting run out by like all these ride share programs anyway . which are so much better because taxis are creepy . and they 're expensive as hell . 
+2	6B	and they 're - just annoying . okay . so no more taxis . fishing licenses go ahead and keep . 
+1	6B	public bus upkeep . i - i can keep that . 
+1	6B	uh . drainage ditches are good for flooding . 
+0	6B	um . 
+0	6B	okay . yeah let's see what we oh so speed limits . um . additional bus stops . 
+0	6B	um . 
+0	6B	uh . towing . 
+0	6B	um . flag pole . taxi stops . 
+1	6B	one more . 
+0	6B	so - 
+0	6B	hm . 
+1	6B	what do you think ? i 'm thinking maybe either - 
+1	6B	like - hunting or fishing . i dunno . 
+1	6B	so trunc this is just county . 
+1	6B	so there 's not much hunting in the county . 
+2	6B	like there 's plenty in eastern washington . 
+0	6B	not - it depends on like what you 're hunting . it - 
+0	6B	i 'm pretty sure it's where you 're going . 
+2	6B	um . and - yeah . those are state funded anyways , not county . 
+1	6B	at least - pretty much . i think my dad's - my dad has done stuff like that . so - 
+2	6B	okay . so . i think those are our six . 
+1	6B	sounds good . i think that 's six from each - each category . 
+2	6B	dang . 
+1	6B	sorry larry . yeah . 
+1	6B	or you can just like start something else cuz there 'll be plenty of funding in everything else . 
+1	6B	awesome . very good . done . 
+1	6B	paradise 
+2	6B	like really 

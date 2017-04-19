@@ -1,0 +1,355 @@
+1	3I	okay , trunc why don't you go first , let's see what you 've got . 
+0	3I	face cream ! 
+1	3I	um , yeah . toilet paper - 
+1	3I	yeah . 
+1	3I	trunc kinda toiletries an- 
+1	3I	toothpaste , and stuff like - okay , this is  buckets . 
+1	3I	siding ? yeah , trunc kinda - uh , yeah . that makes sense . 
+0	3I	kinda - 
+1	3I	okay . 
+2	3I	beets ? food . 
+1	3I	oh . soybeans ! yeah . 
+0	3I	yeah . 
+0	3I	 egg timers . 
+1	3I	appliance - well - 
+2	3I	eggs . how bout eggs - no , how bout egg timers next to the eggs ? 
+0	3I	okay . 
+1	3I	heavy coats . um - i don't see anything up there . guess - guess we got ta start a new one . 
+1	3I	okay . 
+1	3I	like , trunc i mean , yeah , so - 
+2	3I	trunc stuff to - trunc wearing stuff . 
+1	3I	yeah . that 's fine . okay . 
+2	3I	trunc chocolate bars , that should go food , here . 
+0	3I	okay . 
+0	3I	box knife - 
+2	3I	box trunc i 'd put -  i 'd put it by the trunc power cords , ? yeah , cuz it's - 
+2	3I	yeah it could go -  actually , it could go in - in any of those . 
+0	3I	liters of water . 
+1	3I	yeah . liters of water , so should go , like , next to the chocolate bars , and - 
+2	3I	now , see , the ice cream is trunc way up there . 
+2	3I	oh ! okay . 
+2	3I	oh ,  that makes sense ! okay . 
+1	3I	so , liters of water here ? 
+1	3I	okay . 
+0	3I	so , like , trunc juice is - 
+1	3I	oh , okay . 
+1	3I	sure . 
+1	3I	that works for me . 
+1	3I	boating supplies ? 
+1	3I	okay . scissors should go where the , um - 
+1	3I	household . 
+1	3I	how bout refrigerator magnets ? 
+0	3I	yeah . 
+1	3I	okay . trunc and  books . i don't think there 's a - 
+2	3I	just , kinda - oh , travel guides ! travel guides , books - 
+0	3I	okay . got ta grab some more . 
+0	3I	peat moss . 
+0	3I	well - 
+1	3I	box knives - yeah . 
+1	3I	yeah , kinda hardware-y stuff . 
+1	3I	bags of peat moss , gardening supplies , um - 
+1	3I	oh , we can start a new one . 
+1	3I	yeah . 
+2	3I	 fleece-lined boots , that 's clothes . 
+1	3I	so , that should go - 
+1	3I	yeah , by the heavy coats ? fleece-line- 
+0	3I	okay . 
+2	3I	oh , it could go  lots of places . um - 
+0	3I	let's see , box knives , toys - 
+1	3I	trunc we 've trunc well , the - 
+1	3I	trunc egg timers . okay . 
+1	3I	dried figs ! so that 's more food . 
+0	3I	uh - 
+1	3I	well , trunc here - stuff - stuff to drink ? 
+1	3I	okay . by the cake mix ? 
+1	3I	yeah . okay . 
+0	3I	tweezers . 
+1	3I	oh , that should be , like , um - scissors , and tweezers , and - 
+1	3I	yeah . 
+1	3I	well , we 've got - we 've got  face cream . 
+1	3I	okay . yeah , cuz that 's 
+1	3I	kind of personal hygiene stuff . 
+1	3I	large cups would go - 
+2	3I	or , um - 
+1	3I	yeah . 
+1	3I	large cups , okay . 
+0	3I	pre-cut wood . 
+1	3I	so that should go - 
+1	3I	house - siding ? buckets ? 
+2	3I	large cups ? large cups and pre-cut wood ? 
+1	3I	okay . 
+1	3I	okay . 
+1	3I	food . next to the eggs , and the - ? 
+0	3I	yeah . 
+1	3I	five-pound weights . that 's - that go with the siding and the - 
+2	3I	no . well , five-pound weights would be , like , also in fishing . don't they use that for , uh - 
+0	3I	fishing . 
+0	3I	okay . 
+0	3I	flags . 
+1	3I	how bout by books ? 
+1	3I	i don't know . thick sweaters , that 's easy . by the heavy coats . 
+1	3I	cushions for trunc deck chairs , okay . 
+0	3I	half-inch tubing . 
+1	3I	siding , buckets - yeah , tubing . 
+1	3I	wetsuits , yeah , that 's , like , sport stuff .  bottles of juice , that 'd go - that 's easy , that 's - goes where - 
+1	3I	oh , if you 've got trunc liters of water , do you want juice ? 
+1	3I	okay . right . 
+1	3I	small axes by the pre-cut wood ? yeah . okay . 
+0	3I	canvas bags . 
+1	3I	canvas bags , that 's kind of , like , uh - uh , camping supplies . so that 'd trunc i think that would go over here . 
+1	3I	i think , yeah . 
+1	3I	 mint toothpaste ! okay . - we had , uh , some trunc oh , that 's right here . yeah , right . 
+1	3I	oh yeah . 
+0	3I	empty plastic jugs . 
+1	3I	oh , that could go anywhere . 
+1	3I	but , kinda with the buckets an- 
+1	3I	half-inch tubing and all that stu- 
+0	3I	paper bags . 
+0	3I	paper bags . 
+0	3I	uh - 
+1	3I	that 's interesting . i 'm not sure where  i would put that . 
+1	3I	they c- 
+1	3I	oh , okay ! yeah . that - that works . 
+1	3I	paper bags , why not ? bars of soap . 
+1	3I	okay , that 's - that 's the - 
+1	3I	we just did that . oh , right here . right . 
+1	3I	kay , cookies ! next to the chocolate bars . 
+1	3I	that 's easy . 
+1	3I	tow ropes would be , like - 
+2	3I	power cords ? 
+2	3I	yeah . or - or fishing ! or trunc it could go trunc right here . cuz y- 
+1	3I	yeah . i could see it there kinda hardware-y - 
+1	3I	kinda stuff . 
+1	3I	either one , i think would be trunc i trunc i - i think of more that one . yeah . 
+1	3I	 light jackets . okay , more clothes . 
+1	3I	back trunc backpacks . it could be trunc yeah , could go , uh - yeah . 
+1	3I	yeah . 
+1	3I	could be backpacks for camping and hiking . 
+1	3I	bundles of sticks . so that 's easy . that 's - could go - 
+0	3I	trunc trunc what 'd you do with the - 
+1	3I	yeah , but what would you do with a bundle trunc stick ? 
+1	3I	oh ! oh , oh , okay sure . 
+0	3I	mm-kay . 
+2	3I	school supplies . books , yeah . okay . gas-powered cookstoves . oh , that 's like , trunc here . 
+0	3I	right in there okay . 
+0	3I	cable . 
+1	3I	yeah oh yeah , that 's good . socks . oh , more - 
+1	3I	more trunc shoelaces , socks . 
+1	3I	trunc right up there , yeah . 
+2	3I	boxes of doughnuts . oh , right here , package of cookies and boxes of doughnuts . 
+0	3I	kay , go ahead . 
+1	3I	yep right - 
+2	3I	okay uh , bagels . bagels , right here . 
+1	3I	saws ? yes , trunc yeah - yeah , either place . ye- 
+0	3I	yeah . 
+0	3I	canned peas . 
+0	3I	have you ever heard the expression uh , bob's your uncle ? 
+0	3I	oh . 
+0	3I	i heard that - 
+0	3I	i - i - 
+0	3I	yeah . i think we 're done . 
+0	6B	so - 
+1	6B	just arbitrarily say - 
+0	6B	three , four , five , six , seven , eight , nine , ten - 
+0	6B	fourteen . 
+0	6B	fourteen - 
+0	6B	four - 
+1	6B	so , i trunc yeah . so , i would - i would say four if you took trunc uh , just arbitrarily , assuming that - 
+1	6B	trunc it  isn't that way , but trunc assuming they all equally got the same amount of money . 
+1	6B	so if you made across the board cuts , as often happens , twenty five percent - 
+1	6B	that would mean four - four items would have to be cut from each - 
+1	6B	each category , so - f- 
+1	6B	okay . so , let's go from - 
+1	6B	education and trunc  math tutors . 
+1	6B	okay . assistant cooks . 
+0	6B	sex ed . 
+0	6B	custodians . 
+0	6B	speech therapy . 
+1	6B	football - , that 's one . football equipment . 
+0	6B	kay , two . 
+0	6B	acting coaches . 
+0	6B	acting . 
+0	6B	acting , as in  drama coaches . 
+2	6B	yeah , it trunc should say drama . 
+1	6B	i 'm - i 'm assuming . as opposed to someone - 
+0	6B	yeah . a trunc my first thought was - cuz it came after football , is a guy who's , uh - uh , just trunc standing in - yeah , but that 's - that would , but - 
+1	6B	okay , so drama coaches . so would you keep a drama coach ? 
+0	6B	poe- 
+0	6B	okay . yeah poetry books ? 
+0	6B	uh , special ed teachers ? 
+0	6B	cooking classes . 
+1	6B	okay . that 's three . 
+2	6B	notetakers , disability services . ooh , i don't think you can do that . 
+0	6B	like , um - 
+1	6B	yeah , right . 
+0	6B	okay , bookkeeping class- 
+0	6B	bookkeeping classes . 
+2	6B	oh , no . 
+2	6B	uh , you expect that at places like the fast food restaurants because they have these buttons , but they don't trunc i mean , it's all done  for them , you know ? they don't have to - 
+1	6B	yeah . 
+1	6B	okay , so that was four . let's - so , let's go over the four that we - we - uh , kay . we said , um , speech therapy . 
+0	6B	football equipment . 
+0	6B	cooking classes , and , um - 
+1	6B	yeah , i - i 'd agree with that . 
+1	6B	you know . i 'd - i 'd have - yeah . okay , so the next are public - 
+0	6B	health and safety . 
+0	6B	, job training , chicken pox vaccination , invasive species , s_t_d_ educatio- 
+1	6B	well let's take them in groups . 
+1	6B	so , is there anything in the one , two , three , four , trunc six - of those six that you would get rid of ? 
+1	6B	public health . this i- 
+1	6B	yeah um - 
+2	6B	i - i think public - uh , reproductive education , if - when it's done at the  county level - 
+2	6B	is providing , um - uh , education a- 
+2	6B	at the clinics . 
+1	6B	that kind of stuff so . 
+0	6B	mm . 
+2	6B	i - i 'd - i 'd think about - uh , let's go trunc trunc anything else in that trunc first group of six ? 
+0	6B	okay . toxic waste disposal - let's see , one , two , three , four , five , six - trunc go down to veterans . so , starting with toxic waste disposal - 
+0	6B	hospital additions . 
+1	6B	okay needle exchange ? 
+2	6B	well , that 's  food inspection . just food - just , in general . 
+0	6B	oh . 
+2	6B	nobody gets bagels . 
+2	6B	okay , shut them down , shut them down . 
+1	6B	okay . 
+1	6B	well , yeah . 
+1	6B	yeah , okay . 
+0	6B	alright , uh , needle exchange ? oh . 
+2	6B	that 'd be a tough one to cut . 
+1	6B	okay , sex offender database ? 
+1	6B	and veterans medical assistance ? 
+0	6B	okay , so what do we got ? we got two - 
+0	6B	uh , what was the other one that we said ? 
+0	6B	reproductive education , okay . 
+0	6B	alright . 
+0	6B	so , down to the last four . so we have two more to go . 
+0	6B	trunc uh , egg farm regulations . 
+0	6B	weed control . 
+2	6B	okay . that 's three . yeah , i 'd agree with that one . 
+1	6B	okay . of the trunc three trunc in that group - egg farm regulations , weed control , and pre-natal checkups . 
+1	6B	kay , let's go back up - let's go to the top of the list , so just  one more . 
+1	6B	uh job training ? 
+2	6B	boy . 
+2	6B	all the voc ed teachers i know - 
+2	6B	ah , they would - they would - 
+1	6B	yeah . 
+0	6B	uh , invasive spe- 
+2	6B	you know , i - i would hate - 
+1	6B	out of that list , i would go with the trunc in - cut out the invasive species removal . 
+0	6B	yeah . 
+0	6B	yeah . 
+2	6B	uh - you know , you 're - yeah , i know trunc there 's a problem with , uh , walnut trees , and with , um - 
+1	6B	certain apple trees - 
+1	6B	and also with , um - 
+0	6B	uh , trunc let's see . there was a - another kinda tree . 
+0	6B	trunc walnut - 
+0	6B	oh . didn't know about that one . 
+1	6B	okay . so we got - we got - 
+1	6B	we got four . 
+1	6B	yeah . 
+1	6B	okay . 
+1	6B	okay . 
+2	6B	cuz you got reproductive education , and maybe that would cover that . 
+0	6B	okay . 
+0	6B	recreation and public services . 
+0	6B	okay stray cat spaying . 
+0	6B	public news station . 
+0	6B	food bank . 
+1	6B	okay .  that 's one , i agree with that one . food bank - junior soccer league ? 
+1	6B	okay . 
+0	6B	uh , kitten and puppy adoptions . 
+0	6B	soup kitchen ? 
+1	6B	right . 
+0	6B	housing assistance ? 
+0	6B	dog catcher . 
+0	6B	basketball club . 
+2	6B	though trunc isn't that , uh , public - 
+1	6B	trunc uh - public , uh , news trunc so you would cut that . okay . 
+2	6B	reusable bag campaign ? i would cut that . 
+0	6B	that 's four ! okay , veterinary hospital , pest control - 
+1	6B	trunc yeah , trunc actually , trunc those are the ones that we said before . okay . 
+0	6B	infrastructure and licensing . 
+1	6B	mm-hm . 
+0	6B	uh- 
+2	6B	well , you know trunc the  problem is , though - 
+2	6B	well ,  i don't know how much of a problem it is now , but when i was teaching - 
+2	6B	you had , uh , holes in your staff . 
+2	6B	and , um , you couldn't find someone who was qualified - 
+2	6B	in a certain trunc for example , to teach , uh , primary school . 
+2	6B	so you have upper elementary , which is four through six - 
+2	6B	but you needed a teacher who uh , you know uh , could do kindergarten through - 
+2	6B	grade three , then  none of them are trunc no s- 
+2	6B	certified , so - 
+2	6B	as an  emergency , what they would do is take a teacher from - 
+2	6B	the  upper grades and move them down to the lower grades not a good idea , but it's done trunc was done all the time . i think it's  still being done . 
+1	6B	yeah . 
+1	6B	yep . 
+2	6B	kay , speed limit signs . need that . right ? 
+1	6B	additional bus - oh , we cut the bus stu- 
+0	6B	tattoo artist licenses ? 
+1	6B	uh , boating licenses . that 's - trunc trunc ? 
+0	6B	subway system . 
+1	6B	hunting tags , that 's - 
+2	6B	trunc was that - when your car is towed , though - 
+2	6B	well , i know , but they - but you have - uh , trunc there is some costs - 
+2	6B	well , like , trunc uh , let's - let's - again , this is a hypothetical . 
+2	6B	if they 're - if , uh , the county is  providing that - 
+2	6B	then you would have to , uh - 
+1	6B	uh-huh . 
+1	6B	yeah so you would cut towing service- 
+1	6B	yeah , i don't know enough about that one to really - massage certificates . 
+2	6B	i have a friend who's a massage - she's a licensed therapist . 
+2	6B	yeah she - she is really - if you don't regulate that , what happens is it gets - it gets - goes sideways on you pretty fast . 
+2	6B	flagpole trunc oh , we - and taxi stops , we 'd can that . 
+1	6B	fishing licenses , that 's revenue . upkeep - 
+1	6B	keep that and drainage ditches . so , i think we had four . trunc yeah , that 's four . 
+1	6B	yeah . 
+1	6B	yeah . 
+2	6B	you trunc you know , the  reality - the reality of - of - cutting items is that  every single item on the budget - 
+2	6B	has a constituency . 
+2	6B	you know . and - and the ones that you say , okay , let's say , it's  real obvious , flagpole repair - 
+2	6B	then the  veteran group would come  out of the woodwork and say  how can you desecrate the american flag ? and - 
+2	6B	you know . i - and i mean , that 's how it would trunc uh , that 's how it 'd go . i mean , you know . 
+2	6B	ah - actually , there  is - there trunc there is a - there is a law about flying the flag in public buildings . 
+2	6B	you trunc trunc well , a  state law . yeah . i - i don't - trunc i don't think there 's a federal law , but there is a state law . 
+0	6B	but you have to do it . 
+2	6B	so - but , if you  cut it - i mean , if it was something you could cut - 
+2	6B	and you  cut it - 
+2	6B	nobody would come after you . 
+2	6B	you know . there trunc there - there are laws out there that are  not enforced all the time . 
+2	6B	look at the marijuana laws - 
+2	6B	cracks me up . 
+2	6B	okay , it's legal to have what , an ounce of marijuana on you right ? whatever it is . 
+2	6B	 but , it is illegal to buy it ! 
+2	6B	now think about that for a second . 
+2	6B	so where are you trunc so - 
+2	6B	the only way - yeah . 
+2	6B	the only way - uh , and people with medical marijuana are - were already covered . 
+2	6B	you know , under the , uh - under the trunc medical marijuana . 
+2	6B	so anyone who is not under that can carry , um , a - an ounce , or whatever it is , of marijuana . 
+2	6B	but you can't buy it . you can't legally buy it . and  i just think that 's really hilarious . and they were talking about that in colorado . it's the same problem . 
+2	6B	that 's the problem here , too . 
+2	6B	well , no , it's - 
+2	6B	no , it's - it's trunc it's not drug dealers , per se . what they 're - trunc trunc trunc trunc trunc what they 're - uh , trunc you can't do - trunc the  problem is , because - 
+2	6B	it's a controlled substance under federal - 
+0	6B	yeah . 
+2	6B	right . trunc it's not the m- 
+2	6B	well , yeah . trunc so , you need to change the law at the federal level . 
+2	6B	we 'll see . we 'll see . you know , it's gonna be interesting . 
+2	6B	yes and no . they 've - uh , the problem is , all of the banks currently in the state of trunc we 've done away pretty much with state regulation . 
+2	6B	you 'd have to institute a whole new set of laws . 
+2	6B	cuz all of them are - you know , the - f_ - trunc if the feds are involved - f_d_i_c insured , or - 
+2	6B	uh , trunc uh , trunc uh , what is it , credit union ? uh , you know , that 's all federal regulation , so if they 're at  all regulated by the feds in  any way , shape , or form - 
+2	6B	they trunc they won't touch it . it was a bank , uh , trunc in , uh , seattle - 
+2	6B	that was willing - you know , the bank president said our board , they 're - they 're willing to be the bank , and then they reneged about a week later . they said no , we can't do it because of the trunc controlled substance for the federal - we would lose our license , an- 
+3	6B	of  course they did ! 
+3	6B	they - trunc that was one trunc yeah , that was one of the - that was one of the  basic issues in the campaign . you know ? uh , i mean ,  against it was - 
+1	6B	was that , um , you know , it's a violation of the federal law . 
+1	6B	then we went ahead and did it anyway . 
+2	6B	yeah . it's regulation by the state . that 's - that 's right . 
+2	6B	but - you know - the  problem is , like trunc they were saying in trunc oh , it's true in this state too , but they - they , uh - you know - 
+2	6B	trunc you pay your - your employee - 
+2	6B	and you 're gonna pay them , uh , six hundred dollars . it's trunc it's all cash . 
+3	6B	that 's  crazy . 
+3	6B	that is so crazy ! 
+0	6B	anyway . 
