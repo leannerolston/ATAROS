@@ -1,238 +1,238 @@
-1	3I	do wanna do one at a time or multiple at a time ? 
-1	3I	yeah , i think that 's good . 
-1	3I	the canned things . they also have ice cream up here . so that 's , like , sweets . 
-0	3I	and then , yeah , i have books and scissors . 
-1	3I	yeah , or travel trunc yeah , between toys and travel guides ? 
-1	3I	do trunc wanna do - 
-1	3I	or below travel guides . 
-1	3I	what you think ? 
-1	3I	we could do , like - 
-1	3I	okay . 
-1	3I	trunc just books . okay . wanna put scissors here too ? 
-1	3I	like , here ? 
-2	3I	yeah , there 's nothing like that up here . there 's a lot of space right here . we could make a spot . 
-1	3I	mm-hm . 
-1	3I	sounds good . 
-1	3I	do we wanna put it next to ice cream ? 
-0	3I	cushions for deck chairs ? next to - 
-1	3I	i don't know , boating supplies or siding . 
-0	3I	and then - 
-0	3I	electric heaters . 
-1	3I	yeah , next to power cords . 
-0	3I	and saw . 
-1	3I	next to siding ? 
-1	3I	yeah , between . 
-1	3I	and we 're putting clothing over here , right ? do we want light jackets maybe here ? 
-1	3I	in case we get any more - 
-0	3I	uh . hm . 
-1	3I	okay . 
-0	3I	camping ? 
-0	3I	yeah . 
-2	3I	do we trunc or we could put it over here , somewhere . 
-1	3I	loose-leaf paper . so we wanna put that - yeah . 
-1	3I	backpacks , probably the same ish spot ? 
-0	3I	whiskey . 
-1	3I	thick sweaters probably go over here . 
-1	3I	okay . 
-1	3I	and small axes , maybe next to small saws ? 
-1	3I	and duct tape ? maybe - 
-1	3I	next to mousetraps ? 
-1	3I	cans of peas , probably go next to soybeans ? large vests . 
-0	3I	shoelaces again ! 
-2	3I	they usually have shoelaces next to , like , the - 
-1	3I	school stuff , actually , i think . 
-0	3I	packages . 
-1	3I	cookies , next to - right here ? 
-1	3I	mess up our egg section with , uh - 
-1	3I	sure . yeah . 
-2	3I	oh , toilet paper . 
-0	3I	when you buy beets , are they usually fresh , or - ? 
-0	3I	okay . 
-1	3I	so we probably want , like , a - yeah . we could put , like , a veggie aisle over here . 
-1	3I	oh . there 's wetsuits . we could probably put next to boating supplies or cushions . 
-1	3I	and , uh , pre-cut wood . next to liters of water , maybe , for camping ? across from those - 
-0	3I	oatmeal . 
-1	3I	yeah . over there . 
-1	3I	matches are probably up there . 
-1	3I	with uh - 
-1	3I	yeah , with the wood . 
-2	3I	not that you can do much with it . and then the sticks . 
-0	3I	chocolate bars . 
-1	3I	yeah . 
-1	3I	yeah , that 's baking . 
-1	3I	that is sometimes muddled at grocery stores , i feel . 
-0	3I	empty plastic jugs . 
-1	3I	yeah . 
-1	3I	sounds good . fish hooks ? next to - 
-1	3I	boating trunc 
-1	3I	that sounds good . 
-0	3I	half-inch tubing . is this , like , for - ? 
-1	3I	for boating , or - ? yeah . okay . 
-0	3I	peat moss . do we have any - ? 
-0	3I	tweezers . 
-0	3I	we don't really have any hardware stuff or gardening . 
-2	3I	well , , that 's , like , our camping , right ? 
-2	3I	do we wanna do - we - we could just put it , like - 
-2	3I	up here ? or over here , for , like , hardware , gardening stuff . 
-1	3I	mm-hm . 
-2	3I	well , i suppose we could put it next to mousetraps . 
-1	3I	yeah . 
-1	3I	yeah , yeah . 
-1	3I	fishing net , next to fish hooks , maybe ? 
-1	3I	tow ropes . can we fit that over here ? next to - 
-1	3I	or up here ? next to wetsuits and boating supplies ? 
-0	3I	box knives . 
-0	3I	bars of soap . 
-1	3I	yeah . 
-0	3I	that 's toiletries right ? fleece-lined boots . 
-3	3I	specific . we can put that next to socks ! 
-1	3I	box knives ? yeah , that sounds dandy . dried figs . next to - 
-0	3I	cups . 
-1	3I	next to empty plastic jugs ? 
-2	3I	heavy coats . oh no , we 've run out of space ! 
-1	3I	it 'll be on the end . 
-2	3I	i don't know why you 'd have coats on the end , but that 's okay . five-pound weights should be - 
-1	3I	with the , uh - 
-2	3I	with the pet food ? what ? yeah . 
-0	3I	what kind of weights are these - ? are we talking - ? 
-1	3I	okay . 
-1	3I	we could put them - 
-2	3I	halfway in between ? 
-1	3I	oh , like here . 
-1	3I	eggs timers would be next to eggs , maybe ? 
-1	3I	sure . sounds great . 
-0	3I	oh , i have buckets in my trunc 
-0	3I	peat moss is right here . 
-1	3I	face cream . next to tweezers . 
-0	3I	and - we still have whiskey . 
-2	3I	this store doesn't sell bread ? kinda store  is this ? 
-1	3I	here ? 
-1	3I	okay . 
-1	3I	it 'll be it's own bread section . 
-1	3I	okay . 
-0	3I	whiskey - 
-2	3I	up there . right next to baking ! 
-2	3I	yeah , and we have a lot of empty space . 
-1	3I	but that 's okay . 
-1	3I	yeah , . 
-1	3I	yeah , i think we 're done . 
-0	3I	cool . 
-2	3I	yeah , it's kinda creepy , actually . 
-0	3I	oh , yeah ? 
-1	6B	okay . 
-1	6B	okay . 
-1	6B	that 's fine . 
-1	6B	yeah . okay . 
-1	6B	sounds good . 
-1	6B	so , we just wanna start at math tutors ? 
-1	6B	yeah , trunc let's keep those . we 're probably gonna keep , like , everything . 
-1	6B	yeah . trunc trunc what is an assistant cook ? i don't know . 
-1	6B	yeah , okay . sounds good . 
-1	6B	that 's fine . 
-1	6B	um - sex ed . we 'll keep that ? 
-1	6B	okay . 
-1	6B	custodians are good . 
-1	6B	yeah . okay . 
-1	6B	cool . i 'd be down for cutting it . 
-1	6B	yeah . acting coaches ? 
-2	6B	okay . yeah . especially if it's adult education . uh - 
-0	6B	uh , so , no more acting coaches . poetry books . 
-1	6B	are probably good . 
-1	6B	special ed teachers are good . 
-0	6B	cooking classes - 
-2	6B	are good . yeah . we still have our main cooks , right ? no . uh - 
-1	6B	notetakers for disability services are good . 
-2	6B	sugar - we should get rid of the sugar-free juice machine . 
-2	6B	who needs water - for - ? no . 
-0	6B	uh - 
-1	6B	are - i think those are good . yeah . 
-1	6B	and music teachers are important . 
-1	6B	i too . 
-0	6B	so that 's trunc four ? 
-1	6B	okay . 
-1	6B	no . 
-1	6B	this is gonna be the hard one . 
-1	6B	yeah . i didn't know they had that one . 
-1	6B	yeah . 
-2	6B	is important , but it - 
-1	6B	yeah . 
-2	6B	oh , trunc there 's a weed control ? yeah . trunc yeah . toxic waste disposal's important . hospital additions are - 
-0	6B	yeah . 
-1	6B	maybe trunc that 's a maybe ? maybe maybe ? 
-1	6B	uh , needle exchange is good . 
-0	6B	uh - 
-0	6B	sex offender database . 
-1	6B	okay . 
-0	6B	and then - 
-0	6B	what were the other two that we already decided on ? 
-0	6B	and weed control . 
-2	6B	sex offender database is - 
-2	6B	is , uh , i dunno . 
-2	6B	it's in the  news , even . i think that 's - 
-1	6B	okay . let's do that . so , hospital additions , neighborhood watch - 
-0	6B	uh - 
-1	6B	weed control , and - 
-1	6B	trunc vasive species removal . 
-1	6B	yeah . 
-2	6B	maybe a maybe , for now . 
-0	6B	public news station is - 
-1	6B	good . but - 
-1	6B	yeah . food bank is keep . junior soccer league - 
-1	6B	probably keep . or , maybe somewhere - kitten and puppy adoption is good . 
-2	6B	if we 're gonna keep stray cat spaying , we should probably keep kitten and puppy adoption . 
-1	6B	uh , soup kitchens are good . 
-1	6B	housing assistance is good . 
-0	6B	dog catcher ? 
-1	6B	that 's , uh , it's probably cuttable . 
-0	6B	boy's basketball . 
-2	6B	i suppose the junior soccer league is not gender-specific . 
-1	6B	yeah . they 're important - 
-1	6B	but they 're not vital , so that 's hard . 
-1	6B	there 's just not , like , an obvious choice . public access - access station . 
-0	6B	i think that 's , like - 
-0	6B	like , p_b_s - 
-0	6B	type thing . 
-0	6B	hm . 
-1	6B	maybe not . i would probably cut the access station first . 
-0	6B	veterinary hospital . 
-0	6B	if we 're - 
-1	6B	animal lovers already , we should probably stick with it . 
-1	6B	football stadium upkeep , no . 
-1	6B	wait , as you said , football gets too much money already , right ? 
-1	6B	okay . 
-2	6B	i 'd rather cut - 
-2	6B	trunc pest control over something else . pest control doesn't seem like a - 
-3	6B	i would say instead of the public access station . 
-1	6B	yeah . 
-1	6B	yeah . 
-1	6B	okay . 
-0	6B	so - 
-0	6B	we 're - 
-0	6B	pest control , football stadium upkeep , boy's basketball club , and uh - 
-0	6B	what was the fourth one ? 
-0	6B	yeah , dog catcher . yeah , there it is . 
-1	6B	mm-hm . 
-1	6B	yeah . 
-1	6B	okay . 
-2	6B	okay . 
-2	6B	the only thing about tattoo artists is , like - 
-2	6B	yeah . you could , it could be bad if there 's unlicensed tattoo artists around . 
-0	6B	uh boating licenses - 
-1	6B	maybe yeah . pothole maintenance . 
-1	6B	yeah . 
-2	6B	subway system is important . although that 's , like , way more money than the other things , probably . but - uh - 
-0	6B	hunting tags . 
-1	6B	yeah . i think so . 
-3	6B	towing services could probably get cut also . massage certificates . probably cut massage certificates before tattoo artists . but - taxi stops . why is the government making taxi stops anyway ? 
-1	6B	right . 
-1	6B	uh , fishing licenses trunc well , so , how much are we up at ? 
-0	6B	hunting tags , towing services - 
-0	6B	and massage certificates ? 
-0	6B	and taxi stops . those four . okay . done . 
-0	6B	cool . 
-0	6B	yeah . 
-0	6B	right . 
-2	6B	and there 's just two of us ! as compared to - 
-2	6B	lot's more people . 
-1	6B	yeah . 
-1	6B	and we don't have anybody pressuring us . 
+1	3I	do wan na do one at a time or multiple at a time ?
+1	3I	yeah , i think that 's good .
+1	3I	the canned things . they also have ice cream up here . so that 's , like , sweets .
+0	3I	and then , yeah , i have books and scissors .
+1	3I	yeah , or travel trunc yeah , between toys and travel guides ?
+1	3I	do trunc wan na do -
+1	3I	or below travel guides .
+1	3I	what you think ?
+1	3I	we could do , like -
+1	3I	okay .
+1	3I	trunc just books . okay . wan na put scissors here too ?
+1	3I	like , here ?
+2	3I	yeah , there 's nothing like that up here . there 's a lot of space right here . we could make a spot .
+1	3I	mm-hm .
+1	3I	sounds good .
+1	3I	do we wan na put it next to ice cream ?
+0	3I	cushions for deck chairs ? next to -
+1	3I	i do n't know , boating supplies or siding .
+0	3I	and then -
+0	3I	electric heaters .
+1	3I	yeah , next to power cords .
+0	3I	and saw .
+1	3I	next to siding ?
+1	3I	yeah , between .
+1	3I	and we 're putting clothing over here , right ? do we want light jackets maybe here ?
+1	3I	in case we get any more -
+0	3I	uh . hm .
+1	3I	okay .
+0	3I	camping ?
+0	3I	yeah .
+2	3I	do we trunc or we could put it over here , somewhere .
+1	3I	loose-leaf paper . so we wan na put that - yeah .
+1	3I	backpacks , probably the same ish spot ?
+0	3I	whiskey .
+1	3I	thick sweaters probably go over here .
+1	3I	okay .
+1	3I	and small axes , maybe next to small saws ?
+1	3I	and duct tape ? maybe -
+1	3I	next to mousetraps ?
+1	3I	cans of peas , probably go next to soybeans ? large vests .
+0	3I	shoelaces again !
+2	3I	they usually have shoelaces next to , like , the -
+1	3I	school stuff , actually , i think .
+0	3I	packages .
+1	3I	cookies , next to - right here ?
+1	3I	mess up our egg section with , uh -
+1	3I	sure . yeah .
+2	3I	oh , toilet paper .
+0	3I	when you buy beets , are they usually fresh , or - ?
+0	3I	okay .
+1	3I	so we probably want , like , a - yeah . we could put , like , a veggie aisle over here .
+1	3I	oh . there 's wetsuits . we could probably put next to boating supplies or cushions .
+1	3I	and , uh , pre-cut wood . next to liters of water , maybe , for camping ? across from those -
+0	3I	oatmeal .
+1	3I	yeah . over there .
+1	3I	matches are probably up there .
+1	3I	with uh -
+1	3I	yeah , with the wood .
+2	3I	not that you can do much with it . and then the sticks .
+0	3I	chocolate bars .
+1	3I	yeah .
+1	3I	yeah , that 's baking .
+1	3I	that is sometimes muddled at grocery stores , i feel .
+0	3I	empty plastic jugs .
+1	3I	yeah .
+1	3I	sounds good . fish hooks ? next to -
+1	3I	boating trunc
+1	3I	that sounds good .
+0	3I	half-inch tubing . is this , like , for - ?
+1	3I	for boating , or - ? yeah . okay .
+0	3I	peat moss . do we have any - ?
+0	3I	tweezers .
+0	3I	we do n't really have any hardware stuff or gardening .
+2	3I	well , , that 's , like , our camping , right ?
+2	3I	do we wan na do - we - we could just put it , like -
+2	3I	up here ? or over here , for , like , hardware , gardening stuff .
+1	3I	mm-hm .
+2	3I	well , i suppose we could put it next to mousetraps .
+1	3I	yeah .
+1	3I	yeah , yeah .
+1	3I	fishing net , next to fish hooks , maybe ?
+1	3I	tow ropes . can we fit that over here ? next to -
+1	3I	or up here ? next to wetsuits and boating supplies ?
+0	3I	box knives .
+0	3I	bars of soap .
+1	3I	yeah .
+0	3I	that 's toiletries right ? fleece-lined boots .
+3	3I	specific . we can put that next to socks !
+1	3I	box knives ? yeah , that sounds dandy . dried figs . next to -
+0	3I	cups .
+1	3I	next to empty plastic jugs ?
+2	3I	heavy coats . oh no , we 've run out of space !
+1	3I	it 'll be on the end .
+2	3I	i do n't know why you 'd have coats on the end , but that 's okay . five-pound weights should be -
+1	3I	with the , uh -
+2	3I	with the pet food ? what ? yeah .
+0	3I	what kind of weights are these - ? are we talking - ?
+1	3I	okay .
+1	3I	we could put them -
+2	3I	halfway in between ?
+1	3I	oh , like here .
+1	3I	eggs timers would be next to eggs , maybe ?
+1	3I	sure . sounds great .
+0	3I	oh , i have buckets in my trunc
+0	3I	peat moss is right here .
+1	3I	face cream . next to tweezers .
+0	3I	and - we still have whiskey .
+2	3I	this store does n't sell bread ? kinda store is this ?
+1	3I	here ?
+1	3I	okay .
+1	3I	it 'll be it 's own bread section .
+1	3I	okay .
+0	3I	whiskey -
+2	3I	up there . right next to baking !
+2	3I	yeah , and we have a lot of empty space .
+1	3I	but that 's okay .
+1	3I	yeah , .
+1	3I	yeah , i think we 're done .
+0	3I	cool .
+2	3I	yeah , it 's kinda creepy , actually .
+0	3I	oh , yeah ?
+1	6B	okay .
+1	6B	okay .
+1	6B	that 's fine .
+1	6B	yeah . okay .
+1	6B	sounds good .
+1	6B	so , we just wan na start at math tutors ?
+1	6B	yeah , trunc let 's keep those . we 're probably gon na keep , like , everything .
+1	6B	yeah . trunc trunc what is an assistant cook ? i do n't know .
+1	6B	yeah , okay . sounds good .
+1	6B	that 's fine .
+1	6B	um - sex ed . we 'll keep that ?
+1	6B	okay .
+1	6B	custodians are good .
+1	6B	yeah . okay .
+1	6B	cool . i 'd be down for cutting it .
+1	6B	yeah . acting coaches ?
+2	6B	okay . yeah . especially if it 's adult education . uh -
+0	6B	uh , so , no more acting coaches . poetry books .
+1	6B	are probably good .
+1	6B	special ed teachers are good .
+0	6B	cooking classes -
+2	6B	are good . yeah . we still have our main cooks , right ? no . uh -
+1	6B	notetakers for disability services are good .
+2	6B	sugar - we should get rid of the sugar-free juice machine .
+2	6B	who needs water - for - ? no .
+0	6B	uh -
+1	6B	are - i think those are good . yeah .
+1	6B	and music teachers are important .
+1	6B	i too .
+0	6B	so that 's trunc four ?
+1	6B	okay .
+1	6B	no .
+1	6B	this is gon na be the hard one .
+1	6B	yeah . i did n't know they had that one .
+1	6B	yeah .
+2	6B	is important , but it -
+1	6B	yeah .
+2	6B	oh , trunc there 's a weed control ? yeah . trunc yeah . toxic waste disposal 's important . hospital additions are -
+0	6B	yeah .
+1	6B	maybe trunc that 's a maybe ? maybe maybe ?
+1	6B	uh , needle exchange is good .
+0	6B	uh -
+0	6B	sex offender database .
+1	6B	okay .
+0	6B	and then -
+0	6B	what were the other two that we already decided on ?
+0	6B	and weed control .
+2	6B	sex offender database is -
+2	6B	is , uh , i dunno .
+2	6B	it 's in the news , even . i think that 's -
+1	6B	okay . let 's do that . so , hospital additions , neighborhood watch -
+0	6B	uh -
+1	6B	weed control , and -
+1	6B	trunc vasive species removal .
+1	6B	yeah .
+2	6B	maybe a maybe , for now .
+0	6B	public news station is -
+1	6B	good . but -
+1	6B	yeah . food bank is keep . junior soccer league -
+1	6B	probably keep . or , maybe somewhere - kitten and puppy adoption is good .
+2	6B	if we 're gon na keep stray cat spaying , we should probably keep kitten and puppy adoption .
+1	6B	uh , soup kitchens are good .
+1	6B	housing assistance is good .
+0	6B	dog catcher ?
+1	6B	that 's , uh , it 's probably cuttable .
+0	6B	boy 's basketball .
+2	6B	i suppose the junior soccer league is not gender-specific .
+1	6B	yeah . they 're important -
+1	6B	but they 're not vital , so that 's hard .
+1	6B	there 's just not , like , an obvious choice . public access - access station .
+0	6B	i think that 's , like -
+0	6B	like , p_b_s -
+0	6B	type thing .
+0	6B	hm .
+1	6B	maybe not . i would probably cut the access station first .
+0	6B	veterinary hospital .
+0	6B	if we 're -
+1	6B	animal lovers already , we should probably stick with it .
+1	6B	football stadium upkeep , no .
+1	6B	wait , as you said , football gets too much money already , right ?
+1	6B	okay .
+2	6B	i 'd rather cut -
+2	6B	trunc pest control over something else . pest control does n't seem like a -
+3	6B	i would say instead of the public access station .
+1	6B	yeah .
+1	6B	yeah .
+1	6B	okay .
+0	6B	so -
+0	6B	we 're -
+0	6B	pest control , football stadium upkeep , boy 's basketball club , and uh -
+0	6B	what was the fourth one ?
+0	6B	yeah , dog catcher . yeah , there it is .
+1	6B	mm-hm .
+1	6B	yeah .
+1	6B	okay .
+2	6B	okay .
+2	6B	the only thing about tattoo artists is , like -
+2	6B	yeah . you could , it could be bad if there 's unlicensed tattoo artists around .
+0	6B	uh boating licenses -
+1	6B	maybe yeah . pothole maintenance .
+1	6B	yeah .
+2	6B	subway system is important . although that 's , like , way more money than the other things , probably . but - uh -
+0	6B	hunting tags .
+1	6B	yeah . i think so .
+3	6B	towing services could probably get cut also . massage certificates . probably cut massage certificates before tattoo artists . but - taxi stops . why is the government making taxi stops anyway ?
+1	6B	right .
+1	6B	uh , fishing licenses trunc well , so , how much are we up at ?
+0	6B	hunting tags , towing services -
+0	6B	and massage certificates ?
+0	6B	and taxi stops . those four . okay . done .
+0	6B	cool .
+0	6B	yeah .
+0	6B	right .
+2	6B	and there 's just two of us ! as compared to -
+2	6B	lot 's more people .
+1	6B	yeah .
+1	6B	and we do n't have anybody pressuring us .

@@ -1,167 +1,167 @@
-1	3I	so now we kinda know the categories . should we take these outta the box first and organize them into categories ? 
-2	3I	well - okay . let's just kinda - cuz we know there 's food , we know there 's sort of outdoor equipment . 
-2	3I	i don't mind . just - trunc i thought - how bout if we put em over here ? and kinda - 
-2	3I	trunc oh new column . 
-1	3I	yeah , this might help us . 
-1	3I	outdoor stuff . gadgets ? like scissors ? 
-1	3I	i dunno what flags are . 
-1	3I	yeah . 
-1	3I	here . right here . 
-1	3I	clothing . 
-1	3I	tweezers is gonna go - oh - okay . 
-1	3I	electric trunc electric heaters . household items , maybe , huh ? 
-1	3I	oh , or here . with - okay . 
-1	3I	uh , liters of water . mm-kay . 
-1	3I	mm-hm . 
-2	3I	or could it be with the camping stuff , maybe , for the duct tape ? 
-1	3I	yeah . 
-0	3I	camping - 
-1	3I	mm-hm . 
-0	3I	empty plastic jugs . 
-1	3I	empty plastic jugs . that might be the camping stuff , huh ? 
-1	3I	toothpaste and soap together ? 
-0	3I	five-pound weights ? what are those for ? 
-0	3I	oh . 
-1	3I	yeah . 
-1	3I	now large cups , is that for the camping stuff ? or maybe with paper bags ? 
-1	3I	camping - wanna give me half of those ? yeah , thanks . 
-0	3I	yeah . loose leaf paper . 
-0	3I	peat moss . 
-0	3I	and loose leaf paper ? 
-1	3I	with large cups and paper bags , maybe ? 
-1	3I	yeah . 
-1	3I	okay . yeah , that 's a good plan . and um - 
-0	3I	mm-kay . 
-2	3I	so , here we got the cooking supplies for food . and here we 've got the edible stuff . so maybe liters of water - 
-2	3I	yeah . that 's right . which would go like here ? trunc oh , cake mix . that 's there . 
-2	3I	dairy . right down - 
-2	3I	but what about eggs and dairy ? yeah . 
-1	3I	maybe that 's camping . no ? 
-0	3I	dried figs . 
-1	3I	sweets maybe ? on this side ? 
-1	3I	okay , that 's fresh food , down here . 
-1	3I	canned foods . um , i 'll put that - 
-2	3I	that 's frozen food . um . that 'll be here , maybe with packages of cookies ? 
-1	3I	okay . i 'm not sure where the can of peas is gonna go yet . 
-1	3I	yeah . 
-1	3I	maybe - 
-1	3I	here . i 'm not sure . 
-1	3I	bottles of juice ? yeah . 
-1	3I	yeah . okay . 
-1	3I	and the soy beans - it doesn't say dry . well let's just stick em there . yeah . we 're good enough . 
-2	3I	should we - ? well - 
-1	3I	yeah . 
-1	3I	okay . yeah . 
-2	3I	well let's see , because we - we only had - see , we 've got - 
-2	3I	you had one row of all food , and this is one row of all food . so maybe we 've got - one , two - see , we 've got two trunc or aisles . maybe - maybe we can do that . yeah . 
-2	3I	i bet that this stuff , the cups and the paper bags and the loose leaf could go here . like maybe cups - 
-1	3I	and uh - 
-1	3I	paper bags . someplace here . 
-1	3I	it could go there . okay . 
-1	3I	loose leaf paper . it's uh - maybe with the toilet paper . 
-1	3I	okay . so . should we do the - the big ones first , and make sure - ? 
-1	3I	okay . 
-1	3I	okay . 
-1	3I	okay . 
-1	3I	yeah . 
-1	3I	kay . 
-2	3I	home . home stuff , doesn't it ? 
-2	3I	we can't - we can't move that , though . she said don't move em . yeah . though we hafta put this back , i think , yeah ? 
-2	3I	cuz that was there . yeah . 
-2	3I	 camping stuff . and i 've got some of that . so - so - so - we could do it over here ? yeah . pre-cut wood . trunc books of matches . 
-1	3I	yeah . 
-2	3I	and uh wet suits is with boating . 
-1	3I	yeah . uh-huh . 
-1	3I	here . yeah . 
-2	3I	it should go around pre-cut wood , yeah . this kinda thing . 
-1	3I	well - yeah , we can take the - yeah . there you go . 
-1	3I	that one down there . 
-2	3I	bags of peat moss . gardening . maybe way down here . 
-1	3I	yeah . 
-1	3I	that 's camping , maybe , is it ? or is it more - ? 
-1	3I	hold on . 
-1	3I	yeah . 
-1	3I	yeah . 
-1	3I	over here , for camping , yeah . 
-1	3I	mm-hm . 
-1	3I	yeah . 
-2	3I	maybe here . okay . and then the empty plastic jugs , maybe here ? and then i 'll just put books up with travel guides . 
-1	3I	okay . 
-2	3I	yeah , it does . okay , so now we 've got clothing and household items . and - 
-2	3I	trunc yeah , i 'm gonna stick - first of all , this right next to the toilet paper , maybe . this stuff , there . 
-1	3I	yeah . that 's okay . mm-hm . 
-2	3I	well - or it - cooking supplies . is there household cooking ? i mean - 
-0	3I	yeah . 
-2	3I	i would probably get it in the household things , but that 's - we don't have a good category for that . 
-1	3I	mm-hm . 
-2	3I	we got a problem with refrigerator magnets . 
-0	3I	um . 
-0	3I	yeah , they did . they did . so we 've got all the clothing . 
-2	3I	and we might just hafta put that around the pet food . we don't have a good way to organize . 
-2	3I	oh yeah . that 's good . 
-2	3I	and then the shoelaces can be part of clothing . 
-1	3I	yeah . and - yeah . there we go . 
-2	3I	okay . okay . and so then we 've got all of these - well , the large vests coulda gone with fishing stuff , but oh well . 
-1	3I	socks . thick sweaters . hats . and then we 've got flags . 
-2	3I	 boat flags maybe . boating supplies . 
-1	3I	okay . okay , we 're done , heather . 
-1	6B	okay . 
-1	6B	mm-hm , mm-hm . 
-2	6B	well i don't see cooks on there . 
-0	6B	yeah . uh-huh . 
-2	6B	oh , no . we can't cut that . 
-0	6B	acti- 
-0	6B	yeah . 
-2	6B	for blind students or trunc yeah . yeah . yeah . 
-2	6B	football equipment . 
-2	6B	i could go with sugar free juice machines . i 'm not sure about the assistant cooks . because we 're talking about the school lunches , and the thing is that educational programs have so many um , free and reduced lunch programs . 
-2	6B	and breakfast programs . so , yeah . 
-2	6B	that 's right . i agree with that . 
-1	6B	what about acting coaches ? 
-1	6B	it is . 
-1	6B	yeah . 
-1	6B	okay . okay . 
-0	6B	mm-hm . 
-1	6B	uh-huh . 
-1	6B	okay . 
-2	6B	uh , football equipment . 
-2	6B	or i 've worked at university for too long . okay . 
-1	6B	can see if there are two . okay . 
-0	6B	hospital additions . 
-2	6B	why ? 
-0	6B	mm-hm . 
-1	6B	mm-hm . 
-2	6B	yeah . and it's um - it is important . 
-2	6B	uh - all of them kind of are important . but i suppose - 
-2	6B	um . i mean , if i knew more about bagel factories , i would know how important , um , the inspections are . why that is picked . is it  picked ? did they stick it on there just because it was a stand-out that was an obvious one ? 
-2	6B	but all the rest of em , um - yeah . 
-2	6B	that 's one i was thinking about . 
-2	6B	we just don't know the situation . if - yeah . 
-2	6B	we need that . yeah . 
-1	6B	bagel . the bagel factory inspections . and the hospital additions . yeah . 
-2	6B	definitely there 's no , um - 
-2	6B	i mean , we 're assuming that each one of em has the same monetary value , which is hardly the fact , but that 's okay . okay . so on to recreation and public services . 
-1	6B	yeah . 
-2	6B	well , i could probably vote for football stadium upkeep , if we 're gonna vote for football equipment . on the other hand , we may be making enemies by totally attacking the football folks . if we gave them their stadium upkeep , 
-2	6B	they may forgive us . i was wondering - there 's like four things for animals . stray cats , trunc kitten and puppy adoption , dog catcher , and then veterinary hospital . 
-2	6B	so , i 'm wondering why the county needs a veterinary hospital . 
-2	6B	or does it need the hospital for the spaying and the - 
-1	6B	i don't know . i 'm - i 'm not sure a county needs a veterinary hospital . 
-2	6B	well my son played soccer . yeah . 
-2	6B	well i would rather have kids off the street and into strong sports , and have trunc more stray cats , i guess . 
-2	6B	we need that , don't we ? yeah ? 
-1	6B	food bank we need . 
-0	6B	which of those things can people do without the county funding them ? i guess . 
-1	6B	maybe kitten and puppy adoption ? reusable bag campaign ? 
-1	6B	maybe . 
-2	6B	yeah . that doesn't  require the county . okay . 
-1	6B	okay . 
-1	6B	okay . 
-2	6B	that 's right . that 's trunc and the families can , yeah . 
-0	6B	mm-hm . 
-0	6B	mm-kay . 
-2	6B	i think that 's probably too . and i 'm thinking taxi stops . do we  need taxi stops ? does the  county need to provide those ? 
-1	6B	uh-huh . 
-2	6B	uh-huh . that 's true . that 's true . i agree with you , yeah . okay . 
-1	6B	so do we need to go back and do any more ? okay . i think we 're done , heather . yeah . 
-2	6B	we wanna not eliminate any more than we have to . 
+1	3I	so now we kinda know the categories . should we take these outta the box first and organize them into categories ?
+2	3I	well - okay . let 's just kinda - cuz we know there 's food , we know there 's sort of outdoor equipment .
+2	3I	i do n't mind . just - trunc i thought - how bout if we put em over here ? and kinda -
+2	3I	trunc oh new column .
+1	3I	yeah , this might help us .
+1	3I	outdoor stuff . gadgets ? like scissors ?
+1	3I	i dunno what flags are .
+1	3I	yeah .
+1	3I	here . right here .
+1	3I	clothing .
+1	3I	tweezers is gon na go - oh - okay .
+1	3I	electric trunc electric heaters . household items , maybe , huh ?
+1	3I	oh , or here . with - okay .
+1	3I	uh , liters of water . mm-kay .
+1	3I	mm-hm .
+2	3I	or could it be with the camping stuff , maybe , for the duct tape ?
+1	3I	yeah .
+0	3I	camping -
+1	3I	mm-hm .
+0	3I	empty plastic jugs .
+1	3I	empty plastic jugs . that might be the camping stuff , huh ?
+1	3I	toothpaste and soap together ?
+0	3I	five-pound weights ? what are those for ?
+0	3I	oh .
+1	3I	yeah .
+1	3I	now large cups , is that for the camping stuff ? or maybe with paper bags ?
+1	3I	camping - wan na give me half of those ? yeah , thanks .
+0	3I	yeah . loose leaf paper .
+0	3I	peat moss .
+0	3I	and loose leaf paper ?
+1	3I	with large cups and paper bags , maybe ?
+1	3I	yeah .
+1	3I	okay . yeah , that 's a good plan . and um -
+0	3I	mm-kay .
+2	3I	so , here we got the cooking supplies for food . and here we 've got the edible stuff . so maybe liters of water -
+2	3I	yeah . that 's right . which would go like here ? trunc oh , cake mix . that 's there .
+2	3I	dairy . right down -
+2	3I	but what about eggs and dairy ? yeah .
+1	3I	maybe that 's camping . no ?
+0	3I	dried figs .
+1	3I	sweets maybe ? on this side ?
+1	3I	okay , that 's fresh food , down here .
+1	3I	canned foods . um , i 'll put that -
+2	3I	that 's frozen food . um . that 'll be here , maybe with packages of cookies ?
+1	3I	okay . i 'm not sure where the can of peas is gon na go yet .
+1	3I	yeah .
+1	3I	maybe -
+1	3I	here . i 'm not sure .
+1	3I	bottles of juice ? yeah .
+1	3I	yeah . okay .
+1	3I	and the soy beans - it does n't say dry . well let 's just stick em there . yeah . we 're good enough .
+2	3I	should we - ? well -
+1	3I	yeah .
+1	3I	okay . yeah .
+2	3I	well let 's see , because we - we only had - see , we 've got -
+2	3I	you had one row of all food , and this is one row of all food . so maybe we 've got - one , two - see , we 've got two trunc or aisles . maybe - maybe we can do that . yeah .
+2	3I	i bet that this stuff , the cups and the paper bags and the loose leaf could go here . like maybe cups -
+1	3I	and uh -
+1	3I	paper bags . someplace here .
+1	3I	it could go there . okay .
+1	3I	loose leaf paper . it 's uh - maybe with the toilet paper .
+1	3I	okay . so . should we do the - the big ones first , and make sure - ?
+1	3I	okay .
+1	3I	okay .
+1	3I	okay .
+1	3I	yeah .
+1	3I	kay .
+2	3I	home . home stuff , does n't it ?
+2	3I	we ca n't - we ca n't move that , though . she said do n't move em . yeah . though we hafta put this back , i think , yeah ?
+2	3I	cuz that was there . yeah .
+2	3I	camping stuff . and i 've got some of that . so - so - so - we could do it over here ? yeah . pre-cut wood . trunc books of matches .
+1	3I	yeah .
+2	3I	and uh wet suits is with boating .
+1	3I	yeah . uh-huh .
+1	3I	here . yeah .
+2	3I	it should go around pre-cut wood , yeah . this kinda thing .
+1	3I	well - yeah , we can take the - yeah . there you go .
+1	3I	that one down there .
+2	3I	bags of peat moss . gardening . maybe way down here .
+1	3I	yeah .
+1	3I	that 's camping , maybe , is it ? or is it more - ?
+1	3I	hold on .
+1	3I	yeah .
+1	3I	yeah .
+1	3I	over here , for camping , yeah .
+1	3I	mm-hm .
+1	3I	yeah .
+2	3I	maybe here . okay . and then the empty plastic jugs , maybe here ? and then i 'll just put books up with travel guides .
+1	3I	okay .
+2	3I	yeah , it does . okay , so now we 've got clothing and household items . and -
+2	3I	trunc yeah , i 'm gon na stick - first of all , this right next to the toilet paper , maybe . this stuff , there .
+1	3I	yeah . that 's okay . mm-hm .
+2	3I	well - or it - cooking supplies . is there household cooking ? i mean -
+0	3I	yeah .
+2	3I	i would probably get it in the household things , but that 's - we do n't have a good category for that .
+1	3I	mm-hm .
+2	3I	we got a problem with refrigerator magnets .
+0	3I	um .
+0	3I	yeah , they did . they did . so we 've got all the clothing .
+2	3I	and we might just hafta put that around the pet food . we do n't have a good way to organize .
+2	3I	oh yeah . that 's good .
+2	3I	and then the shoelaces can be part of clothing .
+1	3I	yeah . and - yeah . there we go .
+2	3I	okay . okay . and so then we 've got all of these - well , the large vests coulda gone with fishing stuff , but oh well .
+1	3I	socks . thick sweaters . hats . and then we 've got flags .
+2	3I	boat flags maybe . boating supplies .
+1	3I	okay . okay , we 're done , heather .
+1	6B	okay .
+1	6B	mm-hm , mm-hm .
+2	6B	well i do n't see cooks on there .
+0	6B	yeah . uh-huh .
+2	6B	oh , no . we ca n't cut that .
+0	6B	trunc
+0	6B	yeah .
+2	6B	for blind students or trunc yeah . yeah . yeah .
+2	6B	football equipment .
+2	6B	i could go with sugar free juice machines . i 'm not sure about the assistant cooks . because we 're talking about the school lunches , and the thing is that educational programs have so many um , free and reduced lunch programs .
+2	6B	and breakfast programs . so , yeah .
+2	6B	that 's right . i agree with that .
+1	6B	what about acting coaches ?
+1	6B	it is .
+1	6B	yeah .
+1	6B	okay . okay .
+0	6B	mm-hm .
+1	6B	uh-huh .
+1	6B	okay .
+2	6B	uh , football equipment .
+2	6B	or i 've worked at university for too long . okay .
+1	6B	can see if there are two . okay .
+0	6B	hospital additions .
+2	6B	why ?
+0	6B	mm-hm .
+1	6B	mm-hm .
+2	6B	yeah . and it 's um - it is important .
+2	6B	uh - all of them kind of are important . but i suppose -
+2	6B	um . i mean , if i knew more about bagel factories , i would know how important , um , the inspections are . why that is picked . is it picked ? did they stick it on there just because it was a stand-out that was an obvious one ?
+2	6B	but all the rest of em , um - yeah .
+2	6B	that 's one i was thinking about .
+2	6B	we just do n't know the situation . if - yeah .
+2	6B	we need that . yeah .
+1	6B	bagel . the bagel factory inspections . and the hospital additions . yeah .
+2	6B	definitely there 's no , um -
+2	6B	i mean , we 're assuming that each one of em has the same monetary value , which is hardly the fact , but that 's okay . okay . so on to recreation and public services .
+1	6B	yeah .
+2	6B	well , i could probably vote for football stadium upkeep , if we 're gon na vote for football equipment . on the other hand , we may be making enemies by totally attacking the football folks . if we gave them their stadium upkeep ,
+2	6B	they may forgive us . i was wondering - there 's like four things for animals . stray cats , trunc kitten and puppy adoption , dog catcher , and then veterinary hospital .
+2	6B	so , i 'm wondering why the county needs a veterinary hospital .
+2	6B	or does it need the hospital for the spaying and the -
+1	6B	i do n't know . i 'm - i 'm not sure a county needs a veterinary hospital .
+2	6B	well my son played soccer . yeah .
+2	6B	well i would rather have kids off the street and into strong sports , and have trunc more stray cats , i guess .
+2	6B	we need that , do n't we ? yeah ?
+1	6B	food bank we need .
+0	6B	which of those things can people do without the county funding them ? i guess .
+1	6B	maybe kitten and puppy adoption ? reusable bag campaign ?
+1	6B	maybe .
+2	6B	yeah . that does n't require the county . okay .
+1	6B	okay .
+1	6B	okay .
+2	6B	that 's right . that 's trunc and the families can , yeah .
+0	6B	mm-hm .
+0	6B	mm-kay .
+2	6B	i think that 's probably too . and i 'm thinking taxi stops . do we need taxi stops ? does the county need to provide those ?
+1	6B	uh-huh .
+2	6B	uh-huh . that 's true . that 's true . i agree with you , yeah . okay .
+1	6B	so do we need to go back and do any more ? okay . i think we 're done , heather . yeah .
+2	6B	we wan na not eliminate any more than we have to .

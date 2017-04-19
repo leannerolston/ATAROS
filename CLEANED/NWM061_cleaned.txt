@@ -1,263 +1,263 @@
-0	3I	well . 
-0	3I	we start with cans of peas . 
-1	3I	i 'm thinking - 
-1	3I	i would put them in , uh , an area with other canned items . 
-1	3I	uh - 
-1	3I	of food . 
-2	3I	on the other hand , i 'm not sure i would put them right with the pet food . 
-1	3I	yeah . 
-1	3I	yeah . 
-1	3I	well in  that case - 
-1	3I	i 'll trunc let's see - 
-0	3I	where would be the most canned item - 
-1	3I	none of these are really - 
-1	3I	canned , but - 
-2	3I	i 'm thinking maybe more with the soybeans . things that are not fresh foods . they 're packaged in some way that are not open . 
-0	3I	bundles of sticks . 
-1	3I	is , uh - i guess kind of a housewares item for starting fires and things . 
-1	3I	trunc thinking - 
-1	3I	more the left column , with either sporting , traveling , or houseware type items . maybe with - 
-1	3I	yeah . 
-1	3I	yeah ! 
-0	3I	hhh , let's see - 
-0	3I	empty plastic jugs . 
-1	3I	well , kind of a storage thing for filling up - 
-1	3I	basements , or - 
-1	3I	disaster preparedness areas . 
-1	3I	perhaps - of course , you can use them in the kitchen as well . 
-1	3I	so it 'd  either be a housewares item , or - 
-1	3I	a kitchen item . 
-1	3I	what do you think ? 
-1	3I	yeah . 
-0	3I	and we have  hats . let's see , are there any other clothing items here that would - 
-0	3I	be associated . 
-0	3I	not really . 
-0	3I	well , we 're looking at things that you don't - 
-0	3I	 eat , that aren't - necessarily houseware items . 
-0	3I	but , it's something for trunc going out of doors . 
-1	3I	perhaps - 
-1	3I	yeah , boating supplies . 
-1	3I	alrighty . you get to pick a few . 
-0	3I	bagels . 
-1	3I	yeah perhaps near the eggs . ma- 
-1	3I	sandwiches for breakfast with them . 
-1	3I	yeah yeah . 
-1	3I	personal care , definitely . 
-0	3I	books . 
-1	3I	yes ! they 're reading - reading trunc items . 
-0	3I	alrighty . get a couple here . 
-0	3I	cases of whiskey . well - 
-0	3I	are there any other alcoholic items ? 
-0	3I	no ? 
-0	3I	yeah . 
-2	3I	so , with the cans of peas and so on ? trunc cuz on cases . yeah . 
-1	3I	and then that wants to know about dried figs . would we want to store those or eat them sooner ? 
-1	3I	yeah . 
-1	3I	that sounds good to me . 
-1	3I	that 's a house supply , i guess with the power cords maybe ? 
-1	3I	hm , travel gear perhaps with the travel guides ? 
-0	3I	buckets . 
-1	3I	yeah . think so . 
-0	3I	cushions for desk chairs . 
-1	3I	hm . house supply kind of thing . 
-1	3I	perhaps with the siding ? 
-2	3I	tweezers ! something for the bathroom . maybe with the toothpaste ? 
-0	3I	yeah . 
-1	3I	yes . 
-2	3I	mm , perhaps with the backpacks and other travel supplies ? or else the bundles of sticks , one of the two . 
-0	3I	yeah . 
-1	3I	yes ! 
-1	3I	definitely . 
-0	3I	large cups hm . 
-1	3I	perhaps with the , uh - other things that we 're storing . 
-2	3I	unless these are meant for the kitchen . 
-2	3I	so i 'm thinking either kitchen or with the trunc things we 're storing in the basement . 
-1	3I	yeah ! 
-1	3I	yeah . 
-1	3I	and bars of soap . makes me think of the bathroom . 
-0	3I	pouches of oatmeal . 
-0	3I	hm . 
-0	3I	is that for traveling or more just for a quick breakfast before school ? 
-1	3I	yeah . 
-0	3I	where 'd i put the cake - ? there it is . 
-0	3I	mm . 
-2	3I	egg - well , the soybeans . 
-1	3I	either one . 
-1	3I	oh , trunc if they 're dried , i don't know . 
-1	3I	mm , say with the backpacks , in that area . 
-1	3I	yeah . 
-2	3I	egg  timers ! hm , possibly with the eggs ? 
-2	3I	or the fridge magnets , yes ! 
-0	3I	where 'd i put the - here they go . 
-0	3I	packages of cookies . 
-0	3I	not fresh , but packaged . 
-1	3I	yeah . 
-0	3I	and where did i put - 
-0	3I	the trunc 
-0	3I	oh . 
-0	3I	here we go . yeah . 
-0	3I	and chocolate bars . 
-2	3I	same area , or somewhere else ? 
-1	3I	okay ! 
-1	3I	yeah 
-1	3I	trunc more junk food . 
-2	3I	yes ! 
-1	3I	yeah . 
-1	3I	yes , definitely . 
-1	3I	yep ! that 's what i 'd do . 
-1	3I	let's see . half-inch tubing . makes me think of household projects . 
-1	3I	along with the duct tape and power cords and box knives ? 
-1	3I	yeah , hm . 
-1	3I	yeah . 
-2	3I	with the thick sweaters and heavy coats , maybe ? 
-0	3I	then bottles of juice . 
-2	3I	hm . well if it was  one bottle , i 'd say where the refrigerator stuff is , but 
-2	3I	lots of them ? maybe for storage . what do you think ? 
-1	3I	okay . 
-1	3I	school supplies ! 
-1	3I	yeah . 
-1	3I	yeah . 
-1	3I	yes ! 
-0	3I	fish hooks . 
-1	3I	other travel and sporting gear ? 
-1	3I	yeah . 
-0	3I	fleece-lined boots . 
-1	3I	yep . 
-2	3I	and  face cream ! something for the bathroom . 
-1	3I	the bars of soap . 
-1	3I	traveling stuff ? 
-1	3I	i guess camping . 
-1	3I	yeah . 
-1	3I	mm-hm . 
-2	3I	yeah or else the tubing , one of those two . yeah . 
-1	3I	yeah . 
-1	3I	definitely . 
-2	3I	well , we have  shoelaces . something else for the home . 
-1	3I	or for domestic - well , we could put it with the other clothing items . 
-1	3I	the boots and such . 
-0	3I	small saws . 
-1	3I	hm , would that be a camping supply ? 
-1	3I	yeah . 
-0	3I	see if i can remember - 
-0	3I	trunc ah , here we go . 
-2	3I	with the sticks , do you think ? 
-0	3I	small sticks - 
-0	3I	here we go ,  bundles of sticks . 
-0	3I	that 's trunc i was looking for the word small . 
-1	3I	okay . 
-1	3I	hm . s- 
+0	3I	well .
+0	3I	we start with cans of peas .
+1	3I	i 'm thinking -
+1	3I	i would put them in , uh , an area with other canned items .
+1	3I	uh -
+1	3I	of food .
+2	3I	on the other hand , i 'm not sure i would put them right with the pet food .
+1	3I	yeah .
+1	3I	yeah .
+1	3I	well in that case -
+1	3I	i 'll trunc let 's see -
+0	3I	where would be the most canned item -
+1	3I	none of these are really -
+1	3I	canned , but -
+2	3I	i 'm thinking maybe more with the soybeans . things that are not fresh foods . they 're packaged in some way that are not open .
+0	3I	bundles of sticks .
+1	3I	is , uh - i guess kind of a housewares item for starting fires and things .
+1	3I	trunc thinking -
+1	3I	more the left column , with either sporting , traveling , or houseware type items . maybe with -
+1	3I	yeah .
+1	3I	yeah !
+0	3I	hhh , let 's see -
+0	3I	empty plastic jugs .
+1	3I	well , kind of a storage thing for filling up -
+1	3I	basements , or -
+1	3I	disaster preparedness areas .
+1	3I	perhaps - of course , you can use them in the kitchen as well .
+1	3I	so it 'd either be a housewares item , or -
+1	3I	a kitchen item .
+1	3I	what do you think ?
+1	3I	yeah .
+0	3I	and we have hats . let 's see , are there any other clothing items here that would -
+0	3I	be associated .
+0	3I	not really .
+0	3I	well , we 're looking at things that you do n't -
+0	3I	eat , that are n't - necessarily houseware items .
+0	3I	but , it 's something for trunc going out of doors .
+1	3I	perhaps -
+1	3I	yeah , boating supplies .
+1	3I	alrighty . you get to pick a few .
+0	3I	bagels .
+1	3I	yeah perhaps near the eggs . ma-
+1	3I	sandwiches for breakfast with them .
+1	3I	yeah yeah .
+1	3I	personal care , definitely .
+0	3I	books .
+1	3I	yes ! they 're reading - reading trunc items .
+0	3I	alrighty . get a couple here .
+0	3I	cases of whiskey . well -
+0	3I	are there any other alcoholic items ?
+0	3I	no ?
+0	3I	yeah .
+2	3I	so , with the cans of peas and so on ? trunc cuz on cases . yeah .
+1	3I	and then that wants to know about dried figs . would we want to store those or eat them sooner ?
+1	3I	yeah .
+1	3I	that sounds good to me .
+1	3I	that 's a house supply , i guess with the power cords maybe ?
+1	3I	hm , travel gear perhaps with the travel guides ?
+0	3I	buckets .
+1	3I	yeah . think so .
+0	3I	cushions for desk chairs .
+1	3I	hm . house supply kind of thing .
+1	3I	perhaps with the siding ?
+2	3I	tweezers ! something for the bathroom . maybe with the toothpaste ?
+0	3I	yeah .
+1	3I	yes .
+2	3I	mm , perhaps with the backpacks and other travel supplies ? or else the bundles of sticks , one of the two .
+0	3I	yeah .
+1	3I	yes !
+1	3I	definitely .
+0	3I	large cups hm .
+1	3I	perhaps with the , uh - other things that we 're storing .
+2	3I	unless these are meant for the kitchen .
+2	3I	so i 'm thinking either kitchen or with the trunc things we 're storing in the basement .
+1	3I	yeah !
+1	3I	yeah .
+1	3I	and bars of soap . makes me think of the bathroom .
+0	3I	pouches of oatmeal .
+0	3I	hm .
+0	3I	is that for traveling or more just for a quick breakfast before school ?
+1	3I	yeah .
+0	3I	where 'd i put the cake - ? there it is .
+0	3I	mm .
+2	3I	egg - well , the soybeans .
+1	3I	either one .
+1	3I	oh , trunc if they 're dried , i do n't know .
+1	3I	mm , say with the backpacks , in that area .
+1	3I	yeah .
+2	3I	egg timers ! hm , possibly with the eggs ?
+2	3I	or the fridge magnets , yes !
+0	3I	where 'd i put the - here they go .
+0	3I	packages of cookies .
+0	3I	not fresh , but packaged .
+1	3I	yeah .
+0	3I	and where did i put -
+0	3I	the trunc
+0	3I	oh .
+0	3I	here we go . yeah .
+0	3I	and chocolate bars .
+2	3I	same area , or somewhere else ?
+1	3I	okay !
+1	3I	yeah
+1	3I	trunc more junk food .
+2	3I	yes !
+1	3I	yeah .
+1	3I	yes , definitely .
+1	3I	yep ! that 's what i 'd do .
+1	3I	let 's see . half-inch tubing . makes me think of household projects .
+1	3I	along with the duct tape and power cords and box knives ?
+1	3I	yeah , hm .
+1	3I	yeah .
+2	3I	with the thick sweaters and heavy coats , maybe ?
+0	3I	then bottles of juice .
+2	3I	hm . well if it was one bottle , i 'd say where the refrigerator stuff is , but
+2	3I	lots of them ? maybe for storage . what do you think ?
+1	3I	okay .
+1	3I	school supplies !
+1	3I	yeah .
+1	3I	yeah .
+1	3I	yes !
+0	3I	fish hooks .
+1	3I	other travel and sporting gear ?
+1	3I	yeah .
+0	3I	fleece-lined boots .
 1	3I	yep .
-1	3I	power cords ? 
-1	3I	uh-huh ! 
-1	3I	and the boats and all that . 
-1	3I	well , , i think we 're done ! 
-1	6B	well , i 'm thinking the easiest thing to do is to of- 
-1	6B	look for the weak spot in each column , look for the one thing that stands out as the most negotiable . i mean , even though everything's important . 
-1	6B	football equipment ? 
-1	6B	or cooking classes . 
-1	6B	yeah . 
-1	6B	i 'm - i 'm thinking - 
-2	6B	in my mind , the things that you  can learn yourself at home - 
-2	6B	pretty easily , you know , through books or looking things up in the library - 
-2	6B	and the things you really  can't do on your own trunc or at home . 
-2	6B	i 'm thinking , well , a person can learn to cook without a home economics class . 
-2	6B	their mothers can teach them , books can teach them . 
-1	6B	yeah . 
-2	6B	although , i 'd  like to keep the juice machines in the long term for health reasons , but i can see - 
-2	6B	i mean if it's - if it's between those or one of the tutors , you know , trunc i certainly don't wanna get rid of the custodians or the math tutors , for example . 
-1	6B	i 'm  willing to trunc uh , to get rid of the football equipment , even though i know sports are a big money earner . um - 
-0	6B	yeah . 
-2	6B	poetry books . well - 
-2	6B	if it's a choice between the poetry books and the acting  coaches , i 'd keep the  coaches , because they 're actually  teaching and the books are just books . 
-1	6B	yeah , that 's true 
-2	6B	but it's - , again , it's what can they substitute , what can they do on their  own by going to a library or something ? well , they can read poetry on their own . 
-1	6B	can go . 
-1	6B	yeah . 
-0	6B	yeah . 
-1	6B	let's see , i think - what would be the single most important thing ? the math tutors ? 
-1	6B	if i could only pick , like , what's the single highest - what's the top funding list . for me , i guess it's the math tutors . 
-2	6B	also , i can - i can see getting rid of the notetakers . not that i wanna leave out those who are disabled , but i 'm thinking they can just have a student next to them photocopy their notes - 
-2	6B	rather than having someone  else in there to take notes  for the disabled person . they can just get a copy of another student's notes . 
-2	6B	so i 'm willing to part with the notetakers , as well . 
-1	6B	so ! you wanna go to the next column ? public health and safety . uh . 
-2	6B	uh , i don't know if that 's - 
-2	6B	well - hm . 
-2	6B	if it gets to be  really bad - but i - that 's like , if i have to - well - 
-2	6B	i think again , i can trade off more for the hospital additions . 
-2	6B	 weed control . i - i 'd like to make that just the individual  homeowner's responsibility an- 
-2	6B	well - for the public areas , maybe when we have more money in the budget . 
-1	6B	no . 
-1	6B	yeah . 
-1	6B	on a volunteer basis . 
-2	6B	i  really wanna keep the toxic waste disposal , though . we  got ta keep the public safe from that stuff . 
-2	6B	job training pays off a  lot in the long run , so - 
-1	6B	what can we trade off ? what can we trunc well , the hospital additions we can wait on . 
-1	6B	yeah . 
-1	6B	that 's true . 
-1	6B	yeah yeah , i think we 've done enough there , then . i don't want to do too much compromising when it comes to health and safety in general , anyway . 
-0	6B	recreation and public services . 
-2	6B	hm , again , the community news ads are  nice , but i can - they can get their news from the radio . from other sources . 
-2	6B	buy a paper . 
-1	6B	soccer league is nice , but - 
-1	6B	i 'd rather be  feeding people . 
-1	6B	mm-hm put the money to  housing assistance . 
-1	6B	yeah . 
-1	6B	i can - i can part with the public access station - 
-1	6B	in order to - 
-1	6B	properly fund , you know , the soup kitchen and the - 
-1	6B	housing assistance and the food bank . 
-0	6B	let's see . 
-0	6B	uh , infrastructure and licensing . 
-2	6B	i  really want the teaching certificates cuz we - we want good education infrastructure . 
-1	6B	the speed limit signs are important . 
-1	6B	safety measure . 
-2	6B	i can definitely part with the tattoo artist licenses . 
-0	6B	uh - 
-1	6B	yeah . 
-1	6B	i don't think we need - 
-1	6B	too many - 
-1	6B	towing services , again , people can call triple a_ . 
-1	6B	i  do want pothole maintenance . 
-2	6B	subway system , i 'm on the fence about . for those who use it , it's very important , but we already have buses . 
-2	6B	i can definitely trade off the massage certificates and extra  taxi stops - 
-2	6B	in order to have , say - 
-2	6B	more  bus stops . 
-1	6B	i 'd rather have more bus upkeep , than the fishing licenses . 
-2	6B	i can trade away the hunting tags in order to have more drainage ditches i 'm just thinking of the real nuts and bolts , keeping the city working stuff . 
-1	6B	yeah . 
-2	6B	the massage certificates can go away . 
-2	6B	oh , i would get rid of both . 
-1	6B	oh ! if we only get rid of three things , okay . 
-1	6B	oh ! okay . 
-1	6B	uh yeah , i - the - the three  low end things i could definitely get rid of would be - 
-1	6B	the trunc taxi stops - 
-1	6B	the hunting tags , and the tattoo licenses . 
-3	6B	well actually - 
-3	6B	the  massage certificates are gonna go trunc i 'd get rid of the tattoos , the massages - 
-1	6B	and - 
-1	6B	yeah , trunc they do . 
-0	6B	mm-hm . 
-1	6B	yeah . 
-2	6B	it would - it would depend , i mean it would vary from one area to the next . 
-2	6B	more rural , it would probably be - 
-2	6B	but here we don't need hunting tags so much . so i can see of the hunting tags . 
-1	6B	and i can see getting rid of the massage certificates , and then - 
-2	6B	 either the fishing or the tattoos . for  where we are , for the trunc the metropolitan area . for urban areas . okay . we don't need the fishing licenses so much . 
-2	6B	well , i 'm more focused on cheaper public transit . it's not that i have a  problem with taxi stops . 
-1	6B	uh , yeah . 
-1	6B	yeah . 
-2	6B	and people can still get taxis at the - yeah . and they get - trunc they get taxis in the most  important areas anyway . just , like ,  they would argue , well , we still have the most important bus stops . it's , like , yeah ,  but , they have more people taking buses . 
-1	6B	so i 'd rather have more bus stops than more taxi stops . 
-0	6B	the three to get rid of ? 
-0	6B	uh - 
-1	6B	well , trunc  if i 'm limited to three , then i would probably , myself - 
-1	6B	want to get rid of - 
-1	6B	oh , i 'd want to get rid of the hunting license , the fishing licenses - 
-1	6B	and - 
-1	6B	probably the taxi stops . 
-0	6B	yeah . 
-2	6B	and the most important one to  keep ,  i think , are the teaching certificates . 
-1	6B	definitely want a good teaching infrastructure . 
-0	6B	alrighty is there more ? 
-0	6B	yeah . 
-0	6B	why , thank you ! 
+2	3I	and face cream ! something for the bathroom .
+1	3I	the bars of soap .
+1	3I	traveling stuff ?
+1	3I	i guess camping .
+1	3I	yeah .
+1	3I	mm-hm .
+2	3I	yeah or else the tubing , one of those two . yeah .
+1	3I	yeah .
+1	3I	definitely .
+2	3I	well , we have shoelaces . something else for the home .
+1	3I	or for domestic - well , we could put it with the other clothing items .
+1	3I	the boots and such .
+0	3I	small saws .
+1	3I	hm , would that be a camping supply ?
+1	3I	yeah .
+0	3I	see if i can remember -
+0	3I	trunc ah , here we go .
+2	3I	with the sticks , do you think ?
+0	3I	small sticks -
+0	3I	here we go , bundles of sticks .
+0	3I	that 's trunc i was looking for the word small .
+1	3I	okay .
+1	3I	hm . s-
+1	3I	yep. }
+1	3I	power cords ?
+1	3I	uh-huh !
+1	3I	and the boats and all that .
+1	3I	well , , i think we 're done !
+1	6B	well , i 'm thinking the easiest thing to do is to of-
+1	6B	look for the weak spot in each column , look for the one thing that stands out as the most negotiable . i mean , even though everything 's important .
+1	6B	football equipment ?
+1	6B	or cooking classes .
+1	6B	yeah .
+1	6B	i 'm - i 'm thinking -
+2	6B	in my mind , the things that you can learn yourself at home -
+2	6B	pretty easily , you know , through books or looking things up in the library -
+2	6B	and the things you really ca n't do on your own trunc or at home .
+2	6B	i 'm thinking , well , a person can learn to cook without a home economics class .
+2	6B	their mothers can teach them , books can teach them .
+1	6B	yeah .
+2	6B	although , i 'd like to keep the juice machines in the long term for health reasons , but i can see -
+2	6B	i mean if it 's - if it 's between those or one of the tutors , you know , trunc i certainly do n't wan na get rid of the custodians or the math tutors , for example .
+1	6B	i 'm willing to trunc uh , to get rid of the football equipment , even though i know sports are a big money earner . um -
+0	6B	yeah .
+2	6B	poetry books . well -
+2	6B	if it 's a choice between the poetry books and the actingcoaches , i 'd keep the coaches , because they 're actually teaching and the books are just books .
+1	6B	yeah , that 's true
+2	6B	but it 's - , again , it 's what can they substitute , what can they do on their own by going to a library or something ? well , they can read poetry on their own .
+1	6B	can go .
+1	6B	yeah .
+0	6B	yeah .
+1	6B	let 's see , i think - what would be the single most important thing ? the math tutors ?
+1	6B	if i could only pick , like , what 's the single highest - what 's the top funding list . for me , i guess it 's the math tutors .
+2	6B	also , i can - i can see getting rid of the notetakers . not that i wan na leave out those who are disabled , but i 'm thinking they can just have a student next to them photocopy their notes -
+2	6B	rather than having someone else in there to take notes for the disabled person . they can just get a copy of another student 's notes .
+2	6B	so i 'm willing to part with the notetakers , as well .
+1	6B	so ! you wan na go to the next column ? public health and safety . uh .
+2	6B	uh , i do n't know if that 's -
+2	6B	well - hm .
+2	6B	if it gets to be really bad - but i - that 's like , if i have to - well -
+2	6B	i think again , i can trade off more for the hospital additions .
+2	6B	weed control . i - i 'd like to make that just the individual homeowner 's responsibility an-
+2	6B	well - for the public areas , maybe when we have more money in the budget .
+1	6B	no .
+1	6B	yeah .
+1	6B	on a volunteer basis .
+2	6B	i really wan na keep the toxic waste disposal , though . we got ta keep the public safe from that stuff .
+2	6B	job training pays off a lot in the long run , so -
+1	6B	what can we trade off ? what can we trunc well , the hospital additions we can wait on .
+1	6B	yeah .
+1	6B	that 's true .
+1	6B	yeah yeah , i think we 've done enough there , then . i do n't want to do too much compromising when it comes to health and safety in general , anyway .
+0	6B	recreation and public services .
+2	6B	hm , again , the community news ads are nice , but i can - they can get their news from the radio . from other sources .
+2	6B	buy a paper .
+1	6B	soccer league is nice , but -
+1	6B	i 'd rather be feeding people .
+1	6B	mm-hm put the money to housing assistance .
+1	6B	yeah .
+1	6B	i can - i can part with the public access station -
+1	6B	in order to -
+1	6B	properly fund , you know , the soup kitchen and the -
+1	6B	housing assistance and the food bank .
+0	6B	let 's see .
+0	6B	uh , } infrastructure and licensing .
+2	6B	i really want the teaching certificates cuz we - we want good education infrastructure .
+1	6B	the speed limit signs are important .
+1	6B	safety measure .
+2	6B	i can definitely part with the tattoo artist licenses .
+0	6B	uh -
+1	6B	yeah .
+1	6B	i do n't think we need -
+1	6B	too many -
+1	6B	towing services , again , people can call triple a_ .
+1	6B	i do want pothole maintenance .
+2	6B	subway system , i 'm on the fence about . for those who use it , it 's very important , but we already have buses .
+2	6B	i can definitely trade off the massage certificates and extra taxi stops -
+2	6B	in order to have , say -
+2	6B	more bus stops .
+1	6B	i 'd rather have more bus upkeep , than the fishing licenses .
+2	6B	i can trade away the hunting tags in order to have more drainage ditches i 'm just thinking of the real nuts and bolts , keeping the city working stuff .
+1	6B	yeah .
+2	6B	the massage certificates can go away .
+2	6B	oh , i would get rid of both .
+1	6B	oh ! if we only get rid of three things , okay .
+1	6B	oh ! okay .
+1	6B	uh yeah , i - the - the three low end things i could definitely get rid of would be -
+1	6B	the trunc taxi stops -
+1	6B	the hunting tags , and the tattoo licenses .
+3	6B	well actually -
+3	6B	the massage certificates are gon na go trunc i 'd get rid of the tattoos , the massages -
+1	6B	and -
+1	6B	yeah , trunc they do .
+0	6B	mm-hm .
+1	6B	yeah .
+2	6B	it would - it would depend , i mean it would vary from one area to the next .
+2	6B	more rural , it would probably be -
+2	6B	but here we do n't need hunting tags so much . so i can see of the hunting tags .
+1	6B	and i can see getting rid of the massage certificates , and then -
+2	6B	either the fishing or the tattoos . for where we are , for the trunc the metropolitan area . for urban areas . okay . we do n't need the fishing licenses so much .
+2	6B	well , i 'm more focused on cheaper public transit . it 's not that i have a problem with taxi stops .
+1	6B	uh , yeah .
+1	6B	yeah .
+2	6B	and people can still get taxis at the - yeah . and they get - trunc they get taxis in the most important areas anyway . just , like , they would argue , well , we still have the most important bus stops . it 's , like , yeah , but , they have more people taking buses .
+1	6B	so i 'd rather have more bus stops than more taxi stops .
+0	6B	the three to get rid of ?
+0	6B	uh -
+1	6B	well , trunc if i 'm limited to three , then i would probably , myself -
+1	6B	want to get rid of -
+1	6B	oh , i 'd want to get rid of the hunting license , the fishing licenses -
+1	6B	and -
+1	6B	probably the taxi stops .
+0	6B	yeah .
+2	6B	and the most important one to keep , i think , are the teaching certificates .
+1	6B	definitely want a good teaching infrastructure .
+0	6B	alrighty is there more ?
+0	6B	yeah .
+0	6B	why , thank you !

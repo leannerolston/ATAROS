@@ -1,3052 +1,763 @@
-0	3I	i guess. yeah. i guess you and i just went into business together. um.
-0	3I	kay. large vests.
-2	3I	i actually wanna pass on this one, cuz i don't know whether they mean vests like -
-0	3I	you know, like a -
-0	3I	patagonia fleece vest, or do they mean like a, you know - anyway.
-0	3I	yeah. that's - that's what i'm wondering. like a * life vest.
-1	3I	yeah.
-1	3I	yeah. alright. yeah, yeah, yeah. no, it's good.
-1	3I	i'm not even gonna go there. i just - actually, i will. so i was at portland for this, um,
-0	3I	oh really?
+0	3I	i guess . yeah . i guess you and i just went into business together . um .
+0	3I	kay . large vests .
+2	3I	i actually wan na pass on this one , cuz i do n't know whether they mean vests like -
+0	3I	you know , like a -
+0	3I	patagonia fleece vest , or do they mean like a , you know - anyway .
+0	3I	yeah . that 's - that 's what i 'm wondering . like a life vest .
+1	3I	yeah .
+1	3I	yeah . alright . yeah , yeah , yeah . no , it 's good .
+1	3I	i 'm not even gon na go there . i just - actually , i will . so i was at portland for this , um ,
+0	3I	oh really ?
 0	3I	so it was down - it was down at the mariott -
-1	3I	oh. too bad. sorry.
-2	3I	but it - it, you know, it's kinda fun. i mean, auditors love to make fun of themselves. it's like, you know -
-2	3I	the great thing about hanging out with auditors is that they're - it's kind of like hanging out with accountants. except not - they - auditors don't have quite the scintillating personality.
-0	3I	you know? um.
-0	3I	but, there was this -
-0	3I	yes, exactly. there was this - there was this one - this - there was a little bit of whiskey. um. just a little. actually more, you know, like, uh,
-0	3I	artisanal beer-kinda stuff. um.
-1	3I	yeah. yeah. we had a good time.
-0	3I	but this one guy was giving a presentation, um, from the g_a_o_.
-0	3I	no. no, no no. i heard about that. i think that - i - was that about clinton? i thought that was like, obama's people. um.
-3	3I	and then, i turned out, and then they started speaking into their wrists, and - and i realized, oh, they're also part of the secret service. and i'm like, you can't - what are you doing, man? like, you can't do that!
-2	3I	like, it was just crazy sexist. it was - it was a little awkward. um. yeah, like -
-2	3I	trunc somebody needs to explain that it's twenty fourteen. okay.
-2	3I	tow ropes. i think that would go next to boating supplies. alright.
-2	3I	yeah, yeah. yeah. it's a great idea.
-2	3I	we could go near the sugar, ice cream kinda stuff.
-1	3I	i mean, if they have pop and you know, other - * gatorade, or whatever.
-0	3I	yeah. yeah.
-1	3I	yeah, let's put it next to the toilet paper. think so.
-2	3I	the hard part is remembering what we've put and -
-2	3I	can't move the other ones. scissors.
-1	3I	maybe up by the refrigerator magnets?
-1	3I	kay.
-1	3I	yeah.
-1	3I	yeah.
-1	3I	perfect.
-0	3I	do we even have any?
-1	3I	yeah. um.
-2	3I	what if we - we've got this whole kind of open area. here, i'm gonna do something weird.
-1	3I	yeah. um.
-1	3I	yeah, let's just - yeah. we'll just take over the middle of that aisle.
-0	3I	egg timers. where was the, um -
-1	3I	like, next to refrigerator magnets, maybe?
-1	3I	yeah. totally.
-1	3I	kay.
-0	3I	that's interesting that you did that, cuz i actually did the opposite.
-0	3I	yeah, i assumed that this was the aisle, and these were the walls.
-0	3I	you know?
-1	3I	it trunc i don't think it matters. you know. we'll just try and be logic about it.
-1	3I	yeah. yeah.
-2	3I	yeah, or even down here. * if there's things like the axes and the -
-1	3I	wood products and other stuff.
-1	3I	kay. cuz see, i still got this heavy cable. i got the large vests in my hand.
-1	3I	or i can hang onto it.
-2	3I	cuz - i do think that these are all something in the same category. unless we hafta deal with the clothes. but i'll pull that one out there.
-0	3I	you know.
-0	3I	food.
-1	3I	perfect. yep.
-0	3I	dried figs.
-1	3I	same thing.
-1	3I	you wanna do that?
-1	3I	okay. okay.
-2	3I	i - it - it trunc let's just see how crowded it gets. i mean, that's the other thing.
-0	3I	buckets.
-2	3I	put it with the siding.
-0	3I	you know. i trunc yeah.
-0	3I	yeah.
-1	3I	box knives. see, i think we're all kind of in this - box knives, buckets -
-0	3I	um.
-0	3I	yeah, where did we put the scissors?
-2	3I	let's put it with the scissors.
-0	3I	liters of water. um.
-1	3I	maybe with the juice?
-1	3I	somewhere in that area?
-1	3I	yeah.
-0	3I	empty plastic jugs.
-0	3I	buckets?
-1	3I	kay.
-0	3I	axes.
-0	3I	okay.
-2	3I	trunc um. i'm gonna do this. so small axes. we can move em around later. heavy cable.
-2	3I	i'm just - here, actually, i'll put the heavy cable with the power cords.
+1	3I	oh . too bad . sorry .
+2	3I	but it - it , you know , it 's kinda fun . i mean , auditors love to make fun of themselves . it 's like , you know -
+2	3I	the great thing about hanging out with auditors is that they 're - it 's kind of like hanging out with accountants . except not - they - auditors do n't have quite the scintillating personality .
+0	3I	you know ? um .
+0	3I	but , there was this -
+0	3I	yes , exactly . there was this - there was this one - this - there was a little bit of whiskey . um . just a little . actually more , you know , like , uh ,
+0	3I	artisanal beer-kinda stuff . um .
+1	3I	yeah . yeah . we had a good time .
+0	3I	but this one guy was giving a presentation , um , from the g_a_o_ .
+0	3I	no . no , no no . i heard about that . i think that - i - was that about clinton ? i thought that was like , obama 's people . um .
+3	3I	and then , i turned out , and then they started speaking into their wrists , and - and i realized , oh , they 're also part of the secret service . and i 'm like , you ca n't - what are you doing , man ? like , you ca n't do that !
+2	3I	like , it was just crazy sexist . it was - it was a little awkward . um . yeah , like -
+2	3I	trunc somebody needs to explain that it 's twenty fourteen . okay .
+2	3I	tow ropes . i think that would go next to boating supplies . alright .
+2	3I	yeah , yeah . yeah . it 's a great idea .
+2	3I	we could go near the sugar , ice cream kinda stuff .
+1	3I	i mean , if they have pop and you know , other - gatorade , or whatever .
+0	3I	yeah . yeah .
+1	3I	yeah , let 's put it next to the toilet paper . think so .
+2	3I	the hard part is remembering what we 've put and -
+2	3I	ca n't move the other ones . scissors .
+1	3I	maybe up by the refrigerator magnets ?
+1	3I	kay .
+1	3I	yeah .
+1	3I	yeah .
+1	3I	perfect .
+0	3I	do we even have any ?
+1	3I	yeah . um .
+2	3I	what if we - we 've got this whole kind of open area . here , i 'm gon na do something weird .
+1	3I	yeah . um .
+1	3I	yeah , let 's just - yeah . we 'll just take over the middle of that aisle .
+0	3I	egg timers . where was the , um -
+1	3I	like , next to refrigerator magnets , maybe ?
+1	3I	yeah . totally .
+1	3I	kay .
+0	3I	that 's interesting that you did that , cuz i actually did the opposite .
+0	3I	yeah , i assumed that this was the aisle , and these were the walls .
+0	3I	you know ?
+1	3I	it trunc i do n't think it matters . you know . we 'll just try and be logic about it .
+1	3I	yeah . yeah .
+2	3I	yeah , or even down here . if there 's things like the axes and the -
+1	3I	wood products and other stuff .
+1	3I	kay . cuz see , i still got this heavy cable . i got the large vests in my hand .
+1	3I	or i can hang onto it .
+2	3I	cuz - i do think that these are all something in the same category . unless we hafta deal with the clothes . but i 'll pull that one out there .
+0	3I	you know .
+0	3I	food .
+1	3I	perfect . yep .
+0	3I	dried figs .
+1	3I	same thing .
+1	3I	you wan na do that ?
+1	3I	okay . okay .
+2	3I	i - it - it trunc let 's just see how crowded it gets . i mean , that 's the other thing .
+0	3I	buckets .
+2	3I	put it with the siding .
+0	3I	you know . i trunc yeah .
+0	3I	yeah .
+1	3I	box knives . see , i think we 're all kind of in this - box knives , buckets -
+0	3I	um .
+0	3I	yeah , where did we put the scissors ?
+2	3I	let 's put it with the scissors .
+0	3I	liters of water . um .
+1	3I	maybe with the juice ?
+1	3I	somewhere in that area ?
+1	3I	yeah .
+0	3I	empty plastic jugs .
+0	3I	buckets ?
+1	3I	kay .
+0	3I	axes .
+0	3I	okay .
+2	3I	trunc um . i 'm gon na do this . so small axes . we can move em around later . heavy cable .
+2	3I	i 'm just - here , actually , i 'll put the heavy cable with the power cords .
 0	3I	but all these kind of things -
-0	3I	the box knives.
-1	3I	yeah.
-2	3I	but these - these are all - they seem like home depot kind of * stuff. you know?
+0	3I	the box knives .
+1	3I	yeah .
+2	3I	but these - these are all - they seem like home depot kind of stuff . you know ?
 1	3I	maybe next to the -
-1	3I	okay. that works.
-1	3I	end of - end of the aisle?
-1	3I	put it there.
-1	3I	sticks of butter. um. i think butter should go near the eggs.
-0	3I	dairy products. um.
-1	3I	yeah. yep. totally.
-0	3I	um.
-1	3I	here maybe? i'm - i'm thinking like somewhere in the clothing area.
-1	3I	kay. the trunc you know what's gonna happen though, peter? i'm gonna forget which ones we had pre-assigned and which ones we put here.
+1	3I	okay . that works .
+1	3I	end of - end of the aisle ?
+1	3I	put it there .
+1	3I	sticks of butter . um . i think butter should go near the eggs .
+0	3I	dairy products . um .
+1	3I	yeah . yep . totally .
+0	3I	um .
+1	3I	here maybe ? i 'm - i 'm thinking like somewhere in the clothing area .
+1	3I	kay . the trunc you know what 's gon na happen though , peter ? i 'm gon na forget which ones we had pre-assigned and which ones we put here .
 0	3I	well -
-0	3I	yeah.
-0	3I	absolutely! i - okay.
-0	3I	okay.
-0	3I	um.
-0	3I	i totally remember eve's buffet. yes!
-0	3I	alright.
-0	3I	no, yeah. the - the * stadium fred meyer. absolutely. so i useta, um, catch the fifty-one bus,
-0	3I	down and then switch to the twenty-two and catch it up burnside,
-0	3I	to school, and so -
-0	3I	yeah. yeah. so, um -
-0	3I	yeah, i've - i've spent some * quality time at the stadium fred meyer.
-0	3I	now i'm trying to remember - there was like, you know, you'd go downtown, and there were a couple record stores i go to, like django's and dudley's and stuff,
-0	3I	i almost wanna say like a * tower records. i think it was a tower records. or it mighta been a -
-0	3I	any - it mighta been fred meyer's, right? but there was that weird, kind of off building that was on the corner of burnside.
-0	3I	and i would - you know, if i had ten minutes to kill, i'd go in and look and see what - what was - what was happening music-wise.
-0	3I	yeah.
-1	3I	they did it.
-1	3I	yeah.
-1	3I	well that was - you know - in - in an era of hair metal, that was one of the few places where you could get cool things.
-0	3I	uh.
-0	3I	yeah.
-1	3I	oh yeah. um. i - i remember i - what did i -?
-0	3I	i bought sound garden there. i bought a bunch of stuff there.
-0	3I	okay. um. rolls of duct tape.
-1	3I	this - this area, in the bottom of the first aisle. yeah.
-1	3I	why not with the travel guides? yeah.
-2	3I	yeah, i think so. here.
-2	3I	we'll move that.
-1	3I	large cups.
-1	3I	yep. yep. totally.
-2	3I	pouches of oatmeal. same - somewhere in there. maybe - maybe here. it's like dried goods.
-1	3I	trunc half-inch tubing. that's a power cords - no, that would work.
-1	3I	yeah.
+0	3I	yeah .
+0	3I	absolutely ! i - okay .
+0	3I	okay .
+0	3I	um .
+0	3I	i totally remember eve 's buffet . yes !
+0	3I	alright .
+0	3I	no , yeah . the - the stadium fred meyer . absolutely . so i useta , um , catch the fifty-one bus ,
+0	3I	down and then switch to the twenty-two and catch it up burnside ,
+0	3I	to school , and so -
+0	3I	yeah . yeah . so , um -
+0	3I	yeah , i 've - i 've spent some quality time at the stadium fred meyer .
+0	3I	now i 'm trying to remember - there was like , you know , you 'd go downtown , and there were a couple record stores i go to , like django 's and dudley 's and stuff ,
+0	3I	i almost wan na say like a tower records . i think it was a tower records . or it mighta been a -
+0	3I	any - it mighta been fred meyer 's , right ? but there was that weird , kind of off building that was on the corner of burnside .
+0	3I	and i would - you know , if i had ten minutes to kill , i 'd go in and look and see what - what was - what was happening music-wise .
+0	3I	yeah .
+1	3I	they did it .
+1	3I	yeah .
+1	3I	well that was - you know - in - in an era of hair metal , that was one of the few places where you could get cool things .
+0	3I	uh .
+0	3I	yeah .
+1	3I	oh yeah . um . i - i remember i - what did i - ?
+0	3I	i bought sound garden there . i bought a bunch of stuff there .
+0	3I	okay . um . rolls of duct tape .
+1	3I	this - this area , in the bottom of the first aisle . yeah .
+1	3I	why not with the travel guides ? yeah .
+2	3I	yeah , i think so . here .
+2	3I	we 'll move that .
+1	3I	large cups .
+1	3I	yep . yep . totally .
+2	3I	pouches of oatmeal . same - somewhere in there . maybe - maybe here . it 's like dried goods .
+1	3I	trunc half-inch tubing . that 's a power cords - no , that would work .
+1	3I	yeah .
 1	3I	i dunno what - what trunc
-0	3I	um.
-0	3I	yes. um.
-2	3I	i think - i think it might be. uh.
-1	3I	see, this one to me, it's like it -
-0	3I	does he?
-0	3I	hm!
-0	3I	yeah.
-0	3I	yeah.
-0	3I	um.
-2	3I	i - i think, in terms of the whiskey, this is another one we should hang onto.
-2	3I	no. no. not - i - i was tempted to put it across from the toys, and then i -
-2	3I	you could put this in a stand-alone almost anywhere. i'd probably put it at the end, by like, books or something. i mean -
-0	3I	um.
-1	3I	so, yeah, let's hang onto that one.
-1	3I	yeah.
-0	3I	um.
+0	3I	um .
+0	3I	yes . um .
+2	3I	i think - i think it might be . uh .
+1	3I	see , this one to me , it 's like it -
+0	3I	does he ?
+0	3I	hm !
+0	3I	yeah .
+0	3I	yeah .
+0	3I	um .
+2	3I	i - i think , in terms of the whiskey , this is another one we should hang onto .
+2	3I	no . no . not - i - i was tempted to put it across from the toys , and then i -
+2	3I	you could put this in a stand-alone almost anywhere . i 'd probably put it at the end , by like , books or something . i mean -
+0	3I	um .
+1	3I	so , yeah , let 's hang onto that one .
+1	3I	yeah .
+0	3I	um .
 0	3I	ri-
-1	3I	bars of soap, maybe?
-1	3I	yeah.
-0	3I	canvas bags. um.
-2	3I	yeah. or maybe next to the mouse traps? cuz this is all gonna be plastic stuff, right?
-0	3I	okay.
-0	3I	yeah.
-1	3I	that's - i think that's good for now.
-0	3I	pre-cut wood.
-2	3I	i'm gonna move the heavy cable.
-1	3I	yeah.
-1	3I	do that. like that, or something.
-1	3I	yes.
-2	3I	totally. here. in fact, put it by the soap.
-0	3I	maybe it's just mint.
-1	3I	beets. uh, beets with the -
-1	3I	soy beans, cans of peas, all that stuff.
-0	3I	now the soy beans were permanent, right?
-2	3I	yeah. okay. cuz we may need to move the oatmeal, and the dried - you know, like - kay.
-2	3I	just move it up.
-0	3I	light jackets.
-0	3I	wet suits.
-1	3I	can we put the wet suits there?
-1	3I	with the - with the boating supplies?
-0	3I	ack. what do you use a five-pound weight for?
-0	3I	could be. it could be like a * diving thing. yeah.
-0	3I	yeah.
-1	3I	i think - i think - yeah, i think that'd be -
-0	3I	heavy. um.
-0	3I	right.
-0	3I	well, i mean, you might -
-0	3I	that's what i'm saying, if you go diving. but - that's actually a * lot. like -
-0	3I	you know.
-0	3I	yeah.
-1	3I	or a - you might put, like, five or ten pounds. you - you wouldn't have like a series of five-pound weights.
-1	3I	we'll just throw it in there.
-0	3I	um.
-1	3I	why don't we put it with the weights? same kinda thing.
-1	3I	yeah.
-1	3I	fleece-lined boots. um. were the socks here? we put all of this here, right? we picked that.
-2	3I	put the boots there.
-0	3I	hm.
-2	3I	put it right there.
-2	3I	yeah.
-1	3I	good call.
-2	3I	okay. but we can - we can fix this. we could move -
-2	3I	the siding hasta stay there.
-2	3I	what if we do this?
-1	3I	yeah. we could do that.
-1	3I	i'm thinking of moving them all up, though, so they're next to the siding, too. go see - you gotta cut siding.
-0	3I	so.
-1	3I	do this.
-0	3I	the plastic jugs just kinda ended up over there.
-1	3I	sure.
-1	3I	yeah, there you go.
-1	3I	yes.
-1	3I	yeah.
-0	3I	bagels.
-0	3I	i say canvas bag.
-0	3I	and i say bagels. yes.
-0	3I	yeah.
-1	3I	uh yeah. that'll work.
-0	3I	yeah.
-2	3I	the flags. where - um. let's put the flags here. just -
-0	3I	right.
-2	3I	you could do that. um. i actually think we should put vests there for now.
-1	3I	yeah. that works. that's perfect.
-1	3I	yeah. put em there.
-1	3I	yeah. so we could put em -
-1	3I	there.
-0	3I	kay. cases of whiskey.
-2	3I	right next to the toys. n um.
-2	3I	i think so. trunc here's - i do wanna do this, though. i know this is neurotic. um. i wanna move -
-2	3I	the saws and axes and stuff next to the siding. because -
-1	3I	yeah.
-1	3I	yeah. and then the buckets, we can just -
-1	3I	i dunno. buckets are fine there.
-1	3I	we could do that.
-0	3I	right.
-1	3I	trunc trunc switch the - yep.
-0	3I	buckets, rolls of duct tape, half-inch tubing.
-0	3I	mouse traps.
-0	3I	mm-hm.
-0	3I	um.
-0	3I	the only other thing - well, for deck chairs, like a home deck -
-1	3I	boating supplies. but i think we're fine.
-1	3I	i think that's close enough.
+1	3I	bars of soap , maybe ?
+1	3I	yeah .
+0	3I	canvas bags . um .
+2	3I	yeah . or maybe next to the mouse traps ? cuz this is all gon na be plastic stuff , right ?
+0	3I	okay .
+0	3I	yeah .
+1	3I	that 's - i think that 's good for now .
+0	3I	pre-cut wood .
+2	3I	i 'm gon na move the heavy cable .
+1	3I	yeah .
+1	3I	do that . like that , or something .
+1	3I	yes .
+2	3I	totally . here . in fact , put it by the soap .
+0	3I	maybe it 's just mint .
+1	3I	beets . uh , beets with the -
+1	3I	soy beans , cans of peas , all that stuff .
+0	3I	now the soy beans were permanent , right ?
+2	3I	yeah . okay . cuz we may need to move the oatmeal , and the dried - you know , like - kay .
+2	3I	just move it up .
+0	3I	light jackets .
+0	3I	wet suits .
+1	3I	can we put the wet suits there ?
+1	3I	with the - with the boating supplies ?
+0	3I	ack . what do you use a five-pound weight for ?
+0	3I	could be . it could be like a diving thing . yeah .
+0	3I	yeah .
+1	3I	i think - i think - yeah , i think that 'd be -
+0	3I	heavy . um .
+0	3I	right .
+0	3I	well , i mean , you might -
+0	3I	that 's what i 'm saying , if you go diving . but - that 's actually a lot . like -
+0	3I	you know .
+0	3I	yeah .
+1	3I	or a - you might put , like , five or ten pounds . you - you would n't have like a series of five-pound weights .
+1	3I	we 'll just throw it in there .
+0	3I	um .
+1	3I	why do n't we put it with the weights ? same kinda thing .
+1	3I	yeah .
+1	3I	fleece-lined boots . um . were the socks here ? we put all of this here , right ? we picked that .
+2	3I	put the boots there .
+0	3I	hm .
+2	3I	put it right there .
+2	3I	yeah .
+1	3I	good call .
+2	3I	okay . but we can - we can fix this . we could move -
+2	3I	the siding hasta stay there .
+2	3I	what if we do this ?
+1	3I	yeah . we could do that .
+1	3I	i 'm thinking of moving them all up , though , so they 're next to the siding , too . go see - you got ta cut siding .
+0	3I	so .
+1	3I	do this .
+0	3I	the plastic jugs just kinda ended up over there .
+1	3I	sure .
+1	3I	yeah , there you go .
+1	3I	yes .
+1	3I	yeah .
+0	3I	bagels .
+0	3I	i say canvas bag .
+0	3I	and i say bagels . yes .
+0	3I	yeah .
+1	3I	uh yeah . that 'll work .
+0	3I	yeah .
+2	3I	the flags . where - um . let 's put the flags here . just -
+0	3I	right .
+2	3I	you could do that . um . i actually think we should put vests there for now .
+1	3I	yeah . that works . that 's perfect .
+1	3I	yeah . put em there .
+1	3I	yeah . so we could put em -
+1	3I	there .
+0	3I	kay . cases of whiskey .
+2	3I	right next to the toys . n um .
+2	3I	i think so . trunc here 's - i do wan na do this , though . i know this is neurotic . um . i wan na move -
+2	3I	the saws and axes and stuff next to the siding . because -
+1	3I	yeah .
+1	3I	yeah . and then the buckets , we can just -
+1	3I	i dunno . buckets are fine there .
+1	3I	we could do that .
+0	3I	right .
+1	3I	trunc trunc switch the - yep .
+0	3I	buckets , rolls of duct tape , half-inch tubing .
+0	3I	mouse traps .
+0	3I	mm-hm .
+0	3I	um .
+0	3I	the only other thing - well , for deck chairs , like a home deck -
+1	3I	boating supplies . but i think we 're fine .
+1	3I	i think that 's close enough .
 1	3I	we could -
-1	3I	we could do this.
-2	3I	we could do that. we can't move the power cords, though. that was one of the permanent ones.
-1	3I	we could do this.
-1	3I	like that?
-1	3I	and then move the knives in.
-1	3I	mm-hm.
-1	3I	yeah.
-0	3I	well that's - and that's kinda what i'm looking at. like, if you assume they had to be equal in some proportion. like this one's equal, but there's a lot less in these two.
-0	3I	i can't remember.
-1	3I	trunc there you go.
-2	3I	no, that's good. yeah.
-2	3I	the - it was cake mix. cake mix hasta be there.
-1	3I	yeah.
-1	3I	yeah. you could move -
-1	3I	you know, you could trunc we could move packages of cookies up there with the doughnuts and the ice cream and the chocolate bars and stuff.
-1	3I	okay.
-2	3I	yeah, let's declare victory.
-2	3I	we'll just move on. and trunc i - you know trunc yes. well done, sir! um.
-0	3I	yeah.
-0	6B	yes.
-1	6B	yeah.
-0	6B	mm-hm.
-0	6B	which expensive should be cut from each department, and choose the same number of items from each department.
-0	6B	so.
-0	6B	yep.
-0	6B	yeah.
-0	6B	we must discuss each - each item and reach an agreement about whether to cut it or continue funding it.
-2	6B	i - i disagree.
-2	6B	why would anyone wanna be doomed to that narrow of a focus in terms of their future career options?
-0	6B	um.
-2	6B	um. i'm - i'm gonna disagree with you and say we should keep the math tutors for now.
-1	6B	just, you know -
+1	3I	we could do this .
+2	3I	we could do that . we ca n't move the power cords , though . that was one of the permanent ones .
+1	3I	we could do this .
+1	3I	like that ?
+1	3I	and then move the knives in .
+1	3I	mm-hm .
+1	3I	yeah .
+0	3I	well that 's - and that 's kinda what i 'm looking at . like , if you assume they had to be equal in some proportion . like this one 's equal , but there 's a lot less in these two .
+0	3I	i ca n't remember .
+1	3I	trunc there you go .
+2	3I	no , that 's good . yeah .
+2	3I	the - it was cake mix . cake mix hasta be there .
+1	3I	yeah .
+1	3I	yeah . you could move -
+1	3I	you know , you could trunc we could move packages of cookies up there with the doughnuts and the ice cream and the chocolate bars and stuff .
+1	3I	okay .
+2	3I	yeah , let 's declare victory .
+2	3I	we 'll just move on . and trunc i - you know trunc yes . well done , sir ! um .
+0	3I	yeah .
+0	6B	yes .
+1	6B	yeah .
+0	6B	mm-hm .
+0	6B	which expensive should be cut from each department , and choose the same number of items from each department .
+0	6B	so .
+0	6B	yep .
+0	6B	yeah .
+0	6B	we must discuss each - each item and reach an agreement about whether to cut it or continue funding it .
+2	6B	i - i disagree .
+2	6B	why would anyone wan na be doomed to that narrow of a focus in terms of their future career options ?
+0	6B	um .
+2	6B	um . i 'm - i 'm gon na disagree with you and say we should keep the math tutors for now .
+1	6B	just , you know -
 1	6B	because -
-1	6B	what is it? those who can't teach, teach p_e_? what's the whole -?
-1	6B	those who can't do math -
-0	6B	yeah. so, yeah.
-0	6B	i - assistant cooks?
-2	6B	really? why? why would you hang -?
-3	6B	wait a minute! why would you hang on to the assistant cooks?
-2	6B	but that's the thing. look. the - you don't need an educational program for assistant cooks.
-2	6B	cuz you know that the - if the assistant cook is the one on the boat,
-2	6B	he or she would be the one to survive. cuz it's always the cook that survives, right?
-2	6B	so, um, i don't think - i don't think they'd -
-2	6B	they need any more help than they're already getting.
-1	6B	yeah.
-2	6B	they work with large knives. i mean, there's just - you know.
-0	6B	um. sex ed.
-0	6B	uh, i -
-1	6B	yeah.
-2	6B	well, you know.
-0	6B	so.
-1	6B	trunc exactly.
-0	6B	okay.
-1	6B	so, so far, i would suggest that assistant cooks may be - may be a - a program to cut. custodians?
-2	6B	what is being in a union shop have to do with that thing?
-2	6B	well, yeah, but you're - every
-2	6B	lemme just kinda tell you that * everybody in government is gonna * be in the, you know,
-2	6B	collectively bargained category. so, if - if you've gotta cut people, you're gonna hafta cut people.
-2	6B	i wouldn't cut the custodians.
-2	6B	have you ever * seen -
-2	6B	how public officials maintain their offices? agh! be - you know, my seven year old does a better job.
-0	6B	yeah, see -
-2	6B	it's a critical role.
-2	6B	keep the custodians. speech therapy.
-0	6B	speech therapy?
-1	6B	yes.
-0	6B	uh, football equipment.
-2	6B	um, no. why -? football equipment?
-0	6B	uh, is that * football football or american football?
-0	6B	um.
-0	6B	i guess. or we're - still - we're maintaining the equipment? we're buying the equipment?
-0	6B	um.
+1	6B	what is it ? those who ca n't teach , teach p_e_ ? what 's the whole - ?
+1	6B	those who ca n't do math -
+0	6B	yeah . so , yeah .
+0	6B	i - assistant cooks ?
+2	6B	really ? why ? why would you hang - ?
+3	6B	wait a minute ! why would you hang on to the assistant cooks ?
+2	6B	but that 's the thing . look . the - you do n't need an educational program for assistant cooks .
+2	6B	cuz you know that the - if the assistant cook is the one on the boat ,
+2	6B	he or she would be the one to survive . cuz it 's always the cook that survives , right ?
+2	6B	so , um , i do n't think - i do n't think they 'd -
+2	6B	they need any more help than they 're already getting .
+1	6B	yeah .
+2	6B	they work with large knives . i mean , there 's just - you know .
+0	6B	um . sex ed .
+0	6B	uh , i -
+1	6B	yeah .
+2	6B	well , you know .
+0	6B	so .
+1	6B	trunc exactly .
+0	6B	okay .
+1	6B	so , so far , i would suggest that assistant cooks may be - may be a - a program to cut . custodians ?
+2	6B	what is being in a union shop have to do with that thing ?
+2	6B	well , yeah , but you 're - every
+2	6B	lem me just kinda tell you that everybody in government is gon na be in the , you know ,
+2	6B	collectively bargained category . so , if - if you 've got ta cut people , you 're gon na hafta cut people .
+2	6B	i would n't cut the custodians .
+2	6B	have you ever seen -
+2	6B	how public officials maintain their offices ? agh ! be - you know , my seven year old does a better job .
+0	6B	yeah , see -
+2	6B	it 's a critical role .
+2	6B	keep the custodians . speech therapy .
+0	6B	speech therapy ?
+1	6B	yes .
+0	6B	uh , football equipment .
+2	6B	um , no . why - ? football equipment ?
+0	6B	uh , is that football football or american football ?
+0	6B	um .
+0	6B	i guess . or we 're - still - we 're maintaining the equipment ? we 're buying the equipment ?
+0	6B	um .
 1	6B	we must choose the same number -
-1	6B	which expenses should be cut from each department. we must choose the same number -
-2	6B	so, they're saying, cut the football equipment expenses. so, it leads me to believe there's an ongoing expense that we are now not ongoing.
-2	6B	or, we're * off-going.
-2	6B	what - what are you saying?
-2	6B	are you trunc * i work for the county. what are you saying? you saying that we got moldy football equipment?
-2	6B	come on, man.
-0	6B	um.
-0	6B	oh?
-0	6B	right.
-1	6B	so the hillsdale library maintained the moldy football equipment?
-0	6B	i understand.
-0	6B	yeah.
-1	6B	right.
-1	6B	okay.
-2	6B	well then - but then they'd come back, and they'd be like, i remember when they had to cut the football equipment, so i'm gonna spend my -
+1	6B	which expenses should be cut from each department . we must choose the same number -
+2	6B	so , they 're saying , cut the football equipment expenses . so , it leads me to believe there 's an ongoing expense that we are now not ongoing .
+2	6B	or , we 're off-going .
+2	6B	what - what are you saying ?
+2	6B	are you trunc i work for the county . what are you saying ? you saying that we got moldy football equipment ?
+2	6B	come on , man .
+0	6B	um .
+0	6B	oh ?
+0	6B	right .
+1	6B	so the hillsdale library maintained the moldy football equipment ?
+0	6B	i understand .
+0	6B	yeah .
+1	6B	right .
+1	6B	okay .
+2	6B	well then - but then they 'd come back , and they 'd be like , i remember when they had to cut the football equipment , so i 'm gon na spend my -
 2	6B	gazillions on helping out the -
-2	6B	youth football.
-2	6B	no! i think we should get rid of it. cut it!
-2	6B	cut it!
-2	6B	um. acting coaches. clearly the most critical role in all county services are acting coaches.
-0	6B	i gotcha.
-0	6B	the - the - yes.
-0	6B	the - the - right.
-1	6B	yeah. cuz the other coaches are being investigated, or something? right. the acting coaches. um.
-2	6B	right. oh, ouch. um.
-2	6B	well in that case, maybe we don't wanna get rid of the acting coaches. uh, poetry books?
-0	6B	poetry books?
-0	6B	i dunno.
-0	6B	um.
-1	6B	uh. i - i don't know. i think it depends on the poet.
-2	6B	i think we keep the poetry books. how hard can it be to maintain the poetry * books?
-2	6B	really?
-1	6B	i'm thinking like, t_s_ elliot and stuff. um.
-0	6B	uh, special ed teachers.
-1	6B	okay.
-1	6B	mm. could be true.
-1	6B	yes. um.
-2	6B	you - you make it sound like a virus.
-0	6B	um.
-0	6B	uh.
-0	6B	mm-hm.
-0	6B	mm-hm.
-1	6B	yeah.
-0	6B	yeah.
-2	6B	well cuz they're -
-2	6B	they're mandated to provide those services.
-0	6B	federal.
-2	6B	kay, so keep em.
-0	6B	cooking classes?
-0	6B	eh.
-2	6B	well, no. but why - you know. i mean -
-2	6B	can't people take a cooking class at p_c_c_ or something? why is the county paying for it?
-2	6B	well that - that actually says a lot. um.
-0	6B	uh.
-1	6B	maybe we don't wanna cut em.
-0	6B	right. um. so - note-takers. disability services?
-2	6B	do they? okay. i was gonna say, couldn't we just buy everybody an ipad and call it good?
-2	6B	that seems to be the answer.
-1	6B	public services? infrastructure and licensing.
-1	6B	yeah.
-1	6B	yeah.
-0	6B	yeah.
-0	6B	um.
-2	6B	sugar-free juice machines? i feel like there's a lotta things in this category that are not -
-2	6B	not particularly, um, dynamic.
-0	6B	uh. bookkeeping classes, music teachers, sugar-free juice machines.
+2	6B	youth football .
+2	6B	no ! i think we should get rid of it . cut it !
+2	6B	cut it !
+2	6B	um . acting coaches . clearly the most critical role in all county services are acting coaches .
+0	6B	i gotcha .
+0	6B	the - the - yes .
+0	6B	the - the - right .
+1	6B	yeah . cuz the other coaches are being investigated , or something ? right . the acting coaches . um .
+2	6B	right . oh , ouch . um .
+2	6B	well in that case , maybe we do n't wan na get rid of the acting coaches . uh , poetry books ?
+0	6B	poetry books ?
+0	6B	i dunno .
+0	6B	um .
+1	6B	uh . i - i do n't know . i think it depends on the poet .
+2	6B	i think we keep the poetry books . how hard can it be to maintain the poetry books ?
+2	6B	really ?
+1	6B	i 'm thinking like , t_s_ elliot and stuff . um .
+0	6B	uh , special ed teachers .
+1	6B	okay .
+1	6B	mm . could be true .
+1	6B	yes . um .
+2	6B	you - you make it sound like a virus .
+0	6B	um .
+0	6B	uh .
+0	6B	mm-hm .
+0	6B	mm-hm .
+1	6B	yeah .
+0	6B	yeah .
+2	6B	well cuz they 're -
+2	6B	they 're mandated to provide those services .
+0	6B	federal .
+2	6B	kay , so keep em .
+0	6B	cooking classes ?
+0	6B	eh .
+2	6B	well , no . but why - you know . i mean -
+2	6B	ca n't people take a cooking class at p_c_c_ or something ? why is the county paying for it ?
+2	6B	well that - that actually says a lot . um .
+0	6B	uh .
+1	6B	maybe we do n't wan na cut em .
+0	6B	right . um . so - note-takers . disability services ?
+2	6B	do they ? okay . i was gon na say , could n't we just buy everybody an ipad and call it good ?
+2	6B	that seems to be the answer .
+1	6B	public services ? infrastructure and licensing .
+1	6B	yeah .
+1	6B	yeah .
+0	6B	yeah .
+0	6B	um .
+2	6B	sugar-free juice machines ? i feel like there 's a lotta things in this category that are not -
+2	6B	not particularly , um , dynamic .
+0	6B	uh . bookkeeping classes , music teachers , sugar-free juice machines .
 2	6B	i mean -
-2	6B	based on this list, i -
-2	6B	the poor assistant cooks go near the top. football equipment goes near the top. for me. like, meaning, get - like we would cut it.
-1	6B	cooking classes.
-1	6B	bookkeeping classes.
-1	6B	yeah, there's some accounting involved.
-2	6B	so i'd - i'd wanna get rid of the classes so that it would mean, you know, more long-term, like job preservation. and people weren't -
-2	6B	exactly. exactly. so, you know, yeah. if we - we - that gets cut first.
-2	6B	we need * bad accounting.
-0	6B	um.
-0	6B	let's see.
-2	6B	well the sugar-free juice trunc that's a little oxymoronic anyway. i mean, what is sugar-free juice?
-0	6B	you know. i -
-0	6B	i - i guess. um.
-1	6B	pretty much. um.
-1	6B	yes. uh yes. i think -
-2	6B	so what they're saying is water fountains. yes.
-1	6B	right.
-0	6B	um.
-0	6B	okay.
-1	6B	so shall we move to the next category, and then we can kinda come back and keep our numbers? yes.
-2	6B	absolutely. i - don't get rid of the water fountains.
-0	6B	um.
-1	6B	music teachers. eh.
-1	6B	uh, reproductive education. we should probably hang onto that.
-1	6B	job training - training programs? sure.
-1	6B	chicken pox vaccinations? sounds good. invasive species removal?
-0	6B	um.
-1	6B	yeah. yep.
-0	6B	s_t_d_ education, toxic waste disposal, hospital additions.
-2	6B	* bagel * factory * inspections.
-2	6B	absolutely the most critical role that the county can play, is bagel factory inspections.
-0	6B	um.
-0	6B	yeah. i think so. wasn't it?
-0	6B	was under, um.
-0	6B	was it under public safety? it was under, uh -
-0	6B	yeah, environmental - environmental safety.
-0	6B	um, needle exchange, sex offender database, veterans medical assistance, egg farm regulations, weed control. prenatal check-ups and neighborhood watch support?
-2	6B	geez! and none of these things i would really get rid of compared about - trunc five or six on the other one. um.
-2	6B	i think they * do do that now, don't they?
-0	6B	do the - do the weed control?
-2	6B	mm-kay. i'm with you on weed control.
-0	6B	um.
-0	6B	um. i dunno.
-1	6B	yeah.
-2	6B	what - getting rid of neighborhood watch. what could go wrong?
-1	6B	what could go wrong?
+2	6B	based on this list , i -
+2	6B	the poor assistant cooks go near the top . football equipment goes near the top . for me . like , meaning , get - like we would cut it .
+1	6B	cooking classes .
+1	6B	bookkeeping classes .
+1	6B	yeah , there 's some accounting involved .
+2	6B	so i 'd - i 'd wan na get rid of the classes so that it would mean , you know , more long-term , like job preservation . and people were n't -
+2	6B	exactly . exactly . so , you know , yeah . if we - we - that gets cut first .
+2	6B	we need bad accounting .
+0	6B	um .
+0	6B	let 's see .
+2	6B	well the sugar-free juice trunc that 's a little oxymoronic anyway . i mean , what is sugar-free juice ?
+0	6B	you know . i -
+0	6B	i - i guess . um .
+1	6B	pretty much . um .
+1	6B	yes . uh yes . i think -
+2	6B	so what they 're saying is water fountains . yes .
+1	6B	right .
+0	6B	um .
+0	6B	okay .
+1	6B	so shall we move to the next category , and then we can kinda come back and keep our numbers ? yes .
+2	6B	absolutely . i - do n't get rid of the water fountains .
+0	6B	um .
+1	6B	music teachers . eh .
+1	6B	uh , reproductive education . we should probably hang onto that .
+1	6B	job training - training programs ? sure .
+1	6B	chicken pox vaccinations ? sounds good . invasive species removal ?
+0	6B	um .
+1	6B	yeah . yep .
+0	6B	s_t_d_ education , toxic waste disposal , hospital additions .
+2	6B	bagel factory inspections .
+2	6B	absolutely the most critical role that the county can play , is bagel factory inspections .
+0	6B	um .
+0	6B	yeah . i think so . was n't it ?
+0	6B	was under , um .
+0	6B	was it under public safety ? it was under , uh -
+0	6B	yeah , environmental - environmental safety .
+0	6B	um , needle exchange , sex offender database , veterans medical assistance , egg farm regulations , weed control . prenatal check-ups and neighborhood watch support ?
+2	6B	geez ! and none of these things i would really get rid of compared about - trunc five or six on the other one . um .
+2	6B	i think they do do that now , do n't they ?
+0	6B	do the - do the weed control ?
+2	6B	mm-kay . i 'm with you on weed control .
+0	6B	um .
+0	6B	um . i dunno .
+1	6B	yeah .
+2	6B	what - getting rid of neighborhood watch . what could go wrong ?
+1	6B	what could go wrong ?
 0	6B	i mean -
-2	6B	that's - that's what we need. we need everybody to be * armed.
-2	6B	then - yeah. then we don't need any regulation. okay. oh -
-0	6B	i - i have not seen it. i'm * not - i've -
-0	6B	uh-huh. and then he starts pepper spraying everybody.
-0	6B	mm-hm.
-0	6B	there you go. um.
-0	6B	right.
-2	6B	so, yeah. i think we could cut the neighborhood watch support, and instead, just give them all pepper spray and weapons. and - yeah.
-0	6B	mm-hm.
-0	6B	mm-hm.
-1	6B	pick axes. i think, you know -
-1	6B	um. pitch forks, torches.
-2	6B	um. yes. trunc oh, my.
-1	6B	uh, okay.
-0	6B	toxic waste disposal?
-2	6B	now see here's my question. if we cut the toxic waste disposal program,
-2	6B	does that mean that people will dispose of their toxic waste in another county?
-2	6B	so why don't - let's just do that, and then they'll take it all to pierce county.
-2	6B	wasn't that what you do now?
-2	6B	you know, and i've used motor oil. i just kind of, you know, spread it around in my back yard.
-0	6B	yeah.
-0	6B	especially, you know -
-1	6B	i just look for those drains that are stenciled with the salmon pictures and make sure that i put em down there. cuz i figure it's good for the salmon.
-0	6B	right, right.
-0	6B	um.
-0	6B	okay.
-0	6B	um. recreation and public services. stray cat * spaying, public news * station, food bank, junior -
-0	6B	uh, i do. i have cats - i have a cat and a dog. living together. mass hysteria. um.
-0	6B	um, have i * spayed them?
-0	6B	personally? no. i have had them fixed. yes.
-0	6B	i did.
-2	6B	trunc okay. stray cat spaying it is. although, you know, we're gonna have a whole lot of stray cats.
-2	6B	stray cats paying, yes.
-1	6B	their last album. which was a flop. i - i have no idea. stray cat -
-0	6B	spaying.
-0	6B	kitten and puppy adoption?
+2	6B	that 's - that 's what we need . we need everybody to be armed .
+2	6B	then - yeah . then we do n't need any regulation . okay . oh -
+0	6B	i - i have not seen it . i 'm not - i 've -
+0	6B	uh-huh . and then he starts pepper spraying everybody .
+0	6B	mm-hm .
+0	6B	there you go . um .
+0	6B	right .
+2	6B	so , yeah . i think we could cut the neighborhood watch support , and instead , just give them all pepper spray and weapons . and - yeah .
+0	6B	mm-hm .
+0	6B	mm-hm .
+1	6B	pick axes . i think , you know -
+1	6B	um . pitch forks , torches .
+2	6B	um . yes . trunc oh , my .
+1	6B	uh , okay .
+0	6B	toxic waste disposal ?
+2	6B	now see here 's my question . if we cut the toxic waste disposal program ,
+2	6B	does that mean that people will dispose of their toxic waste in another county ?
+2	6B	so why do n't - let 's just do that , and then they 'll take it all to pierce county .
+2	6B	was n't that what you do now ?
+2	6B	you know , and i 've used motor oil . i just kind of , you know , spread it around in my back yard .
+0	6B	yeah .
+0	6B	especially , you know -
+1	6B	i just look for those drains that are stenciled with the salmon pictures and make sure that i put em down there . cuz i figure it 's good for the salmon .
+0	6B	right , right .
+0	6B	um .
+0	6B	okay .
+0	6B	um . recreation and public services . stray cat spaying , public news station , food bank , junior -
+0	6B	uh , i do . i have cats - i have a cat and a dog . living together . mass hysteria . um .
+0	6B	um , have i spayed them ?
+0	6B	personally ? no . i have had them fixed . yes .
+0	6B	i did .
+2	6B	trunc okay . stray cat spaying it is . although , you know , we 're gon na have a whole lot of stray cats .
+2	6B	stray cats paying , yes .
+1	6B	their last album . which was a flop . i - i have no idea . stray cat -
+0	6B	spaying .
+0	6B	kitten and puppy adoption ?
 0	6B	kitten and -
-0	6B	no, i - i got them from kitten and puppy adoption.
-0	6B	yeah, i really did.
-0	6B	uh, soup kitchens.
-0	6B	the kitten and puppy adoptions services?
-0	6B	um.
-1	6B	that's distinctly possible. but, you know, it's not - we're - we're -
-1	6B	we're - uh, yeah.
-2	6B	i trunc i think the difference would be that because there was a kitten-puppy adoption service,
-2	6B	that there was somebody to facilitate the adopting of the kitten and-or puppy.
-2	6B	yes, absolutely.
-1	6B	um. you know, i mean, you could always go with the, uh -
-1	6B	i don't know. most of the world -
+0	6B	no , i - i got them from kitten and puppy adoption .
+0	6B	yeah , i really did .
+0	6B	uh , soup kitchens .
+0	6B	the kitten and puppy adoptions services ?
+0	6B	um .
+1	6B	that 's distinctly possible . but , you know , it 's not - we 're - we 're -
+1	6B	we 're - uh , yeah .
+2	6B	i trunc i think the difference would be that because there was a kitten-puppy adoption service ,
+2	6B	that there was somebody to facilitate the adopting of the kitten and-or puppy .
+2	6B	yes , absolutely .
+1	6B	um . you know , i mean , you could always go with the , uh -
+1	6B	i do n't know . most of the world -
 1	6B	greece -
-1	6B	thailand slash approach, where could just have the dogs and the cats running around doing everything.
-1	6B	yeah. um. but i - i - i don't know. you know.
-1	6B	might be a little cold. alright.
-0	6B	soup kitchens, housing assistance.
-1	6B	what if they wanna eat something besides soup, though?
-1	6B	could we have like a * salad kitchen?
-2	6B	we do. we could have like a * vegan -
-1	6B	yes.
-1	6B	we could have a * whiskey kitchen.
-0	6B	really? actually, isn't there a trunc restaurant called that, or something?
-0	6B	okay. housing assistance.
-0	6B	um. dog catcher.
-1	6B	how - how we gonna have kittens and puppies to - ?
-2	6B	trunc well what are they gonna do when they get the dog?
-2	6B	i - i'm just worried about the kitten and puppy adoption service, if they don't have a dog catcher to catch the kittens and puppies to be adopted.
-2	6B	maybe we need a * cat catcher in there.
-3	6B	there is no cat catcher!
+1	6B	thailand slash approach , where could just have the dogs and the cats running around doing everything .
+1	6B	yeah . um . but i - i - i do n't know . you know .
+1	6B	might be a little cold . alright .
+0	6B	soup kitchens , housing assistance .
+1	6B	what if they wan na eat something besides soup , though ?
+1	6B	could we have like a salad kitchen ?
+2	6B	we do . we could have like a vegan -
+1	6B	yes .
+1	6B	we could have a whiskey kitchen .
+0	6B	really ? actually , is n't there a trunc restaurant called that , or something ?
+0	6B	okay . housing assistance .
+0	6B	um . dog catcher .
+1	6B	how - how we gon na have kittens and puppies to - ?
+2	6B	trunc well what are they gon na do when they get the dog ?
+2	6B	i - i 'm just worried about the kitten and puppy adoption service , if they do n't have a dog catcher to catch the kittens and puppies to be adopted .
+2	6B	maybe we need a cat catcher in there .
+3	6B	there is no cat catcher !
 3	6B	holy -
-1	6B	the dog trunc okay.
-1	6B	dog catcher and stray cat spaying. yes.
-0	6B	the boys basketball club?
-0	6B	who?
-0	6B	mm-hm.
-2	6B	i think that's - i actually think - as a county employee, i think that's a brilliant idea. what they should do is -
-2	6B	they should take trunc force me to take my lunch hour, and just reassign everybody who does all these other public functions to go do dog catching.
-1	6B	you know, for an hour or two. uh, every week. yeah, okay. yeah.
-0	6B	yep.
+1	6B	the dog trunc okay .
+1	6B	dog catcher and stray cat spaying . yes .
+0	6B	the boys basketball club ?
+0	6B	who ?
+0	6B	mm-hm .
+2	6B	i think that 's - i actually think - as a county employee , i think that 's a brilliant idea . what they should do is -
+2	6B	they should take trunc force me to take my lunch hour , and just reassign everybody who does all these other public functions to go do dog catching .
+1	6B	you know , for an hour or two . uh , every week . yeah , okay . yeah .
+0	6B	yep .
 0	6B	trunc
-1	6B	and - and spay stray cats. okay.
-1	6B	i have no idea. yeah. you know. just -
-1	6B	trunc trunc but that's what you need the scissors and the case of whiskey for.
-0	6B	um.
-0	6B	the loose-leaf paper? i don't know. uh.
-0	6B	reusable bag campaign.
-0	6B	reusable bag campaign.
-2	6B	well, i was gonna say. i mean.
-1	6B	i - i know.
-2	6B	i don't know why you'd need a special -
-2	6B	we re-elect most of the politicians around here anyway. so.
-2	6B	well that's what i'm saying. reusable bag. um.
-0	6B	uh.
-2	6B	i - i work with a lotta these people. i hafta be careful. um.
-0	6B	so, uh, veterinary hospital.
-0	6B	what do we do with veterinary hos-?
-0	6B	um.
-2	6B	no, i'm - in all seriousness, i had to take my dog -
+1	6B	and - and spay stray cats . okay .
+1	6B	i have no idea . yeah . you know . just -
+1	6B	trunc trunc but that 's what you need the scissors and the case of whiskey for .
+0	6B	um .
+0	6B	the loose-leaf paper ? i do n't know . uh .
+0	6B	reusable bag campaign .
+0	6B	reusable bag campaign .
+2	6B	well , i was gon na say . i mean .
+1	6B	i - i know .
+2	6B	i do n't know why you 'd need a special -
+2	6B	we re-elect most of the politicians around here anyway . so .
+2	6B	well that 's what i 'm saying . reusable bag . um .
+0	6B	uh .
+2	6B	i - i work with a lotta these people . i hafta be careful . um .
+0	6B	so , uh , veterinary hospital .
+0	6B	what do we do with veterinary hos- ?
+0	6B	um .
+2	6B	no , i 'm - in all seriousness , i had to take my dog -
 0	6B	uh -
-1	6B	in today.
-0	6B	you know.
-2	6B	yes. he's - he's old. he's like thirteen.
-2	6B	so - i - i'm not taking my dog to a county hospital. i'm taking my dog to the, you know -
-1	6B	the west seattle vet. so,
-2	6B	i don't know that the county needs to pay for veterinary hospitals. like -
-0	6B	yeah. um.
+1	6B	in today .
+0	6B	you know .
+2	6B	yes . he 's - he 's old . he 's like thirteen .
+2	6B	so - i - i 'm not taking my dog to a county hospital . i 'm taking my dog to the , you know -
+1	6B	the west seattle vet . so ,
+2	6B	i do n't know that the county needs to pay for veterinary hospitals . like -
+0	6B	yeah . um .
 0	6B	i trunc
-2	6B	well, trunc yeah, but you could pay - i mean, if you have - if you have a program for stray cat spaying.
-2	6B	they could do that at someone else's, you know, vet hospital. they could do that -
-2	6B	i don't know. i just don't know that the county needs to pay for that.
-2	6B	they could do it at the food trunc that is a great idea.
-2	6B	wow. i really don't wanna be going to the food bank any time soon. that's terrible, pete!
-2	6B	oh, jiminy christmas. that's just terrible.
-0	6B	um. the football stadium upkeep.
-1	6B	and the soup kitchens.
-1	6B	yes. okay.
-0	6B	uh, so -
-2	6B	trunc okay, we're gonna hafta come back and figure out what we're cutting. but i think we have a good sense of what it is that we would cut in that category.
+2	6B	well , trunc yeah , but you could pay - i mean , if you have - if you have a program for stray cat spaying .
+2	6B	they could do that at someone else 's , you know , vet hospital . they could do that -
+2	6B	i do n't know . i just do n't know that the county needs to pay for that .
+2	6B	they could do it at the food trunc that is a great idea .
+2	6B	wow . i really do n't wan na be going to the food bank any time soon . that 's terrible , pete !
+2	6B	oh , jiminy christmas . that 's just terrible .
+0	6B	um . the football stadium upkeep .
+1	6B	and the soup kitchens .
+1	6B	yes . okay .
+0	6B	uh , so -
+2	6B	trunc okay , we 're gon na hafta come back and figure out what we 're cutting . but i think we have a good sense of what it is that we would cut in that category .
 2	6B	starting with the -
-2	6B	veterinarian.
-0	6B	infrastructure and licensing.
-2	6B	trunc like i said, we can cut that immediately.
-0	6B	um.
-2	6B	why?
-2	6B	okay, well then let's cut that program.
-0	6B	uh, speed limit signs?
-2	6B	i - i don't pay - personally, i don't pay attention to the speed limit. do you?
-2	6B	yeah. okay. then we should be gold-
-0	6B	oh, do you?
-0	6B	mm-hm.
-1	6B	mm-hm.
-0	6B	kay.
-1	6B	right. uh, additional bus stops?
-2	6B	no.
-2	6B	no. we don't need - we don't need any additional bus stops.
-1	6B	yeah.
-2	6B	well they just spent - you know, i mean - it's - i don't know about you, but i - i do ride the bus. and there's - they have the rapid ride lines.
-2	6B	which i think is funny, because a ride implies that you can sit down, right? and so, rapid ride, it's neither rapid nor a ride. right?
-2	6B	um. so no additional bus stops.
-0	6B	uh. tattoo artist licenses?
-2	6B	do - trunc i do. we - we don't - we don't need to talk about that.
-0	6B	um.
-2	6B	so, uh, but tattoo - why -
-2	6B	you're going to a tattoo artist. do you think that they're going to be licensed?
-2	6B	is that really a reasonable expectation?
+2	6B	veterinarian .
+0	6B	infrastructure and licensing .
+2	6B	trunc like i said , we can cut that immediately .
+0	6B	um .
+2	6B	why ?
+2	6B	okay , well then let 's cut that program .
+0	6B	uh , speed limit signs ?
+2	6B	i - i do n't pay - personally , i do n't pay attention to the speed limit . do you ?
+2	6B	yeah . okay . then we should be gold-
+0	6B	oh , do you ?
+0	6B	mm-hm .
+1	6B	mm-hm .
+0	6B	kay .
+1	6B	right . uh , additional bus stops ?
+2	6B	no .
+2	6B	no . we do n't need - we do n't need any additional bus stops .
+1	6B	yeah .
+2	6B	well they just spent - you know , i mean - it 's - i do n't know about you , but i - i do ride the bus . and there 's - they have the rapid ride lines .
+2	6B	which i think is funny , because a ride implies that you can sit down , right ? and so , rapid ride , it 's neither rapid nor a ride . right ?
+2	6B	um . so no additional bus stops .
+0	6B	uh . tattoo artist licenses ?
+2	6B	do - trunc i do . we - we do n't - we do n't need to talk about that .
+0	6B	um .
+2	6B	so , uh , but tattoo - why -
+2	6B	you 're going to a tattoo artist . do you think that they 're going to be licensed ?
+2	6B	is that really a reasonable expectation ?
 2	6B	i thought that was - i thought that was - they put that -
-2	6B	you know, there was like, hey, you got that for free. you know?
-2	6B	normally it's ten dollars extra, but today, we'll make sure that you only get hep b_.
-0	6B	um.
-0	6B	okay.
-0	6B	yeah.
-1	6B	is it in - is it a license for like, how good of a tattoo artist they are, or, you know - ?
-0	6B	yeah.
-0	6B	yeah.
-1	6B	i thought maybe, you know, it's like, oh, i've -
-2	6B	i've actually done * seventeen scorpions tattoos, and so you get some sort of special -
-0	6B	yeah, okay. yeah.
-1	6B	right, exactly.
-1	6B	some - some sort of phenomenal maxfield parrish reproduction.
-0	6B	right.
-0	6B	right.
-0	6B	trunc another kid rock.
-0	6B	uh, okay.
-1	6B	um.
-0	6B	boating licenses.
-0	6B	do we really need people to have a license when they go boating?
-0	6B	i mean,
-2	6B	what could go wrong?
-2	6B	you know?
-2	6B	uh, pothole maintenance?
-0	6B	um.
-0	6B	i dunno.
-0	6B	wait, how do you feel about -
-1	6B	mm-kay.
-1	6B	subway system?
-1	6B	trunc it would be nice to have one. but since we don't, i don't think we need - i don't think we need the program for it.
-0	6B	um.
-0	6B	is that like a tag for hunters?
-0	6B	yeah. um.
-0	6B	i don't know. is like, what do you do? do you like, run up and tag somebody as they're hunting, and say, you're it? i -
-0	6B	um.
-0	6B	uh, they were a number of other towing services that seemed to do a pretty decent job of that, at absolutely inopportune times.
-2	6B	yeah.
-2	6B	um.
+2	6B	you know , there was like , hey , you got that for free . you know ?
+2	6B	normally it 's ten dollars extra , but today , we 'll make sure that you only get hep b_ .
+0	6B	um .
+0	6B	okay .
+0	6B	yeah .
+1	6B	is it in - is it a license for like , how good of a tattoo artist they are , or , you know - ?
+0	6B	yeah .
+0	6B	yeah .
+1	6B	i thought maybe , you know , it 's like , oh , i 've -
+2	6B	i 've actually done seventeen scorpions tattoos , and so you get some sort of special -
+0	6B	yeah , okay . yeah .
+1	6B	right , exactly .
+1	6B	some - some sort of phenomenal maxfield parrish reproduction .
+0	6B	right .
+0	6B	right .
+0	6B	trunc another kid rock .
+0	6B	uh , okay .
+1	6B	um .
+0	6B	boating licenses .
+0	6B	do we really need people to have a license when they go boating ?
+0	6B	i mean ,
+2	6B	what could go wrong ?
+2	6B	you know ?
+2	6B	uh , pothole maintenance ?
+0	6B	um .
+0	6B	i dunno .
+0	6B	wait , how do you feel about -
+1	6B	mm-kay .
+1	6B	subway system ?
+1	6B	trunc it would be nice to have one . but since we do n't , i do n't think we need - i do n't think we need the program for it .
+0	6B	um .
+0	6B	is that like a tag for hunters ?
+0	6B	yeah . um .
+0	6B	i do n't know . is like , what do you do ? do you like , run up and tag somebody as they 're hunting , and say , you 're it ? i -
+0	6B	um .
+0	6B	uh , they were a number of other towing services that seemed to do a pretty decent job of that , at absolutely inopportune times .
+2	6B	yeah .
+2	6B	um .
 1	6B	uh -
-0	6B	massage trunc massage certificates?
-0	6B	yeah.
-0	6B	is that like a trunc do they give you a certificate suitable for framing after you had a massage? is that what -? i don't -
-1	6B	do they mean like a certification?
-1	6B	message certificates, yes.
-0	6B	you've got mail.
-2	6B	um.
-1	6B	flagpole repair? i don't think we need to repair any flagpoles. taxi stops?
-2	6B	problem solved!
-2	6B	yeah. taxi stops?
+0	6B	massage trunc massage certificates ?
+0	6B	yeah .
+0	6B	is that like a trunc do they give you a certificate suitable for framing after you had a massage ? is that what - ? i do n't -
+1	6B	do they mean like a certification ?
+1	6B	message certificates , yes .
+0	6B	you 've got mail .
+2	6B	um .
+1	6B	flagpole repair ? i do n't think we need to repair any flagpoles . taxi stops ?
+2	6B	problem solved !
+2	6B	yeah . taxi stops ?
 3	6B	well -
-2	6B	i - can't you just stop a taxi by going out and whistling or waving, or - ?
-0	6B	yeah.
-2	6B	so, taxi stops.
-0	6B	fishing licenses.
-1	6B	definitely a vitally important thing.
+2	6B	i - ca n't you just stop a taxi by going out and whistling or waving , or - ?
+0	6B	yeah .
+2	6B	so , taxi stops .
+0	6B	fishing licenses .
+1	6B	definitely a vitally important thing .
 0	6B	public trunc
-2	6B	public bus upkeep. well they're not really doing it now. so, um -
-0	6B	and drainage ditches.
-2	6B	alright, so - what do we - let's - why don't we pick one from each category to cut, and then maybe pick another - let's just do it.
-0	6B	across the board. so -
-2	6B	education programs? do you wanna cut assistant cooks?
-1	6B	kay.
-1	6B	public health and safety?
-0	6B	uh, weed control?
-0	6B	i mean, it - it is legal now.
-1	6B	yeah. so -
-1	6B	yes.
-1	6B	no, that's what i'm saying. it's legal now. so why'd you - why - what's - why do you need to control it?
-1	6B	right. um.
-2	6B	uh.
-0	6B	the recreation and public services. do we - did we say we were getting rid of the -
-0	6B	veterinary hospital? what are we doing?
-0	6B	um.
-0	6B	football stadium upkeep. i'm with you. okay.
-0	6B	hunting tags?
-0	6B	trunc you're - you're - you're not going with flagpole repair? that's a critical category for you, isn't it? you -
+2	6B	public bus upkeep . well they 're not really doing it now . so , um -
+0	6B	and drainage ditches .
+2	6B	alright , so - what do we - let 's - why do n't we pick one from each category to cut , and then maybe pick another - let 's just do it .
+0	6B	across the board . so -
+2	6B	education programs ? do you wan na cut assistant cooks ?
+1	6B	kay .
+1	6B	public health and safety ?
+0	6B	uh , weed control ?
+0	6B	i mean , it - it is legal now .
+1	6B	yeah . so -
+1	6B	yes .
+1	6B	no , that 's what i 'm saying . it 's legal now . so why 'd you - why - what 's - why do you need to control it ?
+1	6B	right . um .
+2	6B	uh .
+0	6B	the recreation and public services . do we - did we say we were getting rid of the -
+0	6B	veterinary hospital ? what are we doing ?
+0	6B	um .
+0	6B	football stadium upkeep . i 'm with you . okay .
+0	6B	hunting tags ?
+0	6B	trunc you 're - you 're - you 're not going with flagpole repair ? that 's a critical category for you , is n't it ? you -
 1	6B	i -
-2	6B	kay.
-0	6B	the - yes, the trunc the -
-1	6B	no weed control.
-1	6B	no assistant cooks. so let's go back the other direction then.
-1	6B	um.
-1	6B	uh, are we getting rid of teaching certificates? speed limit signs.
-0	6B	i thought if we got rid of the teaching certificates, you got -
+2	6B	kay .
+0	6B	the - yes , the trunc the -
+1	6B	no weed control .
+1	6B	no assistant cooks . so let 's go back the other direction then .
+1	6B	um .
+1	6B	uh , are we getting rid of teaching certificates ? speed limit signs .
+0	6B	i thought if we got rid of the teaching certificates , you got -
 1	6B	you were -
-1	6B	okay. so, okay, trunc
-0	6B	okay. we'll nix the first three.
-1	6B	kay. one, two, three.
-1	6B	kay. can we get three out of every - ? then we'd have four in every category. i think that's pretty good.
-1	6B	so no teaching certificates, no speed limit signs. who needs speed limit signs? additional bus stops,
-2	6B	and tattoo artist licenses. okay.
-1	6B	well, you know -
-2	6B	it's kind of like a driver's license. like, you know.
-2	6B	right.
+1	6B	okay . so , okay , trunc
+0	6B	okay . we 'll nix the first three .
+1	6B	kay . one , two , three .
+1	6B	kay . can we get three out of every - ? then we 'd have four in every category . i think that 's pretty good .
+1	6B	so no teaching certificates , no speed limit signs . who needs speed limit signs ? additional bus stops ,
+2	6B	and tattoo artist licenses . okay .
+1	6B	well , you know -
+2	6B	it 's kind of like a driver 's license . like , you know .
+2	6B	right .
 1	6B	we could w-
 0	6B	but trunc but see -
-0	6B	this is what concerns me. is trunc if we got like five things in this category, i dunno that we can get five out of every other category.
-2	6B	so let's go with those three for now.
-2	6B	um.
-0	6B	football stadium.
-1	6B	well, we already got rid of the football stadium upkeep.
-1	6B	so, reusable bags, veterinary hospital, yes, no?
-0	6B	yes, no?
-1	6B	yeah, but that - trunc i try not to - that's a - we don't talk about that in public.
-1	6B	yes. uh.
-0	6B	no, that's - well,
-0	6B	it's my own.
-0	6B	yeah.
-0	6B	um.
-0	6B	we're getting rid of the veterinarian, we're getting rid of the reusable bag campaign -
-0	6B	and we're getting rid of what?
-1	6B	pest control?
-1	6B	um.
-1	6B	the dog catcher?
-0	6B	pest control.
-1	6B	they do exist.
-1	6B	they are there. there's like all the all the cities in king county pay for a couple of em.
-0	6B	kay. so we need one more.
-2	6B	yeah. cuz we've -
-1	6B	yeah.
-0	6B	so, stray cat spaying.
-2	6B	trunc you're right. trunc you're right. you're right.
-2	6B	plus the - oh, man. oh, god.
-1	6B	um.
-1	6B	that's one for you. do you pronounce that veterinarian or veterinarian?
-1	6B	i think it does, too.
-1	6B	um.
-0	6B	uh-huh.
-0	6B	i think i say veterinarian.
-0	6B	yeah.
-0	6B	um, okay.
-0	6B	so we got four in that category.
-0	6B	public health and safety.
-0	6B	vaccination?
-0	6B	actually, yeah, it's kind of - it's par for the course now.
-0	6B	but that's the thing, is,
-2	6B	you don't run around and do it trunc i think they should get - i think you're right. they should cut that program.
-2	6B	trunc trunc somebody on the block had chicken pox,
-2	6B	* all the kids went over to their house and played with em and did all that stuff, so that the kids would all catch chicken pox and have it when they were young.
-2	6B	yeah. so, you know.
-2	6B	besides, trunc i - i think that vaccinations - i don't - i - they just -
-0	6B	lead to all kinds of crazy things. you know. um.
-1	6B	fluoridation of water, and -
-1	6B	so, uh, yeah. no vaccinations whatsoever.
-2	6B	um.
-1	6B	can we - can we ban all vaccinations? is that a possibility in this category, or - ?
-0	6B	i think we can only do that if we live in portland.
+0	6B	this is what concerns me . is trunc if we got like five things in this category , i dunno that we can get five out of every other category .
+2	6B	so let 's go with those three for now .
+2	6B	um .
+0	6B	football stadium .
+1	6B	well , we already got rid of the football stadium upkeep .
+1	6B	so , reusable bags , veterinary hospital , yes , no ?
+0	6B	yes , no ?
+1	6B	yeah , but that - trunc i try not to - that 's a - we do n't talk about that in public .
+1	6B	yes . uh .
+0	6B	no , that 's - well ,
+0	6B	it 's my own .
+0	6B	yeah .
+0	6B	um .
+0	6B	we 're getting rid of the veterinarian , we 're getting rid of the reusable bag campaign -
+0	6B	and we 're getting rid of what ?
+1	6B	pest control ?
+1	6B	um .
+1	6B	the dog catcher ?
+0	6B	pest control .
+1	6B	they do exist .
+1	6B	they are there . there 's like all the all the cities in king county pay for a couple of em .
+0	6B	kay . so we need one more .
+2	6B	yeah . cuz we 've -
+1	6B	yeah .
+0	6B	so , stray cat spaying .
+2	6B	trunc you 're right . trunc you 're right . you 're right .
+2	6B	plus the - oh , man . oh , god .
+1	6B	um .
+1	6B	that 's one for you . do you pronounce that veterinarian or veterinarian ?
+1	6B	i think it does , too .
+1	6B	um .
+0	6B	uh-huh .
+0	6B	i think i say veterinarian .
+0	6B	yeah .
+0	6B	um , okay .
+0	6B	so we got four in that category .
+0	6B	public health and safety .
+0	6B	vaccination ?
+0	6B	actually , yeah , it 's kind of - it 's par for the course now .
+0	6B	but that 's the thing , is ,
+2	6B	you do n't run around and do it trunc i think they should get - i think you 're right . they should cut that program .
+2	6B	trunc trunc somebody on the block had chicken pox ,
+2	6B	all the kids went over to their house and played with em and did all that stuff , so that the kids would all catch chicken pox and have it when they were young .
+2	6B	yeah . so , you know .
+2	6B	besides , trunc i - i think that vaccinations - i do n't - i - they just -
+0	6B	lead to all kinds of crazy things . you know . um .
+1	6B	fluoridation of water , and -
+1	6B	so , uh , yeah . no vaccinations whatsoever .
+2	6B	um .
+1	6B	can we - can we ban all vaccinations ? is that a possibility in this category , or - ?
+0	6B	i think we can only do that if we live in portland .
 1	6B	i -
-0	6B	i'm - i'm being very, very sarcastic.
-0	6B	when you were - when you were - ? i remember we usta hafta swish with the little fluoride cups. yeah. oh, i did it.
-0	6B	i'm - i'm uh, how do i put it?
-1	6B	i'm - i'm jaded in the sense that i'm - i'm old, and i'm like, of course you wanna fluoridate your water. like, what is wrong with you people? but then i remember where i came from, and that's of course why.
-0	6B	um, you know, it's a portlandia kinda moment.
-2	6B	um.
-2	6B	okay.
-0	6B	uh, what else?
-0	6B	did we - were we keeping or getting rid of toxic waste disposal?
-0	6B	bagel factory inspections were out.
-1	6B	okay. so we got bagel factory inspections, we got -
-2	6B	chicken pox vaccinations. we already got rid of weed control. so we need one more.
-1	6B	who needs a sex offender database, really? i mean -
+0	6B	i 'm - i 'm being very , very sarcastic .
+0	6B	when you were - when you were - ? i remember we usta hafta swish with the little fluoride cups . yeah . oh , i did it .
+0	6B	i 'm - i 'm uh , how do i put it ?
+1	6B	i 'm - i 'm jaded in the sense that i 'm - i 'm old , and i 'm like , of course you wan na fluoridate your water . like , what is wrong with you people ? but then i remember where i came from , and that 's of course why .
+0	6B	um , you know , it 's a portlandia kinda moment .
+2	6B	um .
+2	6B	okay .
+0	6B	uh , what else ?
+0	6B	did we - were we keeping or getting rid of toxic waste disposal ?
+0	6B	bagel factory inspections were out .
+1	6B	okay . so we got bagel factory inspections , we got -
+2	6B	chicken pox vaccinations . we already got rid of weed control . so we need one more .
+1	6B	who needs a sex offender database , really ? i mean -
 1	6B	trunc
-2	6B	you know.
-0	6B	um.
-1	6B	oh, neighborhood watch support. that was the other one we were getting rid of.
-0	6B	so we still have the database.
-1	6B	that's good. um.
-1	6B	that work for you?
-2	6B	so we've got - we've got those three. sn-
-3	6B	that i have not experienced in maybe my entire life. it's - it's - yes.
-2	6B	yes.
-0	6B	uh yes. um. i thought you were saying cereal. you know, like, pun after pun after pun after pun.
-0	6B	so what do we have left? we already got rid of the assistant ca - cooks.
-0	6B	no football equipment.
-0	6B	right? so we need one more.
-2	6B	what!
-1	6B	no! it - acting coaches and poetry books are critical. cooking classes.
-2	6B	i know. and now we hafta keep a lot of them. so -
-1	6B	no, we decided we wanted the sugar-free juice machines because when we thought through it, it meant that they were all water fountains.
-1	6B	i dunno. i'm - you know. unless you wanna -
-0	6B	is a * cholera outbreak on the county's dime. so i think we keep those. let's get rid of the cooking classes.
-2	6B	kay.
-0	6B	ah, i thought you had a higher risk of getting cholera central london.
-0	6B	mm.
+2	6B	you know .
+0	6B	um .
+1	6B	oh , neighborhood watch support . that was the other one we were getting rid of .
+0	6B	so we still have the database .
+1	6B	that 's good . um .
+1	6B	that work for you ?
+2	6B	so we 've got - we 've got those three . sn-
+3	6B	that i have not experienced in maybe my entire life . it 's - it 's - yes .
+2	6B	yes .
+0	6B	uh yes . um . i thought you were saying cereal . you know , like , pun after pun after pun after pun .
+0	6B	so what do we have left ? we already got rid of the assistant ca - cooks .
+0	6B	no football equipment .
+0	6B	right ? so we need one more .
+2	6B	what !
+1	6B	no ! it - acting coaches and poetry books are critical . cooking classes .
+2	6B	i know . and now we hafta keep a lot of them . so -
+1	6B	no , we decided we wanted the sugar-free juice machines because when we thought through it , it meant that they were all water fountains .
+1	6B	i dunno . i 'm - you know . unless you wan na -
+0	6B	is a cholera outbreak on the county 's dime . so i think we keep those . let 's get rid of the cooking classes .
+2	6B	kay .
+0	6B	ah , i thought you had a higher risk of getting cholera central london .
+0	6B	mm .
 1	6B	good -
-0	6B	* that's where i caught cholera! i - see?
-0	6B	yes.
-3	6B	kay.
-0	6B	i - i'll keep that in mind. um.
-0	6B	yeah.
-0	6B	yeah. i think the e_p_a_ does it.
-0	6B	but now, it's not being inspected anymore, since we are -
-1	6B	i - i don't know.
-2	6B	um.
-0	6B	i don't think it was, either.
-0	6B	are - are we?
-0	3I	i guess. yeah. i guess you and i just went into business together. um.
-0	3I	kay. large vests.
-2	3I	i actually wanna pass on this one, cuz i don't know whether they mean vests like -
-0	3I	you know, like a -
-0	3I	patagonia fleece vest, or do they mean like a, you know - anyway.
-0	3I	yeah. that's - that's what i'm wondering. like a * life vest.
-1	3I	yeah.
-1	3I	yeah. alright. yeah, yeah, yeah. no, it's good.
-1	3I	i'm not even gonna go there. i just - actually, i will. so i was at portland for this, um,
-0	3I	oh really?
-0	3I	so it was down - it was down at the mariott -
-1	3I	oh. too bad. sorry.
-2	3I	but it - it, you know, it's kinda fun. i mean, auditors love to make fun of themselves. it's like, you know -
-2	3I	the great thing about hanging out with auditors is that they're - it's kind of like hanging out with accountants. except not - they - auditors don't have quite the scintillating personality.
-0	3I	you know? um.
-0	3I	but, there was this -
-0	3I	yes, exactly. there was this - there was this one - this - there was a little bit of whiskey. um. just a little. actually more, you know, like, uh,
-0	3I	artisanal beer-kinda stuff. um.
-1	3I	yeah. yeah. we had a good time.
-0	3I	but this one guy was giving a presentation, um, from the g_a_o_.
-0	3I	no. no, no no. i heard about that. i think that - i - was that about clinton? i thought that was like, obama's people. um.
-3	3I	and then, i turned out, and then they started speaking into their wrists, and - and i realized, oh, they're also part of the secret service. and i'm like, you can't - what are you doing, man? like, you can't do that!
-2	3I	like, it was just crazy sexist. it was - it was a little awkward. um. yeah, like -
-2	3I	trunc somebody needs to explain that it's twenty fourteen. okay.
-2	3I	tow ropes. i think that would go next to boating supplies. alright.
-2	3I	yeah, yeah. yeah. it's a great idea.
-2	3I	we could go near the sugar, ice cream kinda stuff.
-1	3I	i mean, if they have pop and you know, other - * gatorade, or whatever.
-0	3I	yeah. yeah.
-1	3I	yeah, let's put it next to the toilet paper. think so.
-2	3I	the hard part is remembering what we've put and -
-2	3I	can't move the other ones. scissors.
-1	3I	maybe up by the refrigerator magnets?
-1	3I	kay.
-1	3I	yeah.
-1	3I	yeah.
-1	3I	perfect.
-0	3I	do we even have any?
-1	3I	yeah. um.
-2	3I	what if we - we've got this whole kind of open area. here, i'm gonna do something weird.
-1	3I	yeah. um.
-1	3I	yeah, let's just - yeah. we'll just take over the middle of that aisle.
-0	3I	egg timers. where was the, um -
-1	3I	like, next to refrigerator magnets, maybe?
-1	3I	yeah. totally.
-1	3I	kay.
-0	3I	that's interesting that you did that, cuz i actually did the opposite.
-0	3I	yeah, i assumed that this was the aisle, and these were the walls.
-0	3I	you know?
-1	3I	it trunc i don't think it matters. you know. we'll just try and be logic about it.
-1	3I	yeah. yeah.
-2	3I	yeah, or even down here. * if there's things like the axes and the -
-1	3I	wood products and other stuff.
-1	3I	kay. cuz see, i still got this heavy cable. i got the large vests in my hand.
-1	3I	or i can hang onto it.
-2	3I	cuz - i do think that these are all something in the same category. unless we hafta deal with the clothes. but i'll pull that one out there.
-0	3I	you know.
-0	3I	food.
-1	3I	perfect. yep.
-0	3I	dried figs.
-1	3I	same thing.
-1	3I	you wanna do that?
-1	3I	okay. okay.
-2	3I	i - it - it trunc let's just see how crowded it gets. i mean, that's the other thing.
-0	3I	buckets.
-2	3I	put it with the siding.
-0	3I	you know. i trunc yeah.
-0	3I	yeah.
-1	3I	box knives. see, i think we're all kind of in this - box knives, buckets -
-0	3I	um.
-0	3I	yeah, where did we put the scissors?
-2	3I	let's put it with the scissors.
-0	3I	liters of water. um.
-1	3I	maybe with the juice?
-1	3I	somewhere in that area?
-1	3I	yeah.
-0	3I	empty plastic jugs.
-0	3I	buckets?
-1	3I	kay.
-0	3I	axes.
-0	3I	okay.
-2	3I	trunc um. i'm gonna do this. so small axes. we can move em around later. heavy cable.
-2	3I	i'm just - here, actually, i'll put the heavy cable with the power cords.
-0	3I	but all these kind of things -
-0	3I	the box knives.
-1	3I	yeah.
-2	3I	but these - these are all - they seem like home depot kind of * stuff. you know?
-1	3I	maybe next to the -
-1	3I	okay. that works.
-1	3I	end of - end of the aisle?
-1	3I	put it there.
-1	3I	sticks of butter. um. i think butter should go near the eggs.
-0	3I	dairy products. um.
-1	3I	yeah. yep. totally.
-0	3I	um.
-1	3I	here maybe? i'm - i'm thinking like somewhere in the clothing area.
-1	3I	kay. the trunc you know what's gonna happen though, peter? i'm gonna forget which ones we had pre-assigned and which ones we put here.
-0	3I	well -
-0	3I	yeah.
-0	3I	absolutely! i - okay.
-0	3I	okay.
-0	3I	um.
-0	3I	i totally remember eve's buffet. yes!
-0	3I	alright.
-0	3I	no, yeah. the - the * stadium fred meyer. absolutely. so i useta, um, catch the fifty-one bus,
-0	3I	down and then switch to the twenty-two and catch it up burnside,
-0	3I	to school, and so -
-0	3I	yeah. yeah. so, um -
-0	3I	yeah, i've - i've spent some * quality time at the stadium fred meyer.
-0	3I	now i'm trying to remember - there was like, you know, you'd go downtown, and there were a couple record stores i go to, like django's and dudley's and stuff,
-0	3I	i almost wanna say like a * tower records. i think it was a tower records. or it mighta been a -
-0	3I	any - it mighta been fred meyer's, right? but there was that weird, kind of off building that was on the corner of burnside.
-0	3I	and i would - you know, if i had ten minutes to kill, i'd go in and look and see what - what was - what was happening music-wise.
-0	3I	yeah.
-1	3I	they did it.
-1	3I	yeah.
-1	3I	well that was - you know - in - in an era of hair metal, that was one of the few places where you could get cool things.
-0	3I	uh.
-0	3I	yeah.
-1	3I	oh yeah. um. i - i remember i - what did i -?
-0	3I	i bought sound garden there. i bought a bunch of stuff there.
-0	3I	okay. um. rolls of duct tape.
-1	3I	this - this area, in the bottom of the first aisle. yeah.
-1	3I	why not with the travel guides? yeah.
-2	3I	yeah, i think so. here.
-2	3I	we'll move that.
-1	3I	large cups.
-1	3I	yep. yep. totally.
-2	3I	pouches of oatmeal. same - somewhere in there. maybe - maybe here. it's like dried goods.
-1	3I	trunc half-inch tubing. that's a power cords - no, that would work.
-1	3I	yeah.
-1	3I	i dunno what - what trunc
-0	3I	um.
-0	3I	yes. um.
-2	3I	i think - i think it might be. uh.
-1	3I	see, this one to me, it's like it -
-0	3I	does he?
-0	3I	hm!
-0	3I	yeah.
-0	3I	yeah.
-0	3I	um.
-2	3I	i - i think, in terms of the whiskey, this is another one we should hang onto.
-2	3I	no. no. not - i - i was tempted to put it across from the toys, and then i -
-2	3I	you could put this in a stand-alone almost anywhere. i'd probably put it at the end, by like, books or something. i mean -
-0	3I	um.
-1	3I	so, yeah, let's hang onto that one.
-1	3I	yeah.
-0	3I	um.
-0	3I	ri-
-1	3I	bars of soap, maybe?
-1	3I	yeah.
-0	3I	canvas bags. um.
-2	3I	yeah. or maybe next to the mouse traps? cuz this is all gonna be plastic stuff, right?
-0	3I	okay.
-0	3I	yeah.
-1	3I	that's - i think that's good for now.
-0	3I	pre-cut wood.
-2	3I	i'm gonna move the heavy cable.
-1	3I	yeah.
-1	3I	do that. like that, or something.
-1	3I	yes.
-2	3I	totally. here. in fact, put it by the soap.
-0	3I	maybe it's just mint.
-1	3I	beets. uh, beets with the -
-1	3I	soy beans, cans of peas, all that stuff.
-0	3I	now the soy beans were permanent, right?
-2	3I	yeah. okay. cuz we may need to move the oatmeal, and the dried - you know, like - kay.
-2	3I	just move it up.
-0	3I	light jackets.
-0	3I	wet suits.
-1	3I	can we put the wet suits there?
-1	3I	with the - with the boating supplies?
-0	3I	ack. what do you use a five-pound weight for?
-0	3I	could be. it could be like a * diving thing. yeah.
-0	3I	yeah.
-1	3I	i think - i think - yeah, i think that'd be -
-0	3I	heavy. um.
-0	3I	right.
-0	3I	well, i mean, you might -
-0	3I	that's what i'm saying, if you go diving. but - that's actually a * lot. like -
-0	3I	you know.
-0	3I	yeah.
-1	3I	or a - you might put, like, five or ten pounds. you - you wouldn't have like a series of five-pound weights.
-1	3I	we'll just throw it in there.
-0	3I	um.
-1	3I	why don't we put it with the weights? same kinda thing.
-1	3I	yeah.
-1	3I	fleece-lined boots. um. were the socks here? we put all of this here, right? we picked that.
-2	3I	put the boots there.
-0	3I	hm.
-2	3I	put it right there.
-2	3I	yeah.
-1	3I	good call.
-2	3I	okay. but we can - we can fix this. we could move -
-2	3I	the siding hasta stay there.
-2	3I	what if we do this?
-1	3I	yeah. we could do that.
-1	3I	i'm thinking of moving them all up, though, so they're next to the siding, too. go see - you gotta cut siding.
-0	3I	so.
-1	3I	do this.
-0	3I	the plastic jugs just kinda ended up over there.
-1	3I	sure.
-1	3I	yeah, there you go.
-1	3I	yes.
-1	3I	yeah.
-0	3I	bagels.
-0	3I	i say canvas bag.
-0	3I	and i say bagels. yes.
-0	3I	yeah.
-1	3I	uh yeah. that'll work.
-0	3I	yeah.
-2	3I	the flags. where - um. let's put the flags here. just -
-0	3I	right.
-2	3I	you could do that. um. i actually think we should put vests there for now.
-1	3I	yeah. that works. that's perfect.
-1	3I	yeah. put em there.
-1	3I	yeah. so we could put em -
-1	3I	there.
-0	3I	kay. cases of whiskey.
-2	3I	right next to the toys. n um.
-2	3I	i think so. trunc here's - i do wanna do this, though. i know this is neurotic. um. i wanna move -
-2	3I	the saws and axes and stuff next to the siding. because -
-1	3I	yeah.
-1	3I	yeah. and then the buckets, we can just -
-1	3I	i dunno. buckets are fine there.
-1	3I	we could do that.
-0	3I	right.
-1	3I	trunc trunc switch the - yep.
-0	3I	buckets, rolls of duct tape, half-inch tubing.
-0	3I	mouse traps.
-0	3I	mm-hm.
-0	3I	um.
-0	3I	the only other thing - well, for deck chairs, like a home deck -
-1	3I	boating supplies. but i think we're fine.
-1	3I	i think that's close enough.
-1	3I	we could -
-1	3I	we could do this.
-2	3I	we could do that. we can't move the power cords, though. that was one of the permanent ones.
-1	3I	we could do this.
-1	3I	like that?
-1	3I	and then move the knives in.
-1	3I	mm-hm.
-1	3I	yeah.
-0	3I	well that's - and that's kinda what i'm looking at. like, if you assume they had to be equal in some proportion. like this one's equal, but there's a lot less in these two.
-0	3I	i can't remember.
-1	3I	trunc there you go.
-2	3I	no, that's good. yeah.
-2	3I	the - it was cake mix. cake mix hasta be there.
-1	3I	yeah.
-1	3I	yeah. you could move -
-1	3I	you know, you could trunc we could move packages of cookies up there with the doughnuts and the ice cream and the chocolate bars and stuff.
-1	3I	okay.
-2	3I	yeah, let's declare victory.
-2	3I	we'll just move on. and trunc i - you know trunc yes. well done, sir! um.
-0	3I	yeah.
-0	6B	yes.
-1	6B	yeah.
-0	6B	mm-hm.
-0	6B	which expensive should be cut from each department, and choose the same number of items from each department.
-0	6B	so.
-0	6B	yep.
-0	6B	yeah.
-0	6B	we must discuss each - each item and reach an agreement about whether to cut it or continue funding it.
-2	6B	i - i disagree.
-2	6B	why would anyone wanna be doomed to that narrow of a focus in terms of their future career options?
-0	6B	um.
-2	6B	um. i'm - i'm gonna disagree with you and say we should keep the math tutors for now.
-1	6B	just, you know -
-1	6B	because -
-1	6B	what is it? those who can't teach, teach p_e_? what's the whole -?
-1	6B	those who can't do math -
-0	6B	yeah. so, yeah.
-0	6B	i - assistant cooks?
-2	6B	really? why? why would you hang -?
-3	6B	wait a minute! why would you hang on to the assistant cooks?
-2	6B	but that's the thing. look. the - you don't need an educational program for assistant cooks.
-2	6B	cuz you know that the - if the assistant cook is the one on the boat,
-2	6B	he or she would be the one to survive. cuz it's always the cook that survives, right?
-2	6B	so, um, i don't think - i don't think they'd -
-2	6B	they need any more help than they're already getting.
-1	6B	yeah.
-2	6B	they work with large knives. i mean, there's just - you know.
-0	6B	um. sex ed.
-0	6B	uh, i -
-1	6B	yeah.
-2	6B	well, you know.
-0	6B	so.
-1	6B	trunc exactly.
-0	6B	okay.
-1	6B	so, so far, i would suggest that assistant cooks may be - may be a - a program to cut. custodians?
-2	6B	what is being in a union shop have to do with that thing?
-2	6B	well, yeah, but you're - every
-2	6B	lemme just kinda tell you that * everybody in government is gonna * be in the, you know,
-2	6B	collectively bargained category. so, if - if you've gotta cut people, you're gonna hafta cut people.
-2	6B	i wouldn't cut the custodians.
-2	6B	have you ever * seen -
-2	6B	how public officials maintain their offices? agh! be - you know, my seven year old does a better job.
-0	6B	yeah, see -
-2	6B	it's a critical role.
-2	6B	keep the custodians. speech therapy.
-0	6B	speech therapy?
-1	6B	yes.
-0	6B	uh, football equipment.
-2	6B	um, no. why -? football equipment?
-0	6B	uh, is that * football football or american football?
-0	6B	um.
-0	6B	i guess. or we're - still - we're maintaining the equipment? we're buying the equipment?
-0	6B	um.
-1	6B	we must choose the same number -
-1	6B	which expenses should be cut from each department. we must choose the same number -
-2	6B	so, they're saying, cut the football equipment expenses. so, it leads me to believe there's an ongoing expense that we are now not ongoing.
-2	6B	or, we're * off-going.
-2	6B	what - what are you saying?
-2	6B	are you trunc * i work for the county. what are you saying? you saying that we got moldy football equipment?
-2	6B	come on, man.
-0	6B	um.
-0	6B	oh?
-0	6B	right.
-1	6B	so the hillsdale library maintained the moldy football equipment?
-0	6B	i understand.
-0	6B	yeah.
-1	6B	right.
-1	6B	okay.
-2	6B	well then - but then they'd come back, and they'd be like, i remember when they had to cut the football equipment, so i'm gonna spend my -
-2	6B	gazillions on helping out the -
-2	6B	youth football.
-2	6B	no! i think we should get rid of it. cut it!
-2	6B	cut it!
-2	6B	um. acting coaches. clearly the most critical role in all county services are acting coaches.
-0	6B	i gotcha.
-0	6B	the - the - yes.
-0	6B	the - the - right.
-1	6B	yeah. cuz the other coaches are being investigated, or something? right. the acting coaches. um.
-2	6B	right. oh, ouch. um.
-2	6B	well in that case, maybe we don't wanna get rid of the acting coaches. uh, poetry books?
-0	6B	poetry books?
-0	6B	i dunno.
-0	6B	um.
-1	6B	uh. i - i don't know. i think it depends on the poet.
-2	6B	i think we keep the poetry books. how hard can it be to maintain the poetry * books?
-2	6B	really?
-1	6B	i'm thinking like, t_s_ elliot and stuff. um.
-0	6B	uh, special ed teachers.
-1	6B	okay.
-1	6B	mm. could be true.
-1	6B	yes. um.
-2	6B	you - you make it sound like a virus.
-0	6B	um.
-0	6B	uh.
-0	6B	mm-hm.
-0	6B	mm-hm.
-1	6B	yeah.
-0	6B	yeah.
-2	6B	well cuz they're -
-2	6B	they're mandated to provide those services.
-0	6B	federal.
-2	6B	kay, so keep em.
-0	6B	cooking classes?
-0	6B	eh.
-2	6B	well, no. but why - you know. i mean -
-2	6B	can't people take a cooking class at p_c_c_ or something? why is the county paying for it?
-2	6B	well that - that actually says a lot. um.
-0	6B	uh.
-1	6B	maybe we don't wanna cut em.
-0	6B	right. um. so - note-takers. disability services?
-2	6B	do they? okay. i was gonna say, couldn't we just buy everybody an ipad and call it good?
-2	6B	that seems to be the answer.
-1	6B	public services? infrastructure and licensing.
-1	6B	yeah.
-1	6B	yeah.
-0	6B	yeah.
-0	6B	um.
-2	6B	sugar-free juice machines? i feel like there's a lotta things in this category that are not -
-2	6B	not particularly, um, dynamic.
-0	6B	uh. bookkeeping classes, music teachers, sugar-free juice machines.
-2	6B	i mean -
-2	6B	based on this list, i -
-2	6B	the poor assistant cooks go near the top. football equipment goes near the top. for me. like, meaning, get - like we would cut it.
-1	6B	cooking classes.
-1	6B	bookkeeping classes.
-1	6B	yeah, there's some accounting involved.
-2	6B	so i'd - i'd wanna get rid of the classes so that it would mean, you know, more long-term, like job preservation. and people weren't -
-2	6B	exactly. exactly. so, you know, yeah. if we - we - that gets cut first.
-2	6B	we need * bad accounting.
-0	6B	um.
-0	6B	let's see.
-2	6B	well the sugar-free juice trunc that's a little oxymoronic anyway. i mean, what is sugar-free juice?
-0	6B	you know. i -
-0	6B	i - i guess. um.
-1	6B	pretty much. um.
-1	6B	yes. uh yes. i think -
-2	6B	so what they're saying is water fountains. yes.
-1	6B	right.
-0	6B	um.
-0	6B	okay.
-1	6B	so shall we move to the next category, and then we can kinda come back and keep our numbers? yes.
-2	6B	absolutely. i - don't get rid of the water fountains.
-0	6B	um.
-1	6B	music teachers. eh.
-1	6B	uh, reproductive education. we should probably hang onto that.
-1	6B	job training - training programs? sure.
-1	6B	chicken pox vaccinations? sounds good. invasive species removal?
-0	6B	um.
-1	6B	yeah. yep.
-0	6B	s_t_d_ education, toxic waste disposal, hospital additions.
-2	6B	* bagel * factory * inspections.
-2	6B	absolutely the most critical role that the county can play, is bagel factory inspections.
-0	6B	um.
-0	6B	yeah. i think so. wasn't it?
-0	6B	was under, um.
-0	6B	was it under public safety? it was under, uh -
-0	6B	yeah, environmental - environmental safety.
-0	6B	um, needle exchange, sex offender database, veterans medical assistance, egg farm regulations, weed control. prenatal check-ups and neighborhood watch support?
-2	6B	geez! and none of these things i would really get rid of compared about - trunc five or six on the other one. um.
-2	6B	i think they * do do that now, don't they?
-0	6B	do the - do the weed control?
-2	6B	mm-kay. i'm with you on weed control.
-0	6B	um.
-0	6B	um. i dunno.
-1	6B	yeah.
-2	6B	what - getting rid of neighborhood watch. what could go wrong?
-1	6B	what could go wrong?
-0	6B	i mean -
-2	6B	that's - that's what we need. we need everybody to be * armed.
-2	6B	then - yeah. then we don't need any regulation. okay. oh -
-0	6B	i - i have not seen it. i'm * not - i've -
-0	6B	uh-huh. and then he starts pepper spraying everybody.
-0	6B	mm-hm.
-0	6B	there you go. um.
-0	6B	right.
-2	6B	so, yeah. i think we could cut the neighborhood watch support, and instead, just give them all pepper spray and weapons. and - yeah.
-0	6B	mm-hm.
-0	6B	mm-hm.
-1	6B	pick axes. i think, you know -
-1	6B	um. pitch forks, torches.
-2	6B	um. yes. trunc oh, my.
-1	6B	uh, okay.
-0	6B	toxic waste disposal?
-2	6B	now see here's my question. if we cut the toxic waste disposal program,
-2	6B	does that mean that people will dispose of their toxic waste in another county?
-2	6B	so why don't - let's just do that, and then they'll take it all to pierce county.
-2	6B	wasn't that what you do now?
-2	6B	you know, and i've used motor oil. i just kind of, you know, spread it around in my back yard.
-0	6B	yeah.
-0	6B	especially, you know -
-1	6B	i just look for those drains that are stenciled with the salmon pictures and make sure that i put em down there. cuz i figure it's good for the salmon.
-0	6B	right, right.
-0	6B	um.
-0	6B	okay.
-0	6B	um. recreation and public services. stray cat * spaying, public news * station, food bank, junior -
-0	6B	uh, i do. i have cats - i have a cat and a dog. living together. mass hysteria. um.
-0	6B	um, have i * spayed them?
-0	6B	personally? no. i have had them fixed. yes.
-0	6B	i did.
-2	6B	trunc okay. stray cat spaying it is. although, you know, we're gonna have a whole lot of stray cats.
-2	6B	stray cats paying, yes.
-1	6B	their last album. which was a flop. i - i have no idea. stray cat -
-0	6B	spaying.
-0	6B	kitten and puppy adoption?
-0	6B	kitten and -
-0	6B	no, i - i got them from kitten and puppy adoption.
-0	6B	yeah, i really did.
-0	6B	uh, soup kitchens.
-0	6B	the kitten and puppy adoptions services?
-0	6B	um.
-1	6B	that's distinctly possible. but, you know, it's not - we're - we're -
-1	6B	we're - uh, yeah.
-2	6B	i trunc i think the difference would be that because there was a kitten-puppy adoption service,
-2	6B	that there was somebody to facilitate the adopting of the kitten and-or puppy.
-2	6B	yes, absolutely.
-1	6B	um. you know, i mean, you could always go with the, uh -
-1	6B	i don't know. most of the world -
-1	6B	greece -
-1	6B	thailand slash approach, where could just have the dogs and the cats running around doing everything.
-1	6B	yeah. um. but i - i - i don't know. you know.
-1	6B	might be a little cold. alright.
-0	6B	soup kitchens, housing assistance.
-1	6B	what if they wanna eat something besides soup, though?
-1	6B	could we have like a * salad kitchen?
-2	6B	we do. we could have like a * vegan -
-1	6B	yes.
-1	6B	we could have a * whiskey kitchen.
-0	6B	really? actually, isn't there a trunc restaurant called that, or something?
-0	6B	okay. housing assistance.
-0	6B	um. dog catcher.
-1	6B	how - how we gonna have kittens and puppies to - ?
-2	6B	trunc well what are they gonna do when they get the dog?
-2	6B	i - i'm just worried about the kitten and puppy adoption service, if they don't have a dog catcher to catch the kittens and puppies to be adopted.
-2	6B	maybe we need a * cat catcher in there.
-3	6B	there is no cat catcher!
-3	6B	holy -
-1	6B	the dog trunc okay.
-1	6B	dog catcher and stray cat spaying. yes.
-0	6B	the boys basketball club?
-0	6B	who?
-0	6B	mm-hm.
-2	6B	i think that's - i actually think - as a county employee, i think that's a brilliant idea. what they should do is -
-2	6B	they should take trunc force me to take my lunch hour, and just reassign everybody who does all these other public functions to go do dog catching.
-1	6B	you know, for an hour or two. uh, every week. yeah, okay. yeah.
-0	6B	yep.
-0	6B	trunc
-1	6B	and - and spay stray cats. okay.
-1	6B	i have no idea. yeah. you know. just -
-1	6B	trunc trunc but that's what you need the scissors and the case of whiskey for.
-0	6B	um.
-0	6B	the loose-leaf paper? i don't know. uh.
-0	6B	reusable bag campaign.
-0	6B	reusable bag campaign.
-2	6B	well, i was gonna say. i mean.
-1	6B	i - i know.
-2	6B	i don't know why you'd need a special -
-2	6B	we re-elect most of the politicians around here anyway. so.
-2	6B	well that's what i'm saying. reusable bag. um.
-0	6B	uh.
-2	6B	i - i work with a lotta these people. i hafta be careful. um.
-0	6B	so, uh, veterinary hospital.
-0	6B	what do we do with veterinary hos-?
-0	6B	um.
-2	6B	no, i'm - in all seriousness, i had to take my dog -
-0	6B	uh -
-1	6B	in today.
-0	6B	you know.
-2	6B	yes. he's - he's old. he's like thirteen.
-2	6B	so - i - i'm not taking my dog to a county hospital. i'm taking my dog to the, you know -
-1	6B	the west seattle vet. so,
-2	6B	i don't know that the county needs to pay for veterinary hospitals. like -
-0	6B	yeah. um.
-0	6B	i trunc
-2	6B	well, trunc yeah, but you could pay - i mean, if you have - if you have a program for stray cat spaying.
-2	6B	they could do that at someone else's, you know, vet hospital. they could do that -
-2	6B	i don't know. i just don't know that the county needs to pay for that.
-2	6B	they could do it at the food trunc that is a great idea.
-2	6B	wow. i really don't wanna be going to the food bank any time soon. that's terrible, pete!
-2	6B	oh, jiminy christmas. that's just terrible.
-0	6B	um. the football stadium upkeep.
-1	6B	and the soup kitchens.
-1	6B	yes. okay.
-0	6B	uh, so -
-2	6B	trunc okay, we're gonna hafta come back and figure out what we're cutting. but i think we have a good sense of what it is that we would cut in that category.
-2	6B	starting with the -
-2	6B	veterinarian.
-0	6B	infrastructure and licensing.
-2	6B	trunc like i said, we can cut that immediately.
-0	6B	um.
-2	6B	why?
-2	6B	okay, well then let's cut that program.
-0	6B	uh, speed limit signs?
-2	6B	i - i don't pay - personally, i don't pay attention to the speed limit. do you?
-2	6B	yeah. okay. then we should be gold-
-0	6B	oh, do you?
-0	6B	mm-hm.
-1	6B	mm-hm.
-0	6B	kay.
-1	6B	right. uh, additional bus stops?
-2	6B	no.
-2	6B	no. we don't need - we don't need any additional bus stops.
-1	6B	yeah.
-2	6B	well they just spent - you know, i mean - it's - i don't know about you, but i - i do ride the bus. and there's - they have the rapid ride lines.
-2	6B	which i think is funny, because a ride implies that you can sit down, right? and so, rapid ride, it's neither rapid nor a ride. right?
-2	6B	um. so no additional bus stops.
-0	6B	uh. tattoo artist licenses?
-2	6B	do - trunc i do. we - we don't - we don't need to talk about that.
-0	6B	um.
-2	6B	so, uh, but tattoo - why -
-2	6B	you're going to a tattoo artist. do you think that they're going to be licensed?
-2	6B	is that really a reasonable expectation?
-2	6B	i thought that was - i thought that was - they put that -
-2	6B	you know, there was like, hey, you got that for free. you know?
-2	6B	normally it's ten dollars extra, but today, we'll make sure that you only get hep b_.
-0	6B	um.
-0	6B	okay.
-0	6B	yeah.
-1	6B	is it in - is it a license for like, how good of a tattoo artist they are, or, you know - ?
-0	6B	yeah.
-0	6B	yeah.
-1	6B	i thought maybe, you know, it's like, oh, i've -
-2	6B	i've actually done * seventeen scorpions tattoos, and so you get some sort of special -
-0	6B	yeah, okay. yeah.
-1	6B	right, exactly.
-1	6B	some - some sort of phenomenal maxfield parrish reproduction.
-0	6B	right.
-0	6B	right.
-0	6B	trunc another kid rock.
-0	6B	uh, okay.
-1	6B	um.
-0	6B	boating licenses.
-0	6B	do we really need people to have a license when they go boating?
-0	6B	i mean,
-2	6B	what could go wrong?
-2	6B	you know?
-2	6B	uh, pothole maintenance?
-0	6B	um.
-0	6B	i dunno.
-0	6B	wait, how do you feel about -
-1	6B	mm-kay.
-1	6B	subway system?
-1	6B	trunc it would be nice to have one. but since we don't, i don't think we need - i don't think we need the program for it.
-0	6B	um.
-0	6B	is that like a tag for hunters?
-0	6B	yeah. um.
-0	6B	i don't know. is like, what do you do? do you like, run up and tag somebody as they're hunting, and say, you're it? i -
-0	6B	um.
-0	6B	uh, they were a number of other towing services that seemed to do a pretty decent job of that, at absolutely inopportune times.
-2	6B	yeah.
-2	6B	um.
-1	6B	uh -
-0	6B	massage trunc massage certificates?
-0	6B	yeah.
-0	6B	is that like a trunc do they give you a certificate suitable for framing after you had a massage? is that what -? i don't -
-1	6B	do they mean like a certification?
-1	6B	message certificates, yes.
-0	6B	you've got mail.
-2	6B	um.
-1	6B	flagpole repair? i don't think we need to repair any flagpoles. taxi stops?
-2	6B	problem solved!
-2	6B	yeah. taxi stops?
-3	6B	well -
-2	6B	i - can't you just stop a taxi by going out and whistling or waving, or - ?
-0	6B	yeah.
-2	6B	so, taxi stops.
-0	6B	fishing licenses.
-1	6B	definitely a vitally important thing.
-0	6B	public trunc
-2	6B	public bus upkeep. well they're not really doing it now. so, um -
-0	6B	and drainage ditches.
-2	6B	alright, so - what do we - let's - why don't we pick one from each category to cut, and then maybe pick another - let's just do it.
-0	6B	across the board. so -
-2	6B	education programs? do you wanna cut assistant cooks?
-1	6B	kay.
-1	6B	public health and safety?
-0	6B	uh, weed control?
-0	6B	i mean, it - it is legal now.
-1	6B	yeah. so -
-1	6B	yes.
-1	6B	no, that's what i'm saying. it's legal now. so why'd you - why - what's - why do you need to control it?
-1	6B	right. um.
-2	6B	uh.
-0	6B	the recreation and public services. do we - did we say we were getting rid of the -
-0	6B	veterinary hospital? what are we doing?
-0	6B	um.
-0	6B	football stadium upkeep. i'm with you. okay.
-0	6B	hunting tags?
-0	6B	trunc you're - you're - you're not going with flagpole repair? that's a critical category for you, isn't it? you -
-1	6B	i -
-2	6B	kay.
-0	6B	the - yes, the trunc the -
-1	6B	no weed control.
-1	6B	no assistant cooks. so let's go back the other direction then.
-1	6B	um.
-1	6B	uh, are we getting rid of teaching certificates? speed limit signs.
-0	6B	i thought if we got rid of the teaching certificates, you got -
-1	6B	you were -
-1	6B	okay. so, okay, trunc
-0	6B	okay. we'll nix the first three.
-1	6B	kay. one, two, three.
-1	6B	kay. can we get three out of every - ? then we'd have four in every category. i think that's pretty good.
-1	6B	so no teaching certificates, no speed limit signs. who needs speed limit signs? additional bus stops,
-2	6B	and tattoo artist licenses. okay.
-1	6B	well, you know -
-2	6B	it's kind of like a driver's license. like, you know.
-2	6B	right.
-1	6B	we could w-
-0	6B	but trunc but see -
-0	6B	this is what concerns me. is trunc if we got like five things in this category, i dunno that we can get five out of every other category.
-2	6B	so let's go with those three for now.
-2	6B	um.
-0	6B	football stadium.
-1	6B	well, we already got rid of the football stadium upkeep.
-1	6B	so, reusable bags, veterinary hospital, yes, no?
-0	6B	yes, no?
-1	6B	yeah, but that - trunc i try not to - that's a - we don't talk about that in public.
-1	6B	yes. uh.
-0	6B	no, that's - well,
-0	6B	it's my own.
-0	6B	yeah.
-0	6B	um.
-0	6B	we're getting rid of the veterinarian, we're getting rid of the reusable bag campaign -
-0	6B	and we're getting rid of what?
-1	6B	pest control?
-1	6B	um.
-1	6B	the dog catcher?
-0	6B	pest control.
-1	6B	they do exist.
-1	6B	they are there. there's like all the all the cities in king county pay for a couple of em.
-0	6B	kay. so we need one more.
-2	6B	yeah. cuz we've -
-1	6B	yeah.
-0	6B	so, stray cat spaying.
-2	6B	trunc you're right. trunc you're right. you're right.
-2	6B	plus the - oh, man. oh, god.
-1	6B	um.
-1	6B	that's one for you. do you pronounce that veterinarian or veterinarian?
-1	6B	i think it does, too.
-1	6B	um.
-0	6B	uh-huh.
-0	6B	i think i say veterinarian.
-0	6B	yeah.
-0	6B	um, okay.
-0	6B	so we got four in that category.
-0	6B	public health and safety.
-0	6B	vaccination?
-0	6B	actually, yeah, it's kind of - it's par for the course now.
-0	6B	but that's the thing, is,
-2	6B	you don't run around and do it trunc i think they should get - i think you're right. they should cut that program.
-2	6B	trunc trunc somebody on the block had chicken pox,
-2	6B	* all the kids went over to their house and played with em and did all that stuff, so that the kids would all catch chicken pox and have it when they were young.
-2	6B	yeah. so, you know.
-2	6B	besides, trunc i - i think that vaccinations - i don't - i - they just -
-0	6B	lead to all kinds of crazy things. you know. um.
-1	6B	fluoridation of water, and -
-1	6B	so, uh, yeah. no vaccinations whatsoever.
-2	6B	um.
-1	6B	can we - can we ban all vaccinations? is that a possibility in this category, or - ?
-0	6B	i think we can only do that if we live in portland.
-1	6B	i -
-0	6B	i'm - i'm being very, very sarcastic.
-0	6B	when you were - when you were - ? i remember we usta hafta swish with the little fluoride cups. yeah. oh, i did it.
-0	6B	i'm - i'm uh, how do i put it?
-1	6B	i'm - i'm jaded in the sense that i'm - i'm old, and i'm like, of course you wanna fluoridate your water. like, what is wrong with you people? but then i remember where i came from, and that's of course why.
-0	6B	um, you know, it's a portlandia kinda moment.
-2	6B	um.
-2	6B	okay.
-0	6B	uh, what else?
-0	6B	did we - were we keeping or getting rid of toxic waste disposal?
-0	6B	bagel factory inspections were out.
-1	6B	okay. so we got bagel factory inspections, we got -
-2	6B	chicken pox vaccinations. we already got rid of weed control. so we need one more.
-1	6B	who needs a sex offender database, really? i mean -
-1	6B	trunc
-2	6B	you know.
-0	6B	um.
-1	6B	oh, neighborhood watch support. that was the other one we were getting rid of.
-0	6B	so we still have the database.
-1	6B	that's good. um.
-1	6B	that work for you?
-2	6B	so we've got - we've got those three. sn-
-3	6B	that i have not experienced in maybe my entire life. it's - it's - yes.
-2	6B	yes.
-0	6B	uh yes. um. i thought you were saying cereal. you know, like, pun after pun after pun after pun.
-0	6B	so what do we have left? we already got rid of the assistant ca - cooks.
-0	6B	no football equipment.
-0	6B	right? so we need one more.
-2	6B	what!
-1	6B	no! it - acting coaches and poetry books are critical. cooking classes.
-2	6B	i know. and now we hafta keep a lot of them. so -
-1	6B	no, we decided we wanted the sugar-free juice machines because when we thought through it, it meant that they were all water fountains.
-1	6B	i dunno. i'm - you know. unless you wanna -
-0	6B	is a * cholera outbreak on the county's dime. so i think we keep those. let's get rid of the cooking classes.
-2	6B	kay.
-0	6B	ah, i thought you had a higher risk of getting cholera central london.
-0	6B	mm.
-1	6B	good -
-0	6B	* that's where i caught cholera! i - see?
-0	6B	yes.
-3	6B	kay.
-0	6B	i - i'll keep that in mind. um.
-0	6B	yeah.
-0	6B	yeah. i think the e_p_a_ does it.
-0	6B	but now, it's not being inspected anymore, since we are -
-1	6B	i - i don't know.
-2	6B	um.
-0	6B	i don't think it was, either.
-0	6B	are - are we?
-0	3I	i guess. yeah. i guess you and i just went into business together. um.
-0	3I	kay. large vests.
-2	3I	i actually wanna pass on this one, cuz i don't know whether they mean vests like -
-0	3I	you know, like a -
-0	3I	patagonia fleece vest, or do they mean like a, you know - anyway.
-0	3I	yeah. that's - that's what i'm wondering. like a * life vest.
-1	3I	yeah.
-1	3I	yeah. alright. yeah, yeah, yeah. no, it's good.
-1	3I	i'm not even gonna go there. i just - actually, i will. so i was at portland for this, um,
-0	3I	oh really?
-0	3I	so it was down - it was down at the mariott -
-1	3I	oh. too bad. sorry.
-2	3I	but it - it, you know, it's kinda fun. i mean, auditors love to make fun of themselves. it's like, you know -
-2	3I	the great thing about hanging out with auditors is that they're - it's kind of like hanging out with accountants. except not - they - auditors don't have quite the scintillating personality.
-0	3I	you know? um.
-0	3I	but, there was this -
-0	3I	yes, exactly. there was this - there was this one - this - there was a little bit of whiskey. um. just a little. actually more, you know, like, uh,
-0	3I	artisanal beer-kinda stuff. um.
-1	3I	yeah. yeah. we had a good time.
-0	3I	but this one guy was giving a presentation, um, from the g_a_o_.
-0	3I	no. no, no no. i heard about that. i think that - i - was that about clinton? i thought that was like, obama's people. um.
-3	3I	and then, i turned out, and then they started speaking into their wrists, and - and i realized, oh, they're also part of the secret service. and i'm like, you can't - what are you doing, man? like, you can't do that!
-2	3I	like, it was just crazy sexist. it was - it was a little awkward. um. yeah, like -
-2	3I	trunc somebody needs to explain that it's twenty fourteen. okay.
-2	3I	tow ropes. i think that would go next to boating supplies. alright.
-2	3I	yeah, yeah. yeah. it's a great idea.
-2	3I	we could go near the sugar, ice cream kinda stuff.
-1	3I	i mean, if they have pop and you know, other - * gatorade, or whatever.
-0	3I	yeah. yeah.
-1	3I	yeah, let's put it next to the toilet paper. think so.
-2	3I	the hard part is remembering what we've put and -
-2	3I	can't move the other ones. scissors.
-1	3I	maybe up by the refrigerator magnets?
-1	3I	kay.
-1	3I	yeah.
-1	3I	yeah.
-1	3I	perfect.
-0	3I	do we even have any?
-1	3I	yeah. um.
-2	3I	what if we - we've got this whole kind of open area. here, i'm gonna do something weird.
-1	3I	yeah. um.
-1	3I	yeah, let's just - yeah. we'll just take over the middle of that aisle.
-0	3I	egg timers. where was the, um -
-1	3I	like, next to refrigerator magnets, maybe?
-1	3I	yeah. totally.
-1	3I	kay.
-0	3I	that's interesting that you did that, cuz i actually did the opposite.
-0	3I	yeah, i assumed that this was the aisle, and these were the walls.
-0	3I	you know?
-1	3I	it trunc i don't think it matters. you know. we'll just try and be logic about it.
-1	3I	yeah. yeah.
-2	3I	yeah, or even down here. * if there's things like the axes and the -
-1	3I	wood products and other stuff.
-1	3I	kay. cuz see, i still got this heavy cable. i got the large vests in my hand.
-1	3I	or i can hang onto it.
-2	3I	cuz - i do think that these are all something in the same category. unless we hafta deal with the clothes. but i'll pull that one out there.
-0	3I	you know.
-0	3I	food.
-1	3I	perfect. yep.
-0	3I	dried figs.
-1	3I	same thing.
-1	3I	you wanna do that?
-1	3I	okay. okay.
-2	3I	i - it - it trunc let's just see how crowded it gets. i mean, that's the other thing.
-0	3I	buckets.
-2	3I	put it with the siding.
-0	3I	you know. i trunc yeah.
-0	3I	yeah.
-1	3I	box knives. see, i think we're all kind of in this - box knives, buckets -
-0	3I	um.
-0	3I	yeah, where did we put the scissors?
-2	3I	let's put it with the scissors.
-0	3I	liters of water. um.
-1	3I	maybe with the juice?
-1	3I	somewhere in that area?
-1	3I	yeah.
-0	3I	empty plastic jugs.
-0	3I	buckets?
-1	3I	kay.
-0	3I	axes.
-0	3I	okay.
-2	3I	trunc um. i'm gonna do this. so small axes. we can move em around later. heavy cable.
-2	3I	i'm just - here, actually, i'll put the heavy cable with the power cords.
-0	3I	but all these kind of things -
-0	3I	the box knives.
-1	3I	yeah.
-2	3I	but these - these are all - they seem like home depot kind of * stuff. you know?
-1	3I	maybe next to the -
-1	3I	okay. that works.
-1	3I	end of - end of the aisle?
-1	3I	put it there.
-1	3I	sticks of butter. um. i think butter should go near the eggs.
-0	3I	dairy products. um.
-1	3I	yeah. yep. totally.
-0	3I	um.
-1	3I	here maybe? i'm - i'm thinking like somewhere in the clothing area.
-1	3I	kay. the trunc you know what's gonna happen though, peter? i'm gonna forget which ones we had pre-assigned and which ones we put here.
-0	3I	well -
-0	3I	yeah.
-0	3I	absolutely! i - okay.
-0	3I	okay.
-0	3I	um.
-0	3I	i totally remember eve's buffet. yes!
-0	3I	alright.
-0	3I	no, yeah. the - the * stadium fred meyer. absolutely. so i useta, um, catch the fifty-one bus,
-0	3I	down and then switch to the twenty-two and catch it up burnside,
-0	3I	to school, and so -
-0	3I	yeah. yeah. so, um -
-0	3I	yeah, i've - i've spent some * quality time at the stadium fred meyer.
-0	3I	now i'm trying to remember - there was like, you know, you'd go downtown, and there were a couple record stores i go to, like django's and dudley's and stuff,
-0	3I	i almost wanna say like a * tower records. i think it was a tower records. or it mighta been a -
-0	3I	any - it mighta been fred meyer's, right? but there was that weird, kind of off building that was on the corner of burnside.
-0	3I	and i would - you know, if i had ten minutes to kill, i'd go in and look and see what - what was - what was happening music-wise.
-0	3I	yeah.
-1	3I	they did it.
-1	3I	yeah.
-1	3I	well that was - you know - in - in an era of hair metal, that was one of the few places where you could get cool things.
-0	3I	uh.
-0	3I	yeah.
-1	3I	oh yeah. um. i - i remember i - what did i -?
-0	3I	i bought sound garden there. i bought a bunch of stuff there.
-0	3I	okay. um. rolls of duct tape.
-1	3I	this - this area, in the bottom of the first aisle. yeah.
-1	3I	why not with the travel guides? yeah.
-2	3I	yeah, i think so. here.
-2	3I	we'll move that.
-1	3I	large cups.
-1	3I	yep. yep. totally.
-2	3I	pouches of oatmeal. same - somewhere in there. maybe - maybe here. it's like dried goods.
-1	3I	trunc half-inch tubing. that's a power cords - no, that would work.
-1	3I	yeah.
-1	3I	i dunno what - what trunc
-0	3I	um.
-0	3I	yes. um.
-2	3I	i think - i think it might be. uh.
-1	3I	see, this one to me, it's like it -
-0	3I	does he?
-0	3I	hm!
-0	3I	yeah.
-0	3I	yeah.
-0	3I	um.
-2	3I	i - i think, in terms of the whiskey, this is another one we should hang onto.
-2	3I	no. no. not - i - i was tempted to put it across from the toys, and then i -
-2	3I	you could put this in a stand-alone almost anywhere. i'd probably put it at the end, by like, books or something. i mean -
-0	3I	um.
-1	3I	so, yeah, let's hang onto that one.
-1	3I	yeah.
-0	3I	um.
-0	3I	ri-
-1	3I	bars of soap, maybe?
-1	3I	yeah.
-0	3I	canvas bags. um.
-2	3I	yeah. or maybe next to the mouse traps? cuz this is all gonna be plastic stuff, right?
-0	3I	okay.
-0	3I	yeah.
-1	3I	that's - i think that's good for now.
-0	3I	pre-cut wood.
-2	3I	i'm gonna move the heavy cable.
-1	3I	yeah.
-1	3I	do that. like that, or something.
-1	3I	yes.
-2	3I	totally. here. in fact, put it by the soap.
-0	3I	maybe it's just mint.
-1	3I	beets. uh, beets with the -
-1	3I	soy beans, cans of peas, all that stuff.
-0	3I	now the soy beans were permanent, right?
-2	3I	yeah. okay. cuz we may need to move the oatmeal, and the dried - you know, like - kay.
-2	3I	just move it up.
-0	3I	light jackets.
-0	3I	wet suits.
-1	3I	can we put the wet suits there?
-1	3I	with the - with the boating supplies?
-0	3I	ack. what do you use a five-pound weight for?
-0	3I	could be. it could be like a * diving thing. yeah.
-0	3I	yeah.
-1	3I	i think - i think - yeah, i think that'd be -
-0	3I	heavy. um.
-0	3I	right.
-0	3I	well, i mean, you might -
-0	3I	that's what i'm saying, if you go diving. but - that's actually a * lot. like -
-0	3I	you know.
-0	3I	yeah.
-1	3I	or a - you might put, like, five or ten pounds. you - you wouldn't have like a series of five-pound weights.
-1	3I	we'll just throw it in there.
-0	3I	um.
-1	3I	why don't we put it with the weights? same kinda thing.
-1	3I	yeah.
-1	3I	fleece-lined boots. um. were the socks here? we put all of this here, right? we picked that.
-2	3I	put the boots there.
-0	3I	hm.
-2	3I	put it right there.
-2	3I	yeah.
-1	3I	good call.
-2	3I	okay. but we can - we can fix this. we could move -
-2	3I	the siding hasta stay there.
-2	3I	what if we do this?
-1	3I	yeah. we could do that.
-1	3I	i'm thinking of moving them all up, though, so they're next to the siding, too. go see - you gotta cut siding.
-0	3I	so.
-1	3I	do this.
-0	3I	the plastic jugs just kinda ended up over there.
-1	3I	sure.
-1	3I	yeah, there you go.
-1	3I	yes.
-1	3I	yeah.
-0	3I	bagels.
-0	3I	i say canvas bag.
-0	3I	and i say bagels. yes.
-0	3I	yeah.
-1	3I	uh yeah. that'll work.
-0	3I	yeah.
-2	3I	the flags. where - um. let's put the flags here. just -
-0	3I	right.
-2	3I	you could do that. um. i actually think we should put vests there for now.
-1	3I	yeah. that works. that's perfect.
-1	3I	yeah. put em there.
-1	3I	yeah. so we could put em -
-1	3I	there.
-0	3I	kay. cases of whiskey.
-2	3I	right next to the toys. n um.
-2	3I	i think so. trunc here's - i do wanna do this, though. i know this is neurotic. um. i wanna move -
-2	3I	the saws and axes and stuff next to the siding. because -
-1	3I	yeah.
-1	3I	yeah. and then the buckets, we can just -
-1	3I	i dunno. buckets are fine there.
-1	3I	we could do that.
-0	3I	right.
-1	3I	trunc trunc switch the - yep.
-0	3I	buckets, rolls of duct tape, half-inch tubing.
-0	3I	mouse traps.
-0	3I	mm-hm.
-0	3I	um.
-0	3I	the only other thing - well, for deck chairs, like a home deck -
-1	3I	boating supplies. but i think we're fine.
-1	3I	i think that's close enough.
-1	3I	we could -
-1	3I	we could do this.
-2	3I	we could do that. we can't move the power cords, though. that was one of the permanent ones.
-1	3I	we could do this.
-1	3I	like that?
-1	3I	and then move the knives in.
-1	3I	mm-hm.
-1	3I	yeah.
-0	3I	well that's - and that's kinda what i'm looking at. like, if you assume they had to be equal in some proportion. like this one's equal, but there's a lot less in these two.
-0	3I	i can't remember.
-1	3I	trunc there you go.
-2	3I	no, that's good. yeah.
-2	3I	the - it was cake mix. cake mix hasta be there.
-1	3I	yeah.
-1	3I	yeah. you could move -
-1	3I	you know, you could trunc we could move packages of cookies up there with the doughnuts and the ice cream and the chocolate bars and stuff.
-1	3I	okay.
-2	3I	yeah, let's declare victory.
-2	3I	we'll just move on. and trunc i - you know trunc yes. well done, sir! um.
-0	3I	yeah.
-0	6B	yes.
-1	6B	yeah.
-0	6B	mm-hm.
-0	6B	which expensive should be cut from each department, and choose the same number of items from each department.
-0	6B	so.
-0	6B	yep.
-0	6B	yeah.
-0	6B	we must discuss each - each item and reach an agreement about whether to cut it or continue funding it.
-2	6B	i - i disagree.
-2	6B	why would anyone wanna be doomed to that narrow of a focus in terms of their future career options?
-0	6B	um.
-2	6B	um. i'm - i'm gonna disagree with you and say we should keep the math tutors for now.
-1	6B	just, you know -
-1	6B	because -
-1	6B	what is it? those who can't teach, teach p_e_? what's the whole -?
-1	6B	those who can't do math -
-0	6B	yeah. so, yeah.
-0	6B	i - assistant cooks?
-2	6B	really? why? why would you hang -?
-3	6B	wait a minute! why would you hang on to the assistant cooks?
-2	6B	but that's the thing. look. the - you don't need an educational program for assistant cooks.
-2	6B	cuz you know that the - if the assistant cook is the one on the boat,
-2	6B	he or she would be the one to survive. cuz it's always the cook that survives, right?
-2	6B	so, um, i don't think - i don't think they'd -
-2	6B	they need any more help than they're already getting.
-1	6B	yeah.
-2	6B	they work with large knives. i mean, there's just - you know.
-0	6B	um. sex ed.
-0	6B	uh, i -
-1	6B	yeah.
-2	6B	well, you know.
-0	6B	so.
-1	6B	trunc exactly.
-0	6B	okay.
-1	6B	so, so far, i would suggest that assistant cooks may be - may be a - a program to cut. custodians?
-2	6B	what is being in a union shop have to do with that thing?
-2	6B	well, yeah, but you're - every
-2	6B	lemme just kinda tell you that * everybody in government is gonna * be in the, you know,
-2	6B	collectively bargained category. so, if - if you've gotta cut people, you're gonna hafta cut people.
-2	6B	i wouldn't cut the custodians.
-2	6B	have you ever * seen -
-2	6B	how public officials maintain their offices? agh! be - you know, my seven year old does a better job.
-0	6B	yeah, see -
-2	6B	it's a critical role.
-2	6B	keep the custodians. speech therapy.
-0	6B	speech therapy?
-1	6B	yes.
-0	6B	uh, football equipment.
-2	6B	um, no. why -? football equipment?
-0	6B	uh, is that * football football or american football?
-0	6B	um.
-0	6B	i guess. or we're - still - we're maintaining the equipment? we're buying the equipment?
-0	6B	um.
-1	6B	we must choose the same number -
-1	6B	which expenses should be cut from each department. we must choose the same number -
-2	6B	so, they're saying, cut the football equipment expenses. so, it leads me to believe there's an ongoing expense that we are now not ongoing.
-2	6B	or, we're * off-going.
-2	6B	what - what are you saying?
-2	6B	are you trunc * i work for the county. what are you saying? you saying that we got moldy football equipment?
-2	6B	come on, man.
-0	6B	um.
-0	6B	oh?
-0	6B	right.
-1	6B	so the hillsdale library maintained the moldy football equipment?
-0	6B	i understand.
-0	6B	yeah.
-1	6B	right.
-1	6B	okay.
-2	6B	well then - but then they'd come back, and they'd be like, i remember when they had to cut the football equipment, so i'm gonna spend my -
-2	6B	gazillions on helping out the -
-2	6B	youth football.
-2	6B	no! i think we should get rid of it. cut it!
-2	6B	cut it!
-2	6B	um. acting coaches. clearly the most critical role in all county services are acting coaches.
-0	6B	i gotcha.
-0	6B	the - the - yes.
-0	6B	the - the - right.
-1	6B	yeah. cuz the other coaches are being investigated, or something? right. the acting coaches. um.
-2	6B	right. oh, ouch. um.
-2	6B	well in that case, maybe we don't wanna get rid of the acting coaches. uh, poetry books?
-0	6B	poetry books?
-0	6B	i dunno.
-0	6B	um.
-1	6B	uh. i - i don't know. i think it depends on the poet.
-2	6B	i think we keep the poetry books. how hard can it be to maintain the poetry * books?
-2	6B	really?
-1	6B	i'm thinking like, t_s_ elliot and stuff. um.
-0	6B	uh, special ed teachers.
-1	6B	okay.
-1	6B	mm. could be true.
-1	6B	yes. um.
-2	6B	you - you make it sound like a virus.
-0	6B	um.
-0	6B	uh.
-0	6B	mm-hm.
-0	6B	mm-hm.
-1	6B	yeah.
-0	6B	yeah.
-2	6B	well cuz they're -
-2	6B	they're mandated to provide those services.
-0	6B	federal.
-2	6B	kay, so keep em.
-0	6B	cooking classes?
-0	6B	eh.
-2	6B	well, no. but why - you know. i mean -
-2	6B	can't people take a cooking class at p_c_c_ or something? why is the county paying for it?
-2	6B	well that - that actually says a lot. um.
-0	6B	uh.
-1	6B	maybe we don't wanna cut em.
-0	6B	right. um. so - note-takers. disability services?
-2	6B	do they? okay. i was gonna say, couldn't we just buy everybody an ipad and call it good?
-2	6B	that seems to be the answer.
-1	6B	public services? infrastructure and licensing.
-1	6B	yeah.
-1	6B	yeah.
-0	6B	yeah.
-0	6B	um.
-2	6B	sugar-free juice machines? i feel like there's a lotta things in this category that are not -
-2	6B	not particularly, um, dynamic.
-0	6B	uh. bookkeeping classes, music teachers, sugar-free juice machines.
-2	6B	i mean -
-2	6B	based on this list, i -
-2	6B	the poor assistant cooks go near the top. football equipment goes near the top. for me. like, meaning, get - like we would cut it.
-1	6B	cooking classes.
-1	6B	bookkeeping classes.
-1	6B	yeah, there's some accounting involved.
-2	6B	so i'd - i'd wanna get rid of the classes so that it would mean, you know, more long-term, like job preservation. and people weren't -
-2	6B	exactly. exactly. so, you know, yeah. if we - we - that gets cut first.
-2	6B	we need * bad accounting.
-0	6B	um.
-0	6B	let's see.
-2	6B	well the sugar-free juice trunc that's a little oxymoronic anyway. i mean, what is sugar-free juice?
-0	6B	you know. i -
-0	6B	i - i guess. um.
-1	6B	pretty much. um.
-1	6B	yes. uh yes. i think -
-2	6B	so what they're saying is water fountains. yes.
-1	6B	right.
-0	6B	um.
-0	6B	okay.
-1	6B	so shall we move to the next category, and then we can kinda come back and keep our numbers? yes.
-2	6B	absolutely. i - don't get rid of the water fountains.
-0	6B	um.
-1	6B	music teachers. eh.
-1	6B	uh, reproductive education. we should probably hang onto that.
-1	6B	job training - training programs? sure.
-1	6B	chicken pox vaccinations? sounds good. invasive species removal?
-0	6B	um.
-1	6B	yeah. yep.
-0	6B	s_t_d_ education, toxic waste disposal, hospital additions.
-2	6B	* bagel * factory * inspections.
-2	6B	absolutely the most critical role that the county can play, is bagel factory inspections.
-0	6B	um.
-0	6B	yeah. i think so. wasn't it?
-0	6B	was under, um.
-0	6B	was it under public safety? it was under, uh -
-0	6B	yeah, environmental - environmental safety.
-0	6B	um, needle exchange, sex offender database, veterans medical assistance, egg farm regulations, weed control. prenatal check-ups and neighborhood watch support?
-2	6B	geez! and none of these things i would really get rid of compared about - trunc five or six on the other one. um.
-2	6B	i think they * do do that now, don't they?
-0	6B	do the - do the weed control?
-2	6B	mm-kay. i'm with you on weed control.
-0	6B	um.
-0	6B	um. i dunno.
-1	6B	yeah.
-2	6B	what - getting rid of neighborhood watch. what could go wrong?
-1	6B	what could go wrong?
-0	6B	i mean -
-2	6B	that's - that's what we need. we need everybody to be * armed.
-2	6B	then - yeah. then we don't need any regulation. okay. oh -
-0	6B	i - i have not seen it. i'm * not - i've -
-0	6B	uh-huh. and then he starts pepper spraying everybody.
-0	6B	mm-hm.
-0	6B	there you go. um.
-0	6B	right.
-2	6B	so, yeah. i think we could cut the neighborhood watch support, and instead, just give them all pepper spray and weapons. and - yeah.
-0	6B	mm-hm.
-0	6B	mm-hm.
-1	6B	pick axes. i think, you know -
-1	6B	um. pitch forks, torches.
-2	6B	um. yes. trunc oh, my.
-1	6B	uh, okay.
-0	6B	toxic waste disposal?
-2	6B	now see here's my question. if we cut the toxic waste disposal program,
-2	6B	does that mean that people will dispose of their toxic waste in another county?
-2	6B	so why don't - let's just do that, and then they'll take it all to pierce county.
-2	6B	wasn't that what you do now?
-2	6B	you know, and i've used motor oil. i just kind of, you know, spread it around in my back yard.
-0	6B	yeah.
-0	6B	especially, you know -
-1	6B	i just look for those drains that are stenciled with the salmon pictures and make sure that i put em down there. cuz i figure it's good for the salmon.
-0	6B	right, right.
-0	6B	um.
-0	6B	okay.
-0	6B	um. recreation and public services. stray cat * spaying, public news * station, food bank, junior -
-0	6B	uh, i do. i have cats - i have a cat and a dog. living together. mass hysteria. um.
-0	6B	um, have i * spayed them?
-0	6B	personally? no. i have had them fixed. yes.
-0	6B	i did.
-2	6B	trunc okay. stray cat spaying it is. although, you know, we're gonna have a whole lot of stray cats.
-2	6B	stray cats paying, yes.
-1	6B	their last album. which was a flop. i - i have no idea. stray cat -
-0	6B	spaying.
-0	6B	kitten and puppy adoption?
-0	6B	kitten and -
-0	6B	no, i - i got them from kitten and puppy adoption.
-0	6B	yeah, i really did.
-0	6B	uh, soup kitchens.
-0	6B	the kitten and puppy adoptions services?
-0	6B	um.
-1	6B	that's distinctly possible. but, you know, it's not - we're - we're -
-1	6B	we're - uh, yeah.
-2	6B	i trunc i think the difference would be that because there was a kitten-puppy adoption service,
-2	6B	that there was somebody to facilitate the adopting of the kitten and-or puppy.
-2	6B	yes, absolutely.
-1	6B	um. you know, i mean, you could always go with the, uh -
-1	6B	i don't know. most of the world -
-1	6B	greece -
-1	6B	thailand slash approach, where could just have the dogs and the cats running around doing everything.
-1	6B	yeah. um. but i - i - i don't know. you know.
-1	6B	might be a little cold. alright.
-0	6B	soup kitchens, housing assistance.
-1	6B	what if they wanna eat something besides soup, though?
-1	6B	could we have like a * salad kitchen?
-2	6B	we do. we could have like a * vegan -
-1	6B	yes.
-1	6B	we could have a * whiskey kitchen.
-0	6B	really? actually, isn't there a trunc restaurant called that, or something?
-0	6B	okay. housing assistance.
-0	6B	um. dog catcher.
-1	6B	how - how we gonna have kittens and puppies to - ?
-2	6B	trunc well what are they gonna do when they get the dog?
-2	6B	i - i'm just worried about the kitten and puppy adoption service, if they don't have a dog catcher to catch the kittens and puppies to be adopted.
-2	6B	maybe we need a * cat catcher in there.
-3	6B	there is no cat catcher!
-3	6B	holy -
-1	6B	the dog trunc okay.
-1	6B	dog catcher and stray cat spaying. yes.
-0	6B	the boys basketball club?
-0	6B	who?
-0	6B	mm-hm.
-2	6B	i think that's - i actually think - as a county employee, i think that's a brilliant idea. what they should do is -
-2	6B	they should take trunc force me to take my lunch hour, and just reassign everybody who does all these other public functions to go do dog catching.
-1	6B	you know, for an hour or two. uh, every week. yeah, okay. yeah.
-0	6B	yep.
-0	6B	trunc
-1	6B	and - and spay stray cats. okay.
-1	6B	i have no idea. yeah. you know. just -
-1	6B	trunc trunc but that's what you need the scissors and the case of whiskey for.
-0	6B	um.
-0	6B	the loose-leaf paper? i don't know. uh.
-0	6B	reusable bag campaign.
-0	6B	reusable bag campaign.
-2	6B	well, i was gonna say. i mean.
-1	6B	i - i know.
-2	6B	i don't know why you'd need a special -
-2	6B	we re-elect most of the politicians around here anyway. so.
-2	6B	well that's what i'm saying. reusable bag. um.
-0	6B	uh.
-2	6B	i - i work with a lotta these people. i hafta be careful. um.
-0	6B	so, uh, veterinary hospital.
-0	6B	what do we do with veterinary hos-?
-0	6B	um.
-2	6B	no, i'm - in all seriousness, i had to take my dog -
-0	6B	uh -
-1	6B	in today.
-0	6B	you know.
-2	6B	yes. he's - he's old. he's like thirteen.
-2	6B	so - i - i'm not taking my dog to a county hospital. i'm taking my dog to the, you know -
-1	6B	the west seattle vet. so,
-2	6B	i don't know that the county needs to pay for veterinary hospitals. like -
-0	6B	yeah. um.
-0	6B	i trunc
-2	6B	well, trunc yeah, but you could pay - i mean, if you have - if you have a program for stray cat spaying.
-2	6B	they could do that at someone else's, you know, vet hospital. they could do that -
-2	6B	i don't know. i just don't know that the county needs to pay for that.
-2	6B	they could do it at the food trunc that is a great idea.
-2	6B	wow. i really don't wanna be going to the food bank any time soon. that's terrible, pete!
-2	6B	oh, jiminy christmas. that's just terrible.
-0	6B	um. the football stadium upkeep.
-1	6B	and the soup kitchens.
-1	6B	yes. okay.
-0	6B	uh, so -
-2	6B	trunc okay, we're gonna hafta come back and figure out what we're cutting. but i think we have a good sense of what it is that we would cut in that category.
-2	6B	starting with the -
-2	6B	veterinarian.
-0	6B	infrastructure and licensing.
-2	6B	trunc like i said, we can cut that immediately.
-0	6B	um.
-2	6B	why?
-2	6B	okay, well then let's cut that program.
-0	6B	uh, speed limit signs?
-2	6B	i - i don't pay - personally, i don't pay attention to the speed limit. do you?
-2	6B	yeah. okay. then we should be gold-
-0	6B	oh, do you?
-0	6B	mm-hm.
-1	6B	mm-hm.
-0	6B	kay.
-1	6B	right. uh, additional bus stops?
-2	6B	no.
-2	6B	no. we don't need - we don't need any additional bus stops.
-1	6B	yeah.
-2	6B	well they just spent - you know, i mean - it's - i don't know about you, but i - i do ride the bus. and there's - they have the rapid ride lines.
-2	6B	which i think is funny, because a ride implies that you can sit down, right? and so, rapid ride, it's neither rapid nor a ride. right?
-2	6B	um. so no additional bus stops.
-0	6B	uh. tattoo artist licenses?
-2	6B	do - trunc i do. we - we don't - we don't need to talk about that.
-0	6B	um.
-2	6B	so, uh, but tattoo - why -
-2	6B	you're going to a tattoo artist. do you think that they're going to be licensed?
-2	6B	is that really a reasonable expectation?
-2	6B	i thought that was - i thought that was - they put that -
-2	6B	you know, there was like, hey, you got that for free. you know?
-2	6B	normally it's ten dollars extra, but today, we'll make sure that you only get hep b_.
-0	6B	um.
-0	6B	okay.
-0	6B	yeah.
-1	6B	is it in - is it a license for like, how good of a tattoo artist they are, or, you know - ?
-0	6B	yeah.
-0	6B	yeah.
-1	6B	i thought maybe, you know, it's like, oh, i've -
-2	6B	i've actually done * seventeen scorpions tattoos, and so you get some sort of special -
-0	6B	yeah, okay. yeah.
-1	6B	right, exactly.
-1	6B	some - some sort of phenomenal maxfield parrish reproduction.
-0	6B	right.
-0	6B	right.
-0	6B	trunc another kid rock.
-0	6B	uh, okay.
-1	6B	um.
-0	6B	boating licenses.
-0	6B	do we really need people to have a license when they go boating?
-0	6B	i mean,
-2	6B	what could go wrong?
-2	6B	you know?
-2	6B	uh, pothole maintenance?
-0	6B	um.
-0	6B	i dunno.
-0	6B	wait, how do you feel about -
-1	6B	mm-kay.
-1	6B	subway system?
-1	6B	trunc it would be nice to have one. but since we don't, i don't think we need - i don't think we need the program for it.
-0	6B	um.
-0	6B	is that like a tag for hunters?
-0	6B	yeah. um.
-0	6B	i don't know. is like, what do you do? do you like, run up and tag somebody as they're hunting, and say, you're it? i -
-0	6B	um.
-0	6B	uh, they were a number of other towing services that seemed to do a pretty decent job of that, at absolutely inopportune times.
-2	6B	yeah.
-2	6B	um.
-1	6B	uh -
-0	6B	massage trunc massage certificates?
-0	6B	yeah.
-0	6B	is that like a trunc do they give you a certificate suitable for framing after you had a massage? is that what -? i don't -
-1	6B	do they mean like a certification?
-1	6B	message certificates, yes.
-0	6B	you've got mail.
-2	6B	um.
-1	6B	flagpole repair? i don't think we need to repair any flagpoles. taxi stops?
-2	6B	problem solved!
-2	6B	yeah. taxi stops?
-3	6B	well -
-2	6B	i - can't you just stop a taxi by going out and whistling or waving, or - ?
-0	6B	yeah.
-2	6B	so, taxi stops.
-0	6B	fishing licenses.
-1	6B	definitely a vitally important thing.
-0	6B	public trunc
-2	6B	public bus upkeep. well they're not really doing it now. so, um -
-0	6B	and drainage ditches.
-2	6B	alright, so - what do we - let's - why don't we pick one from each category to cut, and then maybe pick another - let's just do it.
-0	6B	across the board. so -
-2	6B	education programs? do you wanna cut assistant cooks?
-1	6B	kay.
-1	6B	public health and safety?
-0	6B	uh, weed control?
-0	6B	i mean, it - it is legal now.
-1	6B	yeah. so -
-1	6B	yes.
-1	6B	no, that's what i'm saying. it's legal now. so why'd you - why - what's - why do you need to control it?
-1	6B	right. um.
-2	6B	uh.
-0	6B	the recreation and public services. do we - did we say we were getting rid of the -
-0	6B	veterinary hospital? what are we doing?
-0	6B	um.
-0	6B	football stadium upkeep. i'm with you. okay.
-0	6B	hunting tags?
-0	6B	trunc you're - you're - you're not going with flagpole repair? that's a critical category for you, isn't it? you -
-1	6B	i -
-2	6B	kay.
-0	6B	the - yes, the trunc the -
-1	6B	no weed control.
-1	6B	no assistant cooks. so let's go back the other direction then.
-1	6B	um.
-1	6B	uh, are we getting rid of teaching certificates? speed limit signs.
-0	6B	i thought if we got rid of the teaching certificates, you got -
-1	6B	you were -
-1	6B	okay. so, okay, trunc
-0	6B	okay. we'll nix the first three.
-1	6B	kay. one, two, three.
-1	6B	kay. can we get three out of every - ? then we'd have four in every category. i think that's pretty good.
-1	6B	so no teaching certificates, no speed limit signs. who needs speed limit signs? additional bus stops,
-2	6B	and tattoo artist licenses. okay.
-1	6B	well, you know -
-2	6B	it's kind of like a driver's license. like, you know.
-2	6B	right.
-1	6B	we could w-
-0	6B	but trunc but see -
-0	6B	this is what concerns me. is trunc if we got like five things in this category, i dunno that we can get five out of every other category.
-2	6B	so let's go with those three for now.
-2	6B	um.
-0	6B	football stadium.
-1	6B	well, we already got rid of the football stadium upkeep.
-1	6B	so, reusable bags, veterinary hospital, yes, no?
-0	6B	yes, no?
-1	6B	yeah, but that - trunc i try not to - that's a - we don't talk about that in public.
-1	6B	yes. uh.
-0	6B	no, that's - well,
-0	6B	it's my own.
-0	6B	yeah.
-0	6B	um.
-0	6B	we're getting rid of the veterinarian, we're getting rid of the reusable bag campaign -
-0	6B	and we're getting rid of what?
-1	6B	pest control?
-1	6B	um.
-1	6B	the dog catcher?
-0	6B	pest control.
-1	6B	they do exist.
-1	6B	they are there. there's like all the all the cities in king county pay for a couple of em.
-0	6B	kay. so we need one more.
-2	6B	yeah. cuz we've -
-1	6B	yeah.
-0	6B	so, stray cat spaying.
-2	6B	trunc you're right. trunc you're right. you're right.
-2	6B	plus the - oh, man. oh, god.
-1	6B	um.
-1	6B	that's one for you. do you pronounce that veterinarian or veterinarian?
-1	6B	i think it does, too.
-1	6B	um.
-0	6B	uh-huh.
-0	6B	i think i say veterinarian.
-0	6B	yeah.
-0	6B	um, okay.
-0	6B	so we got four in that category.
-0	6B	public health and safety.
-0	6B	vaccination?
-0	6B	actually, yeah, it's kind of - it's par for the course now.
-0	6B	but that's the thing, is,
-2	6B	you don't run around and do it trunc i think they should get - i think you're right. they should cut that program.
-2	6B	trunc trunc somebody on the block had chicken pox,
-2	6B	* all the kids went over to their house and played with em and did all that stuff, so that the kids would all catch chicken pox and have it when they were young.
-2	6B	yeah. so, you know.
-2	6B	besides, trunc i - i think that vaccinations - i don't - i - they just -
-0	6B	lead to all kinds of crazy things. you know. um.
-1	6B	fluoridation of water, and -
-1	6B	so, uh, yeah. no vaccinations whatsoever.
-2	6B	um.
-1	6B	can we - can we ban all vaccinations? is that a possibility in this category, or - ?
-0	6B	i think we can only do that if we live in portland.
-1	6B	i -
-0	6B	i'm - i'm being very, very sarcastic.
-0	6B	when you were - when you were - ? i remember we usta hafta swish with the little fluoride cups. yeah. oh, i did it.
-0	6B	i'm - i'm uh, how do i put it?
-1	6B	i'm - i'm jaded in the sense that i'm - i'm old, and i'm like, of course you wanna fluoridate your water. like, what is wrong with you people? but then i remember where i came from, and that's of course why.
-0	6B	um, you know, it's a portlandia kinda moment.
-2	6B	um.
-2	6B	okay.
-0	6B	uh, what else?
-0	6B	did we - were we keeping or getting rid of toxic waste disposal?
-0	6B	bagel factory inspections were out.
-1	6B	okay. so we got bagel factory inspections, we got -
-2	6B	chicken pox vaccinations. we already got rid of weed control. so we need one more.
-1	6B	who needs a sex offender database, really? i mean -
-1	6B	trunc
-2	6B	you know.
-0	6B	um.
-1	6B	oh, neighborhood watch support. that was the other one we were getting rid of.
-0	6B	so we still have the database.
-1	6B	that's good. um.
-1	6B	that work for you?
-2	6B	so we've got - we've got those three. sn-
-3	6B	that i have not experienced in maybe my entire life. it's - it's - yes.
-2	6B	yes.
-0	6B	uh yes. um. i thought you were saying cereal. you know, like, pun after pun after pun after pun.
-0	6B	so what do we have left? we already got rid of the assistant ca - cooks.
-0	6B	no football equipment.
-0	6B	right? so we need one more.
-2	6B	what!
-1	6B	no! it - acting coaches and poetry books are critical. cooking classes.
-2	6B	i know. and now we hafta keep a lot of them. so -
-1	6B	no, we decided we wanted the sugar-free juice machines because when we thought through it, it meant that they were all water fountains.
-1	6B	i dunno. i'm - you know. unless you wanna -
-0	6B	is a * cholera outbreak on the county's dime. so i think we keep those. let's get rid of the cooking classes.
-2	6B	kay.
-0	6B	ah, i thought you had a higher risk of getting cholera central london.
-0	6B	mm.
-1	6B	good -
-0	6B	* that's where i caught cholera! i - see?
-0	6B	yes.
-3	6B	kay.
-0	6B	i - i'll keep that in mind. um.
-0	6B	yeah.
-0	6B	yeah. i think the e_p_a_ does it.
-0	6B	but now, it's not being inspected anymore, since we are -
-1	6B	i - i don't know.
-2	6B	um.
-0	6B	i don't think it was, either.
-0	6B	are - are we?
-0	3I	i guess. yeah. i guess you and i just went into business together. um.
-0	3I	kay. large vests.
-2	3I	i actually wanna pass on this one, cuz i don't know whether they mean vests like -
-0	3I	you know, like a -
-0	3I	patagonia fleece vest, or do they mean like a, you know - anyway.
-0	3I	yeah. that's - that's what i'm wondering. like a * life vest.
-1	3I	yeah.
-1	3I	yeah. alright. yeah, yeah, yeah. no, it's good.
-1	3I	i'm not even gonna go there. i just - actually, i will. so i was at portland for this, um,
-0	3I	oh really?
-0	3I	so it was down - it was down at the mariott -
-1	3I	oh. too bad. sorry.
-2	3I	but it - it, you know, it's kinda fun. i mean, auditors love to make fun of themselves. it's like, you know -
-2	3I	the great thing about hanging out with auditors is that they're - it's kind of like hanging out with accountants. except not - they - auditors don't have quite the scintillating personality.
-0	3I	you know? um.
-0	3I	but, there was this -
-0	3I	yes, exactly. there was this - there was this one - this - there was a little bit of whiskey. um. just a little. actually more, you know, like, uh,
-0	3I	artisanal beer-kinda stuff. um.
-1	3I	yeah. yeah. we had a good time.
-0	3I	but this one guy was giving a presentation, um, from the g_a_o_.
-0	3I	no. no, no no. i heard about that. i think that - i - was that about clinton? i thought that was like, obama's people. um.
-3	3I	and then, i turned out, and then they started speaking into their wrists, and - and i realized, oh, they're also part of the secret service. and i'm like, you can't - what are you doing, man? like, you can't do that!
-2	3I	like, it was just crazy sexist. it was - it was a little awkward. um. yeah, like -
-2	3I	trunc somebody needs to explain that it's twenty fourteen. okay.
-2	3I	tow ropes. i think that would go next to boating supplies. alright.
-2	3I	yeah, yeah. yeah. it's a great idea.
-2	3I	we could go near the sugar, ice cream kinda stuff.
-1	3I	i mean, if they have pop and you know, other - * gatorade, or whatever.
-0	3I	yeah. yeah.
-1	3I	yeah, let's put it next to the toilet paper. think so.
-2	3I	the hard part is remembering what we've put and -
-2	3I	can't move the other ones. scissors.
-1	3I	maybe up by the refrigerator magnets?
-1	3I	kay.
-1	3I	yeah.
-1	3I	yeah.
-1	3I	perfect.
-0	3I	do we even have any?
-1	3I	yeah. um.
-2	3I	what if we - we've got this whole kind of open area. here, i'm gonna do something weird.
-1	3I	yeah. um.
-1	3I	yeah, let's just - yeah. we'll just take over the middle of that aisle.
-0	3I	egg timers. where was the, um -
-1	3I	like, next to refrigerator magnets, maybe?
-1	3I	yeah. totally.
-1	3I	kay.
-0	3I	that's interesting that you did that, cuz i actually did the opposite.
-0	3I	yeah, i assumed that this was the aisle, and these were the walls.
-0	3I	you know?
-1	3I	it trunc i don't think it matters. you know. we'll just try and be logic about it.
-1	3I	yeah. yeah.
-2	3I	yeah, or even down here. * if there's things like the axes and the -
-1	3I	wood products and other stuff.
-1	3I	kay. cuz see, i still got this heavy cable. i got the large vests in my hand.
-1	3I	or i can hang onto it.
-2	3I	cuz - i do think that these are all something in the same category. unless we hafta deal with the clothes. but i'll pull that one out there.
-0	3I	you know.
-0	3I	food.
-1	3I	perfect. yep.
-0	3I	dried figs.
-1	3I	same thing.
-1	3I	you wanna do that?
-1	3I	okay. okay.
-2	3I	i - it - it trunc let's just see how crowded it gets. i mean, that's the other thing.
-0	3I	buckets.
-2	3I	put it with the siding.
-0	3I	you know. i trunc yeah.
-0	3I	yeah.
-1	3I	box knives. see, i think we're all kind of in this - box knives, buckets -
-0	3I	um.
-0	3I	yeah, where did we put the scissors?
-2	3I	let's put it with the scissors.
-0	3I	liters of water. um.
-1	3I	maybe with the juice?
-1	3I	somewhere in that area?
-1	3I	yeah.
-0	3I	empty plastic jugs.
-0	3I	buckets?
-1	3I	kay.
-0	3I	axes.
-0	3I	okay.
-2	3I	trunc um. i'm gonna do this. so small axes. we can move em around later. heavy cable.
-2	3I	i'm just - here, actually, i'll put the heavy cable with the power cords.
-0	3I	but all these kind of things -
-0	3I	the box knives.
-1	3I	yeah.
-2	3I	but these - these are all - they seem like home depot kind of * stuff. you know?
-1	3I	maybe next to the -
-1	3I	okay. that works.
-1	3I	end of - end of the aisle?
-1	3I	put it there.
-1	3I	sticks of butter. um. i think butter should go near the eggs.
-0	3I	dairy products. um.
-1	3I	yeah. yep. totally.
-0	3I	um.
-1	3I	here maybe? i'm - i'm thinking like somewhere in the clothing area.
-1	3I	kay. the trunc you know what's gonna happen though, peter? i'm gonna forget which ones we had pre-assigned and which ones we put here.
-0	3I	well -
-0	3I	yeah.
-0	3I	absolutely! i - okay.
-0	3I	okay.
-0	3I	um.
-0	3I	i totally remember eve's buffet. yes!
-0	3I	alright.
-0	3I	no, yeah. the - the * stadium fred meyer. absolutely. so i useta, um, catch the fifty-one bus,
-0	3I	down and then switch to the twenty-two and catch it up burnside,
-0	3I	to school, and so -
-0	3I	yeah. yeah. so, um -
-0	3I	yeah, i've - i've spent some * quality time at the stadium fred meyer.
-0	3I	now i'm trying to remember - there was like, you know, you'd go downtown, and there were a couple record stores i go to, like django's and dudley's and stuff,
-0	3I	i almost wanna say like a * tower records. i think it was a tower records. or it mighta been a -
-0	3I	any - it mighta been fred meyer's, right? but there was that weird, kind of off building that was on the corner of burnside.
-0	3I	and i would - you know, if i had ten minutes to kill, i'd go in and look and see what - what was - what was happening music-wise.
-0	3I	yeah.
-1	3I	they did it.
-1	3I	yeah.
-1	3I	well that was - you know - in - in an era of hair metal, that was one of the few places where you could get cool things.
-0	3I	uh.
-0	3I	yeah.
-1	3I	oh yeah. um. i - i remember i - what did i -?
-0	3I	i bought sound garden there. i bought a bunch of stuff there.
-0	3I	okay. um. rolls of duct tape.
-1	3I	this - this area, in the bottom of the first aisle. yeah.
-1	3I	why not with the travel guides? yeah.
-2	3I	yeah, i think so. here.
-2	3I	we'll move that.
-1	3I	large cups.
-1	3I	yep. yep. totally.
-2	3I	pouches of oatmeal. same - somewhere in there. maybe - maybe here. it's like dried goods.
-1	3I	trunc half-inch tubing. that's a power cords - no, that would work.
-1	3I	yeah.
-1	3I	i dunno what - what trunc
-0	3I	um.
-0	3I	yes. um.
-2	3I	i think - i think it might be. uh.
-1	3I	see, this one to me, it's like it -
-0	3I	does he?
-0	3I	hm!
-0	3I	yeah.
-0	3I	yeah.
-0	3I	um.
-2	3I	i - i think, in terms of the whiskey, this is another one we should hang onto.
-2	3I	no. no. not - i - i was tempted to put it across from the toys, and then i -
-2	3I	you could put this in a stand-alone almost anywhere. i'd probably put it at the end, by like, books or something. i mean -
-0	3I	um.
-1	3I	so, yeah, let's hang onto that one.
-1	3I	yeah.
-0	3I	um.
-0	3I	ri-
-1	3I	bars of soap, maybe?
-1	3I	yeah.
-0	3I	canvas bags. um.
-2	3I	yeah. or maybe next to the mouse traps? cuz this is all gonna be plastic stuff, right?
-0	3I	okay.
-0	3I	yeah.
-1	3I	that's - i think that's good for now.
-0	3I	pre-cut wood.
-2	3I	i'm gonna move the heavy cable.
-1	3I	yeah.
-1	3I	do that. like that, or something.
-1	3I	yes.
-2	3I	totally. here. in fact, put it by the soap.
-0	3I	maybe it's just mint.
-1	3I	beets. uh, beets with the -
-1	3I	soy beans, cans of peas, all that stuff.
-0	3I	now the soy beans were permanent, right?
-2	3I	yeah. okay. cuz we may need to move the oatmeal, and the dried - you know, like - kay.
-2	3I	just move it up.
-0	3I	light jackets.
-0	3I	wet suits.
-1	3I	can we put the wet suits there?
-1	3I	with the - with the boating supplies?
-0	3I	ack. what do you use a five-pound weight for?
-0	3I	could be. it could be like a * diving thing. yeah.
-0	3I	yeah.
-1	3I	i think - i think - yeah, i think that'd be -
-0	3I	heavy. um.
-0	3I	right.
-0	3I	well, i mean, you might -
-0	3I	that's what i'm saying, if you go diving. but - that's actually a * lot. like -
-0	3I	you know.
-0	3I	yeah.
-1	3I	or a - you might put, like, five or ten pounds. you - you wouldn't have like a series of five-pound weights.
-1	3I	we'll just throw it in there.
-0	3I	um.
-1	3I	why don't we put it with the weights? same kinda thing.
-1	3I	yeah.
-1	3I	fleece-lined boots. um. were the socks here? we put all of this here, right? we picked that.
-2	3I	put the boots there.
-0	3I	hm.
-2	3I	put it right there.
-2	3I	yeah.
-1	3I	good call.
-2	3I	okay. but we can - we can fix this. we could move -
-2	3I	the siding hasta stay there.
-2	3I	what if we do this?
-1	3I	yeah. we could do that.
-1	3I	i'm thinking of moving them all up, though, so they're next to the siding, too. go see - you gotta cut siding.
-0	3I	so.
-1	3I	do this.
-0	3I	the plastic jugs just kinda ended up over there.
-1	3I	sure.
-1	3I	yeah, there you go.
-1	3I	yes.
-1	3I	yeah.
-0	3I	bagels.
-0	3I	i say canvas bag.
-0	3I	and i say bagels. yes.
-0	3I	yeah.
-1	3I	uh yeah. that'll work.
-0	3I	yeah.
-2	3I	the flags. where - um. let's put the flags here. just -
-0	3I	right.
-2	3I	you could do that. um. i actually think we should put vests there for now.
-1	3I	yeah. that works. that's perfect.
-1	3I	yeah. put em there.
-1	3I	yeah. so we could put em -
-1	3I	there.
-0	3I	kay. cases of whiskey.
-2	3I	right next to the toys. n um.
-2	3I	i think so. trunc here's - i do wanna do this, though. i know this is neurotic. um. i wanna move -
-2	3I	the saws and axes and stuff next to the siding. because -
-1	3I	yeah.
-1	3I	yeah. and then the buckets, we can just -
-1	3I	i dunno. buckets are fine there.
-1	3I	we could do that.
-0	3I	right.
-1	3I	trunc trunc switch the - yep.
-0	3I	buckets, rolls of duct tape, half-inch tubing.
-0	3I	mouse traps.
-0	3I	mm-hm.
-0	3I	um.
-0	3I	the only other thing - well, for deck chairs, like a home deck -
-1	3I	boating supplies. but i think we're fine.
-1	3I	i think that's close enough.
-1	3I	we could -
-1	3I	we could do this.
-2	3I	we could do that. we can't move the power cords, though. that was one of the permanent ones.
-1	3I	we could do this.
-1	3I	like that?
-1	3I	and then move the knives in.
-1	3I	mm-hm.
-1	3I	yeah.
-0	3I	well that's - and that's kinda what i'm looking at. like, if you assume they had to be equal in some proportion. like this one's equal, but there's a lot less in these two.
-0	3I	i can't remember.
-1	3I	trunc there you go.
-2	3I	no, that's good. yeah.
-2	3I	the - it was cake mix. cake mix hasta be there.
-1	3I	yeah.
-1	3I	yeah. you could move -
-1	3I	you know, you could trunc we could move packages of cookies up there with the doughnuts and the ice cream and the chocolate bars and stuff.
-1	3I	okay.
-2	3I	yeah, let's declare victory.
-2	3I	we'll just move on. and trunc i - you know trunc yes. well done, sir! um.
-0	3I	yeah.
-0	6B	yes.
-1	6B	yeah.
-0	6B	mm-hm.
-0	6B	which expensive should be cut from each department, and choose the same number of items from each department.
-0	6B	so.
-0	6B	yep.
-0	6B	yeah.
-0	6B	we must discuss each - each item and reach an agreement about whether to cut it or continue funding it.
-2	6B	i - i disagree.
-2	6B	why would anyone wanna be doomed to that narrow of a focus in terms of their future career options?
-0	6B	um.
-2	6B	um. i'm - i'm gonna disagree with you and say we should keep the math tutors for now.
-1	6B	just, you know -
-1	6B	because -
-1	6B	what is it? those who can't teach, teach p_e_? what's the whole -?
-1	6B	those who can't do math -
-0	6B	yeah. so, yeah.
-0	6B	i - assistant cooks?
-2	6B	really? why? why would you hang -?
-3	6B	wait a minute! why would you hang on to the assistant cooks?
-2	6B	but that's the thing. look. the - you don't need an educational program for assistant cooks.
-2	6B	cuz you know that the - if the assistant cook is the one on the boat,
-2	6B	he or she would be the one to survive. cuz it's always the cook that survives, right?
-2	6B	so, um, i don't think - i don't think they'd -
-2	6B	they need any more help than they're already getting.
-1	6B	yeah.
-2	6B	they work with large knives. i mean, there's just - you know.
-0	6B	um. sex ed.
-0	6B	uh, i -
-1	6B	yeah.
-2	6B	well, you know.
-0	6B	so.
-1	6B	trunc exactly.
-0	6B	okay.
-1	6B	so, so far, i would suggest that assistant cooks may be - may be a - a program to cut. custodians?
-2	6B	what is being in a union shop have to do with that thing?
-2	6B	well, yeah, but you're - every
-2	6B	lemme just kinda tell you that * everybody in government is gonna * be in the, you know,
-2	6B	collectively bargained category. so, if - if you've gotta cut people, you're gonna hafta cut people.
-2	6B	i wouldn't cut the custodians.
-2	6B	have you ever * seen -
-2	6B	how public officials maintain their offices? agh! be - you know, my seven year old does a better job.
-0	6B	yeah, see -
-2	6B	it's a critical role.
-2	6B	keep the custodians. speech therapy.
-0	6B	speech therapy?
-1	6B	yes.
-0	6B	uh, football equipment.
-2	6B	um, no. why -? football equipment?
-0	6B	uh, is that * football football or american football?
-0	6B	um.
-0	6B	i guess. or we're - still - we're maintaining the equipment? we're buying the equipment?
-0	6B	um.
-1	6B	we must choose the same number -
-1	6B	which expenses should be cut from each department. we must choose the same number -
-2	6B	so, they're saying, cut the football equipment expenses. so, it leads me to believe there's an ongoing expense that we are now not ongoing.
-2	6B	or, we're * off-going.
-2	6B	what - what are you saying?
-2	6B	are you trunc * i work for the county. what are you saying? you saying that we got moldy football equipment?
-2	6B	come on, man.
-0	6B	um.
-0	6B	oh?
-0	6B	right.
-1	6B	so the hillsdale library maintained the moldy football equipment?
-0	6B	i understand.
-0	6B	yeah.
-1	6B	right.
-1	6B	okay.
-2	6B	well then - but then they'd come back, and they'd be like, i remember when they had to cut the football equipment, so i'm gonna spend my -
-2	6B	gazillions on helping out the -
-2	6B	youth football.
-2	6B	no! i think we should get rid of it. cut it!
-2	6B	cut it!
-2	6B	um. acting coaches. clearly the most critical role in all county services are acting coaches.
-0	6B	i gotcha.
-0	6B	the - the - yes.
-0	6B	the - the - right.
-1	6B	yeah. cuz the other coaches are being investigated, or something? right. the acting coaches. um.
-2	6B	right. oh, ouch. um.
-2	6B	well in that case, maybe we don't wanna get rid of the acting coaches. uh, poetry books?
-0	6B	poetry books?
-0	6B	i dunno.
-0	6B	um.
-1	6B	uh. i - i don't know. i think it depends on the poet.
-2	6B	i think we keep the poetry books. how hard can it be to maintain the poetry * books?
-2	6B	really?
-1	6B	i'm thinking like, t_s_ elliot and stuff. um.
-0	6B	uh, special ed teachers.
-1	6B	okay.
-1	6B	mm. could be true.
-1	6B	yes. um.
-2	6B	you - you make it sound like a virus.
-0	6B	um.
-0	6B	uh.
-0	6B	mm-hm.
-0	6B	mm-hm.
-1	6B	yeah.
-0	6B	yeah.
-2	6B	well cuz they're -
-2	6B	they're mandated to provide those services.
-0	6B	federal.
-2	6B	kay, so keep em.
-0	6B	cooking classes?
-0	6B	eh.
-2	6B	well, no. but why - you know. i mean -
-2	6B	can't people take a cooking class at p_c_c_ or something? why is the county paying for it?
-2	6B	well that - that actually says a lot. um.
-0	6B	uh.
-1	6B	maybe we don't wanna cut em.
-0	6B	right. um. so - note-takers. disability services?
-2	6B	do they? okay. i was gonna say, couldn't we just buy everybody an ipad and call it good?
-2	6B	that seems to be the answer.
-1	6B	public services? infrastructure and licensing.
-1	6B	yeah.
-1	6B	yeah.
-0	6B	yeah.
-0	6B	um.
-2	6B	sugar-free juice machines? i feel like there's a lotta things in this category that are not -
-2	6B	not particularly, um, dynamic.
-0	6B	uh. bookkeeping classes, music teachers, sugar-free juice machines.
-2	6B	i mean -
-2	6B	based on this list, i -
-2	6B	the poor assistant cooks go near the top. football equipment goes near the top. for me. like, meaning, get - like we would cut it.
-1	6B	cooking classes.
-1	6B	bookkeeping classes.
-1	6B	yeah, there's some accounting involved.
-2	6B	so i'd - i'd wanna get rid of the classes so that it would mean, you know, more long-term, like job preservation. and people weren't -
-2	6B	exactly. exactly. so, you know, yeah. if we - we - that gets cut first.
-2	6B	we need * bad accounting.
-0	6B	um.
-0	6B	let's see.
-2	6B	well the sugar-free juice trunc that's a little oxymoronic anyway. i mean, what is sugar-free juice?
-0	6B	you know. i -
-0	6B	i - i guess. um.
-1	6B	pretty much. um.
-1	6B	yes. uh yes. i think -
-2	6B	so what they're saying is water fountains. yes.
-1	6B	right.
-0	6B	um.
-0	6B	okay.
-1	6B	so shall we move to the next category, and then we can kinda come back and keep our numbers? yes.
-2	6B	absolutely. i - don't get rid of the water fountains.
-0	6B	um.
-1	6B	music teachers. eh.
-1	6B	uh, reproductive education. we should probably hang onto that.
-1	6B	job training - training programs? sure.
-1	6B	chicken pox vaccinations? sounds good. invasive species removal?
-0	6B	um.
-1	6B	yeah. yep.
-0	6B	s_t_d_ education, toxic waste disposal, hospital additions.
-2	6B	* bagel * factory * inspections.
-2	6B	absolutely the most critical role that the county can play, is bagel factory inspections.
-0	6B	um.
-0	6B	yeah. i think so. wasn't it?
-0	6B	was under, um.
-0	6B	was it under public safety? it was under, uh -
-0	6B	yeah, environmental - environmental safety.
-0	6B	um, needle exchange, sex offender database, veterans medical assistance, egg farm regulations, weed control. prenatal check-ups and neighborhood watch support?
-2	6B	geez! and none of these things i would really get rid of compared about - trunc five or six on the other one. um.
-2	6B	i think they * do do that now, don't they?
-0	6B	do the - do the weed control?
-2	6B	mm-kay. i'm with you on weed control.
-0	6B	um.
-0	6B	um. i dunno.
-1	6B	yeah.
-2	6B	what - getting rid of neighborhood watch. what could go wrong?
-1	6B	what could go wrong?
-0	6B	i mean -
-2	6B	that's - that's what we need. we need everybody to be * armed.
-2	6B	then - yeah. then we don't need any regulation. okay. oh -
-0	6B	i - i have not seen it. i'm * not - i've -
-0	6B	uh-huh. and then he starts pepper spraying everybody.
-0	6B	mm-hm.
-0	6B	there you go. um.
-0	6B	right.
-2	6B	so, yeah. i think we could cut the neighborhood watch support, and instead, just give them all pepper spray and weapons. and - yeah.
-0	6B	mm-hm.
-0	6B	mm-hm.
-1	6B	pick axes. i think, you know -
-1	6B	um. pitch forks, torches.
-2	6B	um. yes. trunc oh, my.
-1	6B	uh, okay.
-0	6B	toxic waste disposal?
-2	6B	now see here's my question. if we cut the toxic waste disposal program,
-2	6B	does that mean that people will dispose of their toxic waste in another county?
-2	6B	so why don't - let's just do that, and then they'll take it all to pierce county.
-2	6B	wasn't that what you do now?
-2	6B	you know, and i've used motor oil. i just kind of, you know, spread it around in my back yard.
-0	6B	yeah.
-0	6B	especially, you know -
-1	6B	i just look for those drains that are stenciled with the salmon pictures and make sure that i put em down there. cuz i figure it's good for the salmon.
-0	6B	right, right.
-0	6B	um.
-0	6B	okay.
-0	6B	um. recreation and public services. stray cat * spaying, public news * station, food bank, junior -
-0	6B	uh, i do. i have cats - i have a cat and a dog. living together. mass hysteria. um.
-0	6B	um, have i * spayed them?
-0	6B	personally? no. i have had them fixed. yes.
-0	6B	i did.
-2	6B	trunc okay. stray cat spaying it is. although, you know, we're gonna have a whole lot of stray cats.
-2	6B	stray cats paying, yes.
-1	6B	their last album. which was a flop. i - i have no idea. stray cat -
-0	6B	spaying.
-0	6B	kitten and puppy adoption?
-0	6B	kitten and -
-0	6B	no, i - i got them from kitten and puppy adoption.
-0	6B	yeah, i really did.
-0	6B	uh, soup kitchens.
-0	6B	the kitten and puppy adoptions services?
-0	6B	um.
-1	6B	that's distinctly possible. but, you know, it's not - we're - we're -
-1	6B	we're - uh, yeah.
-2	6B	i trunc i think the difference would be that because there was a kitten-puppy adoption service,
-2	6B	that there was somebody to facilitate the adopting of the kitten and-or puppy.
-2	6B	yes, absolutely.
-1	6B	um. you know, i mean, you could always go with the, uh -
-1	6B	i don't know. most of the world -
-1	6B	greece -
-1	6B	thailand slash approach, where could just have the dogs and the cats running around doing everything.
-1	6B	yeah. um. but i - i - i don't know. you know.
-1	6B	might be a little cold. alright.
-0	6B	soup kitchens, housing assistance.
-1	6B	what if they wanna eat something besides soup, though?
-1	6B	could we have like a * salad kitchen?
-2	6B	we do. we could have like a * vegan -
-1	6B	yes.
-1	6B	we could have a * whiskey kitchen.
-0	6B	really? actually, isn't there a trunc restaurant called that, or something?
-0	6B	okay. housing assistance.
-0	6B	um. dog catcher.
-1	6B	how - how we gonna have kittens and puppies to - ?
-2	6B	trunc well what are they gonna do when they get the dog?
-2	6B	i - i'm just worried about the kitten and puppy adoption service, if they don't have a dog catcher to catch the kittens and puppies to be adopted.
-2	6B	maybe we need a * cat catcher in there.
-3	6B	there is no cat catcher!
-3	6B	holy -
-1	6B	the dog trunc okay.
-1	6B	dog catcher and stray cat spaying. yes.
-0	6B	the boys basketball club?
-0	6B	who?
-0	6B	mm-hm.
-2	6B	i think that's - i actually think - as a county employee, i think that's a brilliant idea. what they should do is -
-2	6B	they should take trunc force me to take my lunch hour, and just reassign everybody who does all these other public functions to go do dog catching.
-1	6B	you know, for an hour or two. uh, every week. yeah, okay. yeah.
-0	6B	yep.
-0	6B	trunc
-1	6B	and - and spay stray cats. okay.
-1	6B	i have no idea. yeah. you know. just -
-1	6B	trunc trunc but that's what you need the scissors and the case of whiskey for.
-0	6B	um.
-0	6B	the loose-leaf paper? i don't know. uh.
-0	6B	reusable bag campaign.
-0	6B	reusable bag campaign.
-2	6B	well, i was gonna say. i mean.
-1	6B	i - i know.
-2	6B	i don't know why you'd need a special -
-2	6B	we re-elect most of the politicians around here anyway. so.
-2	6B	well that's what i'm saying. reusable bag. um.
-0	6B	uh.
-2	6B	i - i work with a lotta these people. i hafta be careful. um.
-0	6B	so, uh, veterinary hospital.
-0	6B	what do we do with veterinary hos-?
-0	6B	um.
-2	6B	no, i'm - in all seriousness, i had to take my dog -
-0	6B	uh -
-1	6B	in today.
-0	6B	you know.
-2	6B	yes. he's - he's old. he's like thirteen.
-2	6B	so - i - i'm not taking my dog to a county hospital. i'm taking my dog to the, you know -
-1	6B	the west seattle vet. so,
-2	6B	i don't know that the county needs to pay for veterinary hospitals. like -
-0	6B	yeah. um.
-0	6B	i trunc
-2	6B	well, trunc yeah, but you could pay - i mean, if you have - if you have a program for stray cat spaying.
-2	6B	they could do that at someone else's, you know, vet hospital. they could do that -
-2	6B	i don't know. i just don't know that the county needs to pay for that.
-2	6B	they could do it at the food trunc that is a great idea.
-2	6B	wow. i really don't wanna be going to the food bank any time soon. that's terrible, pete!
-2	6B	oh, jiminy christmas. that's just terrible.
-0	6B	um. the football stadium upkeep.
-1	6B	and the soup kitchens.
-1	6B	yes. okay.
-0	6B	uh, so -
-2	6B	trunc okay, we're gonna hafta come back and figure out what we're cutting. but i think we have a good sense of what it is that we would cut in that category.
-2	6B	starting with the -
-2	6B	veterinarian.
-0	6B	infrastructure and licensing.
-2	6B	trunc like i said, we can cut that immediately.
-0	6B	um.
-2	6B	why?
-2	6B	okay, well then let's cut that program.
-0	6B	uh, speed limit signs?
-2	6B	i - i don't pay - personally, i don't pay attention to the speed limit. do you?
-2	6B	yeah. okay. then we should be gold-
-0	6B	oh, do you?
-0	6B	mm-hm.
-1	6B	mm-hm.
-0	6B	kay.
-1	6B	right. uh, additional bus stops?
-2	6B	no.
-2	6B	no. we don't need - we don't need any additional bus stops.
-1	6B	yeah.
-2	6B	well they just spent - you know, i mean - it's - i don't know about you, but i - i do ride the bus. and there's - they have the rapid ride lines.
-2	6B	which i think is funny, because a ride implies that you can sit down, right? and so, rapid ride, it's neither rapid nor a ride. right?
-2	6B	um. so no additional bus stops.
-0	6B	uh. tattoo artist licenses?
-2	6B	do - trunc i do. we - we don't - we don't need to talk about that.
-0	6B	um.
-2	6B	so, uh, but tattoo - why -
-2	6B	you're going to a tattoo artist. do you think that they're going to be licensed?
-2	6B	is that really a reasonable expectation?
-2	6B	i thought that was - i thought that was - they put that -
-2	6B	you know, there was like, hey, you got that for free. you know?
-2	6B	normally it's ten dollars extra, but today, we'll make sure that you only get hep b_.
-0	6B	um.
-0	6B	okay.
-0	6B	yeah.
-1	6B	is it in - is it a license for like, how good of a tattoo artist they are, or, you know - ?
-0	6B	yeah.
-0	6B	yeah.
-1	6B	i thought maybe, you know, it's like, oh, i've -
-2	6B	i've actually done * seventeen scorpions tattoos, and so you get some sort of special -
-0	6B	yeah, okay. yeah.
-1	6B	right, exactly.
-1	6B	some - some sort of phenomenal maxfield parrish reproduction.
-0	6B	right.
-0	6B	right.
-0	6B	trunc another kid rock.
-0	6B	uh, okay.
-1	6B	um.
-0	6B	boating licenses.
-0	6B	do we really need people to have a license when they go boating?
-0	6B	i mean,
-2	6B	what could go wrong?
-2	6B	you know?
-2	6B	uh, pothole maintenance?
-0	6B	um.
-0	6B	i dunno.
-0	6B	wait, how do you feel about -
-1	6B	mm-kay.
-1	6B	subway system?
-1	6B	trunc it would be nice to have one. but since we don't, i don't think we need - i don't think we need the program for it.
-0	6B	um.
-0	6B	is that like a tag for hunters?
-0	6B	yeah. um.
-0	6B	i don't know. is like, what do you do? do you like, run up and tag somebody as they're hunting, and say, you're it? i -
-0	6B	um.
-0	6B	uh, they were a number of other towing services that seemed to do a pretty decent job of that, at absolutely inopportune times.
-2	6B	yeah.
-2	6B	um.
-1	6B	uh -
-0	6B	massage trunc massage certificates?
-0	6B	yeah.
-0	6B	is that like a trunc do they give you a certificate suitable for framing after you had a massage? is that what -? i don't -
-1	6B	do they mean like a certification?
-1	6B	message certificates, yes.
-0	6B	you've got mail.
-2	6B	um.
-1	6B	flagpole repair? i don't think we need to repair any flagpoles. taxi stops?
-2	6B	problem solved!
-2	6B	yeah. taxi stops?
-3	6B	well -
-2	6B	i - can't you just stop a taxi by going out and whistling or waving, or - ?
-0	6B	yeah.
-2	6B	so, taxi stops.
-0	6B	fishing licenses.
-1	6B	definitely a vitally important thing.
-0	6B	public trunc
-2	6B	public bus upkeep. well they're not really doing it now. so, um -
-0	6B	and drainage ditches.
-2	6B	alright, so - what do we - let's - why don't we pick one from each category to cut, and then maybe pick another - let's just do it.
-0	6B	across the board. so -
-2	6B	education programs? do you wanna cut assistant cooks?
-1	6B	kay.
-1	6B	public health and safety?
-0	6B	uh, weed control?
-0	6B	i mean, it - it is legal now.
-1	6B	yeah. so -
-1	6B	yes.
-1	6B	no, that's what i'm saying. it's legal now. so why'd you - why - what's - why do you need to control it?
-1	6B	right. um.
-2	6B	uh.
-0	6B	the recreation and public services. do we - did we say we were getting rid of the -
-0	6B	veterinary hospital? what are we doing?
-0	6B	um.
-0	6B	football stadium upkeep. i'm with you. okay.
-0	6B	hunting tags?
-0	6B	trunc you're - you're - you're not going with flagpole repair? that's a critical category for you, isn't it? you -
-1	6B	i -
-2	6B	kay.
-0	6B	the - yes, the trunc the -
-1	6B	no weed control.
-1	6B	no assistant cooks. so let's go back the other direction then.
-1	6B	um.
-1	6B	uh, are we getting rid of teaching certificates? speed limit signs.
-0	6B	i thought if we got rid of the teaching certificates, you got -
-1	6B	you were -
-1	6B	okay. so, okay, trunc
-0	6B	okay. we'll nix the first three.
-1	6B	kay. one, two, three.
-1	6B	kay. can we get three out of every - ? then we'd have four in every category. i think that's pretty good.
-1	6B	so no teaching certificates, no speed limit signs. who needs speed limit signs? additional bus stops,
-2	6B	and tattoo artist licenses. okay.
-1	6B	well, you know -
-2	6B	it's kind of like a driver's license. like, you know.
-2	6B	right.
-1	6B	we could w-
-0	6B	but trunc but see -
-0	6B	this is what concerns me. is trunc if we got like five things in this category, i dunno that we can get five out of every other category.
-2	6B	so let's go with those three for now.
-2	6B	um.
-0	6B	football stadium.
-1	6B	well, we already got rid of the football stadium upkeep.
-1	6B	so, reusable bags, veterinary hospital, yes, no?
-0	6B	yes, no?
-1	6B	yeah, but that - trunc i try not to - that's a - we don't talk about that in public.
-1	6B	yes. uh.
-0	6B	no, that's - well,
-0	6B	it's my own.
-0	6B	yeah.
-0	6B	um.
-0	6B	we're getting rid of the veterinarian, we're getting rid of the reusable bag campaign -
-0	6B	and we're getting rid of what?
-1	6B	pest control?
-1	6B	um.
-1	6B	the dog catcher?
-0	6B	pest control.
-1	6B	they do exist.
-1	6B	they are there. there's like all the all the cities in king county pay for a couple of em.
-0	6B	kay. so we need one more.
-2	6B	yeah. cuz we've -
-1	6B	yeah.
-0	6B	so, stray cat spaying.
-2	6B	trunc you're right. trunc you're right. you're right.
-2	6B	plus the - oh, man. oh, god.
-1	6B	um.
-1	6B	that's one for you. do you pronounce that veterinarian or veterinarian?
-1	6B	i think it does, too.
-1	6B	um.
-0	6B	uh-huh.
-0	6B	i think i say veterinarian.
-0	6B	yeah.
-0	6B	um, okay.
-0	6B	so we got four in that category.
-0	6B	public health and safety.
-0	6B	vaccination?
-0	6B	actually, yeah, it's kind of - it's par for the course now.
-0	6B	but that's the thing, is,
-2	6B	you don't run around and do it trunc i think they should get - i think you're right. they should cut that program.
-2	6B	trunc trunc somebody on the block had chicken pox,
-2	6B	* all the kids went over to their house and played with em and did all that stuff, so that the kids would all catch chicken pox and have it when they were young.
-2	6B	yeah. so, you know.
-2	6B	besides, trunc i - i think that vaccinations - i don't - i - they just -
-0	6B	lead to all kinds of crazy things. you know. um.
-1	6B	fluoridation of water, and -
-1	6B	so, uh, yeah. no vaccinations whatsoever.
-2	6B	um.
-1	6B	can we - can we ban all vaccinations? is that a possibility in this category, or - ?
-0	6B	i think we can only do that if we live in portland.
-1	6B	i -
-0	6B	i'm - i'm being very, very sarcastic.
-0	6B	when you were - when you were - ? i remember we usta hafta swish with the little fluoride cups. yeah. oh, i did it.
-0	6B	i'm - i'm uh, how do i put it?
-1	6B	i'm - i'm jaded in the sense that i'm - i'm old, and i'm like, of course you wanna fluoridate your water. like, what is wrong with you people? but then i remember where i came from, and that's of course why.
-0	6B	um, you know, it's a portlandia kinda moment.
-2	6B	um.
-2	6B	okay.
-0	6B	uh, what else?
-0	6B	did we - were we keeping or getting rid of toxic waste disposal?
-0	6B	bagel factory inspections were out.
-1	6B	okay. so we got bagel factory inspections, we got -
-2	6B	chicken pox vaccinations. we already got rid of weed control. so we need one more.
-1	6B	who needs a sex offender database, really? i mean -
-1	6B	trunc
-2	6B	you know.
-0	6B	um.
-1	6B	oh, neighborhood watch support. that was the other one we were getting rid of.
-0	6B	so we still have the database.
-1	6B	that's good. um.
-1	6B	that work for you?
-2	6B	so we've got - we've got those three. sn-
-3	6B	that i have not experienced in maybe my entire life. it's - it's - yes.
-2	6B	yes.
-0	6B	uh yes. um. i thought you were saying cereal. you know, like, pun after pun after pun after pun.
-0	6B	so what do we have left? we already got rid of the assistant ca - cooks.
-0	6B	no football equipment.
-0	6B	right? so we need one more.
-2	6B	what!
-1	6B	no! it - acting coaches and poetry books are critical. cooking classes.
-2	6B	i know. and now we hafta keep a lot of them. so -
-1	6B	no, we decided we wanted the sugar-free juice machines because when we thought through it, it meant that they were all water fountains.
-1	6B	i dunno. i'm - you know. unless you wanna -
-0	6B	is a * cholera outbreak on the county's dime. so i think we keep those. let's get rid of the cooking classes.
-2	6B	kay.
-0	6B	ah, i thought you had a higher risk of getting cholera central london.
-0	6B	mm.
-1	6B	good -
-0	6B	* that's where i caught cholera! i - see?
-0	6B	yes.
-3	6B	kay.
-0	6B	i - i'll keep that in mind. um.
-0	6B	yeah.
-0	6B	yeah. i think the e_p_a_ does it.
-0	6B	but now, it's not being inspected anymore, since we are -
-1	6B	i - i don't know.
-2	6B	um.
-0	6B	i don't think it was, either.
-0	6B	are - are we?
+0	6B	that 's where i caught cholera ! i - see ?
+0	6B	yes .
+3	6B	kay .
+0	6B	i - i 'll keep that in mind . um .
+0	6B	yeah .
+0	6B	yeah . i think the e_p_a_ does it .
+0	6B	but now , it 's not being inspected anymore , since we are -
+1	6B	i - i do n't know .
+2	6B	um .
+0	6B	i do n't think it was , either .
+0	6B	are - are we ?

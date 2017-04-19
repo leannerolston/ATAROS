@@ -1,7 +1,7 @@
 #!/usr/bin/env
 # -*- coding: utf-8 -*-
 
-import sys
+import sys, nltk
 
 from cleanText import cleanText
 
@@ -14,7 +14,7 @@ for line in data:
 	if len(tokens) < 3:
 		continue
 
-	text = tokens[0]
+	text = tokens[0].replace("*", "")
 	stance = tokens[1].replace("+", "").replace("-", "").replace("X", "").replace("x", "")
 	task = tokens[2]
 
@@ -26,6 +26,9 @@ for line in data:
 
 	if not cleaned:
 		continue
+
+	tokenized = nltk.word_tokenize(cleaned)
+	cleaned = " ".join(tokenized)
 
 	print(stance, end="\t")
 	print(task, end="\t")

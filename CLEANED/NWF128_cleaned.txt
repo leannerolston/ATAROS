@@ -1,1608 +1,402 @@
 1	3I	i think -
 1	3I	it looks like we have -
-1	3I	an edge wall, and edge wall, and then three -
-1	3I	central sets of shelving with shelves on either side. now there's nothing put on this side of this -
-1	3I	wall, but i'm sure that it will fit.
-1	3I	yes.
-1	3I	four aisles. correct.
-0	3I	home supplies. right.
-0	3I	right.
-0	3I	mm-hmm.
-0	3I	mm-hmm.
-0	3I	mm-hmm. housewares.
-0	3I	bulk cooking.
-0	3I	right.
-1	3I	refrigerated section. right. pretty clearly with the - with the freezer section up there, and the refrigerated down there. alright shall we -? shall we begin?
-0	3I	heavy coats.
-1	3I	well that seems like personal effects, and we don't have clothing on the - on the line yet so we can -
-1	3I	we can begin to establish a clothing section.
-1	3I	i think you're right.
+1	3I	an edge wall , and edge wall , and then three -
+1	3I	central sets of shelving with shelves on either side . now there 's nothing put on this side of this -
+1	3I	wall , but i 'm sure that it will fit .
+1	3I	yes .
+1	3I	four aisles . correct .
+0	3I	home supplies . right .
+0	3I	right .
+0	3I	mm-hmm .
+0	3I	mm-hmm .
+0	3I	mm-hmm . housewares .
+0	3I	bulk cooking .
+0	3I	right .
+1	3I	refrigerated section . right . pretty clearly with the - with the freezer section up there , and the refrigerated down there . alright shall we - ? shall we begin ?
+0	3I	heavy coats .
+1	3I	well that seems like personal effects , and we do n't have clothing on the - on the line yet so we can -
+1	3I	we can begin to establish a clothing section .
+1	3I	i think you 're right .
 1	3I	interesting um -
-2	3I	i suspect that we are dealing with the same list that we had or roughly the same list that we had in our first one. so as i recall there were -
+2	3I	i suspect that we are dealing with the same list that we had or roughly the same list that we had in our first one . so as i recall there were -
 2	3I	quite a number of clothes
 2	3I	so i would put them somewhere with plenty of space -
-2	3I	in anticipation of wanting to put the clothes next to each other.
+2	3I	in anticipation of wanting to put the clothes next to each other .
 1	3I	sounds -
-1	3I	ideal.
-1	3I	sounds ideal.
-1	3I	right. sounds perfect.
+1	3I	ideal .
+1	3I	sounds ideal .
+1	3I	right . sounds perfect .
 1	3I	sounds very -
 0	3I	uh -
-1	3I	forecasting, yes -
-1	3I	i have bottles of juice. i would suggest putting them next to the eggs in the refrigerated section. alright.
-1	3I	on the far righthand aisle.
-0	3I	bars of soap.
-1	3I	that makes sense. that's toiletries.
-1	3I	i think behind would be fine.
-1	3I	packages of cookies. ooh! a pre-processed food.
-1	3I	uh, that does not require refrigeration, and we have a whole -
-1	3I	unused aisle.
-1	3I	across from the refrigerated section.
-1	3I	i would put them next to cake mix. that would make sense to me. i think a lot of stores put their baking good and their baked goods next to each other.
-1	3I	definitely.
-1	3I	as when i think of both boating supplies and gas powered cook stoves, i think of camping. i would -
-1	3I	i would advocate for near the boating supplies.
-1	3I	large vests! ah, we have more clothes.
-1	3I	how about next to the travel guides and heavy coats?
-1	3I	alright, both heavy winter wear.
-1	3I	dried figs! a, uh bulk -
-1	3I	good. um -
-1	3I	maybe near the soybean because it's a - it's a non-perishable produce item.
-0	3I	alright.
-0	3I	fish hooks.
-1	3I	makes sense.
-1	3I	very logical.
-0	3I	mint toothpaste.
-1	3I	uh, perhaps near the toilet paper and bars of soap?
-1	3I	perhaps below the bars of soap?
-0	3I	alright.
-1	3I	that makes sense.
-1	3I	correct in case of.
-1	3I	in case of more specific items.
-0	3I	alright. let's see.
-1	3I	cushions for deck chairs. this seems like and outdoor -
-1	3I	uh, but not -
-1	3I	excursion item, so i would suggest somewhere near -
-1	3I	the siding or the power cords.
-1	3I	perhaps with a bit of space down from the siding.
-0	3I	alright.
-0	3I	rolls of duct tape.
-1	3I	that makes sense.
-0	3I	i don't know. i don't know if it matters.
-0	3I	at this point.
-1	3I	okay.
+1	3I	forecasting , yes -
+1	3I	i have bottles of juice . i would suggest putting them next to the eggs in the refrigerated section . alright .
+1	3I	on the far righthand aisle .
+0	3I	bars of soap .
+1	3I	that makes sense . that 's toiletries .
+1	3I	i think behind would be fine .
+1	3I	packages of cookies . ooh ! a pre-processed food .
+1	3I	uh , that does not require refrigeration , and we have a whole -
+1	3I	unused aisle .
+1	3I	across from the refrigerated section .
+1	3I	i would put them next to cake mix . that would make sense to me . i think a lot of stores put their baking good and their baked goods next to each other .
+1	3I	definitely .
+1	3I	as when i think of both boating supplies and gas powered cook stoves , i think of camping . i would -
+1	3I	i would advocate for near the boating supplies .
+1	3I	large vests ! ah , we have more clothes .
+1	3I	how about next to the travel guides and heavy coats ?
+1	3I	alright , both heavy winter wear .
+1	3I	dried figs ! a , uh bulk -
+1	3I	good . um -
+1	3I	maybe near the soybean because it 's a - it 's a non-perishable produce item .
+0	3I	alright .
+0	3I	fish hooks .
+1	3I	makes sense .
+1	3I	very logical .
+0	3I	mint toothpaste .
+1	3I	uh , perhaps near the toilet paper and bars of soap ?
+1	3I	perhaps below the bars of soap ?
+0	3I	alright .
+1	3I	that makes sense .
+1	3I	correct in case of .
+1	3I	in case of more specific items .
+0	3I	alright . let 's see .
+1	3I	cushions for deck chairs . this seems like and outdoor -
+1	3I	uh , but not -
+1	3I	excursion item , so i would suggest somewhere near -
+1	3I	the siding or the power cords .
+1	3I	perhaps with a bit of space down from the siding .
+0	3I	alright .
+0	3I	rolls of duct tape .
+1	3I	that makes sense .
+0	3I	i do n't know . i do n't know if it matters .
+0	3I	at this point .
+1	3I	okay .
 1	3I	perhaps -
-1	3I	next to the large vests, or perhaps -
-1	3I	offer some space.
-1	3I	across from them.
-1	3I	more - more vestments than accessories, alright.
-1	3I	definitely in the dairy section.
-0	3I	alright.
-0	3I	oop!
-0	3I	making rustling.
-1	3I	five pound weights. do you know what five pound weights are used for? i certainly don't.
-0	3I	okay.
-0	3I	hardware. home improvement.
-0	3I	mm-hmm.
+1	3I	next to the large vests , or perhaps -
+1	3I	offer some space .
+1	3I	across from them .
+1	3I	more - more vestments than accessories , alright .
+1	3I	definitely in the dairy section .
+0	3I	alright .
+0	3I	oop !
+0	3I	making rustling .
+1	3I	five pound weights . do you know what five pound weights are used for ? i certainly do n't .
+0	3I	okay .
+0	3I	hardware . home improvement .
+0	3I	mm-hmm .
 0	3I	the camping area -
-1	3I	how would you feel about putting them across from the camping gear in case we encounter other exercise equipment? so we'll put them -
-1	3I	across the aisle from the boating supplies.
-0	3I	alright.
-0	3I	heavy cable.
+1	3I	how would you feel about putting them across from the camping gear in case we encounter other exercise equipment ? so we 'll put them -
+1	3I	across the aisle from the boating supplies .
+0	3I	alright .
+0	3I	heavy cable .
 1	3I	either near the hardware area down with the rolls of duct tape and power cords -
 1	3I	or somewhere up -
 1	3I	near the -
-1	3I	construction equipment.
-1	3I	makes sense.
-1	3I	so * next to the rolls of duct tape and power cords, but need immediately adjacent. alright.
-# 1	3I	let's see what we have here.
-1	3I	um, but perhaps with a bit of space as they are a -
+1	3I	construction equipment .
+1	3I	makes sense .
+1	3I	so next to the rolls of duct tape and power cords , but need immediately adjacent . alright .
+# 1	3I	let 's see what we have here .
+1	3I	um , but perhaps with a bit of space as they are a -
 1	3I	non -
 0	3I	um -
-0	3I	what is the word i am looking for?
-1	3I	uh, in-
-1	3I	a non- trunc thank you. a non-disposable.
-1	3I	toiletry.
-1	3I	absolutely.
-1	3I	now we have a - a stack of heavy winter wear.
-0	3I	alright.
-0	3I	let's see what we have now.
-1	3I	buckets! i think buckets is solidly home improvement and camping.
-1	3I	so maybe in the middle of the aisle between the five pound weights and the heavy cable?
-1	3I	for ease of access to both departments.
-0	3I	small axes.
-0	3I	mm-hmm.
-1	3I	alright.
-0	3I	right.
-1	3I	well that makes sense.
-0	3I	alright.
-0	3I	let's see. i'll draw one out of the middle.
-1	3I	bagels! so bagels -
-1	3I	seem to belong near packages of cookies, simply by virtue of being a baked good. does that sound -?
-1	3I	reasonable? or -?
-0	3I	mm-hmm.
-0	3I	huh.
+0	3I	what is the word i am looking for ?
+1	3I	uh , in-
+1	3I	a non- trunc thank you . a non-disposable .
+1	3I	toiletry .
+1	3I	absolutely .
+1	3I	now we have a - a stack of heavy winter wear .
+0	3I	alright .
+0	3I	let 's see what we have now .
+1	3I	buckets ! i think buckets is solidly home improvement and camping .
+1	3I	so maybe in the middle of the aisle between the five pound weights and the heavy cable ?
+1	3I	for ease of access to both departments .
+0	3I	small axes .
+0	3I	mm-hmm .
+1	3I	alright .
+0	3I	right .
+1	3I	well that makes sense .
+0	3I	alright .
+0	3I	let 's see . i 'll draw one out of the middle .
+1	3I	bagels ! so bagels -
+1	3I	seem to belong near packages of cookies , simply by virtue of being a baked good . does that sound - ?
+1	3I	reasonable ? or - ?
+0	3I	mm-hmm .
+0	3I	huh .
 0	3I	trunc
-0	3I	utility scissors.
-1	3I	i think we have the power to decide.
-1	3I	yes.
-1	3I	yes, we have the power to decide which ones we ordered.
-0	3I	which scissors did we order, emily? i can't seem to recall.
-1	3I	alright, some big heavy duty utility scissors.
-1	3I	right right. that's the - the -
-1	3I	miscellaneous sharp implements area. alright. oop! i drew two. there you are.
-1	3I	um, beets. well, beets are a fresh produce item, and we don't have a fresh produce aisle yet.
-1	3I	luckily.
-1	3I	how does that look over -?
-1	3I	on the opposite side of the self from the sugar?
-1	3I	yes.
-1	3I	absolutely.
-0	3I	alright.
-0	3I	see what we have.
-1	3I	liters of water. that sounds -
-1	3I	almost positively like either a camping or a - oh, it's liters, not gallons. it's small bottles of water.
+0	3I	utility scissors .
+1	3I	i think we have the power to decide .
+1	3I	yes .
+1	3I	yes , we have the power to decide which ones we ordered .
+0	3I	which scissors did we order , emily ? i ca n't seem to recall .
+1	3I	alright , some big heavy duty utility scissors .
+1	3I	right right . that 's the - the -
+1	3I	miscellaneous sharp implements area . alright . oop ! i drew two . there you are .
+1	3I	um , beets . well , beets are a fresh produce item , and we do n't have a fresh produce aisle yet .
+1	3I	luckily .
+1	3I	how does that look over - ?
+1	3I	on the opposite side of the self from the sugar ?
+1	3I	yes .
+1	3I	absolutely .
+0	3I	alright .
+0	3I	see what we have .
+1	3I	liters of water . that sounds -
+1	3I	almost positively like either a camping or a - oh , it 's liters , not gallons . it 's small bottles of water .
 0	3I	um -
-0	3I	liters of water.
-1	3I	refrigerated?
-1	3I	bottles of juice. good idea.
-2	3I	flags!
-1	3I	absolutely.
-1	3I	that makes sense. it's outdoor home items.
-1	3I	alright.
-1	3I	this is true. this is true. so they might apply to the camping sections as well.
-0	3I	ooh! paper bags.
-1	3I	well, we have buckets there, so we have containers in the sort of camping and outdoor-ware section.
+0	3I	liters of water .
+1	3I	refrigerated ?
+1	3I	bottles of juice . good idea .
+2	3I	flags !
+1	3I	absolutely .
+1	3I	that makes sense . it 's outdoor home items .
+1	3I	alright .
+1	3I	this is true . this is true . so they might apply to the camping sections as well .
+0	3I	ooh ! paper bags .
+1	3I	well , we have buckets there , so we have containers in the sort of camping and outdoor-ware section .
 0	3I	um -
-1	3I	but there's also mousetraps, which is sort of disposable indoor household miscellany.
-1	3I	as we have plenty of things in the camping outdoor-ware section.
-1	3I	probably.
-1	3I	yeah.
-1	3I	so we have trunc extra space.
-1	3I	that makes sense.
-0	3I	right.
-0	3I	right.
-1	3I	and this is becoming a bit of a back to school section it seems here with the backpacks and the toys.
-1	3I	large cups. ooh, large cups! this is a -
+1	3I	but there 's also mousetraps , which is sort of disposable indoor household miscellany .
+1	3I	as we have plenty of things in the camping outdoor-ware section .
+1	3I	probably .
+1	3I	yeah .
+1	3I	so we have trunc extra space .
+1	3I	that makes sense .
+0	3I	right .
+0	3I	right .
+1	3I	and this is becoming a bit of a back to school section it seems here with the backpacks and the toys .
+1	3I	large cups . ooh , large cups ! this is a -
 1	3I	home item -
 0	3I	um -
-1	3I	i would be inclined to put it near the mousetraps, paper bags almost? does that sound reasonable? alright put that there but give it a little bit of space above the mousetraps.
-1	3I	empty plastic jugs. that sounds like a container.
-1	3I	this is surprisingly fun.
-1	3I	bundles - bundles of sticks, that sounds like fire lighting to me. i can't think of anything anyone would use bundles of sticks for at this time of the season.
-0	3I	you know, i discovered that they did myself on a camping trip last week. i did not know they sold them either, bu t apparently they do.
-1	3I	so i will put them next to the gas powered cookstoves. um -
-1	3I	oh! perhaps -
-1	3I	directly - yes, so that -
-1	3I	can get all of your fire lighting needs taken care of.
-1	3I	box knives. oh well, we do have a cutting things section. how about the box knives on the -?
-1	3I	end of the aisle in the cutting things section. alright. in home supplies, near axes and scissors.
-0	3I	books of matches.
-0	3I	mm-hmm.
-1	3I	disposable household items. that makes sense.
-1	3I	very nice.
-0	3I	alright.
-0	3I	canvas bags.
-1	3I	oh, canvas bags could be used for shopping. they could be used for camping.
+1	3I	i would be inclined to put it near the mousetraps , paper bags almost ? does that sound reasonable ? alright put that there but give it a little bit of space above the mousetraps .
+1	3I	empty plastic jugs . that sounds like a container .
+1	3I	this is surprisingly fun .
+1	3I	bundles - bundles of sticks , that sounds like fire lighting to me . i ca n't think of anything anyone would use bundles of sticks for at this time of the season .
+0	3I	you know , i discovered that they did myself on a camping trip last week . i did not know they sold them either , bu t apparently they do .
+1	3I	so i will put them next to the gas powered cookstoves . um -
+1	3I	oh ! perhaps -
+1	3I	directly - yes , so that -
+1	3I	can get all of your fire lighting needs taken care of .
+1	3I	box knives . oh well , we do have a cutting things section . how about the box knives on the - ?
+1	3I	end of the aisle in the cutting things section . alright . in home supplies , near axes and scissors .
+0	3I	books of matches .
+0	3I	mm-hmm .
+1	3I	disposable household items . that makes sense .
+1	3I	very nice .
+0	3I	alright .
+0	3I	canvas bags .
+1	3I	oh , canvas bags could be used for shopping . they could be used for camping .
 0	3I	um -
 1	3I	we do sort of have a home -
-1	3I	containers section.
+1	3I	containers section .
 0	3I	uh -
-0	3I	alright, so the, uh -
-1	3I	jugs and buckets? are we thinking next to the empty plastic jugs and the buckets?
-1	3I	yes, it does.
-1	3I	small saws. oh good! more material for our -
-1	3I	uh, are -
-1	3I	sharp implements section.
-1	3I	perhaps across the aisle from the small axes?
-1	3I	unquestionably.
-1	3I	a household disposable personal toiletry.
-1	3I	oh. * cases of whiskey.
-1	3I	now this is interesting because it's not individual bottles, but rather cases.
-0	3I	mm-hmm.
-0	3I	toward the other beverages?
+0	3I	alright , so the , uh -
+1	3I	jugs and buckets ? are we thinking next to the empty plastic jugs and the buckets ?
+1	3I	yes , it does .
+1	3I	small saws . oh good ! more material for our -
+1	3I	uh , are -
+1	3I	sharp implements section .
+1	3I	perhaps across the aisle from the small axes ?
+1	3I	unquestionably .
+1	3I	a household disposable personal toiletry .
+1	3I	oh . cases of whiskey .
+1	3I	now this is interesting because it 's not individual bottles , but rather cases .
+0	3I	mm-hmm .
+0	3I	toward the other beverages ?
 2	3I	but -
-2	3I	but not, perhaps, in the refrigerated section so -
-1	3I	nearby, at the end of the aisle -
-1	3I	tow ropes. well, we do have -
-1	3I	cables, cords, and rolls of duct tape there, but we also have boating supplies up there.
-# 1	3I	do you have a - a rope, spool, and coil section?
-1	3I	that sounds perfect.
-1	3I	we've got a -
-1	3I	solid store organization.
-1	3I	arising from the chaos. boxes of donuts! now i'm getting hungry.
-1	3I	uh, well we have packages of cookies and bagels right here, so my inclination would be to -
+2	3I	but not , perhaps , in the refrigerated section so -
+1	3I	nearby , at the end of the aisle -
+1	3I	tow ropes . well , we do have -
+1	3I	cables , cords , and rolls of duct tape there , but we also have boating supplies up there .
+# 1	3I	do you have a - a rope , spool , and coil section ?
+1	3I	that sounds perfect .
+1	3I	we 've got a -
+1	3I	solid store organization .
+1	3I	arising from the chaos . boxes of donuts ! now i 'm getting hungry .
+1	3I	uh , well we have packages of cookies and bagels right here , so my inclination would be to -
 1	3I	fill the boxes of donuts right into the -
-1	3I	empty space.
-0	3I	half inch tubing.
-1	3I	i think we could. we have some extra room there.
-1	3I	let's shift those back. there we are.
+1	3I	empty space .
+0	3I	half inch tubing .
+1	3I	i think we could . we have some extra room there .
+1	3I	let 's shift those back . there we are .
 1	3I	perfect
-1	3I	ooh! shoelaces. that looks like a clothing supply to me, but not a -
+1	3I	ooh ! shoelaces . that looks like a clothing supply to me , but not a -
 1	3I	major vestment rather a -
-1	3I	good point.
-1	3I	incidentals, excellent point.
-1	3I	everywhere.
-1	3I	that makes sense. they can be a baking supply.
-1	3I	it does.
-1	3I	it's true. i don't want the beets to be lonely.
-1	3I	i hope so, beets are so lonely so often.
+1	3I	good point .
+1	3I	incidentals , excellent point .
+1	3I	everywhere .
+1	3I	that makes sense . they can be a baking supply .
+1	3I	it does .
+1	3I	it 's true . i do n't want the beets to be lonely .
+1	3I	i hope so , beets are so lonely so often .
 0	3I	um -
-1	3I	electric, nobody cooks with -
-1	3I	uh, electric heaters -
-1	3I	electric heaters, uh - perhaps near the deck chairs and siding? is there a - a home supply?
-1	3I	i'm picturing outdoor electric heaters. i don't know why. it's not specify.
-0	3I	summer.
-1	3I	yeah, we can decide what we ordered.
-1	3I	oh! definitely a cold weather item.
-1	3I	ooh, yes! as - as an accessory.
+1	3I	electric , nobody cooks with -
+1	3I	uh , electric heaters -
+1	3I	electric heaters , uh - perhaps near the deck chairs and siding ? is there a - a home supply ?
+1	3I	i 'm picturing outdoor electric heaters . i do n't know why . it 's not specify .
+0	3I	summer .
+1	3I	yeah , we can decide what we ordered .
+1	3I	oh ! definitely a cold weather item .
+1	3I	ooh , yes ! as - as an accessory .
 1	3I	either near the large cups or near the baking supplies depending on whether we want to -
 1	3I	start a little -
-1	3I	flatware, and houseware, and cookware area or whether we want -
+1	3I	flatware , and houseware , and cookware area or whether we want -
 1	3I	all our baking supplies in
-1	3I	alright. i'll put it next to the, uh - the trunc large cups, so we have a small houseware section.
-0	3I	cans of peas.
-1	3I	well, that's a -
-1	3I	bulk non-perishable, or we could make the beets less lonely. they're both vegetables.
-1	3I	this is true. this is true.
-1	3I	we need canned beets. yes.
-1	3I	makes sense.
-1	3I	not right next door.
-0	3I	loose leaf paper. alright, um -
-1	3I	perhaps near the books, and what is shaping up to be the school supply section.
+1	3I	alright . i 'll put it next to the , uh - the trunc large cups , so we have a small houseware section .
+0	3I	cans of peas .
+1	3I	well , that 's a -
+1	3I	bulk non-perishable , or we could make the beets less lonely . they 're both vegetables .
+1	3I	this is true . this is true .
+1	3I	we need canned beets . yes .
+1	3I	makes sense .
+1	3I	not right next door .
+0	3I	loose leaf paper . alright , um -
+1	3I	perhaps near the books , and what is shaping up to be the school supply section .
 1	3I	so we could put them either near the books where it would -
 0	3I	um -
-1	3I	seem to be a stationary area, or near the backpacks.
-1	3I	as it's august, i'd agree. yeah.
-0	3I	socks!
-1	3I	that sounds good.
-1	3I	i think we're going to be able to open the store on time.
-1	3I	g of peet moss, that sounds like a outdoor gardening and household -
-1	3I	equipment that people might be looking for they're doing their patio, right next to the deck chairs.
-1	3I	perfect, then we have our -
-1	3I	camping and fishing supply section complete.
-1	3I	good job. i think we're done.
-1	3I	great.
-1	3I	that looks like a great store. i would shop there. i don't know about those earlier stores.
-0	3I	yep.
-0	6B	okay.
-1	6B	well let's look at what we have, and then figure out what we think we can afford to cut.
-1	6B	uh, and then try to balance it.
-1	6B	equally.
-1	6B	what's the easiest one to look at first?
+1	3I	seem to be a stationary area , or near the backpacks .
+1	3I	as it 's august , i 'd agree . yeah .
+0	3I	socks !
+1	3I	that sounds good .
+1	3I	i think we 're going to be able to open the store on time .
+1	3I	g of peet moss , that sounds like a outdoor gardening and household -
+1	3I	equipment that people might be looking for they 're doing their patio , right next to the deck chairs .
+1	3I	perfect , then we have our -
+1	3I	camping and fishing supply section complete .
+1	3I	good job . i think we 're done .
+1	3I	great .
+1	3I	that looks like a great store . i would shop there . i do n't know about those earlier stores .
+0	3I	yep .
+0	6B	okay .
+1	6B	well let 's look at what we have , and then figure out what we think we can afford to cut .
+1	6B	uh , and then try to balance it .
+1	6B	equally .
+1	6B	what 's the easiest one to look at first ?
 0	6B	um -
 1	6B	to me the easiest one to look at is recreation and public services
-1	6B	because it's - it a - an area where it breaks almost entirely cleanly into -
-1	6B	vital life assistance like soup kitchens and housing assistance, and -
+1	6B	because it 's - it a - an area where it breaks almost entirely cleanly into -
+1	6B	vital life assistance like soup kitchens and housing assistance , and -
 1	6B	things like -
-1	6B	the junior soccer league, which while doubtless greatly beloved will not leave anyone hungry on the street if it's cut.
+1	6B	the junior soccer league , which while doubtless greatly beloved will not leave anyone hungry on the street if it 's cut .
 0	6B	uh -
-1	6B	and the other question is what - what do we - as you said, what do we think either the community will rally to support regardless or a - is - is easily privatized without -
-1	6B	uh, damaging programs.
+1	6B	and the other question is what - what do we - as you said , what do we think either the community will rally to support regardless or a - is - is easily privatized without -
+1	6B	uh , damaging programs .
 0	6B	um -
-1	6B	let's find what we - we definitely don't think we can afford to cut, at least one or two items from each.
-1	6B	each, uh -
-1	6B	list.
-2	6B	for instance, i don't think it would be a good idea to cut toxic waste disposal.
-1	6B	i feel that would end badly.
-1	6B	alright, let's go list by list. what about education programs? what do you think we can't afford to cut, and what do you think we can maybe skip for a few years?
-1	6B	yes.
-1	6B	yeah.
-1	6B	i would agree with you on all of those.
-1	6B	and, um -
+1	6B	let 's find what we - we definitely do n't think we can afford to cut , at least one or two items from each .
+1	6B	each , uh -
+1	6B	list .
+2	6B	for instance , i do n't think it would be a good idea to cut toxic waste disposal .
+1	6B	i feel that would end badly .
+1	6B	alright , let 's go list by list . what about education programs ? what do you think we ca n't afford to cut , and what do you think we can maybe skip for a few years ?
+1	6B	yes .
+1	6B	yeah .
+1	6B	i would agree with you on all of those .
+1	6B	and , um -
 1	6B	to that - uh -
-1	6B	i trunc i think that the arts are so often on the chopping block that they probably don't have any money to fall back on if we cut them. um -
+1	6B	i trunc i think that the arts are so often on the chopping block that they probably do n't have any money to fall back on if we cut them . um -
 1	6B	but -
-1	6B	looking at the list, um - the immediate uh -
+1	6B	looking at the list , um - the immediate uh -
 1	6B	easy potential cuts in education programs to my eye -
 1	6B	appear to be the sugar free juice machines which are -
-1	6B	uh, easily replaceable. and, uh, possibly the football equipment simply because -
-1	6B	there's already football equipment.
+1	6B	uh , easily replaceable . and , uh , possibly the football equipment simply because -
+1	6B	there 's already football equipment .
 1	6B	could probably -
-1	6B	hold on to it for a few years.
-1	6B	and it's - it's something that it's easy to get the community to fund.
+1	6B	hold on to it for a few years .
+1	6B	and it 's - it 's something that it 's easy to get the community to fund .
 0	6B	sugar free juice machines
-1	6B	is there anything else we think we can safely cut off the, uh, educational programs list?
-0	6B	cooking classes.
-1	6B	probably doesn't require a class.
-1	6B	um, so that's - that's three items there.
+1	6B	is there anything else we think we can safely cut off the , uh , educational programs list ?
+0	6B	cooking classes .
+1	6B	probably does n't require a class .
+1	6B	um , so that 's - that 's three items there .
 1	6B	we could cut three from each list without uh -
-1	6B	yeah. or - or too much woe. um -
-0	6B	safety, ooh -
-1	6B	very tricky.
-1	6B	um - i actually some time ago i worked for the city.
+1	6B	yeah . or - or too much woe . um -
+0	6B	safety , ooh -
+1	6B	very tricky .
+1	6B	um - i actually some time ago i worked for the city .
 1	6B	and um -
-1	6B	one of my bosses said something to me that - that stayed with me for a long time. he said -
-1	6B	when we cut something we don't choose the thing that will make the most people happy. we choose the thing that will make everyone equally unhappy.
-1	6B	not, you know, unequally unhappy.
+1	6B	one of my bosses said something to me that - that stayed with me for a long time . he said -
+1	6B	when we cut something we do n't choose the thing that will make the most people happy . we choose the thing that will make everyone equally unhappy .
+1	6B	not , you know , unequally unhappy .
 1	6B	um -
-1	6B	so, i - looking at it i say what -
-1	6B	what would -?
-2	6B	hurt the least in the short term? i don't think a lot of people will be hurt if we stop inspecting the bagel factory.
-1	6B	it's true. it's true.
-1	6B	it's true.
-1	6B	this is true, but looking at the other options - alright, um -
-2	6B	weed control and invasive species removal appear to be the same thing. what if we cut the weed control, and just left the invasive species removal?
-2	6B	so, maybe there's some dandelions in the parks, but they're not getting overrun with some scotch broom or something.
+1	6B	so , i - looking at it i say what -
+1	6B	what would - ?
+2	6B	hurt the least in the short term ? i do n't think a lot of people will be hurt if we stop inspecting the bagel factory .
+1	6B	it 's true . it 's true .
+1	6B	it 's true .
+1	6B	this is true , but looking at the other options - alright , um -
+2	6B	weed control and invasive species removal appear to be the same thing . what if we cut the weed control , and just left the invasive species removal ?
+2	6B	so , maybe there 's some dandelions in the parks , but they 're not getting overrun with some scotch broom or something .
 0	6B	um -
-2	6B	you're right. that's a capital project. that can be done, uh, later. of course if the hospital is overcrowded it becomes difficult, but - this is a difficult list.
+2	6B	you 're right . that 's a capital project . that can be done , uh , later . of course if the hospital is overcrowded it becomes difficult , but - this is a difficult list .
 0	6B	um -
 2	6B	should certainly stay -
-2	6B	absolutely.
-2	6B	definitely important.
-1	6B	yeah.
-1	6B	yeah.
-1	6B	yeah.
-2	6B	neighborhood watch support. i would say it's quite probably that if there is a neighborhood would they will be able to fund themselves for the -
-2	6B	cuz there's a strong social component to that, and it's something a community can easily rally around.
-0	6B	mm-hmm.
-0	6B	right.
-0	6B	right.
-1	6B	right. that makes sense.
-0	6B	weed control.
-1	6B	we need to cut something. hospital additions. alright, so we've got three -
-1	6B	three cut from that list. okay.
-0	6B	recreation and public services. well, let's see what we've got on the list.
+2	6B	absolutely .
+2	6B	definitely important .
+1	6B	yeah .
+1	6B	yeah .
+1	6B	yeah .
+2	6B	neighborhood watch support . i would say it 's quite probably that if there is a neighborhood would they will be able to fund themselves for the -
+2	6B	cuz there 's a strong social component to that , and it 's something a community can easily rally around .
+0	6B	mm-hmm .
+0	6B	right .
+0	6B	right .
+1	6B	right . that makes sense .
+0	6B	weed control .
+1	6B	we need to cut something . hospital additions . alright , so we 've got three -
+1	6B	three cut from that list . okay .
+0	6B	recreation and public services . well , let 's see what we 've got on the list .
 0	6B	um -
-0	6B	hmm.
-2	6B	initially, i would say football stadium upkeep is -
+0	6B	hmm .
+2	6B	initially , i would say football stadium upkeep is -
 2	6B	probably not as essential as -
 2	6B	for example -
-2	6B	uh, the food bank.
+2	6B	uh , the food bank .
 0	6B	um -
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-0	6B	mm-hmm. mm-hmm.
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-1	6B	alright.
-2	6B	we have dog catcher and pest control.
-2	6B	we have stray cat spaying, and kitten and puppy adoption, and a veterinary hospital.
-2	6B	it's a lot of animal services. could we roll some of those into each other and -
-1	6B	mm-hmm. mm-hmm.
-0	6B	right.
+0	6B	mm-hmm .
+0	6B	mm-hmm .
+0	6B	mm-hmm . mm-hmm .
+0	6B	mm-hmm .
+0	6B	mm-hmm .
+0	6B	mm-hmm .
+1	6B	alright .
+2	6B	we have dog catcher and pest control .
+2	6B	we have stray cat spaying , and kitten and puppy adoption , and a veterinary hospital .
+2	6B	it 's a lot of animal services . could we roll some of those into each other and -
+1	6B	mm-hmm . mm-hmm .
+0	6B	right .
 1	6B	quite like
-1	6B	quite likely, so -
-0	6B	mm-hmm.
-1	6B	mm-hmm. i think we could. -
-1	6B	we could, uh, roll both stray cat spaying and kitten and puppy adoption * into the veterinary hospital.
+1	6B	quite likely , so -
+0	6B	mm-hmm .
+1	6B	mm-hmm . i think we could . -
+1	6B	we could , uh , roll both stray cat spaying and kitten and puppy adoption into the veterinary hospital .
 1	6B	without any -
 1	6B	pinch -
 0	6B	um -
-1	6B	that's a good point. that's, um -
-1	6B	a great commendable program, but -
-1	6B	is it essential? um, and - and - will in fact the community not step up to provide?
-1	6B	uh - support for that? on their own. aha! there it is! um -
-1	6B	uh, i think - i think you're right. i think we can cut -
-1	6B	cat spaying, puppy adoption, and the reusable bag campaign.
-0	6B	alright, that's three things.
-0	6B	last one. alright.
-1	6B	i think so. i think so.
-1	6B	how would you feel about cutting taxi stops?
-1	6B	people flag them anyway, so -
-1	6B	mm-hmm. mm-hmm.
-1	6B	yes.
-1	6B	or are they building it?
-1	6B	are they building it at the time.
-0	6B	yes. do -
-0	6B	right.
-1	6B	yes. co-mayors, yes.
-1	6B	do we have well, we're - right now in - in this city we're in the process of building one, but in this town do we have one?
-2	6B	um. oh, i think i see something better.
-2	6B	i see flagpole repair.
+1	6B	that 's a good point . that 's , um -
+1	6B	a great commendable program , but -
+1	6B	is it essential ? um , and - and - will in fact the community not step up to provide ?
+1	6B	uh - support for that ? on their own . aha ! there it is ! um -
+1	6B	uh , i think - i think you 're right . i think we can cut -
+1	6B	cat spaying , puppy adoption , and the reusable bag campaign .
+0	6B	alright , that 's three things .
+0	6B	last one . alright .
+1	6B	i think so . i think so .
+1	6B	how would you feel about cutting taxi stops ?
+1	6B	people flag them anyway , so -
+1	6B	mm-hmm . mm-hmm .
+1	6B	yes .
+1	6B	or are they building it ?
+1	6B	are they building it at the time .
+0	6B	yes . do -
+0	6B	right .
+1	6B	yes . co-mayors , yes .
+1	6B	do we have well , we 're - right now in - in this city we 're in the process of building one , but in this town do we have one ?
+2	6B	um . oh , i think i see something better .
+2	6B	i see flagpole repair .
 2	6B	i - i think it will be - it will be easier for the city to recover from the loss of a few flagpoles than -
-2	6B	from the absence sufficient public transit.
-1	6B	myself as well.
-0	6B	are you alright?
-0	6B	okay.
-0	6B	oh.
+2	6B	from the absence sufficient public transit .
+1	6B	myself as well .
+0	6B	are you alright ?
+0	6B	okay .
+0	6B	oh .
 0	6B	um -
-0	6B	additional bus stops.
-1	6B	uh, taxi stops. right, okay. sounds good.
-2	6B	good recommendations. all done.
-1	3I	i think -
-1	3I	it looks like we have -
-1	3I	an edge wall, and edge wall, and then three -
-1	3I	central sets of shelving with shelves on either side. now there's nothing put on this side of this -
-1	3I	wall, but i'm sure that it will fit.
-1	3I	yes.
-1	3I	four aisles. correct.
-0	3I	home supplies. right.
-0	3I	right.
-0	3I	mm-hmm.
-0	3I	mm-hmm.
-0	3I	mm-hmm. housewares.
-0	3I	bulk cooking.
-0	3I	right.
-1	3I	refrigerated section. right. pretty clearly with the - with the freezer section up there, and the refrigerated down there. alright shall we -? shall we begin?
-0	3I	heavy coats.
-1	3I	well that seems like personal effects, and we don't have clothing on the - on the line yet so we can -
-1	3I	we can begin to establish a clothing section.
-1	3I	i think you're right.
-1	3I	interesting um -
-2	3I	i suspect that we are dealing with the same list that we had or roughly the same list that we had in our first one. so as i recall there were -
-2	3I	quite a number of clothes
-2	3I	so i would put them somewhere with plenty of space -
-2	3I	in anticipation of wanting to put the clothes next to each other.
-1	3I	sounds -
-1	3I	ideal.
-1	3I	sounds ideal.
-1	3I	right. sounds perfect.
-1	3I	sounds very -
-0	3I	uh -
-1	3I	forecasting, yes -
-1	3I	i have bottles of juice. i would suggest putting them next to the eggs in the refrigerated section. alright.
-1	3I	on the far righthand aisle.
-0	3I	bars of soap.
-1	3I	that makes sense. that's toiletries.
-1	3I	i think behind would be fine.
-1	3I	packages of cookies. ooh! a pre-processed food.
-1	3I	uh, that does not require refrigeration, and we have a whole -
-1	3I	unused aisle.
-1	3I	across from the refrigerated section.
-1	3I	i would put them next to cake mix. that would make sense to me. i think a lot of stores put their baking good and their baked goods next to each other.
-1	3I	definitely.
-1	3I	as when i think of both boating supplies and gas powered cook stoves, i think of camping. i would -
-1	3I	i would advocate for near the boating supplies.
-1	3I	large vests! ah, we have more clothes.
-1	3I	how about next to the travel guides and heavy coats?
-1	3I	alright, both heavy winter wear.
-1	3I	dried figs! a, uh bulk -
-1	3I	good. um -
-1	3I	maybe near the soybean because it's a - it's a non-perishable produce item.
-0	3I	alright.
-0	3I	fish hooks.
-1	3I	makes sense.
-1	3I	very logical.
-0	3I	mint toothpaste.
-1	3I	uh, perhaps near the toilet paper and bars of soap?
-1	3I	perhaps below the bars of soap?
-0	3I	alright.
-1	3I	that makes sense.
-1	3I	correct in case of.
-1	3I	in case of more specific items.
-0	3I	alright. let's see.
-1	3I	cushions for deck chairs. this seems like and outdoor -
-1	3I	uh, but not -
-1	3I	excursion item, so i would suggest somewhere near -
-1	3I	the siding or the power cords.
-1	3I	perhaps with a bit of space down from the siding.
-0	3I	alright.
-0	3I	rolls of duct tape.
-1	3I	that makes sense.
-0	3I	i don't know. i don't know if it matters.
-0	3I	at this point.
-1	3I	okay.
-1	3I	perhaps -
-1	3I	next to the large vests, or perhaps -
-1	3I	offer some space.
-1	3I	across from them.
-1	3I	more - more vestments than accessories, alright.
-1	3I	definitely in the dairy section.
-0	3I	alright.
-0	3I	oop!
-0	3I	making rustling.
-1	3I	five pound weights. do you know what five pound weights are used for? i certainly don't.
-0	3I	okay.
-0	3I	hardware. home improvement.
-0	3I	mm-hmm.
-0	3I	the camping area -
-1	3I	how would you feel about putting them across from the camping gear in case we encounter other exercise equipment? so we'll put them -
-1	3I	across the aisle from the boating supplies.
-0	3I	alright.
-0	3I	heavy cable.
-1	3I	either near the hardware area down with the rolls of duct tape and power cords -
-1	3I	or somewhere up -
-1	3I	near the -
-1	3I	construction equipment.
-1	3I	makes sense.
-1	3I	so * next to the rolls of duct tape and power cords, but need immediately adjacent. alright.
-# 1	3I	let's see what we have here.
-1	3I	um, but perhaps with a bit of space as they are a -
-1	3I	non -
-0	3I	um -
-0	3I	what is the word i am looking for?
-1	3I	uh, in-
-1	3I	a non- trunc thank you. a non-disposable.
-1	3I	toiletry.
-1	3I	absolutely.
-1	3I	now we have a - a stack of heavy winter wear.
-0	3I	alright.
-0	3I	let's see what we have now.
-1	3I	buckets! i think buckets is solidly home improvement and camping.
-1	3I	so maybe in the middle of the aisle between the five pound weights and the heavy cable?
-1	3I	for ease of access to both departments.
-0	3I	small axes.
-0	3I	mm-hmm.
-1	3I	alright.
-0	3I	right.
-1	3I	well that makes sense.
-0	3I	alright.
-0	3I	let's see. i'll draw one out of the middle.
-1	3I	bagels! so bagels -
-1	3I	seem to belong near packages of cookies, simply by virtue of being a baked good. does that sound -?
-1	3I	reasonable? or -?
-0	3I	mm-hmm.
-0	3I	huh.
-0	3I	trunc
-0	3I	utility scissors.
-1	3I	i think we have the power to decide.
-1	3I	yes.
-1	3I	yes, we have the power to decide which ones we ordered.
-0	3I	which scissors did we order, emily? i can't seem to recall.
-1	3I	alright, some big heavy duty utility scissors.
-1	3I	right right. that's the - the -
-1	3I	miscellaneous sharp implements area. alright. oop! i drew two. there you are.
-1	3I	um, beets. well, beets are a fresh produce item, and we don't have a fresh produce aisle yet.
-1	3I	luckily.
-1	3I	how does that look over -?
-1	3I	on the opposite side of the self from the sugar?
-1	3I	yes.
-1	3I	absolutely.
-0	3I	alright.
-0	3I	see what we have.
-1	3I	liters of water. that sounds -
-1	3I	almost positively like either a camping or a - oh, it's liters, not gallons. it's small bottles of water.
-0	3I	um -
-0	3I	liters of water.
-1	3I	refrigerated?
-1	3I	bottles of juice. good idea.
-2	3I	flags!
-1	3I	absolutely.
-1	3I	that makes sense. it's outdoor home items.
-1	3I	alright.
-1	3I	this is true. this is true. so they might apply to the camping sections as well.
-0	3I	ooh! paper bags.
-1	3I	well, we have buckets there, so we have containers in the sort of camping and outdoor-ware section.
-0	3I	um -
-1	3I	but there's also mousetraps, which is sort of disposable indoor household miscellany.
-1	3I	as we have plenty of things in the camping outdoor-ware section.
-1	3I	probably.
-1	3I	yeah.
-1	3I	so we have trunc extra space.
-1	3I	that makes sense.
-0	3I	right.
-0	3I	right.
-1	3I	and this is becoming a bit of a back to school section it seems here with the backpacks and the toys.
-1	3I	large cups. ooh, large cups! this is a -
-1	3I	home item -
-0	3I	um -
-1	3I	i would be inclined to put it near the mousetraps, paper bags almost? does that sound reasonable? alright put that there but give it a little bit of space above the mousetraps.
-1	3I	empty plastic jugs. that sounds like a container.
-1	3I	this is surprisingly fun.
-1	3I	bundles - bundles of sticks, that sounds like fire lighting to me. i can't think of anything anyone would use bundles of sticks for at this time of the season.
-0	3I	you know, i discovered that they did myself on a camping trip last week. i did not know they sold them either, bu t apparently they do.
-1	3I	so i will put them next to the gas powered cookstoves. um -
-1	3I	oh! perhaps -
-1	3I	directly - yes, so that -
-1	3I	can get all of your fire lighting needs taken care of.
-1	3I	box knives. oh well, we do have a cutting things section. how about the box knives on the -?
-1	3I	end of the aisle in the cutting things section. alright. in home supplies, near axes and scissors.
-0	3I	books of matches.
-0	3I	mm-hmm.
-1	3I	disposable household items. that makes sense.
-1	3I	very nice.
-0	3I	alright.
-0	3I	canvas bags.
-1	3I	oh, canvas bags could be used for shopping. they could be used for camping.
-0	3I	um -
-1	3I	we do sort of have a home -
-1	3I	containers section.
-0	3I	uh -
-0	3I	alright, so the, uh -
-1	3I	jugs and buckets? are we thinking next to the empty plastic jugs and the buckets?
-1	3I	yes, it does.
-1	3I	small saws. oh good! more material for our -
-1	3I	uh, are -
-1	3I	sharp implements section.
-1	3I	perhaps across the aisle from the small axes?
-1	3I	unquestionably.
-1	3I	a household disposable personal toiletry.
-1	3I	oh. * cases of whiskey.
-1	3I	now this is interesting because it's not individual bottles, but rather cases.
-0	3I	mm-hmm.
-0	3I	toward the other beverages?
-2	3I	but -
-2	3I	but not, perhaps, in the refrigerated section so -
-1	3I	nearby, at the end of the aisle -
-1	3I	tow ropes. well, we do have -
-1	3I	cables, cords, and rolls of duct tape there, but we also have boating supplies up there.
-# 1	3I	do you have a - a rope, spool, and coil section?
-1	3I	that sounds perfect.
-1	3I	we've got a -
-1	3I	solid store organization.
-1	3I	arising from the chaos. boxes of donuts! now i'm getting hungry.
-1	3I	uh, well we have packages of cookies and bagels right here, so my inclination would be to -
-1	3I	fill the boxes of donuts right into the -
-1	3I	empty space.
-0	3I	half inch tubing.
-1	3I	i think we could. we have some extra room there.
-1	3I	let's shift those back. there we are.
-1	3I	perfect
-1	3I	ooh! shoelaces. that looks like a clothing supply to me, but not a -
-1	3I	major vestment rather a -
-1	3I	good point.
-1	3I	incidentals, excellent point.
-1	3I	everywhere.
-1	3I	that makes sense. they can be a baking supply.
-1	3I	it does.
-1	3I	it's true. i don't want the beets to be lonely.
-1	3I	i hope so, beets are so lonely so often.
-0	3I	um -
-1	3I	electric, nobody cooks with -
-1	3I	uh, electric heaters -
-1	3I	electric heaters, uh - perhaps near the deck chairs and siding? is there a - a home supply?
-1	3I	i'm picturing outdoor electric heaters. i don't know why. it's not specify.
-0	3I	summer.
-1	3I	yeah, we can decide what we ordered.
-1	3I	oh! definitely a cold weather item.
-1	3I	ooh, yes! as - as an accessory.
-1	3I	either near the large cups or near the baking supplies depending on whether we want to -
-1	3I	start a little -
-1	3I	flatware, and houseware, and cookware area or whether we want -
-1	3I	all our baking supplies in
-1	3I	alright. i'll put it next to the, uh - the trunc large cups, so we have a small houseware section.
-0	3I	cans of peas.
-1	3I	well, that's a -
-1	3I	bulk non-perishable, or we could make the beets less lonely. they're both vegetables.
-1	3I	this is true. this is true.
-1	3I	we need canned beets. yes.
-1	3I	makes sense.
-1	3I	not right next door.
-0	3I	loose leaf paper. alright, um -
-1	3I	perhaps near the books, and what is shaping up to be the school supply section.
-1	3I	so we could put them either near the books where it would -
-0	3I	um -
-1	3I	seem to be a stationary area, or near the backpacks.
-1	3I	as it's august, i'd agree. yeah.
-0	3I	socks!
-1	3I	that sounds good.
-1	3I	i think we're going to be able to open the store on time.
-1	3I	g of peet moss, that sounds like a outdoor gardening and household -
-1	3I	equipment that people might be looking for they're doing their patio, right next to the deck chairs.
-1	3I	perfect, then we have our -
-1	3I	camping and fishing supply section complete.
-1	3I	good job. i think we're done.
-1	3I	great.
-1	3I	that looks like a great store. i would shop there. i don't know about those earlier stores.
-0	3I	yep.
-0	6B	okay.
-1	6B	well let's look at what we have, and then figure out what we think we can afford to cut.
-1	6B	uh, and then try to balance it.
-1	6B	equally.
-1	6B	what's the easiest one to look at first?
-0	6B	um -
-1	6B	to me the easiest one to look at is recreation and public services
-1	6B	because it's - it a - an area where it breaks almost entirely cleanly into -
-1	6B	vital life assistance like soup kitchens and housing assistance, and -
-1	6B	things like -
-1	6B	the junior soccer league, which while doubtless greatly beloved will not leave anyone hungry on the street if it's cut.
-0	6B	uh -
-1	6B	and the other question is what - what do we - as you said, what do we think either the community will rally to support regardless or a - is - is easily privatized without -
-1	6B	uh, damaging programs.
-0	6B	um -
-1	6B	let's find what we - we definitely don't think we can afford to cut, at least one or two items from each.
-1	6B	each, uh -
-1	6B	list.
-2	6B	for instance, i don't think it would be a good idea to cut toxic waste disposal.
-1	6B	i feel that would end badly.
-1	6B	alright, let's go list by list. what about education programs? what do you think we can't afford to cut, and what do you think we can maybe skip for a few years?
-1	6B	yes.
-1	6B	yeah.
-1	6B	i would agree with you on all of those.
-1	6B	and, um -
-1	6B	to that - uh -
-1	6B	i trunc i think that the arts are so often on the chopping block that they probably don't have any money to fall back on if we cut them. um -
-1	6B	but -
-1	6B	looking at the list, um - the immediate uh -
-1	6B	easy potential cuts in education programs to my eye -
-1	6B	appear to be the sugar free juice machines which are -
-1	6B	uh, easily replaceable. and, uh, possibly the football equipment simply because -
-1	6B	there's already football equipment.
-1	6B	could probably -
-1	6B	hold on to it for a few years.
-1	6B	and it's - it's something that it's easy to get the community to fund.
-0	6B	sugar free juice machines
-1	6B	is there anything else we think we can safely cut off the, uh, educational programs list?
-0	6B	cooking classes.
-1	6B	probably doesn't require a class.
-1	6B	um, so that's - that's three items there.
-1	6B	we could cut three from each list without uh -
-1	6B	yeah. or - or too much woe. um -
-0	6B	safety, ooh -
-1	6B	very tricky.
-1	6B	um - i actually some time ago i worked for the city.
-1	6B	and um -
-1	6B	one of my bosses said something to me that - that stayed with me for a long time. he said -
-1	6B	when we cut something we don't choose the thing that will make the most people happy. we choose the thing that will make everyone equally unhappy.
-1	6B	not, you know, unequally unhappy.
-1	6B	um -
-1	6B	so, i - looking at it i say what -
-1	6B	what would -?
-2	6B	hurt the least in the short term? i don't think a lot of people will be hurt if we stop inspecting the bagel factory.
-1	6B	it's true. it's true.
-1	6B	it's true.
-1	6B	this is true, but looking at the other options - alright, um -
-2	6B	weed control and invasive species removal appear to be the same thing. what if we cut the weed control, and just left the invasive species removal?
-2	6B	so, maybe there's some dandelions in the parks, but they're not getting overrun with some scotch broom or something.
-0	6B	um -
-2	6B	you're right. that's a capital project. that can be done, uh, later. of course if the hospital is overcrowded it becomes difficult, but - this is a difficult list.
-0	6B	um -
-2	6B	should certainly stay -
-2	6B	absolutely.
-2	6B	definitely important.
-1	6B	yeah.
-1	6B	yeah.
-1	6B	yeah.
-2	6B	neighborhood watch support. i would say it's quite probably that if there is a neighborhood would they will be able to fund themselves for the -
-2	6B	cuz there's a strong social component to that, and it's something a community can easily rally around.
-0	6B	mm-hmm.
-0	6B	right.
-0	6B	right.
-1	6B	right. that makes sense.
-0	6B	weed control.
-1	6B	we need to cut something. hospital additions. alright, so we've got three -
-1	6B	three cut from that list. okay.
-0	6B	recreation and public services. well, let's see what we've got on the list.
-0	6B	um -
-0	6B	hmm.
-2	6B	initially, i would say football stadium upkeep is -
-2	6B	probably not as essential as -
-2	6B	for example -
-2	6B	uh, the food bank.
-0	6B	um -
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-0	6B	mm-hmm. mm-hmm.
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-1	6B	alright.
-2	6B	we have dog catcher and pest control.
-2	6B	we have stray cat spaying, and kitten and puppy adoption, and a veterinary hospital.
-2	6B	it's a lot of animal services. could we roll some of those into each other and -
-1	6B	mm-hmm. mm-hmm.
-0	6B	right.
-1	6B	quite like
-1	6B	quite likely, so -
-0	6B	mm-hmm.
-1	6B	mm-hmm. i think we could. -
-1	6B	we could, uh, roll both stray cat spaying and kitten and puppy adoption * into the veterinary hospital.
-1	6B	without any -
-1	6B	pinch -
-0	6B	um -
-1	6B	that's a good point. that's, um -
-1	6B	a great commendable program, but -
-1	6B	is it essential? um, and - and - will in fact the community not step up to provide?
-1	6B	uh - support for that? on their own. aha! there it is! um -
-1	6B	uh, i think - i think you're right. i think we can cut -
-1	6B	cat spaying, puppy adoption, and the reusable bag campaign.
-0	6B	alright, that's three things.
-0	6B	last one. alright.
-1	6B	i think so. i think so.
-1	6B	how would you feel about cutting taxi stops?
-1	6B	people flag them anyway, so -
-1	6B	mm-hmm. mm-hmm.
-1	6B	yes.
-1	6B	or are they building it?
-1	6B	are they building it at the time.
-0	6B	yes. do -
-0	6B	right.
-1	6B	yes. co-mayors, yes.
-1	6B	do we have well, we're - right now in - in this city we're in the process of building one, but in this town do we have one?
-2	6B	um. oh, i think i see something better.
-2	6B	i see flagpole repair.
-2	6B	i - i think it will be - it will be easier for the city to recover from the loss of a few flagpoles than -
-2	6B	from the absence sufficient public transit.
-1	6B	myself as well.
-0	6B	are you alright?
-0	6B	okay.
-0	6B	oh.
-0	6B	um -
-0	6B	additional bus stops.
-1	6B	uh, taxi stops. right, okay. sounds good.
-2	6B	good recommendations. all done.
-1	3I	i think -
-1	3I	it looks like we have -
-1	3I	an edge wall, and edge wall, and then three -
-1	3I	central sets of shelving with shelves on either side. now there's nothing put on this side of this -
-1	3I	wall, but i'm sure that it will fit.
-1	3I	yes.
-1	3I	four aisles. correct.
-0	3I	home supplies. right.
-0	3I	right.
-0	3I	mm-hmm.
-0	3I	mm-hmm.
-0	3I	mm-hmm. housewares.
-0	3I	bulk cooking.
-0	3I	right.
-1	3I	refrigerated section. right. pretty clearly with the - with the freezer section up there, and the refrigerated down there. alright shall we -? shall we begin?
-0	3I	heavy coats.
-1	3I	well that seems like personal effects, and we don't have clothing on the - on the line yet so we can -
-1	3I	we can begin to establish a clothing section.
-1	3I	i think you're right.
-1	3I	interesting um -
-2	3I	i suspect that we are dealing with the same list that we had or roughly the same list that we had in our first one. so as i recall there were -
-2	3I	quite a number of clothes
-2	3I	so i would put them somewhere with plenty of space -
-2	3I	in anticipation of wanting to put the clothes next to each other.
-1	3I	sounds -
-1	3I	ideal.
-1	3I	sounds ideal.
-1	3I	right. sounds perfect.
-1	3I	sounds very -
-0	3I	uh -
-1	3I	forecasting, yes -
-1	3I	i have bottles of juice. i would suggest putting them next to the eggs in the refrigerated section. alright.
-1	3I	on the far righthand aisle.
-0	3I	bars of soap.
-1	3I	that makes sense. that's toiletries.
-1	3I	i think behind would be fine.
-1	3I	packages of cookies. ooh! a pre-processed food.
-1	3I	uh, that does not require refrigeration, and we have a whole -
-1	3I	unused aisle.
-1	3I	across from the refrigerated section.
-1	3I	i would put them next to cake mix. that would make sense to me. i think a lot of stores put their baking good and their baked goods next to each other.
-1	3I	definitely.
-1	3I	as when i think of both boating supplies and gas powered cook stoves, i think of camping. i would -
-1	3I	i would advocate for near the boating supplies.
-1	3I	large vests! ah, we have more clothes.
-1	3I	how about next to the travel guides and heavy coats?
-1	3I	alright, both heavy winter wear.
-1	3I	dried figs! a, uh bulk -
-1	3I	good. um -
-1	3I	maybe near the soybean because it's a - it's a non-perishable produce item.
-0	3I	alright.
-0	3I	fish hooks.
-1	3I	makes sense.
-1	3I	very logical.
-0	3I	mint toothpaste.
-1	3I	uh, perhaps near the toilet paper and bars of soap?
-1	3I	perhaps below the bars of soap?
-0	3I	alright.
-1	3I	that makes sense.
-1	3I	correct in case of.
-1	3I	in case of more specific items.
-0	3I	alright. let's see.
-1	3I	cushions for deck chairs. this seems like and outdoor -
-1	3I	uh, but not -
-1	3I	excursion item, so i would suggest somewhere near -
-1	3I	the siding or the power cords.
-1	3I	perhaps with a bit of space down from the siding.
-0	3I	alright.
-0	3I	rolls of duct tape.
-1	3I	that makes sense.
-0	3I	i don't know. i don't know if it matters.
-0	3I	at this point.
-1	3I	okay.
-1	3I	perhaps -
-1	3I	next to the large vests, or perhaps -
-1	3I	offer some space.
-1	3I	across from them.
-1	3I	more - more vestments than accessories, alright.
-1	3I	definitely in the dairy section.
-0	3I	alright.
-0	3I	oop!
-0	3I	making rustling.
-1	3I	five pound weights. do you know what five pound weights are used for? i certainly don't.
-0	3I	okay.
-0	3I	hardware. home improvement.
-0	3I	mm-hmm.
-0	3I	the camping area -
-1	3I	how would you feel about putting them across from the camping gear in case we encounter other exercise equipment? so we'll put them -
-1	3I	across the aisle from the boating supplies.
-0	3I	alright.
-0	3I	heavy cable.
-1	3I	either near the hardware area down with the rolls of duct tape and power cords -
-1	3I	or somewhere up -
-1	3I	near the -
-1	3I	construction equipment.
-1	3I	makes sense.
-1	3I	so * next to the rolls of duct tape and power cords, but need immediately adjacent. alright.
-# 1	3I	let's see what we have here.
-1	3I	um, but perhaps with a bit of space as they are a -
-1	3I	non -
-0	3I	um -
-0	3I	what is the word i am looking for?
-1	3I	uh, in-
-1	3I	a non- trunc thank you. a non-disposable.
-1	3I	toiletry.
-1	3I	absolutely.
-1	3I	now we have a - a stack of heavy winter wear.
-0	3I	alright.
-0	3I	let's see what we have now.
-1	3I	buckets! i think buckets is solidly home improvement and camping.
-1	3I	so maybe in the middle of the aisle between the five pound weights and the heavy cable?
-1	3I	for ease of access to both departments.
-0	3I	small axes.
-0	3I	mm-hmm.
-1	3I	alright.
-0	3I	right.
-1	3I	well that makes sense.
-0	3I	alright.
-0	3I	let's see. i'll draw one out of the middle.
-1	3I	bagels! so bagels -
-1	3I	seem to belong near packages of cookies, simply by virtue of being a baked good. does that sound -?
-1	3I	reasonable? or -?
-0	3I	mm-hmm.
-0	3I	huh.
-0	3I	trunc
-0	3I	utility scissors.
-1	3I	i think we have the power to decide.
-1	3I	yes.
-1	3I	yes, we have the power to decide which ones we ordered.
-0	3I	which scissors did we order, emily? i can't seem to recall.
-1	3I	alright, some big heavy duty utility scissors.
-1	3I	right right. that's the - the -
-1	3I	miscellaneous sharp implements area. alright. oop! i drew two. there you are.
-1	3I	um, beets. well, beets are a fresh produce item, and we don't have a fresh produce aisle yet.
-1	3I	luckily.
-1	3I	how does that look over -?
-1	3I	on the opposite side of the self from the sugar?
-1	3I	yes.
-1	3I	absolutely.
-0	3I	alright.
-0	3I	see what we have.
-1	3I	liters of water. that sounds -
-1	3I	almost positively like either a camping or a - oh, it's liters, not gallons. it's small bottles of water.
-0	3I	um -
-0	3I	liters of water.
-1	3I	refrigerated?
-1	3I	bottles of juice. good idea.
-2	3I	flags!
-1	3I	absolutely.
-1	3I	that makes sense. it's outdoor home items.
-1	3I	alright.
-1	3I	this is true. this is true. so they might apply to the camping sections as well.
-0	3I	ooh! paper bags.
-1	3I	well, we have buckets there, so we have containers in the sort of camping and outdoor-ware section.
-0	3I	um -
-1	3I	but there's also mousetraps, which is sort of disposable indoor household miscellany.
-1	3I	as we have plenty of things in the camping outdoor-ware section.
-1	3I	probably.
-1	3I	yeah.
-1	3I	so we have trunc extra space.
-1	3I	that makes sense.
-0	3I	right.
-0	3I	right.
-1	3I	and this is becoming a bit of a back to school section it seems here with the backpacks and the toys.
-1	3I	large cups. ooh, large cups! this is a -
-1	3I	home item -
-0	3I	um -
-1	3I	i would be inclined to put it near the mousetraps, paper bags almost? does that sound reasonable? alright put that there but give it a little bit of space above the mousetraps.
-1	3I	empty plastic jugs. that sounds like a container.
-1	3I	this is surprisingly fun.
-1	3I	bundles - bundles of sticks, that sounds like fire lighting to me. i can't think of anything anyone would use bundles of sticks for at this time of the season.
-0	3I	you know, i discovered that they did myself on a camping trip last week. i did not know they sold them either, bu t apparently they do.
-1	3I	so i will put them next to the gas powered cookstoves. um -
-1	3I	oh! perhaps -
-1	3I	directly - yes, so that -
-1	3I	can get all of your fire lighting needs taken care of.
-1	3I	box knives. oh well, we do have a cutting things section. how about the box knives on the -?
-1	3I	end of the aisle in the cutting things section. alright. in home supplies, near axes and scissors.
-0	3I	books of matches.
-0	3I	mm-hmm.
-1	3I	disposable household items. that makes sense.
-1	3I	very nice.
-0	3I	alright.
-0	3I	canvas bags.
-1	3I	oh, canvas bags could be used for shopping. they could be used for camping.
-0	3I	um -
-1	3I	we do sort of have a home -
-1	3I	containers section.
-0	3I	uh -
-0	3I	alright, so the, uh -
-1	3I	jugs and buckets? are we thinking next to the empty plastic jugs and the buckets?
-1	3I	yes, it does.
-1	3I	small saws. oh good! more material for our -
-1	3I	uh, are -
-1	3I	sharp implements section.
-1	3I	perhaps across the aisle from the small axes?
-1	3I	unquestionably.
-1	3I	a household disposable personal toiletry.
-1	3I	oh. * cases of whiskey.
-1	3I	now this is interesting because it's not individual bottles, but rather cases.
-0	3I	mm-hmm.
-0	3I	toward the other beverages?
-2	3I	but -
-2	3I	but not, perhaps, in the refrigerated section so -
-1	3I	nearby, at the end of the aisle -
-1	3I	tow ropes. well, we do have -
-1	3I	cables, cords, and rolls of duct tape there, but we also have boating supplies up there.
-# 1	3I	do you have a - a rope, spool, and coil section?
-1	3I	that sounds perfect.
-1	3I	we've got a -
-1	3I	solid store organization.
-1	3I	arising from the chaos. boxes of donuts! now i'm getting hungry.
-1	3I	uh, well we have packages of cookies and bagels right here, so my inclination would be to -
-1	3I	fill the boxes of donuts right into the -
-1	3I	empty space.
-0	3I	half inch tubing.
-1	3I	i think we could. we have some extra room there.
-1	3I	let's shift those back. there we are.
-1	3I	perfect
-1	3I	ooh! shoelaces. that looks like a clothing supply to me, but not a -
-1	3I	major vestment rather a -
-1	3I	good point.
-1	3I	incidentals, excellent point.
-1	3I	everywhere.
-1	3I	that makes sense. they can be a baking supply.
-1	3I	it does.
-1	3I	it's true. i don't want the beets to be lonely.
-1	3I	i hope so, beets are so lonely so often.
-0	3I	um -
-1	3I	electric, nobody cooks with -
-1	3I	uh, electric heaters -
-1	3I	electric heaters, uh - perhaps near the deck chairs and siding? is there a - a home supply?
-1	3I	i'm picturing outdoor electric heaters. i don't know why. it's not specify.
-0	3I	summer.
-1	3I	yeah, we can decide what we ordered.
-1	3I	oh! definitely a cold weather item.
-1	3I	ooh, yes! as - as an accessory.
-1	3I	either near the large cups or near the baking supplies depending on whether we want to -
-1	3I	start a little -
-1	3I	flatware, and houseware, and cookware area or whether we want -
-1	3I	all our baking supplies in
-1	3I	alright. i'll put it next to the, uh - the trunc large cups, so we have a small houseware section.
-0	3I	cans of peas.
-1	3I	well, that's a -
-1	3I	bulk non-perishable, or we could make the beets less lonely. they're both vegetables.
-1	3I	this is true. this is true.
-1	3I	we need canned beets. yes.
-1	3I	makes sense.
-1	3I	not right next door.
-0	3I	loose leaf paper. alright, um -
-1	3I	perhaps near the books, and what is shaping up to be the school supply section.
-1	3I	so we could put them either near the books where it would -
-0	3I	um -
-1	3I	seem to be a stationary area, or near the backpacks.
-1	3I	as it's august, i'd agree. yeah.
-0	3I	socks!
-1	3I	that sounds good.
-1	3I	i think we're going to be able to open the store on time.
-1	3I	g of peet moss, that sounds like a outdoor gardening and household -
-1	3I	equipment that people might be looking for they're doing their patio, right next to the deck chairs.
-1	3I	perfect, then we have our -
-1	3I	camping and fishing supply section complete.
-1	3I	good job. i think we're done.
-1	3I	great.
-1	3I	that looks like a great store. i would shop there. i don't know about those earlier stores.
-0	3I	yep.
-0	6B	okay.
-1	6B	well let's look at what we have, and then figure out what we think we can afford to cut.
-1	6B	uh, and then try to balance it.
-1	6B	equally.
-1	6B	what's the easiest one to look at first?
-0	6B	um -
-1	6B	to me the easiest one to look at is recreation and public services
-1	6B	because it's - it a - an area where it breaks almost entirely cleanly into -
-1	6B	vital life assistance like soup kitchens and housing assistance, and -
-1	6B	things like -
-1	6B	the junior soccer league, which while doubtless greatly beloved will not leave anyone hungry on the street if it's cut.
-0	6B	uh -
-1	6B	and the other question is what - what do we - as you said, what do we think either the community will rally to support regardless or a - is - is easily privatized without -
-1	6B	uh, damaging programs.
-0	6B	um -
-1	6B	let's find what we - we definitely don't think we can afford to cut, at least one or two items from each.
-1	6B	each, uh -
-1	6B	list.
-2	6B	for instance, i don't think it would be a good idea to cut toxic waste disposal.
-1	6B	i feel that would end badly.
-1	6B	alright, let's go list by list. what about education programs? what do you think we can't afford to cut, and what do you think we can maybe skip for a few years?
-1	6B	yes.
-1	6B	yeah.
-1	6B	i would agree with you on all of those.
-1	6B	and, um -
-1	6B	to that - uh -
-1	6B	i trunc i think that the arts are so often on the chopping block that they probably don't have any money to fall back on if we cut them. um -
-1	6B	but -
-1	6B	looking at the list, um - the immediate uh -
-1	6B	easy potential cuts in education programs to my eye -
-1	6B	appear to be the sugar free juice machines which are -
-1	6B	uh, easily replaceable. and, uh, possibly the football equipment simply because -
-1	6B	there's already football equipment.
-1	6B	could probably -
-1	6B	hold on to it for a few years.
-1	6B	and it's - it's something that it's easy to get the community to fund.
-0	6B	sugar free juice machines
-1	6B	is there anything else we think we can safely cut off the, uh, educational programs list?
-0	6B	cooking classes.
-1	6B	probably doesn't require a class.
-1	6B	um, so that's - that's three items there.
-1	6B	we could cut three from each list without uh -
-1	6B	yeah. or - or too much woe. um -
-0	6B	safety, ooh -
-1	6B	very tricky.
-1	6B	um - i actually some time ago i worked for the city.
-1	6B	and um -
-1	6B	one of my bosses said something to me that - that stayed with me for a long time. he said -
-1	6B	when we cut something we don't choose the thing that will make the most people happy. we choose the thing that will make everyone equally unhappy.
-1	6B	not, you know, unequally unhappy.
-1	6B	um -
-1	6B	so, i - looking at it i say what -
-1	6B	what would -?
-2	6B	hurt the least in the short term? i don't think a lot of people will be hurt if we stop inspecting the bagel factory.
-1	6B	it's true. it's true.
-1	6B	it's true.
-1	6B	this is true, but looking at the other options - alright, um -
-2	6B	weed control and invasive species removal appear to be the same thing. what if we cut the weed control, and just left the invasive species removal?
-2	6B	so, maybe there's some dandelions in the parks, but they're not getting overrun with some scotch broom or something.
-0	6B	um -
-2	6B	you're right. that's a capital project. that can be done, uh, later. of course if the hospital is overcrowded it becomes difficult, but - this is a difficult list.
-0	6B	um -
-2	6B	should certainly stay -
-2	6B	absolutely.
-2	6B	definitely important.
-1	6B	yeah.
-1	6B	yeah.
-1	6B	yeah.
-2	6B	neighborhood watch support. i would say it's quite probably that if there is a neighborhood would they will be able to fund themselves for the -
-2	6B	cuz there's a strong social component to that, and it's something a community can easily rally around.
-0	6B	mm-hmm.
-0	6B	right.
-0	6B	right.
-1	6B	right. that makes sense.
-0	6B	weed control.
-1	6B	we need to cut something. hospital additions. alright, so we've got three -
-1	6B	three cut from that list. okay.
-0	6B	recreation and public services. well, let's see what we've got on the list.
-0	6B	um -
-0	6B	hmm.
-2	6B	initially, i would say football stadium upkeep is -
-2	6B	probably not as essential as -
-2	6B	for example -
-2	6B	uh, the food bank.
-0	6B	um -
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-0	6B	mm-hmm. mm-hmm.
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-1	6B	alright.
-2	6B	we have dog catcher and pest control.
-2	6B	we have stray cat spaying, and kitten and puppy adoption, and a veterinary hospital.
-2	6B	it's a lot of animal services. could we roll some of those into each other and -
-1	6B	mm-hmm. mm-hmm.
-0	6B	right.
-1	6B	quite like
-1	6B	quite likely, so -
-0	6B	mm-hmm.
-1	6B	mm-hmm. i think we could. -
-1	6B	we could, uh, roll both stray cat spaying and kitten and puppy adoption * into the veterinary hospital.
-1	6B	without any -
-1	6B	pinch -
-0	6B	um -
-1	6B	that's a good point. that's, um -
-1	6B	a great commendable program, but -
-1	6B	is it essential? um, and - and - will in fact the community not step up to provide?
-1	6B	uh - support for that? on their own. aha! there it is! um -
-1	6B	uh, i think - i think you're right. i think we can cut -
-1	6B	cat spaying, puppy adoption, and the reusable bag campaign.
-0	6B	alright, that's three things.
-0	6B	last one. alright.
-1	6B	i think so. i think so.
-1	6B	how would you feel about cutting taxi stops?
-1	6B	people flag them anyway, so -
-1	6B	mm-hmm. mm-hmm.
-1	6B	yes.
-1	6B	or are they building it?
-1	6B	are they building it at the time.
-0	6B	yes. do -
-0	6B	right.
-1	6B	yes. co-mayors, yes.
-1	6B	do we have well, we're - right now in - in this city we're in the process of building one, but in this town do we have one?
-2	6B	um. oh, i think i see something better.
-2	6B	i see flagpole repair.
-2	6B	i - i think it will be - it will be easier for the city to recover from the loss of a few flagpoles than -
-2	6B	from the absence sufficient public transit.
-1	6B	myself as well.
-0	6B	are you alright?
-0	6B	okay.
-0	6B	oh.
-0	6B	um -
-0	6B	additional bus stops.
-1	6B	uh, taxi stops. right, okay. sounds good.
-2	6B	good recommendations. all done.
-1	3I	i think -
-1	3I	it looks like we have -
-1	3I	an edge wall, and edge wall, and then three -
-1	3I	central sets of shelving with shelves on either side. now there's nothing put on this side of this -
-1	3I	wall, but i'm sure that it will fit.
-1	3I	yes.
-1	3I	four aisles. correct.
-0	3I	home supplies. right.
-0	3I	right.
-0	3I	mm-hmm.
-0	3I	mm-hmm.
-0	3I	mm-hmm. housewares.
-0	3I	bulk cooking.
-0	3I	right.
-1	3I	refrigerated section. right. pretty clearly with the - with the freezer section up there, and the refrigerated down there. alright shall we -? shall we begin?
-0	3I	heavy coats.
-1	3I	well that seems like personal effects, and we don't have clothing on the - on the line yet so we can -
-1	3I	we can begin to establish a clothing section.
-1	3I	i think you're right.
-1	3I	interesting um -
-2	3I	i suspect that we are dealing with the same list that we had or roughly the same list that we had in our first one. so as i recall there were -
-2	3I	quite a number of clothes
-2	3I	so i would put them somewhere with plenty of space -
-2	3I	in anticipation of wanting to put the clothes next to each other.
-1	3I	sounds -
-1	3I	ideal.
-1	3I	sounds ideal.
-1	3I	right. sounds perfect.
-1	3I	sounds very -
-0	3I	uh -
-1	3I	forecasting, yes -
-1	3I	i have bottles of juice. i would suggest putting them next to the eggs in the refrigerated section. alright.
-1	3I	on the far righthand aisle.
-0	3I	bars of soap.
-1	3I	that makes sense. that's toiletries.
-1	3I	i think behind would be fine.
-1	3I	packages of cookies. ooh! a pre-processed food.
-1	3I	uh, that does not require refrigeration, and we have a whole -
-1	3I	unused aisle.
-1	3I	across from the refrigerated section.
-1	3I	i would put them next to cake mix. that would make sense to me. i think a lot of stores put their baking good and their baked goods next to each other.
-1	3I	definitely.
-1	3I	as when i think of both boating supplies and gas powered cook stoves, i think of camping. i would -
-1	3I	i would advocate for near the boating supplies.
-1	3I	large vests! ah, we have more clothes.
-1	3I	how about next to the travel guides and heavy coats?
-1	3I	alright, both heavy winter wear.
-1	3I	dried figs! a, uh bulk -
-1	3I	good. um -
-1	3I	maybe near the soybean because it's a - it's a non-perishable produce item.
-0	3I	alright.
-0	3I	fish hooks.
-1	3I	makes sense.
-1	3I	very logical.
-0	3I	mint toothpaste.
-1	3I	uh, perhaps near the toilet paper and bars of soap?
-1	3I	perhaps below the bars of soap?
-0	3I	alright.
-1	3I	that makes sense.
-1	3I	correct in case of.
-1	3I	in case of more specific items.
-0	3I	alright. let's see.
-1	3I	cushions for deck chairs. this seems like and outdoor -
-1	3I	uh, but not -
-1	3I	excursion item, so i would suggest somewhere near -
-1	3I	the siding or the power cords.
-1	3I	perhaps with a bit of space down from the siding.
-0	3I	alright.
-0	3I	rolls of duct tape.
-1	3I	that makes sense.
-0	3I	i don't know. i don't know if it matters.
-0	3I	at this point.
-1	3I	okay.
-1	3I	perhaps -
-1	3I	next to the large vests, or perhaps -
-1	3I	offer some space.
-1	3I	across from them.
-1	3I	more - more vestments than accessories, alright.
-1	3I	definitely in the dairy section.
-0	3I	alright.
-0	3I	oop!
-0	3I	making rustling.
-1	3I	five pound weights. do you know what five pound weights are used for? i certainly don't.
-0	3I	okay.
-0	3I	hardware. home improvement.
-0	3I	mm-hmm.
-0	3I	the camping area -
-1	3I	how would you feel about putting them across from the camping gear in case we encounter other exercise equipment? so we'll put them -
-1	3I	across the aisle from the boating supplies.
-0	3I	alright.
-0	3I	heavy cable.
-1	3I	either near the hardware area down with the rolls of duct tape and power cords -
-1	3I	or somewhere up -
-1	3I	near the -
-1	3I	construction equipment.
-1	3I	makes sense.
-1	3I	so * next to the rolls of duct tape and power cords, but need immediately adjacent. alright.
-# 1	3I	let's see what we have here.
-1	3I	um, but perhaps with a bit of space as they are a -
-1	3I	non -
-0	3I	um -
-0	3I	what is the word i am looking for?
-1	3I	uh, in-
-1	3I	a non- trunc thank you. a non-disposable.
-1	3I	toiletry.
-1	3I	absolutely.
-1	3I	now we have a - a stack of heavy winter wear.
-0	3I	alright.
-0	3I	let's see what we have now.
-1	3I	buckets! i think buckets is solidly home improvement and camping.
-1	3I	so maybe in the middle of the aisle between the five pound weights and the heavy cable?
-1	3I	for ease of access to both departments.
-0	3I	small axes.
-0	3I	mm-hmm.
-1	3I	alright.
-0	3I	right.
-1	3I	well that makes sense.
-0	3I	alright.
-0	3I	let's see. i'll draw one out of the middle.
-1	3I	bagels! so bagels -
-1	3I	seem to belong near packages of cookies, simply by virtue of being a baked good. does that sound -?
-1	3I	reasonable? or -?
-0	3I	mm-hmm.
-0	3I	huh.
-0	3I	trunc
-0	3I	utility scissors.
-1	3I	i think we have the power to decide.
-1	3I	yes.
-1	3I	yes, we have the power to decide which ones we ordered.
-0	3I	which scissors did we order, emily? i can't seem to recall.
-1	3I	alright, some big heavy duty utility scissors.
-1	3I	right right. that's the - the -
-1	3I	miscellaneous sharp implements area. alright. oop! i drew two. there you are.
-1	3I	um, beets. well, beets are a fresh produce item, and we don't have a fresh produce aisle yet.
-1	3I	luckily.
-1	3I	how does that look over -?
-1	3I	on the opposite side of the self from the sugar?
-1	3I	yes.
-1	3I	absolutely.
-0	3I	alright.
-0	3I	see what we have.
-1	3I	liters of water. that sounds -
-1	3I	almost positively like either a camping or a - oh, it's liters, not gallons. it's small bottles of water.
-0	3I	um -
-0	3I	liters of water.
-1	3I	refrigerated?
-1	3I	bottles of juice. good idea.
-2	3I	flags!
-1	3I	absolutely.
-1	3I	that makes sense. it's outdoor home items.
-1	3I	alright.
-1	3I	this is true. this is true. so they might apply to the camping sections as well.
-0	3I	ooh! paper bags.
-1	3I	well, we have buckets there, so we have containers in the sort of camping and outdoor-ware section.
-0	3I	um -
-1	3I	but there's also mousetraps, which is sort of disposable indoor household miscellany.
-1	3I	as we have plenty of things in the camping outdoor-ware section.
-1	3I	probably.
-1	3I	yeah.
-1	3I	so we have trunc extra space.
-1	3I	that makes sense.
-0	3I	right.
-0	3I	right.
-1	3I	and this is becoming a bit of a back to school section it seems here with the backpacks and the toys.
-1	3I	large cups. ooh, large cups! this is a -
-1	3I	home item -
-0	3I	um -
-1	3I	i would be inclined to put it near the mousetraps, paper bags almost? does that sound reasonable? alright put that there but give it a little bit of space above the mousetraps.
-1	3I	empty plastic jugs. that sounds like a container.
-1	3I	this is surprisingly fun.
-1	3I	bundles - bundles of sticks, that sounds like fire lighting to me. i can't think of anything anyone would use bundles of sticks for at this time of the season.
-0	3I	you know, i discovered that they did myself on a camping trip last week. i did not know they sold them either, bu t apparently they do.
-1	3I	so i will put them next to the gas powered cookstoves. um -
-1	3I	oh! perhaps -
-1	3I	directly - yes, so that -
-1	3I	can get all of your fire lighting needs taken care of.
-1	3I	box knives. oh well, we do have a cutting things section. how about the box knives on the -?
-1	3I	end of the aisle in the cutting things section. alright. in home supplies, near axes and scissors.
-0	3I	books of matches.
-0	3I	mm-hmm.
-1	3I	disposable household items. that makes sense.
-1	3I	very nice.
-0	3I	alright.
-0	3I	canvas bags.
-1	3I	oh, canvas bags could be used for shopping. they could be used for camping.
-0	3I	um -
-1	3I	we do sort of have a home -
-1	3I	containers section.
-0	3I	uh -
-0	3I	alright, so the, uh -
-1	3I	jugs and buckets? are we thinking next to the empty plastic jugs and the buckets?
-1	3I	yes, it does.
-1	3I	small saws. oh good! more material for our -
-1	3I	uh, are -
-1	3I	sharp implements section.
-1	3I	perhaps across the aisle from the small axes?
-1	3I	unquestionably.
-1	3I	a household disposable personal toiletry.
-1	3I	oh. * cases of whiskey.
-1	3I	now this is interesting because it's not individual bottles, but rather cases.
-0	3I	mm-hmm.
-0	3I	toward the other beverages?
-2	3I	but -
-2	3I	but not, perhaps, in the refrigerated section so -
-1	3I	nearby, at the end of the aisle -
-1	3I	tow ropes. well, we do have -
-1	3I	cables, cords, and rolls of duct tape there, but we also have boating supplies up there.
-# 1	3I	do you have a - a rope, spool, and coil section?
-1	3I	that sounds perfect.
-1	3I	we've got a -
-1	3I	solid store organization.
-1	3I	arising from the chaos. boxes of donuts! now i'm getting hungry.
-1	3I	uh, well we have packages of cookies and bagels right here, so my inclination would be to -
-1	3I	fill the boxes of donuts right into the -
-1	3I	empty space.
-0	3I	half inch tubing.
-1	3I	i think we could. we have some extra room there.
-1	3I	let's shift those back. there we are.
-1	3I	perfect
-1	3I	ooh! shoelaces. that looks like a clothing supply to me, but not a -
-1	3I	major vestment rather a -
-1	3I	good point.
-1	3I	incidentals, excellent point.
-1	3I	everywhere.
-1	3I	that makes sense. they can be a baking supply.
-1	3I	it does.
-1	3I	it's true. i don't want the beets to be lonely.
-1	3I	i hope so, beets are so lonely so often.
-0	3I	um -
-1	3I	electric, nobody cooks with -
-1	3I	uh, electric heaters -
-1	3I	electric heaters, uh - perhaps near the deck chairs and siding? is there a - a home supply?
-1	3I	i'm picturing outdoor electric heaters. i don't know why. it's not specify.
-0	3I	summer.
-1	3I	yeah, we can decide what we ordered.
-1	3I	oh! definitely a cold weather item.
-1	3I	ooh, yes! as - as an accessory.
-1	3I	either near the large cups or near the baking supplies depending on whether we want to -
-1	3I	start a little -
-1	3I	flatware, and houseware, and cookware area or whether we want -
-1	3I	all our baking supplies in
-1	3I	alright. i'll put it next to the, uh - the trunc large cups, so we have a small houseware section.
-0	3I	cans of peas.
-1	3I	well, that's a -
-1	3I	bulk non-perishable, or we could make the beets less lonely. they're both vegetables.
-1	3I	this is true. this is true.
-1	3I	we need canned beets. yes.
-1	3I	makes sense.
-1	3I	not right next door.
-0	3I	loose leaf paper. alright, um -
-1	3I	perhaps near the books, and what is shaping up to be the school supply section.
-1	3I	so we could put them either near the books where it would -
-0	3I	um -
-1	3I	seem to be a stationary area, or near the backpacks.
-1	3I	as it's august, i'd agree. yeah.
-0	3I	socks!
-1	3I	that sounds good.
-1	3I	i think we're going to be able to open the store on time.
-1	3I	g of peet moss, that sounds like a outdoor gardening and household -
-1	3I	equipment that people might be looking for they're doing their patio, right next to the deck chairs.
-1	3I	perfect, then we have our -
-1	3I	camping and fishing supply section complete.
-1	3I	good job. i think we're done.
-1	3I	great.
-1	3I	that looks like a great store. i would shop there. i don't know about those earlier stores.
-0	3I	yep.
-0	6B	okay.
-1	6B	well let's look at what we have, and then figure out what we think we can afford to cut.
-1	6B	uh, and then try to balance it.
-1	6B	equally.
-1	6B	what's the easiest one to look at first?
-0	6B	um -
-1	6B	to me the easiest one to look at is recreation and public services
-1	6B	because it's - it a - an area where it breaks almost entirely cleanly into -
-1	6B	vital life assistance like soup kitchens and housing assistance, and -
-1	6B	things like -
-1	6B	the junior soccer league, which while doubtless greatly beloved will not leave anyone hungry on the street if it's cut.
-0	6B	uh -
-1	6B	and the other question is what - what do we - as you said, what do we think either the community will rally to support regardless or a - is - is easily privatized without -
-1	6B	uh, damaging programs.
-0	6B	um -
-1	6B	let's find what we - we definitely don't think we can afford to cut, at least one or two items from each.
-1	6B	each, uh -
-1	6B	list.
-2	6B	for instance, i don't think it would be a good idea to cut toxic waste disposal.
-1	6B	i feel that would end badly.
-1	6B	alright, let's go list by list. what about education programs? what do you think we can't afford to cut, and what do you think we can maybe skip for a few years?
-1	6B	yes.
-1	6B	yeah.
-1	6B	i would agree with you on all of those.
-1	6B	and, um -
-1	6B	to that - uh -
-1	6B	i trunc i think that the arts are so often on the chopping block that they probably don't have any money to fall back on if we cut them. um -
-1	6B	but -
-1	6B	looking at the list, um - the immediate uh -
-1	6B	easy potential cuts in education programs to my eye -
-1	6B	appear to be the sugar free juice machines which are -
-1	6B	uh, easily replaceable. and, uh, possibly the football equipment simply because -
-1	6B	there's already football equipment.
-1	6B	could probably -
-1	6B	hold on to it for a few years.
-1	6B	and it's - it's something that it's easy to get the community to fund.
-0	6B	sugar free juice machines
-1	6B	is there anything else we think we can safely cut off the, uh, educational programs list?
-0	6B	cooking classes.
-1	6B	probably doesn't require a class.
-1	6B	um, so that's - that's three items there.
-1	6B	we could cut three from each list without uh -
-1	6B	yeah. or - or too much woe. um -
-0	6B	safety, ooh -
-1	6B	very tricky.
-1	6B	um - i actually some time ago i worked for the city.
-1	6B	and um -
-1	6B	one of my bosses said something to me that - that stayed with me for a long time. he said -
-1	6B	when we cut something we don't choose the thing that will make the most people happy. we choose the thing that will make everyone equally unhappy.
-1	6B	not, you know, unequally unhappy.
-1	6B	um -
-1	6B	so, i - looking at it i say what -
-1	6B	what would -?
-2	6B	hurt the least in the short term? i don't think a lot of people will be hurt if we stop inspecting the bagel factory.
-1	6B	it's true. it's true.
-1	6B	it's true.
-1	6B	this is true, but looking at the other options - alright, um -
-2	6B	weed control and invasive species removal appear to be the same thing. what if we cut the weed control, and just left the invasive species removal?
-2	6B	so, maybe there's some dandelions in the parks, but they're not getting overrun with some scotch broom or something.
-0	6B	um -
-2	6B	you're right. that's a capital project. that can be done, uh, later. of course if the hospital is overcrowded it becomes difficult, but - this is a difficult list.
-0	6B	um -
-2	6B	should certainly stay -
-2	6B	absolutely.
-2	6B	definitely important.
-1	6B	yeah.
-1	6B	yeah.
-1	6B	yeah.
-2	6B	neighborhood watch support. i would say it's quite probably that if there is a neighborhood would they will be able to fund themselves for the -
-2	6B	cuz there's a strong social component to that, and it's something a community can easily rally around.
-0	6B	mm-hmm.
-0	6B	right.
-0	6B	right.
-1	6B	right. that makes sense.
-0	6B	weed control.
-1	6B	we need to cut something. hospital additions. alright, so we've got three -
-1	6B	three cut from that list. okay.
-0	6B	recreation and public services. well, let's see what we've got on the list.
-0	6B	um -
-0	6B	hmm.
-2	6B	initially, i would say football stadium upkeep is -
-2	6B	probably not as essential as -
-2	6B	for example -
-2	6B	uh, the food bank.
-0	6B	um -
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-0	6B	mm-hmm. mm-hmm.
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-1	6B	alright.
-2	6B	we have dog catcher and pest control.
-2	6B	we have stray cat spaying, and kitten and puppy adoption, and a veterinary hospital.
-2	6B	it's a lot of animal services. could we roll some of those into each other and -
-1	6B	mm-hmm. mm-hmm.
-0	6B	right.
-1	6B	quite like
-1	6B	quite likely, so -
-0	6B	mm-hmm.
-1	6B	mm-hmm. i think we could. -
-1	6B	we could, uh, roll both stray cat spaying and kitten and puppy adoption * into the veterinary hospital.
-1	6B	without any -
-1	6B	pinch -
-0	6B	um -
-1	6B	that's a good point. that's, um -
-1	6B	a great commendable program, but -
-1	6B	is it essential? um, and - and - will in fact the community not step up to provide?
-1	6B	uh - support for that? on their own. aha! there it is! um -
-1	6B	uh, i think - i think you're right. i think we can cut -
-1	6B	cat spaying, puppy adoption, and the reusable bag campaign.
-0	6B	alright, that's three things.
-0	6B	last one. alright.
-1	6B	i think so. i think so.
-1	6B	how would you feel about cutting taxi stops?
-1	6B	people flag them anyway, so -
-1	6B	mm-hmm. mm-hmm.
-1	6B	yes.
-1	6B	or are they building it?
-1	6B	are they building it at the time.
-0	6B	yes. do -
-0	6B	right.
-1	6B	yes. co-mayors, yes.
-1	6B	do we have well, we're - right now in - in this city we're in the process of building one, but in this town do we have one?
-2	6B	um. oh, i think i see something better.
-2	6B	i see flagpole repair.
-2	6B	i - i think it will be - it will be easier for the city to recover from the loss of a few flagpoles than -
-2	6B	from the absence sufficient public transit.
-1	6B	myself as well.
-0	6B	are you alright?
-0	6B	okay.
-0	6B	oh.
-0	6B	um -
-0	6B	additional bus stops.
-1	6B	uh, taxi stops. right, okay. sounds good.
-2	6B	good recommendations. all done.
+0	6B	additional bus stops .
+1	6B	uh , taxi stops . right , okay . sounds good .
+2	6B	good recommendations . all done .

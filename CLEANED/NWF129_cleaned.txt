@@ -1,1204 +1,301 @@
-1	3I	it seems too - cases of whiskey, category in itself. maybe we should just put it over there, do you think? or trunc what do you think?
-1	3I	yeah. right.
-0	3I	right. okay.
-1	3I	egg trunc egg * timers, so that's more of a hardware thing. up by refrigerator magnets? i think that's a trunc i think that's a good idea.
-0	3I	bags of * peat moss.
-1	3I	we haven't gotten into - but maybe - maybe over * here, because it's kinda by -
-1	3I	small saws.
-1	3I	i think - well, i mean when i think about small saws and trunc you know doing yard word and doing - doing repairs and that sort of thing.
-1	3I	maybe sort of in - down - yeah, kind of in the household hardware.
-0	3I	large vests. oh, so do we have any - any -
-1	3I	i wonder if we could put them - yeah. maybe we could have - cuz i don't - right. cuz i don't see any clothing, so let's - yeah, let's start a clothing thing. and this - this is kind of too, because travel guides can kind of be - okay.
-0	3I	tow ropes.
-1	3I	boating. yeah.
-2	3I	uh, beneath it. yeah. whatever, yeah.
-1	3I	boxes of * donuts. okay let's put - let's put with ice cream, cuz we're in more with the treats.
-1	3I	cuz here we have sugar. i - i'd rather move the sugar with eggs, but i guess we're not supposed to move those.
-1	3I	oh, that's a good idea.
+1	3I	it seems too - cases of whiskey , category in itself . maybe we should just put it over there , do you think ? or trunc what do you think ?
+1	3I	yeah . right .
+0	3I	right . okay .
+1	3I	egg trunc egg timers , so that 's more of a hardware thing . up by refrigerator magnets ? i think that 's a trunc i think that 's a good idea .
+0	3I	bags of peat moss .
+1	3I	we have n't gotten into - but maybe - maybe over here , because it 's kinda by -
+1	3I	small saws .
+1	3I	i think - well , i mean when i think about small saws and trunc you know doing yard word and doing - doing repairs and that sort of thing .
+1	3I	maybe sort of in - down - yeah , kind of in the household hardware .
+0	3I	large vests . oh , so do we have any - any -
+1	3I	i wonder if we could put them - yeah . maybe we could have - cuz i do n't - right . cuz i do n't see any clothing , so let 's - yeah , let 's start a clothing thing . and this - this is kind of too , because travel guides can kind of be - okay .
+0	3I	tow ropes .
+1	3I	boating . yeah .
+2	3I	uh , beneath it . yeah . whatever , yeah .
+1	3I	boxes of donuts . okay let 's put - let 's put with ice cream , cuz we 're in more with the treats .
+1	3I	cuz here we have sugar . i - i 'd rather move the sugar with eggs , but i guess we 're not supposed to move those .
+1	3I	oh , that 's a good idea .
 1	3I	so then i wonder should with boxes of donuts be -
-1	3I	with cake mix and sugar? right.
-1	3I	is there deserts? yeah. and actually these are - are already prepared and and this is -
-1	3I	ingredients, so - okay, canvas bags. how bout the travel trunc well either boating - yeah, the boating. yeah. i think that's a good idea. wetsuits, there you go. right.
-0	3I	box of knives.
-0	3I	is that what it is? oh.
-1	3I	with the - yeah. right. underneath - let's put by - underneath the small saws, maybe. okay.
-0	3I	thick sweaters.
-1	3I	right.
-0	3I	backpacks.
-2	3I	or wait let's put it maybe right above there, so that it can kind of go both with - with trunc because vests and sweaters yeah okay.
-1	3I	wanna put by the cases of whiskey.
-0	3I	i don't know.
-1	3I	above it maybe.
-1	3I	so is that mean -? is that more with the boating then?
-1	3I	deck chairs on a boat?
+1	3I	with cake mix and sugar ? right .
+1	3I	is there deserts ? yeah . and actually these are - are already prepared and and this is -
+1	3I	ingredients , so - okay , canvas bags . how bout the travel trunc well either boating - yeah , the boating . yeah . i think that 's a good idea . wetsuits , there you go . right .
+0	3I	box of knives .
+0	3I	is that what it is ? oh .
+1	3I	with the - yeah . right . underneath - let 's put by - underneath the small saws , maybe . okay .
+0	3I	thick sweaters .
+1	3I	right .
+0	3I	backpacks .
+2	3I	or wait let 's put it maybe right above there , so that it can kind of go both with - with trunc because vests and sweaters yeah okay .
+1	3I	wan na put by the cases of whiskey .
+0	3I	i do n't know .
+1	3I	above it maybe .
+1	3I	so is that mean - ? is that more with the boating then ?
+1	3I	deck chairs on a boat ?
 0	3I	so maybe we put it -
-1	3I	yeah maybe above it so i kind of can go either way.
-0	3I	right.
-0	3I	hmm.
-0	3I	right.
-0	3I	tweezers.
-0	3I	hmm.
-0	3I	that kind of - we don't have a personal -
-0	3I	grooming trunc ah!
-1	3I	sure.
-0	3I	right. mm-hmm.
-0	3I	okay.
-0	3I	bagels.
-1	3I	with the donuts? okay.
-0	3I	yeah.
-1	3I	pre-cut wood. let's put down here with the -
-1	3I	small saws and the - yeah. that - yeah.
-1	3I	right. right.
-0	3I	five pound weights.
-1	3I	i have no idea. i was trunc i guess i was thinking of - of - uh, physical fitness, but we don't really have that category, so let's just leave it there for now. we could always move it if we see something else that's -
-0	3I	face cream.
-1	3I	yeah, that's a good -
-1	3I	we could put em with the boating things.
-2	3I	or just somewhere - just somewhere up in that category. yeah.
-0	3I	right.
-2	3I	let's put this with the power cords.
-1	3I	should we put it up here as kind of a category of -?
+1	3I	yeah maybe above it so i kind of can go either way .
+0	3I	right .
+0	3I	hmm .
+0	3I	right .
+0	3I	tweezers .
+0	3I	hmm .
+0	3I	that kind of - we do n't have a personal -
+0	3I	grooming trunc ah !
+1	3I	sure .
+0	3I	right . mm-hmm .
+0	3I	okay .
+0	3I	bagels .
+1	3I	with the donuts ? okay .
+0	3I	yeah .
+1	3I	pre-cut wood . let 's put down here with the -
+1	3I	small saws and the - yeah . that - yeah .
+1	3I	right . right .
+0	3I	five pound weights .
+1	3I	i have no idea . i was trunc i guess i was thinking of - of - uh , physical fitness , but we do n't really have that category , so let 's just leave it there for now . we could always move it if we see something else that 's -
+0	3I	face cream .
+1	3I	yeah , that 's a good -
+1	3I	we could put em with the boating things .
+2	3I	or just somewhere - just somewhere up in that category . yeah .
+0	3I	right .
+2	3I	let 's put this with the power cords .
+1	3I	should we put it up here as kind of a category of - ?
 0	3I	household items of -
-1	3I	yeah, we don't have a category there really. yeah.
-1	3I	sticks of butter. we can put those with eggs.
-1	3I	let's put it next to the empty plastic jugs.
-0	3I	okay.
-1	3I	with the heavy cable, power cords, all of those. yeah.
-0	3I	shoelaces.
-0	3I	uh, what did we?
-1	3I	put it with the - with the clothing. right
-1	3I	right.
-1	3I	should we just stick that with these items that we're gonna put in the boat?
-0	3I	jugs.
-1	3I	boating supplies. mm-hmm.
-1	3I	let's put it down here with the pre-cut wood.
-1	3I	right. mm-hmm.
-1	3I	scissors. let's put that with the loose leaf paper.
-1	3I	small axes with the boxes of knives and pre-cut wood, all of these -
-1	3I	oh so some of these things could be with camping but - but they're also more trunc more -
-1	3I	in the - in you garage. yeah. okay.
-0	3I	yeah.
-1	3I	fishing net, up with the fish hooks.
-0	3I	right?
-1	3I	exactly.
-0	3I	beets.
-0	3I	uh.
-1	3I	we have soybeans. let's put it with - yeah.
-0	3I	paper bags.
-1	3I	that could go any place.
-1	3I	yeah. or trunc yeah, put em up there and they're also kind of trunc close to the loose leaf paper and just paper products. light jackets. we can put that up with the clothing.
-1	3I	can of peas. let's put it with the beets.
-0	3I	do you think?
-0	3I	toothpaste.
-1	3I	right. mm-hmm. right.
-0	3I	buckets.
-2	3I	or do you think they should be in the boating?
-1	3I	it could go either way.
-1	3I	okay. sure.
-0	3I	hats. okay.
-1	3I	in the clothing.
-2	3I	dried figs aren't fresh. but -
+1	3I	yeah , we do n't have a category there really . yeah .
+1	3I	sticks of butter . we can put those with eggs .
+1	3I	let 's put it next to the empty plastic jugs .
+0	3I	okay .
+1	3I	with the heavy cable , power cords , all of those . yeah .
+0	3I	shoelaces .
+0	3I	uh , what did we ?
+1	3I	put it with the - with the clothing . right
+1	3I	right .
+1	3I	should we just stick that with these items that we 're gon na put in the boat ?
+0	3I	jugs .
+1	3I	boating supplies . mm-hmm .
+1	3I	let 's put it down here with the pre-cut wood .
+1	3I	right . mm-hmm .
+1	3I	scissors . let 's put that with the loose leaf paper .
+1	3I	small axes with the boxes of knives and pre-cut wood , all of these -
+1	3I	oh so some of these things could be with camping but - but they 're also more trunc more -
+1	3I	in the - in you garage . yeah . okay .
+0	3I	yeah .
+1	3I	fishing net , up with the fish hooks .
+0	3I	right ?
+1	3I	exactly .
+0	3I	beets .
+0	3I	uh .
+1	3I	we have soybeans . let 's put it with - yeah .
+0	3I	paper bags .
+1	3I	that could go any place .
+1	3I	yeah . or trunc yeah , put em up there and they 're also kind of trunc close to the loose leaf paper and just paper products . light jackets . we can put that up with the clothing .
+1	3I	can of peas . let 's put it with the beets .
+0	3I	do you think ?
+0	3I	toothpaste .
+1	3I	right . mm-hmm . right .
+0	3I	buckets .
+2	3I	or do you think they should be in the boating ?
+1	3I	it could go either way .
+1	3I	okay . sure .
+0	3I	hats . okay .
+1	3I	in the clothing .
+2	3I	dried figs are n't fresh . but -
 1	3I	well -
-1	3I	well yeah. but these are basic more ingredients rather than food that's already prepared so let's - yeah. let's - these are kind of basic - basic food items.
-0	3I	yeah. mm-hmm.
+1	3I	well yeah . but these are basic more ingredients rather than food that 's already prepared so let 's - yeah . let 's - these are kind of basic - basic food items .
+0	3I	yeah . mm-hmm .
 1	3I	down here with our -
-0	3I	right.
-1	3I	ah! you're - yes.
-1	3I	yeah. in fact let's - yeah. we could trunc well, yeah. that's good. it's all in that general area.
+0	3I	right .
+1	3I	ah ! you 're - yes .
+1	3I	yeah . in fact let 's - yeah . we could trunc well , yeah . that 's good . it 's all in that general area .
 1	3I	put it with the -
 1	3I	the -
-2	3I	and the i could put it right next to the ice cream.
-2	3I	let's put our temptations -
-1	3I	that's trunc let's put it with the boat.
-2	3I	well you - yeah, you could go either way. yeah.
-1	3I	and the socks and trunc right. mm-hmm.
-1	3I	yeah, let's put it kind of down a little -
-1	3I	yeah yeah. that siding's .
+2	3I	and the i could put it right next to the ice cream .
+2	3I	let 's put our temptations -
+1	3I	that 's trunc let 's put it with the boat .
+2	3I	well you - yeah , you could go either way . yeah .
+1	3I	and the socks and trunc right . mm-hmm .
+1	3I	yeah , let 's put it kind of down a little -
+1	3I	yeah yeah . that siding 's .
 0	3I	but anyway -
-0	3I	pouches?
-1	3I	yeah, probably in this area.
-1	3I	up with you're, um -
-1	3I	yeah.
-1	3I	right.
-1	3I	mm-hmm.
-1	3I	yes.
-1	3I	and the chocolate bars.
-2	3I	let's put it on the boat.
+0	3I	pouches ?
+1	3I	yeah , probably in this area .
+1	3I	up with you 're , um -
+1	3I	yeah .
+1	3I	right .
+1	3I	mm-hmm .
+1	3I	yes .
+1	3I	and the chocolate bars .
+2	3I	let 's put it on the boat .
 1	3I	i think put it more with -
-1	3I	yeah.
-0	3I	yeah. does that look like?
-0	3I	we have mousetraps and pet food all by themselves , but that's - that's good, they can just stay there.
-1	3I	and the books of matches, they could go with -
+1	3I	yeah .
+0	3I	yeah . does that look like ?
+0	3I	we have mousetraps and pet food all by themselves , but that 's - that 's good , they can just stay there .
+1	3I	and the books of matches , they could go with -
 1	3I	they could go in any of the - they could go with -
-1	3I	you know, backpacks or - but - but yeah. we'll just leave em there.
-1	3I	cuz they can be used in any of those place.
-1	3I	yeah, i think it's good.
-1	3I	we've got it!
-1	6B	i'm wondering if we should -
+1	3I	you know , backpacks or - but - but yeah . we 'll just leave em there .
+1	3I	cuz they can be used in any of those place .
+1	3I	yeah , i think it 's good .
+1	3I	we 've got it !
+1	6B	i 'm wondering if we should -
 1	6B	kind of look through each list first and get a sense of how many -
-1	6B	we want to start eliminating from each column. do you have a sense of that, or what would your approach be?
-1	6B	so - so take it from the approach of what we're going to keep first, maybe? or i don't know.
-0	6B	right.
-2	6B	okay, so let's - let's go down and discuss it first and kind of see, like - for instance, math tutors i would certainly keep. yeah.
-2	6B	i would let go.
-2	6B	if it's really - if it's really a budget, you could get volunteers, or they could do some themselves.
-1	6B	i think i'd keep that maybe.
-1	6B	yeah.
-1	6B	i would let those go, maybe.
-0	6B	right.
-0	6B	right.
-0	6B	right.
+1	6B	we want to start eliminating from each column . do you have a sense of that , or what would your approach be ?
+1	6B	so - so take it from the approach of what we 're going to keep first , maybe ? or i do n't know .
+0	6B	right .
+2	6B	okay , so let 's - let 's go down and discuss it first and kind of see , like - for instance , math tutors i would certainly keep . yeah .
+2	6B	i would let go .
+2	6B	if it 's really - if it 's really a budget , you could get volunteers , or they could do some themselves .
+1	6B	i think i 'd keep that maybe .
+1	6B	yeah .
+1	6B	i would let those go , maybe .
+0	6B	right .
+0	6B	right .
+0	6B	right .
 1	6B	i would let -
-1	6B	yeah, i would let that go and leave that to maybe a - yeah.
-1	6B	i think i'd leave that for the library.
-0	6B	special ed teachers.
-2	6B	you to have - you need to have special ed teachers. cooking classes, no. right.
-2	6B	yeah, you'd have to go by federal rules, than whatever. but, yeah - that's kind of iffy and you'd have to kind of see what the need is.
-1	6B	right.
-2	6B	no.
-2	6B	i'd say no.
-2	6B	i'd say no.
-2	6B	i mean it's nice but i - i think some, like math and some of those others are m-
-1	6B	right.
-1	6B	right.
-0	6B	custodians.
-1	6B	trunc right.
-1	6B	right.
-1	6B	right.
-1	6B	right.
-1	6B	right.
-1	6B	right.
-0	6B	okay.
-0	6B	let's keep that in mind and then we'll see. we may have to. yeah.
-0	6B	okay.
-0	6B	public health and safety.
-0	6B	reproductive education.
-1	6B	i think so.
-1	6B	right.
-1	6B	that's important.
+1	6B	yeah , i would let that go and leave that to maybe a - yeah .
+1	6B	i think i 'd leave that for the library .
+0	6B	special ed teachers .
+2	6B	you to have - you need to have special ed teachers . cooking classes , no . right .
+2	6B	yeah , you 'd have to go by federal rules , than whatever . but , yeah - that 's kind of iffy and you 'd have to kind of see what the need is .
+1	6B	right .
+2	6B	no .
+2	6B	i 'd say no .
+2	6B	i 'd say no .
+2	6B	i mean it 's nice but i - i think some , like math and some of those others are m-
+1	6B	right .
+1	6B	right .
+0	6B	custodians .
+1	6B	trunc right .
+1	6B	right .
+1	6B	right .
+1	6B	right .
+1	6B	right .
+1	6B	right .
+0	6B	okay .
+0	6B	let 's keep that in mind and then we 'll see . we may have to . yeah .
+0	6B	okay .
+0	6B	public health and safety .
+0	6B	reproductive education .
+1	6B	i think so .
+1	6B	right .
+1	6B	that 's important .
 2	6B	that's-
-2	6B	right, because again maybe you could get some volunteers or -
-2	6B	yeah, i don't think that's -
-1	6B	right.
-1	6B	right.
-1	6B	right, i don't know that - yeah, that seems to be a huge thing that -
-1	6B	right, and it's not on par with these other things. yeah, that would -
-1	6B	i trunc i think that's right.
-1	6B	forget that.
-1	6B	yeah.
-1	6B	yes.
-2	6B	i don't think that's in - in this department really.
-1	6B	that's sort of in with the invasive species. it -
-1	6B	it's good, but it's not as important as - as these human -
-1	6B	um service programs.
-1	6B	yes, that's important.
-1	6B	that's important.
-1	6B	well, i think it's important, but again some of these things can be -
+2	6B	right , because again maybe you could get some volunteers or -
+2	6B	yeah , i do n't think that 's -
+1	6B	right .
+1	6B	right .
+1	6B	right , i do n't know that - yeah , that seems to be a huge thing that -
+1	6B	right , and it 's not on par with these other things . yeah , that would -
+1	6B	i trunc i think that 's right .
+1	6B	forget that .
+1	6B	yeah .
+1	6B	yes .
+2	6B	i do n't think that 's in - in this department really .
+1	6B	that 's sort of in with the invasive species . it -
+1	6B	it 's good , but it 's not as important as - as these human -
+1	6B	um service programs .
+1	6B	yes , that 's important .
+1	6B	that 's important .
+1	6B	well , i think it 's important , but again some of these things can be -
 1	6B	have volunteer organizing them more than -
-0	6B	egg farm.
-0	6B	six.
-0	6B	yeah.
-1	6B	we can go back, see what we're coming up with.
-2	6B	stray cat spaying. i - i don't think so
-0	6B	mm. i don't know.
-1	6B	foodbank yes.
-0	6B	mm.
-1	6B	yeah.
-1	6B	the same thing, yeah. yes. housing assistance, yes.
-0	6B	boy's um.
-1	6B	that's yeah. soccer, basketball, football.
-1	6B	yeah, trunc i - i - i - let those go too.
-1	6B	i think that's -
+0	6B	egg farm .
+0	6B	six .
+0	6B	yeah .
+1	6B	we can go back , see what we 're coming up with .
+2	6B	stray cat spaying . i - i do n't think so
+0	6B	mm . i do n't know .
+1	6B	foodbank yes .
+0	6B	mm .
+1	6B	yeah .
+1	6B	the same thing , yeah . yes . housing assistance , yes .
+0	6B	boy 's um .
+1	6B	that 's yeah . soccer , basketball , football .
+1	6B	yeah , trunc i - i - i - let those go too .
+1	6B	i think that 's -
 1	6B	i -
-2	6B	i think the public access station i think would be where people can go for social services and um, get information and and things like that, so i think that's important. the public news station -
-2	6B	i don't think that's as important because -
+2	6B	i think the public access station i think would be where people can go for social services and um , get information and and things like that , so i think that 's important . the public news station -
+2	6B	i do n't think that 's as important because -
 0	6B	um -
-2	6B	hopefully you have newspapers and - and local media that are covering a lot of those things.
-2	6B	and, um -
+2	6B	hopefully you have newspapers and - and local media that are covering a lot of those things .
+2	6B	and , um -
 2	6B	so i - i think -
-2	6B	that's - that's what i would think, right.
-2	6B	no.
-2	6B	i don't know if we should have some trunc public money in that so much.
-2	6B	football stadium? i wouldn't, no.
-2	6B	so, infrastructure and licensing. well, teaching certificates. yes, you have to have that.
-1	6B	right.
-2	6B	i would let that good. tattoo artist licenses? uh, forget that.
-1	6B	yeah.
-0	6B	uh-oh, did i just step on something?
-0	6B	i don't think so.
-0	6B	oh, here is comes. okay.
-1	6B	let's trunc we'll think about that. yeah.
+2	6B	that 's - that 's what i would think , right .
+2	6B	no .
+2	6B	i do n't know if we should have some trunc public money in that so much .
+2	6B	football stadium ? i would n't , no .
+2	6B	so , infrastructure and licensing . well , teaching certificates . yes , you have to have that .
+1	6B	right .
+2	6B	i would let that good . tattoo artist licenses ? uh , forget that .
+1	6B	yeah .
+0	6B	uh-oh , did i just step on something ?
+0	6B	i do n't think so .
+0	6B	oh , here is comes . okay .
+1	6B	let 's trunc we 'll think about that . yeah .
 1	6B	put -
 1	6B	put that -
-1	6B	yeah. right.
-1	6B	that could go to someplace else.
-2	6B	nah.
-2	6B	no, massage certificates. nah. flagpole repair. no.
-0	6B	taxi stops.
-2	6B	mm-mm no, cuz they can do that themselves.
-1	6B	fishing the same as hunting tags, that's -
-1	6B	yes.
-1	6B	right.
-0	6B	what fun.
-1	6B	right.
-0	6B	so it's only this category that we need to cut more.
-2	6B	that's tough, cuz those are -
-1	6B	or add something back.
-1	6B	right.
-1	6B	yeah, those are pretty important.
-1	6B	well, we could add back.
-0	6B	did we have - did we have, um -
-0	6B	did we have speech therapy? i think we did.
+1	6B	yeah . right .
+1	6B	that could go to someplace else .
+2	6B	nah .
+2	6B	no , massage certificates . nah . flagpole repair . no .
+0	6B	taxi stops .
+2	6B	mm-mm no , cuz they can do that themselves .
+1	6B	fishing the same as hunting tags , that 's -
+1	6B	yes .
+1	6B	right .
+0	6B	what fun .
+1	6B	right .
+0	6B	so it 's only this category that we need to cut more .
+2	6B	that 's tough , cuz those are -
+1	6B	or add something back .
+1	6B	right .
+1	6B	yeah , those are pretty important .
+1	6B	well , we could add back .
+0	6B	did we have - did we have , um -
+0	6B	did we have speech therapy ? i think we did .
 1	6B	we could do maybe -
-1	6B	right.
-1	6B	right.
-2	6B	bookkeeping, that's not - that's an elective sort of thing, it's - i think if - if we're going to keep something it's better to keep, like music or you know, even acting coaches because in some ways they can reach people -
+1	6B	right .
+1	6B	right .
+2	6B	bookkeeping , that 's not - that 's an elective sort of thing , it 's - i think if - if we 're going to keep something it 's better to keep , like music or you know , even acting coaches because in some ways they can reach people -
 2	6B	that -
-1	6B	i don't know .
-1	6B	yeah.
-1	6B	you think so?
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-0	6B	bookkeeping.
-0	6B	from each of the others. is that right? cuz i think you - i think you said that.
-1	6B	okay.
-0	6B	public news.
-0	6B	soccer league.
-0	6B	mm-hmm.
-0	6B	dog catcher.
-0	6B	right. reusable - reusable bag.
-0	6B	football.
-0	6B	oh, okay.
-1	6B	maybe pest control cuz, if you have things like rats .
-0	6B	oh, did we?
-0	6B	yeah.
-0	6B	yeah.
-0	6B	are there -?
-1	6B	are the junior soccer league -?
-0	6B	i don't know.
-1	6B	yeah.
-1	6B	yeah.
+1	6B	i do n't know .
+1	6B	yeah .
+1	6B	you think so ?
+0	6B	mm-hmm .
+0	6B	mm-hmm .
+0	6B	bookkeeping .
+0	6B	from each of the others . is that right ? cuz i think you - i think you said that .
+1	6B	okay .
+0	6B	public news .
+0	6B	soccer league .
+0	6B	mm-hmm .
+0	6B	dog catcher .
+0	6B	right . reusable - reusable bag .
+0	6B	football .
+0	6B	oh , okay .
+1	6B	maybe pest control cuz , if you have things like rats .
+0	6B	oh , did we ?
+0	6B	yeah .
+0	6B	yeah .
+0	6B	are there - ?
+1	6B	are the junior soccer league - ?
+0	6B	i do n't know .
+1	6B	yeah .
+1	6B	yeah .
 1	6B	i think - i think those might -
-1	6B	i think - yeah.
-1	6B	yeah, cuz we - we wanna have - yeah.
-1	6B	more i'm thinking more of these as targeting.
-1	6B	you know, disadvantaged youth and neighborhood programs.
+1	6B	i think - yeah .
+1	6B	yeah , cuz we - we wan na have - yeah .
+1	6B	more i 'm thinking more of these as targeting .
+1	6B	you know , disadvantaged youth and neighborhood programs .
 1	6B	so -
-1	6B	right.
-1	6B	right, exactly.
-0	6B	mm-hmm. massage.
-1	6B	maybe hunting tags. i mean in some ways - i mean i - that's more of a day i wanna - i wanna have.
-1	6B	fishing.
-2	6B	yeah, i'm kind of - i'm kind of, um - yeah, i'm of two minds there, cuz on the one hand, um, more bus stops more congestion and we have huge congestion problems. uh, and that's uh, so i think maybe -
-1	6B	well, i mean you can't stop trunc yeah, trunc it's hard to say. yeah.
-1	6B	should we have fishing licenses so that we - we don't over fish places? i don't know.
-1	6B	yeah, maybe we should.
-2	6B	it's hard to say, yeah. i mean, and what's trunc you think of boating licenses you know, wealthy people and whatever but on the other hand that's what trunc can protect the - the public too.
-0	6B	towing.
-0	6B	massage.
-0	6B	flagpole.
-1	6B	yeah. okay. okay. that sounds good.
-1	6B	we're ready - we're ready to go on to city council, or the county whatever.
-1	3I	it seems too - cases of whiskey, category in itself. maybe we should just put it over there, do you think? or trunc what do you think?
-1	3I	yeah. right.
-0	3I	right. okay.
-1	3I	egg trunc egg * timers, so that's more of a hardware thing. up by refrigerator magnets? i think that's a trunc i think that's a good idea.
-0	3I	bags of * peat moss.
-1	3I	we haven't gotten into - but maybe - maybe over * here, because it's kinda by -
-1	3I	small saws.
-1	3I	i think - well, i mean when i think about small saws and trunc you know doing yard word and doing - doing repairs and that sort of thing.
-1	3I	maybe sort of in - down - yeah, kind of in the household hardware.
-0	3I	large vests. oh, so do we have any - any -
-1	3I	i wonder if we could put them - yeah. maybe we could have - cuz i don't - right. cuz i don't see any clothing, so let's - yeah, let's start a clothing thing. and this - this is kind of too, because travel guides can kind of be - okay.
-0	3I	tow ropes.
-1	3I	boating. yeah.
-2	3I	uh, beneath it. yeah. whatever, yeah.
-1	3I	boxes of * donuts. okay let's put - let's put with ice cream, cuz we're in more with the treats.
-1	3I	cuz here we have sugar. i - i'd rather move the sugar with eggs, but i guess we're not supposed to move those.
-1	3I	oh, that's a good idea.
-1	3I	so then i wonder should with boxes of donuts be -
-1	3I	with cake mix and sugar? right.
-1	3I	is there deserts? yeah. and actually these are - are already prepared and and this is -
-1	3I	ingredients, so - okay, canvas bags. how bout the travel trunc well either boating - yeah, the boating. yeah. i think that's a good idea. wetsuits, there you go. right.
-0	3I	box of knives.
-0	3I	is that what it is? oh.
-1	3I	with the - yeah. right. underneath - let's put by - underneath the small saws, maybe. okay.
-0	3I	thick sweaters.
-1	3I	right.
-0	3I	backpacks.
-2	3I	or wait let's put it maybe right above there, so that it can kind of go both with - with trunc because vests and sweaters yeah okay.
-1	3I	wanna put by the cases of whiskey.
-0	3I	i don't know.
-1	3I	above it maybe.
-1	3I	so is that mean -? is that more with the boating then?
-1	3I	deck chairs on a boat?
-0	3I	so maybe we put it -
-1	3I	yeah maybe above it so i kind of can go either way.
-0	3I	right.
-0	3I	hmm.
-0	3I	right.
-0	3I	tweezers.
-0	3I	hmm.
-0	3I	that kind of - we don't have a personal -
-0	3I	grooming trunc ah!
-1	3I	sure.
-0	3I	right. mm-hmm.
-0	3I	okay.
-0	3I	bagels.
-1	3I	with the donuts? okay.
-0	3I	yeah.
-1	3I	pre-cut wood. let's put down here with the -
-1	3I	small saws and the - yeah. that - yeah.
-1	3I	right. right.
-0	3I	five pound weights.
-1	3I	i have no idea. i was trunc i guess i was thinking of - of - uh, physical fitness, but we don't really have that category, so let's just leave it there for now. we could always move it if we see something else that's -
-0	3I	face cream.
-1	3I	yeah, that's a good -
-1	3I	we could put em with the boating things.
-2	3I	or just somewhere - just somewhere up in that category. yeah.
-0	3I	right.
-2	3I	let's put this with the power cords.
-1	3I	should we put it up here as kind of a category of -?
-0	3I	household items of -
-1	3I	yeah, we don't have a category there really. yeah.
-1	3I	sticks of butter. we can put those with eggs.
-1	3I	let's put it next to the empty plastic jugs.
-0	3I	okay.
-1	3I	with the heavy cable, power cords, all of those. yeah.
-0	3I	shoelaces.
-0	3I	uh, what did we?
-1	3I	put it with the - with the clothing. right
-1	3I	right.
-1	3I	should we just stick that with these items that we're gonna put in the boat?
-0	3I	jugs.
-1	3I	boating supplies. mm-hmm.
-1	3I	let's put it down here with the pre-cut wood.
-1	3I	right. mm-hmm.
-1	3I	scissors. let's put that with the loose leaf paper.
-1	3I	small axes with the boxes of knives and pre-cut wood, all of these -
-1	3I	oh so some of these things could be with camping but - but they're also more trunc more -
-1	3I	in the - in you garage. yeah. okay.
-0	3I	yeah.
-1	3I	fishing net, up with the fish hooks.
-0	3I	right?
-1	3I	exactly.
-0	3I	beets.
-0	3I	uh.
-1	3I	we have soybeans. let's put it with - yeah.
-0	3I	paper bags.
-1	3I	that could go any place.
-1	3I	yeah. or trunc yeah, put em up there and they're also kind of trunc close to the loose leaf paper and just paper products. light jackets. we can put that up with the clothing.
-1	3I	can of peas. let's put it with the beets.
-0	3I	do you think?
-0	3I	toothpaste.
-1	3I	right. mm-hmm. right.
-0	3I	buckets.
-2	3I	or do you think they should be in the boating?
-1	3I	it could go either way.
-1	3I	okay. sure.
-0	3I	hats. okay.
-1	3I	in the clothing.
-2	3I	dried figs aren't fresh. but -
-1	3I	well -
-1	3I	well yeah. but these are basic more ingredients rather than food that's already prepared so let's - yeah. let's - these are kind of basic - basic food items.
-0	3I	yeah. mm-hmm.
-1	3I	down here with our -
-0	3I	right.
-1	3I	ah! you're - yes.
-1	3I	yeah. in fact let's - yeah. we could trunc well, yeah. that's good. it's all in that general area.
-1	3I	put it with the -
-1	3I	the -
-2	3I	and the i could put it right next to the ice cream.
-2	3I	let's put our temptations -
-1	3I	that's trunc let's put it with the boat.
-2	3I	well you - yeah, you could go either way. yeah.
-1	3I	and the socks and trunc right. mm-hmm.
-1	3I	yeah, let's put it kind of down a little -
-1	3I	yeah yeah. that siding's .
-0	3I	but anyway -
-0	3I	pouches?
-1	3I	yeah, probably in this area.
-1	3I	up with you're, um -
-1	3I	yeah.
-1	3I	right.
-1	3I	mm-hmm.
-1	3I	yes.
-1	3I	and the chocolate bars.
-2	3I	let's put it on the boat.
-1	3I	i think put it more with -
-1	3I	yeah.
-0	3I	yeah. does that look like?
-0	3I	we have mousetraps and pet food all by themselves , but that's - that's good, they can just stay there.
-1	3I	and the books of matches, they could go with -
-1	3I	they could go in any of the - they could go with -
-1	3I	you know, backpacks or - but - but yeah. we'll just leave em there.
-1	3I	cuz they can be used in any of those place.
-1	3I	yeah, i think it's good.
-1	3I	we've got it!
-1	6B	i'm wondering if we should -
-1	6B	kind of look through each list first and get a sense of how many -
-1	6B	we want to start eliminating from each column. do you have a sense of that, or what would your approach be?
-1	6B	so - so take it from the approach of what we're going to keep first, maybe? or i don't know.
-0	6B	right.
-2	6B	okay, so let's - let's go down and discuss it first and kind of see, like - for instance, math tutors i would certainly keep. yeah.
-2	6B	i would let go.
-2	6B	if it's really - if it's really a budget, you could get volunteers, or they could do some themselves.
-1	6B	i think i'd keep that maybe.
-1	6B	yeah.
-1	6B	i would let those go, maybe.
-0	6B	right.
-0	6B	right.
-0	6B	right.
-1	6B	i would let -
-1	6B	yeah, i would let that go and leave that to maybe a - yeah.
-1	6B	i think i'd leave that for the library.
-0	6B	special ed teachers.
-2	6B	you to have - you need to have special ed teachers. cooking classes, no. right.
-2	6B	yeah, you'd have to go by federal rules, than whatever. but, yeah - that's kind of iffy and you'd have to kind of see what the need is.
-1	6B	right.
-2	6B	no.
-2	6B	i'd say no.
-2	6B	i'd say no.
-2	6B	i mean it's nice but i - i think some, like math and some of those others are m-
-1	6B	right.
-1	6B	right.
-0	6B	custodians.
-1	6B	trunc right.
-1	6B	right.
-1	6B	right.
-1	6B	right.
-1	6B	right.
-1	6B	right.
-0	6B	okay.
-0	6B	let's keep that in mind and then we'll see. we may have to. yeah.
-0	6B	okay.
-0	6B	public health and safety.
-0	6B	reproductive education.
-1	6B	i think so.
-1	6B	right.
-1	6B	that's important.
-2	6B	that's-
-2	6B	right, because again maybe you could get some volunteers or -
-2	6B	yeah, i don't think that's -
-1	6B	right.
-1	6B	right.
-1	6B	right, i don't know that - yeah, that seems to be a huge thing that -
-1	6B	right, and it's not on par with these other things. yeah, that would -
-1	6B	i trunc i think that's right.
-1	6B	forget that.
-1	6B	yeah.
-1	6B	yes.
-2	6B	i don't think that's in - in this department really.
-1	6B	that's sort of in with the invasive species. it -
-1	6B	it's good, but it's not as important as - as these human -
-1	6B	um service programs.
-1	6B	yes, that's important.
-1	6B	that's important.
-1	6B	well, i think it's important, but again some of these things can be -
-1	6B	have volunteer organizing them more than -
-0	6B	egg farm.
-0	6B	six.
-0	6B	yeah.
-1	6B	we can go back, see what we're coming up with.
-2	6B	stray cat spaying. i - i don't think so
-0	6B	mm. i don't know.
-1	6B	foodbank yes.
-0	6B	mm.
-1	6B	yeah.
-1	6B	the same thing, yeah. yes. housing assistance, yes.
-0	6B	boy's um.
-1	6B	that's yeah. soccer, basketball, football.
-1	6B	yeah, trunc i - i - i - let those go too.
-1	6B	i think that's -
-1	6B	i -
-2	6B	i think the public access station i think would be where people can go for social services and um, get information and and things like that, so i think that's important. the public news station -
-2	6B	i don't think that's as important because -
-0	6B	um -
-2	6B	hopefully you have newspapers and - and local media that are covering a lot of those things.
-2	6B	and, um -
-2	6B	so i - i think -
-2	6B	that's - that's what i would think, right.
-2	6B	no.
-2	6B	i don't know if we should have some trunc public money in that so much.
-2	6B	football stadium? i wouldn't, no.
-2	6B	so, infrastructure and licensing. well, teaching certificates. yes, you have to have that.
-1	6B	right.
-2	6B	i would let that good. tattoo artist licenses? uh, forget that.
-1	6B	yeah.
-0	6B	uh-oh, did i just step on something?
-0	6B	i don't think so.
-0	6B	oh, here is comes. okay.
-1	6B	let's trunc we'll think about that. yeah.
-1	6B	put -
-1	6B	put that -
-1	6B	yeah. right.
-1	6B	that could go to someplace else.
-2	6B	nah.
-2	6B	no, massage certificates. nah. flagpole repair. no.
-0	6B	taxi stops.
-2	6B	mm-mm no, cuz they can do that themselves.
-1	6B	fishing the same as hunting tags, that's -
-1	6B	yes.
-1	6B	right.
-0	6B	what fun.
-1	6B	right.
-0	6B	so it's only this category that we need to cut more.
-2	6B	that's tough, cuz those are -
-1	6B	or add something back.
-1	6B	right.
-1	6B	yeah, those are pretty important.
-1	6B	well, we could add back.
-0	6B	did we have - did we have, um -
-0	6B	did we have speech therapy? i think we did.
-1	6B	we could do maybe -
-1	6B	right.
-1	6B	right.
-2	6B	bookkeeping, that's not - that's an elective sort of thing, it's - i think if - if we're going to keep something it's better to keep, like music or you know, even acting coaches because in some ways they can reach people -
-2	6B	that -
-1	6B	i don't know .
-1	6B	yeah.
-1	6B	you think so?
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-0	6B	bookkeeping.
-0	6B	from each of the others. is that right? cuz i think you - i think you said that.
-1	6B	okay.
-0	6B	public news.
-0	6B	soccer league.
-0	6B	mm-hmm.
-0	6B	dog catcher.
-0	6B	right. reusable - reusable bag.
-0	6B	football.
-0	6B	oh, okay.
-1	6B	maybe pest control cuz, if you have things like rats .
-0	6B	oh, did we?
-0	6B	yeah.
-0	6B	yeah.
-0	6B	are there -?
-1	6B	are the junior soccer league -?
-0	6B	i don't know.
-1	6B	yeah.
-1	6B	yeah.
-1	6B	i think - i think those might -
-1	6B	i think - yeah.
-1	6B	yeah, cuz we - we wanna have - yeah.
-1	6B	more i'm thinking more of these as targeting.
-1	6B	you know, disadvantaged youth and neighborhood programs.
-1	6B	so -
-1	6B	right.
-1	6B	right, exactly.
-0	6B	mm-hmm. massage.
-1	6B	maybe hunting tags. i mean in some ways - i mean i - that's more of a day i wanna - i wanna have.
-1	6B	fishing.
-2	6B	yeah, i'm kind of - i'm kind of, um - yeah, i'm of two minds there, cuz on the one hand, um, more bus stops more congestion and we have huge congestion problems. uh, and that's uh, so i think maybe -
-1	6B	well, i mean you can't stop trunc yeah, trunc it's hard to say. yeah.
-1	6B	should we have fishing licenses so that we - we don't over fish places? i don't know.
-1	6B	yeah, maybe we should.
-2	6B	it's hard to say, yeah. i mean, and what's trunc you think of boating licenses you know, wealthy people and whatever but on the other hand that's what trunc can protect the - the public too.
-0	6B	towing.
-0	6B	massage.
-0	6B	flagpole.
-1	6B	yeah. okay. okay. that sounds good.
-1	6B	we're ready - we're ready to go on to city council, or the county whatever.
-1	3I	it seems too - cases of whiskey, category in itself. maybe we should just put it over there, do you think? or trunc what do you think?
-1	3I	yeah. right.
-0	3I	right. okay.
-1	3I	egg trunc egg * timers, so that's more of a hardware thing. up by refrigerator magnets? i think that's a trunc i think that's a good idea.
-0	3I	bags of * peat moss.
-1	3I	we haven't gotten into - but maybe - maybe over * here, because it's kinda by -
-1	3I	small saws.
-1	3I	i think - well, i mean when i think about small saws and trunc you know doing yard word and doing - doing repairs and that sort of thing.
-1	3I	maybe sort of in - down - yeah, kind of in the household hardware.
-0	3I	large vests. oh, so do we have any - any -
-1	3I	i wonder if we could put them - yeah. maybe we could have - cuz i don't - right. cuz i don't see any clothing, so let's - yeah, let's start a clothing thing. and this - this is kind of too, because travel guides can kind of be - okay.
-0	3I	tow ropes.
-1	3I	boating. yeah.
-2	3I	uh, beneath it. yeah. whatever, yeah.
-1	3I	boxes of * donuts. okay let's put - let's put with ice cream, cuz we're in more with the treats.
-1	3I	cuz here we have sugar. i - i'd rather move the sugar with eggs, but i guess we're not supposed to move those.
-1	3I	oh, that's a good idea.
-1	3I	so then i wonder should with boxes of donuts be -
-1	3I	with cake mix and sugar? right.
-1	3I	is there deserts? yeah. and actually these are - are already prepared and and this is -
-1	3I	ingredients, so - okay, canvas bags. how bout the travel trunc well either boating - yeah, the boating. yeah. i think that's a good idea. wetsuits, there you go. right.
-0	3I	box of knives.
-0	3I	is that what it is? oh.
-1	3I	with the - yeah. right. underneath - let's put by - underneath the small saws, maybe. okay.
-0	3I	thick sweaters.
-1	3I	right.
-0	3I	backpacks.
-2	3I	or wait let's put it maybe right above there, so that it can kind of go both with - with trunc because vests and sweaters yeah okay.
-1	3I	wanna put by the cases of whiskey.
-0	3I	i don't know.
-1	3I	above it maybe.
-1	3I	so is that mean -? is that more with the boating then?
-1	3I	deck chairs on a boat?
-0	3I	so maybe we put it -
-1	3I	yeah maybe above it so i kind of can go either way.
-0	3I	right.
-0	3I	hmm.
-0	3I	right.
-0	3I	tweezers.
-0	3I	hmm.
-0	3I	that kind of - we don't have a personal -
-0	3I	grooming trunc ah!
-1	3I	sure.
-0	3I	right. mm-hmm.
-0	3I	okay.
-0	3I	bagels.
-1	3I	with the donuts? okay.
-0	3I	yeah.
-1	3I	pre-cut wood. let's put down here with the -
-1	3I	small saws and the - yeah. that - yeah.
-1	3I	right. right.
-0	3I	five pound weights.
-1	3I	i have no idea. i was trunc i guess i was thinking of - of - uh, physical fitness, but we don't really have that category, so let's just leave it there for now. we could always move it if we see something else that's -
-0	3I	face cream.
-1	3I	yeah, that's a good -
-1	3I	we could put em with the boating things.
-2	3I	or just somewhere - just somewhere up in that category. yeah.
-0	3I	right.
-2	3I	let's put this with the power cords.
-1	3I	should we put it up here as kind of a category of -?
-0	3I	household items of -
-1	3I	yeah, we don't have a category there really. yeah.
-1	3I	sticks of butter. we can put those with eggs.
-1	3I	let's put it next to the empty plastic jugs.
-0	3I	okay.
-1	3I	with the heavy cable, power cords, all of those. yeah.
-0	3I	shoelaces.
-0	3I	uh, what did we?
-1	3I	put it with the - with the clothing. right
-1	3I	right.
-1	3I	should we just stick that with these items that we're gonna put in the boat?
-0	3I	jugs.
-1	3I	boating supplies. mm-hmm.
-1	3I	let's put it down here with the pre-cut wood.
-1	3I	right. mm-hmm.
-1	3I	scissors. let's put that with the loose leaf paper.
-1	3I	small axes with the boxes of knives and pre-cut wood, all of these -
-1	3I	oh so some of these things could be with camping but - but they're also more trunc more -
-1	3I	in the - in you garage. yeah. okay.
-0	3I	yeah.
-1	3I	fishing net, up with the fish hooks.
-0	3I	right?
-1	3I	exactly.
-0	3I	beets.
-0	3I	uh.
-1	3I	we have soybeans. let's put it with - yeah.
-0	3I	paper bags.
-1	3I	that could go any place.
-1	3I	yeah. or trunc yeah, put em up there and they're also kind of trunc close to the loose leaf paper and just paper products. light jackets. we can put that up with the clothing.
-1	3I	can of peas. let's put it with the beets.
-0	3I	do you think?
-0	3I	toothpaste.
-1	3I	right. mm-hmm. right.
-0	3I	buckets.
-2	3I	or do you think they should be in the boating?
-1	3I	it could go either way.
-1	3I	okay. sure.
-0	3I	hats. okay.
-1	3I	in the clothing.
-2	3I	dried figs aren't fresh. but -
-1	3I	well -
-1	3I	well yeah. but these are basic more ingredients rather than food that's already prepared so let's - yeah. let's - these are kind of basic - basic food items.
-0	3I	yeah. mm-hmm.
-1	3I	down here with our -
-0	3I	right.
-1	3I	ah! you're - yes.
-1	3I	yeah. in fact let's - yeah. we could trunc well, yeah. that's good. it's all in that general area.
-1	3I	put it with the -
-1	3I	the -
-2	3I	and the i could put it right next to the ice cream.
-2	3I	let's put our temptations -
-1	3I	that's trunc let's put it with the boat.
-2	3I	well you - yeah, you could go either way. yeah.
-1	3I	and the socks and trunc right. mm-hmm.
-1	3I	yeah, let's put it kind of down a little -
-1	3I	yeah yeah. that siding's .
-0	3I	but anyway -
-0	3I	pouches?
-1	3I	yeah, probably in this area.
-1	3I	up with you're, um -
-1	3I	yeah.
-1	3I	right.
-1	3I	mm-hmm.
-1	3I	yes.
-1	3I	and the chocolate bars.
-2	3I	let's put it on the boat.
-1	3I	i think put it more with -
-1	3I	yeah.
-0	3I	yeah. does that look like?
-0	3I	we have mousetraps and pet food all by themselves , but that's - that's good, they can just stay there.
-1	3I	and the books of matches, they could go with -
-1	3I	they could go in any of the - they could go with -
-1	3I	you know, backpacks or - but - but yeah. we'll just leave em there.
-1	3I	cuz they can be used in any of those place.
-1	3I	yeah, i think it's good.
-1	3I	we've got it!
-1	6B	i'm wondering if we should -
-1	6B	kind of look through each list first and get a sense of how many -
-1	6B	we want to start eliminating from each column. do you have a sense of that, or what would your approach be?
-1	6B	so - so take it from the approach of what we're going to keep first, maybe? or i don't know.
-0	6B	right.
-2	6B	okay, so let's - let's go down and discuss it first and kind of see, like - for instance, math tutors i would certainly keep. yeah.
-2	6B	i would let go.
-2	6B	if it's really - if it's really a budget, you could get volunteers, or they could do some themselves.
-1	6B	i think i'd keep that maybe.
-1	6B	yeah.
-1	6B	i would let those go, maybe.
-0	6B	right.
-0	6B	right.
-0	6B	right.
-1	6B	i would let -
-1	6B	yeah, i would let that go and leave that to maybe a - yeah.
-1	6B	i think i'd leave that for the library.
-0	6B	special ed teachers.
-2	6B	you to have - you need to have special ed teachers. cooking classes, no. right.
-2	6B	yeah, you'd have to go by federal rules, than whatever. but, yeah - that's kind of iffy and you'd have to kind of see what the need is.
-1	6B	right.
-2	6B	no.
-2	6B	i'd say no.
-2	6B	i'd say no.
-2	6B	i mean it's nice but i - i think some, like math and some of those others are m-
-1	6B	right.
-1	6B	right.
-0	6B	custodians.
-1	6B	trunc right.
-1	6B	right.
-1	6B	right.
-1	6B	right.
-1	6B	right.
-1	6B	right.
-0	6B	okay.
-0	6B	let's keep that in mind and then we'll see. we may have to. yeah.
-0	6B	okay.
-0	6B	public health and safety.
-0	6B	reproductive education.
-1	6B	i think so.
-1	6B	right.
-1	6B	that's important.
-2	6B	that's-
-2	6B	right, because again maybe you could get some volunteers or -
-2	6B	yeah, i don't think that's -
-1	6B	right.
-1	6B	right.
-1	6B	right, i don't know that - yeah, that seems to be a huge thing that -
-1	6B	right, and it's not on par with these other things. yeah, that would -
-1	6B	i trunc i think that's right.
-1	6B	forget that.
-1	6B	yeah.
-1	6B	yes.
-2	6B	i don't think that's in - in this department really.
-1	6B	that's sort of in with the invasive species. it -
-1	6B	it's good, but it's not as important as - as these human -
-1	6B	um service programs.
-1	6B	yes, that's important.
-1	6B	that's important.
-1	6B	well, i think it's important, but again some of these things can be -
-1	6B	have volunteer organizing them more than -
-0	6B	egg farm.
-0	6B	six.
-0	6B	yeah.
-1	6B	we can go back, see what we're coming up with.
-2	6B	stray cat spaying. i - i don't think so
-0	6B	mm. i don't know.
-1	6B	foodbank yes.
-0	6B	mm.
-1	6B	yeah.
-1	6B	the same thing, yeah. yes. housing assistance, yes.
-0	6B	boy's um.
-1	6B	that's yeah. soccer, basketball, football.
-1	6B	yeah, trunc i - i - i - let those go too.
-1	6B	i think that's -
-1	6B	i -
-2	6B	i think the public access station i think would be where people can go for social services and um, get information and and things like that, so i think that's important. the public news station -
-2	6B	i don't think that's as important because -
-0	6B	um -
-2	6B	hopefully you have newspapers and - and local media that are covering a lot of those things.
-2	6B	and, um -
-2	6B	so i - i think -
-2	6B	that's - that's what i would think, right.
-2	6B	no.
-2	6B	i don't know if we should have some trunc public money in that so much.
-2	6B	football stadium? i wouldn't, no.
-2	6B	so, infrastructure and licensing. well, teaching certificates. yes, you have to have that.
-1	6B	right.
-2	6B	i would let that good. tattoo artist licenses? uh, forget that.
-1	6B	yeah.
-0	6B	uh-oh, did i just step on something?
-0	6B	i don't think so.
-0	6B	oh, here is comes. okay.
-1	6B	let's trunc we'll think about that. yeah.
-1	6B	put -
-1	6B	put that -
-1	6B	yeah. right.
-1	6B	that could go to someplace else.
-2	6B	nah.
-2	6B	no, massage certificates. nah. flagpole repair. no.
-0	6B	taxi stops.
-2	6B	mm-mm no, cuz they can do that themselves.
-1	6B	fishing the same as hunting tags, that's -
-1	6B	yes.
-1	6B	right.
-0	6B	what fun.
-1	6B	right.
-0	6B	so it's only this category that we need to cut more.
-2	6B	that's tough, cuz those are -
-1	6B	or add something back.
-1	6B	right.
-1	6B	yeah, those are pretty important.
-1	6B	well, we could add back.
-0	6B	did we have - did we have, um -
-0	6B	did we have speech therapy? i think we did.
-1	6B	we could do maybe -
-1	6B	right.
-1	6B	right.
-2	6B	bookkeeping, that's not - that's an elective sort of thing, it's - i think if - if we're going to keep something it's better to keep, like music or you know, even acting coaches because in some ways they can reach people -
-2	6B	that -
-1	6B	i don't know .
-1	6B	yeah.
-1	6B	you think so?
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-0	6B	bookkeeping.
-0	6B	from each of the others. is that right? cuz i think you - i think you said that.
-1	6B	okay.
-0	6B	public news.
-0	6B	soccer league.
-0	6B	mm-hmm.
-0	6B	dog catcher.
-0	6B	right. reusable - reusable bag.
-0	6B	football.
-0	6B	oh, okay.
-1	6B	maybe pest control cuz, if you have things like rats .
-0	6B	oh, did we?
-0	6B	yeah.
-0	6B	yeah.
-0	6B	are there -?
-1	6B	are the junior soccer league -?
-0	6B	i don't know.
-1	6B	yeah.
-1	6B	yeah.
-1	6B	i think - i think those might -
-1	6B	i think - yeah.
-1	6B	yeah, cuz we - we wanna have - yeah.
-1	6B	more i'm thinking more of these as targeting.
-1	6B	you know, disadvantaged youth and neighborhood programs.
-1	6B	so -
-1	6B	right.
-1	6B	right, exactly.
-0	6B	mm-hmm. massage.
-1	6B	maybe hunting tags. i mean in some ways - i mean i - that's more of a day i wanna - i wanna have.
-1	6B	fishing.
-2	6B	yeah, i'm kind of - i'm kind of, um - yeah, i'm of two minds there, cuz on the one hand, um, more bus stops more congestion and we have huge congestion problems. uh, and that's uh, so i think maybe -
-1	6B	well, i mean you can't stop trunc yeah, trunc it's hard to say. yeah.
-1	6B	should we have fishing licenses so that we - we don't over fish places? i don't know.
-1	6B	yeah, maybe we should.
-2	6B	it's hard to say, yeah. i mean, and what's trunc you think of boating licenses you know, wealthy people and whatever but on the other hand that's what trunc can protect the - the public too.
-0	6B	towing.
-0	6B	massage.
-0	6B	flagpole.
-1	6B	yeah. okay. okay. that sounds good.
-1	6B	we're ready - we're ready to go on to city council, or the county whatever.
-1	3I	it seems too - cases of whiskey, category in itself. maybe we should just put it over there, do you think? or trunc what do you think?
-1	3I	yeah. right.
-0	3I	right. okay.
-1	3I	egg trunc egg * timers, so that's more of a hardware thing. up by refrigerator magnets? i think that's a trunc i think that's a good idea.
-0	3I	bags of * peat moss.
-1	3I	we haven't gotten into - but maybe - maybe over * here, because it's kinda by -
-1	3I	small saws.
-1	3I	i think - well, i mean when i think about small saws and trunc you know doing yard word and doing - doing repairs and that sort of thing.
-1	3I	maybe sort of in - down - yeah, kind of in the household hardware.
-0	3I	large vests. oh, so do we have any - any -
-1	3I	i wonder if we could put them - yeah. maybe we could have - cuz i don't - right. cuz i don't see any clothing, so let's - yeah, let's start a clothing thing. and this - this is kind of too, because travel guides can kind of be - okay.
-0	3I	tow ropes.
-1	3I	boating. yeah.
-2	3I	uh, beneath it. yeah. whatever, yeah.
-1	3I	boxes of * donuts. okay let's put - let's put with ice cream, cuz we're in more with the treats.
-1	3I	cuz here we have sugar. i - i'd rather move the sugar with eggs, but i guess we're not supposed to move those.
-1	3I	oh, that's a good idea.
-1	3I	so then i wonder should with boxes of donuts be -
-1	3I	with cake mix and sugar? right.
-1	3I	is there deserts? yeah. and actually these are - are already prepared and and this is -
-1	3I	ingredients, so - okay, canvas bags. how bout the travel trunc well either boating - yeah, the boating. yeah. i think that's a good idea. wetsuits, there you go. right.
-0	3I	box of knives.
-0	3I	is that what it is? oh.
-1	3I	with the - yeah. right. underneath - let's put by - underneath the small saws, maybe. okay.
-0	3I	thick sweaters.
-1	3I	right.
-0	3I	backpacks.
-2	3I	or wait let's put it maybe right above there, so that it can kind of go both with - with trunc because vests and sweaters yeah okay.
-1	3I	wanna put by the cases of whiskey.
-0	3I	i don't know.
-1	3I	above it maybe.
-1	3I	so is that mean -? is that more with the boating then?
-1	3I	deck chairs on a boat?
-0	3I	so maybe we put it -
-1	3I	yeah maybe above it so i kind of can go either way.
-0	3I	right.
-0	3I	hmm.
-0	3I	right.
-0	3I	tweezers.
-0	3I	hmm.
-0	3I	that kind of - we don't have a personal -
-0	3I	grooming trunc ah!
-1	3I	sure.
-0	3I	right. mm-hmm.
-0	3I	okay.
-0	3I	bagels.
-1	3I	with the donuts? okay.
-0	3I	yeah.
-1	3I	pre-cut wood. let's put down here with the -
-1	3I	small saws and the - yeah. that - yeah.
-1	3I	right. right.
-0	3I	five pound weights.
-1	3I	i have no idea. i was trunc i guess i was thinking of - of - uh, physical fitness, but we don't really have that category, so let's just leave it there for now. we could always move it if we see something else that's -
-0	3I	face cream.
-1	3I	yeah, that's a good -
-1	3I	we could put em with the boating things.
-2	3I	or just somewhere - just somewhere up in that category. yeah.
-0	3I	right.
-2	3I	let's put this with the power cords.
-1	3I	should we put it up here as kind of a category of -?
-0	3I	household items of -
-1	3I	yeah, we don't have a category there really. yeah.
-1	3I	sticks of butter. we can put those with eggs.
-1	3I	let's put it next to the empty plastic jugs.
-0	3I	okay.
-1	3I	with the heavy cable, power cords, all of those. yeah.
-0	3I	shoelaces.
-0	3I	uh, what did we?
-1	3I	put it with the - with the clothing. right
-1	3I	right.
-1	3I	should we just stick that with these items that we're gonna put in the boat?
-0	3I	jugs.
-1	3I	boating supplies. mm-hmm.
-1	3I	let's put it down here with the pre-cut wood.
-1	3I	right. mm-hmm.
-1	3I	scissors. let's put that with the loose leaf paper.
-1	3I	small axes with the boxes of knives and pre-cut wood, all of these -
-1	3I	oh so some of these things could be with camping but - but they're also more trunc more -
-1	3I	in the - in you garage. yeah. okay.
-0	3I	yeah.
-1	3I	fishing net, up with the fish hooks.
-0	3I	right?
-1	3I	exactly.
-0	3I	beets.
-0	3I	uh.
-1	3I	we have soybeans. let's put it with - yeah.
-0	3I	paper bags.
-1	3I	that could go any place.
-1	3I	yeah. or trunc yeah, put em up there and they're also kind of trunc close to the loose leaf paper and just paper products. light jackets. we can put that up with the clothing.
-1	3I	can of peas. let's put it with the beets.
-0	3I	do you think?
-0	3I	toothpaste.
-1	3I	right. mm-hmm. right.
-0	3I	buckets.
-2	3I	or do you think they should be in the boating?
-1	3I	it could go either way.
-1	3I	okay. sure.
-0	3I	hats. okay.
-1	3I	in the clothing.
-2	3I	dried figs aren't fresh. but -
-1	3I	well -
-1	3I	well yeah. but these are basic more ingredients rather than food that's already prepared so let's - yeah. let's - these are kind of basic - basic food items.
-0	3I	yeah. mm-hmm.
-1	3I	down here with our -
-0	3I	right.
-1	3I	ah! you're - yes.
-1	3I	yeah. in fact let's - yeah. we could trunc well, yeah. that's good. it's all in that general area.
-1	3I	put it with the -
-1	3I	the -
-2	3I	and the i could put it right next to the ice cream.
-2	3I	let's put our temptations -
-1	3I	that's trunc let's put it with the boat.
-2	3I	well you - yeah, you could go either way. yeah.
-1	3I	and the socks and trunc right. mm-hmm.
-1	3I	yeah, let's put it kind of down a little -
-1	3I	yeah yeah. that siding's .
-0	3I	but anyway -
-0	3I	pouches?
-1	3I	yeah, probably in this area.
-1	3I	up with you're, um -
-1	3I	yeah.
-1	3I	right.
-1	3I	mm-hmm.
-1	3I	yes.
-1	3I	and the chocolate bars.
-2	3I	let's put it on the boat.
-1	3I	i think put it more with -
-1	3I	yeah.
-0	3I	yeah. does that look like?
-0	3I	we have mousetraps and pet food all by themselves , but that's - that's good, they can just stay there.
-1	3I	and the books of matches, they could go with -
-1	3I	they could go in any of the - they could go with -
-1	3I	you know, backpacks or - but - but yeah. we'll just leave em there.
-1	3I	cuz they can be used in any of those place.
-1	3I	yeah, i think it's good.
-1	3I	we've got it!
-1	6B	i'm wondering if we should -
-1	6B	kind of look through each list first and get a sense of how many -
-1	6B	we want to start eliminating from each column. do you have a sense of that, or what would your approach be?
-1	6B	so - so take it from the approach of what we're going to keep first, maybe? or i don't know.
-0	6B	right.
-2	6B	okay, so let's - let's go down and discuss it first and kind of see, like - for instance, math tutors i would certainly keep. yeah.
-2	6B	i would let go.
-2	6B	if it's really - if it's really a budget, you could get volunteers, or they could do some themselves.
-1	6B	i think i'd keep that maybe.
-1	6B	yeah.
-1	6B	i would let those go, maybe.
-0	6B	right.
-0	6B	right.
-0	6B	right.
-1	6B	i would let -
-1	6B	yeah, i would let that go and leave that to maybe a - yeah.
-1	6B	i think i'd leave that for the library.
-0	6B	special ed teachers.
-2	6B	you to have - you need to have special ed teachers. cooking classes, no. right.
-2	6B	yeah, you'd have to go by federal rules, than whatever. but, yeah - that's kind of iffy and you'd have to kind of see what the need is.
-1	6B	right.
-2	6B	no.
-2	6B	i'd say no.
-2	6B	i'd say no.
-2	6B	i mean it's nice but i - i think some, like math and some of those others are m-
-1	6B	right.
-1	6B	right.
-0	6B	custodians.
-1	6B	trunc right.
-1	6B	right.
-1	6B	right.
-1	6B	right.
-1	6B	right.
-1	6B	right.
-0	6B	okay.
-0	6B	let's keep that in mind and then we'll see. we may have to. yeah.
-0	6B	okay.
-0	6B	public health and safety.
-0	6B	reproductive education.
-1	6B	i think so.
-1	6B	right.
-1	6B	that's important.
-2	6B	that's-
-2	6B	right, because again maybe you could get some volunteers or -
-2	6B	yeah, i don't think that's -
-1	6B	right.
-1	6B	right.
-1	6B	right, i don't know that - yeah, that seems to be a huge thing that -
-1	6B	right, and it's not on par with these other things. yeah, that would -
-1	6B	i trunc i think that's right.
-1	6B	forget that.
-1	6B	yeah.
-1	6B	yes.
-2	6B	i don't think that's in - in this department really.
-1	6B	that's sort of in with the invasive species. it -
-1	6B	it's good, but it's not as important as - as these human -
-1	6B	um service programs.
-1	6B	yes, that's important.
-1	6B	that's important.
-1	6B	well, i think it's important, but again some of these things can be -
-1	6B	have volunteer organizing them more than -
-0	6B	egg farm.
-0	6B	six.
-0	6B	yeah.
-1	6B	we can go back, see what we're coming up with.
-2	6B	stray cat spaying. i - i don't think so
-0	6B	mm. i don't know.
-1	6B	foodbank yes.
-0	6B	mm.
-1	6B	yeah.
-1	6B	the same thing, yeah. yes. housing assistance, yes.
-0	6B	boy's um.
-1	6B	that's yeah. soccer, basketball, football.
-1	6B	yeah, trunc i - i - i - let those go too.
-1	6B	i think that's -
-1	6B	i -
-2	6B	i think the public access station i think would be where people can go for social services and um, get information and and things like that, so i think that's important. the public news station -
-2	6B	i don't think that's as important because -
-0	6B	um -
-2	6B	hopefully you have newspapers and - and local media that are covering a lot of those things.
-2	6B	and, um -
-2	6B	so i - i think -
-2	6B	that's - that's what i would think, right.
-2	6B	no.
-2	6B	i don't know if we should have some trunc public money in that so much.
-2	6B	football stadium? i wouldn't, no.
-2	6B	so, infrastructure and licensing. well, teaching certificates. yes, you have to have that.
-1	6B	right.
-2	6B	i would let that good. tattoo artist licenses? uh, forget that.
-1	6B	yeah.
-0	6B	uh-oh, did i just step on something?
-0	6B	i don't think so.
-0	6B	oh, here is comes. okay.
-1	6B	let's trunc we'll think about that. yeah.
-1	6B	put -
-1	6B	put that -
-1	6B	yeah. right.
-1	6B	that could go to someplace else.
-2	6B	nah.
-2	6B	no, massage certificates. nah. flagpole repair. no.
-0	6B	taxi stops.
-2	6B	mm-mm no, cuz they can do that themselves.
-1	6B	fishing the same as hunting tags, that's -
-1	6B	yes.
-1	6B	right.
-0	6B	what fun.
-1	6B	right.
-0	6B	so it's only this category that we need to cut more.
-2	6B	that's tough, cuz those are -
-1	6B	or add something back.
-1	6B	right.
-1	6B	yeah, those are pretty important.
-1	6B	well, we could add back.
-0	6B	did we have - did we have, um -
-0	6B	did we have speech therapy? i think we did.
-1	6B	we could do maybe -
-1	6B	right.
-1	6B	right.
-2	6B	bookkeeping, that's not - that's an elective sort of thing, it's - i think if - if we're going to keep something it's better to keep, like music or you know, even acting coaches because in some ways they can reach people -
-2	6B	that -
-1	6B	i don't know .
-1	6B	yeah.
-1	6B	you think so?
-0	6B	mm-hmm.
-0	6B	mm-hmm.
-0	6B	bookkeeping.
-0	6B	from each of the others. is that right? cuz i think you - i think you said that.
-1	6B	okay.
-0	6B	public news.
-0	6B	soccer league.
-0	6B	mm-hmm.
-0	6B	dog catcher.
-0	6B	right. reusable - reusable bag.
-0	6B	football.
-0	6B	oh, okay.
-1	6B	maybe pest control cuz, if you have things like rats .
-0	6B	oh, did we?
-0	6B	yeah.
-0	6B	yeah.
-0	6B	are there -?
-1	6B	are the junior soccer league -?
-0	6B	i don't know.
-1	6B	yeah.
-1	6B	yeah.
-1	6B	i think - i think those might -
-1	6B	i think - yeah.
-1	6B	yeah, cuz we - we wanna have - yeah.
-1	6B	more i'm thinking more of these as targeting.
-1	6B	you know, disadvantaged youth and neighborhood programs.
-1	6B	so -
-1	6B	right.
-1	6B	right, exactly.
-0	6B	mm-hmm. massage.
-1	6B	maybe hunting tags. i mean in some ways - i mean i - that's more of a day i wanna - i wanna have.
-1	6B	fishing.
-2	6B	yeah, i'm kind of - i'm kind of, um - yeah, i'm of two minds there, cuz on the one hand, um, more bus stops more congestion and we have huge congestion problems. uh, and that's uh, so i think maybe -
-1	6B	well, i mean you can't stop trunc yeah, trunc it's hard to say. yeah.
-1	6B	should we have fishing licenses so that we - we don't over fish places? i don't know.
-1	6B	yeah, maybe we should.
-2	6B	it's hard to say, yeah. i mean, and what's trunc you think of boating licenses you know, wealthy people and whatever but on the other hand that's what trunc can protect the - the public too.
-0	6B	towing.
-0	6B	massage.
-0	6B	flagpole.
-1	6B	yeah. okay. okay. that sounds good.
-1	6B	we're ready - we're ready to go on to city council, or the county whatever.
+1	6B	right .
+1	6B	right , exactly .
+0	6B	mm-hmm . massage .
+1	6B	maybe hunting tags . i mean in some ways - i mean i - that 's more of a day i wan na - i wan na have .
+1	6B	fishing .
+2	6B	yeah , i 'm kind of - i 'm kind of , um - yeah , i 'm of two minds there , cuz on the one hand , um , more bus stops more congestion and we have huge congestion problems . uh , and that 's uh , so i think maybe -
+1	6B	well , i mean you ca n't stop trunc yeah , trunc it 's hard to say . yeah .
+1	6B	should we have fishing licenses so that we - we do n't over fish places ? i do n't know .
+1	6B	yeah , maybe we should .
+2	6B	it 's hard to say , yeah . i mean , and what 's trunc you think of boating licenses you know , wealthy people and whatever but on the other hand that 's what trunc can protect the - the public too .
+0	6B	towing .
+0	6B	massage .
+0	6B	flagpole .
+1	6B	yeah . okay . okay . that sounds good .
+1	6B	we 're ready - we 're ready to go on to city council , or the county whatever .

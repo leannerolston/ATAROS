@@ -1,278 +1,278 @@
-0	3I	okay . 
-0	3I	cases of whiskey . 
-0	3I	i think so , yep . 
-1	3I	with the food ? sure . any particular place ? 
-1	3I	by the cake mix , the eggs , ice cream and sugar ? 
-0	3I	kay . 
-0	3I	next one tweezers ! 
-1	3I	good . 
-0	3I	backpacks ? 
-1	3I	you think so ? 
-0	3I	five-pound weights . 
-1	3I	i - yeah , for some reason i would say so too . 
-0	3I	alright , bundles of sticks . 
-1	3I	sure . 
-0	3I	fishing nets . 
-0	3I	small axes . 
-1	3I	does that seem right to you ? 
-1	3I	sure . electric heaters . 
-1	3I	next trunc power cords ? 
-1	3I	scissors next to tweezers ? 
-0	3I	books . 
-1	3I	okay . 
-0	3I	bagels . 
-0	3I	bars of soap . 
-1	3I	here , you wanna take a stack ? 
-1	3I	um , by eggs , maybe ? 
-1	3I	i don't know , cake mix ? 
-1	3I	by the bars of soap ? 
-1	3I	well maybe by the siding . that seems like a outdoorsy - 
-1	3I	um , by the bags of peat moss ? 
-1	3I	do you think ? 
-1	3I	sure ! 
-1	3I	uh , next to the soybeans . 
-2	3I	mm , next to the beets ? or across from the soybeans ? 
-0	3I	um - 
-1	3I	somewhere in that same aisle ? 
-1	3I	sure . 
-1	3I	mm-hm also that same aisle trunc 
-1	3I	sure . 
-1	3I	sounds good . 
-0	3I	okay . face cream . 
-1	3I	next to the toothpaste ? 
-0	3I	liters of water . 
-1	3I	next to the juice . 
-2	3I	you think ? kay . 
-0	3I	heavy cable . 
-1	3I	next to the buckets ? 
-2	3I	tow ropes oh , that 'd be good near the boating supplies but i don't know if we have - don't know if that counts , it 'll kinda hang off the top of the aisle . 
-0	3I	rolls of duct tape . 
-1	3I	next to the heavy cables , do you think ? 
-2	3I	half-inch tubing . i feel like that should all go in the same area . 
-1	3I	trunc yeah somewhere in that first aisle . 
-1	3I	sure . 
-1	3I	yep . 
-1	3I	maybe somewhere - 
-1	3I	oh , i don't know . i was gonna say by the refrigerator magnet , and random - 
-1	3I	i don't really know . 
-2	3I	so far that doesn't seem to match any - 
-2	3I	categories that we have . 
-1	3I	yeah , that 's true . 
-1	3I	sure ! it 'll be our catchall . 
-2	3I	i say that goes by refrigerator magnets , too . that 's the random stuff . 
-1	3I	sure yeah . 
-1	3I	or - ooh , we already put it . i was gonna say by backpacks and books it coulda been good too , but that 's fine . 
-2	3I	somewhere in that first aisle , i would say . 
-1	3I	sure yeah , trunc right there . that sounds good . 
-1	3I	how bout next to the siding ? 
-1	3I	um - yeah , on that first aisle somewhere . 
-1	3I	sure . 
-1	3I	okay books of matches . somewhere in that same area ? 
-1	3I	yeah . gas-powered cookstoves . oh , that goes near - 
-2	3I	backpacks , do you think ? is that , like , outdoor backpacking , or - ? 
-1	3I	cooking - pouches of oatmeal . 
-1	3I	by the - 
-1	3I	cake mix . 
-0	3I	kay . 
-1	3I	box of doughnuts , same place ? 
-1	3I	chocolate bars . sounds like the same place to me . 
-2	3I	yeah ? 
-0	3I	socks . 
-2	3I	socks are kinda random . put them by the pet food , we don't have anything down there . 
-1	3I	okay . 
-2	3I	and shoelaces , too ? 
-0	3I	kay . 
-1	3I	hm . sure the clothing and pet food section . 
-1	3I	sounds good . 
-1	3I	sure . 
-1	3I	yeah somewhere over there . sure . 
-2	3I	somewhere over in that first aisle , yeah . 
-2	3I	sure ! 
-2	3I	maybe it's - maybe it's fishing books . eh , just put it next to the books . 
-2	3I	close enough . 
-2	3I	pre-cut wood should also go over here . 
-1	3I	light jackets , over here ? 
-0	3I	wetsuits . 
-1	3I	over here , too ? 
-2	3I	or is that more over here ? 
-2	3I	let's put it over here . 
-2	3I	and the last one is hats . so , over here too . 
-2	3I	feel like our pet food's kinda - 
-2	3I	outta place , there . 
-0	3I	okay . 
-1	3I	no . 
-2	3I	i don't think we 're very good at organizing stores based on one item at a time , but that 's okay . 
-1	6B	well , should we start with education programs ? 
-0	6B	alright . 
-0	6B	math tutors . 
-1	6B	i do too . 
-0	6B	assistant cooks . 
-1	6B	they 're all gonna trunc be important . 
-1	6B	yeah . 
-2	6B	okay , so assistant cooks is a possibility to cut , right ? 
-1	6B	sex ed seems pretty important to me custodians are pretty important . 
-2	6B	speech therapy , i 'm biased , i think it's really important . 
-0	6B	football equipment . 
-1	6B	yeah . that 's something that - 
-1	6B	could be fundraised for . 
-2	6B	okay , so potentially two . 
-0	6B	acting coaches . 
-1	6B	 i would kinda cut it , but - 
-1	6B	okay . 
-0	6B	poetry books . 
-1	6B	it is for sure let's see . 
-1	6B	yep . 
-1	6B	yeah . 
-2	6B	cooking classes could be cut . 
-2	6B	can learn how to do that at home . 
-0	6B	sugar-free juice machines . 
-2	6B	that could be cut , too , theoretically , if - 
-1	6B	do you think it's important ? 
-0	6B	mm-hm . 
-1	6B	mm-hm . 
-0	6B	yeah . 
-1	6B	i agree . 
-1	6B	i agree . 
-1	6B	i think music is important , for sure . 
-1	6B	so , which ones do you wanna cut for sure ? 
-2	6B	i think we 're really in agreement about football equipment . 
-1	6B	acting coaches ? 
-1	6B	agree . 
-1	6B	yeah , assistant cooks . 
-1	6B	cooking classes ? 
-1	6B	do you agree ? 
-1	6B	do those seem - 
-0	6B	it's four . 
-1	6B	should we ? 
-0	6B	five . 
-1	6B	think we 're - 
-1	6B	yes , we are . alright ! five . public health and safety . 
-0	6B	reproductive education . 
-0	6B	i think so . 
-0	6B	maybe it's - 
-1	6B	i don't know . 
-1	6B	well i guess theoretically if we already have it , we could cut it , right ? 
-1	6B	i don't know . 
-1	6B	mm-hm . 
-2	6B	i - well ,  i didn't get a chicken pox vaccination . i think a lot of kids justnaturally get chicken pox and then they 're fine . 
-1	6B	trunc trunc don't they ? 
-1	6B	i think ! i mean - mm-hm . 
-0	6B	oh really ? did you have the vaccination ? 
-0	6B	really ? 
-2	6B	yeah , i think that 's really . mm-hm . that 's what i 've heard . 
-1	6B	yeah . 
-1	6B	i trunc i don't think so , i - i think you - 
-1	6B	trunc most people just get it when they 're a kid , and then - 
-1	6B	i could be wrong , though . 
-1	6B	so potentially we could cut that one . let's keep going , but - 
-0	6B	invasive species removal . 
-1	6B	i don't know . 
-1	6B	it's important , but i 'm not sure if it's on the  top of the list . 
-2	6B	potentially . kay . s_t_d_ education . pretty important . 
-1	6B	that 's true . 
-1	6B	and reproductive education . 
-2	6B	well , we could theoretically cut one or the other of those and makes the other one take over . 
-2	6B	kay , toxic waste disposal , that 's really important . 
-1	6B	do you wanna read them ? just for - 
-1	6B	important , i think . 
-0	6B	i don't know what that means . 
-0	6B	do you ? 
-0	6B	okay . 
-1	6B	well let's keep it for now , in case it's important . 
-0	6B	sex offender database . 
-1	6B	i do too . 
-0	6B	veterans - 
-1	6B	i do too . 
-1	6B	i think so . yeah , i think that 's less important . i - 
-2	6B	pre-natal checkups , very important . neighborhood watch support , that 's - 
-2	6B	that 's pretty important . so if we were to get rid of four - 
-2	6B	i think chicken pox . 
-1	6B	invasive species ? 
-1	6B	one of the educations . either reproductive or s_t_d_ , do you agree ? 
-1	6B	okay . 
-0	6B	oh really ? 
-2	6B	ok . well , i wonder if reproductive has to do with - 
-1	6B	like , even - 
-1	6B	childbirth , and - 
-1	6B	caring for children . 
-1	6B	like , you know - 
-1	6B	pre-natal care . 
-1	6B	well , weed control trunc we can take out . 
-0	6B	so - 
-1	6B	that 's three . we need one more . 
-1	6B	sure , since we don't know what it is . 
-1	6B	okay , recreation and public services . go ahead , you can read them . 
-1	6B	that 's a good thing . i don't know . 
-1	6B	okay . 
-1	6B	that 's pretty important . 
-1	6B	yeah . 
-1	6B	yeah that is true . 
-1	6B	i know a lot of churches run food banks , too . 
-1	6B	mm-hm . 
-0	6B	yeah . 
-2	6B	oh , i like the idea , but that  is something that could be cut . 
-1	6B	i don't know . 
-2	6B	as far as the level importance , it seems  less important than soup kitchens to me . 
-1	6B	stays ? yeah . housing assistance , think stays . 
-0	6B	dog catcher - 
-1	6B	i don't know . 
-0	6B	i think that 's th- 
-0	6B	they take pets to the pound . 
-0	6B	if they 're out running around . 
-1	6B	i don't know if that 's important or not . i 've never really been exposed that much that . 
-1	6B	so . 
-1	6B	potentially we could trunc cut it . 
-0	6B	boy's basketball club 
-2	6B	i 'd rather keep the soccer league , cuz it sounds like it's for everyone . 
-1	6B	than the basketball club . 
-0	6B	public access station ? 
-0	6B	what does that mean ? 
-0	6B	kay . 
-0	6B	okay . 
-0	6B	okay . 
-0	6B	yeah , i have . 
-0	6B	veterinary 
-1	6B	that 's important , but it also doesn't seem like it 'd be trunc funded by the community . 
-1	6B	by the county , rather . 
-0	6B	football stadium upkeep and pest control okay . 
-1	6B	so if we 're to cut four - 
-0	6B	we kinda said - 
-1	6B	kitten and puppy adoption . 
-1	6B	right ? 
-1	6B	dog catcher . 
-1	6B	do we agree ? 
-0	6B	um - 
-1	6B	boy's basketball club . 
-0	6B	and - 
-1	6B	sure . we 'll - we 'll let a private one take over . 
-0	6B	okay . 
-0	6B	go for it . 
-1	6B	i agree . 
-1	6B	i agree . 
-1	6B	that 's helpful . 
-1	6B	yeah , that 's true . 
-0	6B	mm-hm . 
-0	6B	uh-huh . 
-1	6B	okay . 
-0	6B	i don't know if - 
-0	6B	i don't know much about that . 
-2	6B	um - but it's not very important to me , personally , so - 
-1	6B	maybe . 
-1	6B	so , trunc potentially trunc additional bus stops and tattoo artist licenses . 
-1	6B	i agree . 
-1	6B	yeah . i think that 's pretty important . 
-1	6B	i think that 's important to be funding . 
-1	6B	i would also say that 's important for control . 
-1	6B	people don't hunt too much . 
-1	6B	sure . 
-1	6B	i would say also not as important . 
-1	6B	i don't know . 
-0	6B	yeah . 
-2	6B	i don't know . let's cut that one . 
-1	6B	let's keep it . keep the last three . 
-0	6B	trunc so - 
-1	6B	the ones we we 're were additional bus stops , tattoo artist licenses - 
-1	6B	towing services , trunc trunc massage certificates , and taxi stops , so we can keep one of those . which one do we wanna keep ? 
-1	6B	should we keep that one ? 
-1	6B	sounds good . 
-0	6B	alright . 
+0	3I	okay .
+0	3I	cases of whiskey .
+0	3I	i think so , yep .
+1	3I	with the food ? sure . any particular place ?
+1	3I	by the cake mix , the eggs , ice cream and sugar ?
+0	3I	kay .
+0	3I	next one tweezers !
+1	3I	good .
+0	3I	backpacks ?
+1	3I	you think so ?
+0	3I	five-pound weights .
+1	3I	i - yeah , for some reason i would say so too .
+0	3I	alright , bundles of sticks .
+1	3I	sure .
+0	3I	fishing nets .
+0	3I	small axes .
+1	3I	does that seem right to you ?
+1	3I	sure . electric heaters .
+1	3I	next trunc power cords ?
+1	3I	scissors next to tweezers ?
+0	3I	books .
+1	3I	okay .
+0	3I	bagels .
+0	3I	bars of soap .
+1	3I	here , you wan na take a stack ?
+1	3I	um , by eggs , maybe ?
+1	3I	i do n't know , cake mix ?
+1	3I	by the bars of soap ?
+1	3I	well maybe by the siding . that seems like a outdoorsy -
+1	3I	um , by the bags of peat moss ?
+1	3I	do you think ?
+1	3I	sure !
+1	3I	uh , next to the soybeans .
+2	3I	mm , next to the beets ? or across from the soybeans ?
+0	3I	um -
+1	3I	somewhere in that same aisle ?
+1	3I	sure .
+1	3I	mm-hm also that same aisle trunc
+1	3I	sure .
+1	3I	sounds good .
+0	3I	okay . face cream .
+1	3I	next to the toothpaste ?
+0	3I	liters of water .
+1	3I	next to the juice .
+2	3I	you think ? kay .
+0	3I	heavy cable .
+1	3I	next to the buckets ?
+2	3I	tow ropes oh , that 'd be good near the boating supplies but i do n't know if we have - do n't know if that counts , it 'll kinda hang off the top of the aisle .
+0	3I	rolls of duct tape .
+1	3I	next to the heavy cables , do you think ?
+2	3I	half-inch tubing . i feel like that should all go in the same area .
+1	3I	trunc yeah somewhere in that first aisle .
+1	3I	sure .
+1	3I	yep .
+1	3I	maybe somewhere -
+1	3I	oh , i do n't know . i was gon na say by the refrigerator magnet , and random -
+1	3I	i do n't really know .
+2	3I	so far that does n't seem to match any -
+2	3I	categories that we have .
+1	3I	yeah , that 's true .
+1	3I	sure ! it 'll be our catchall .
+2	3I	i say that goes by refrigerator magnets , too . that 's the random stuff .
+1	3I	sure yeah .
+1	3I	or - ooh , we already put it . i was gon na say by backpacks and books it coulda been good too , but that 's fine .
+2	3I	somewhere in that first aisle , i would say .
+1	3I	sure yeah , trunc right there . that sounds good .
+1	3I	how bout next to the siding ?
+1	3I	um - yeah , on that first aisle somewhere .
+1	3I	sure .
+1	3I	okay books of matches . somewhere in that same area ?
+1	3I	yeah . gas-powered cookstoves . oh , that goes near -
+2	3I	backpacks , do you think ? is that , like , outdoor backpacking , or - ?
+1	3I	cooking - pouches of oatmeal .
+1	3I	by the -
+1	3I	cake mix .
+0	3I	kay .
+1	3I	box of doughnuts , same place ?
+1	3I	chocolate bars . sounds like the same place to me .
+2	3I	yeah ?
+0	3I	socks .
+2	3I	socks are kinda random . put them by the pet food , we do n't have anything down there .
+1	3I	okay .
+2	3I	and shoelaces , too ?
+0	3I	kay .
+1	3I	hm . sure the clothing and pet food section .
+1	3I	sounds good .
+1	3I	sure .
+1	3I	yeah somewhere over there . sure .
+2	3I	somewhere over in that first aisle , yeah .
+2	3I	sure !
+2	3I	maybe it 's - maybe it 's fishing books . eh , just put it next to the books .
+2	3I	close enough .
+2	3I	pre-cut wood should also go over here .
+1	3I	light jackets , over here ?
+0	3I	wetsuits .
+1	3I	over here , too ?
+2	3I	or is that more over here ?
+2	3I	let 's put it over here .
+2	3I	and the last one is hats . so , over here too .
+2	3I	feel like our pet food 's kinda -
+2	3I	outta place , there .
+0	3I	okay .
+1	3I	no .
+2	3I	i do n't think we 're very good at organizing stores based on one item at a time , but that 's okay .
+1	6B	well , should we start with education programs ?
+0	6B	alright .
+0	6B	math tutors .
+1	6B	i do too .
+0	6B	assistant cooks .
+1	6B	they 're all gon na trunc be important .
+1	6B	yeah .
+2	6B	okay , so assistant cooks is a possibility to cut , right ?
+1	6B	sex ed seems pretty important to me custodians are pretty important .
+2	6B	speech therapy , i 'm biased , i think it 's really important .
+0	6B	football equipment .
+1	6B	yeah . that 's something that -
+1	6B	could be fundraised for .
+2	6B	okay , so potentially two .
+0	6B	acting coaches .
+1	6B	i would kinda cut it , but -
+1	6B	okay .
+0	6B	poetry books .
+1	6B	it is for sure let 's see .
+1	6B	yep .
+1	6B	yeah .
+2	6B	cooking classes could be cut .
+2	6B	can learn how to do that at home .
+0	6B	sugar-free juice machines .
+2	6B	that could be cut , too , theoretically , if -
+1	6B	do you think it 's important ?
+0	6B	mm-hm .
+1	6B	mm-hm .
+0	6B	yeah .
+1	6B	i agree .
+1	6B	i agree .
+1	6B	i think music is important , for sure .
+1	6B	so , which ones do you wan na cut for sure ?
+2	6B	i think we 're really in agreement about football equipment .
+1	6B	acting coaches ?
+1	6B	agree .
+1	6B	yeah , assistant cooks .
+1	6B	cooking classes ?
+1	6B	do you agree ?
+1	6B	do those seem -
+0	6B	it 's four .
+1	6B	should we ?
+0	6B	five .
+1	6B	think we 're -
+1	6B	yes , we are . alright ! five . public health and safety .
+0	6B	reproductive education .
+0	6B	i think so .
+0	6B	maybe it 's -
+1	6B	i do n't know .
+1	6B	well i guess theoretically if we already have it , we could cut it , right ?
+1	6B	i do n't know .
+1	6B	mm-hm .
+2	6B	i - well , i did n't get a chicken pox vaccination . i think a lot of kids just naturally get chicken pox and then they 're fine .
+1	6B	trunc trunc do n't they ?
+1	6B	i think ! i mean - mm-hm .
+0	6B	oh really ? did you have the vaccination ?
+0	6B	really ?
+2	6B	yeah , i think that 's really . mm-hm . that 's what i 've heard .
+1	6B	yeah .
+1	6B	i trunc i do n't think so , i - i think you -
+1	6B	trunc most people just get it when they 're a kid , and then -
+1	6B	i could be wrong , though .
+1	6B	so potentially we could cut that one . let 's keep going , but -
+0	6B	invasive species removal .
+1	6B	i do n't know .
+1	6B	it 's important , but i 'm not sure if it 's on the top of the list .
+2	6B	potentially . kay . s_t_d_ education . pretty important .
+1	6B	that 's true .
+1	6B	and reproductive education .
+2	6B	well , we could theoretically cut one or the other of those and makes the other one take over .
+2	6B	kay , toxic waste disposal , that 's really important .
+1	6B	do you wan na read them ? just for -
+1	6B	important , i think .
+0	6B	i do n't know what that means .
+0	6B	do you ?
+0	6B	okay .
+1	6B	well let 's keep it for now , in case it 's important .
+0	6B	sex offender database .
+1	6B	i do too .
+0	6B	veterans -
+1	6B	i do too .
+1	6B	i think so . yeah , i think that 's less important . i -
+2	6B	pre-natal checkups , very important . neighborhood watch support , that 's -
+2	6B	that 's pretty important . so if we were to get rid of four -
+2	6B	i think chicken pox .
+1	6B	invasive species ?
+1	6B	one of the educations . either reproductive or s_t_d_ , do you agree ?
+1	6B	okay .
+0	6B	oh really ?
+2	6B	ok. well , i wonder if reproductive has to do with -
+1	6B	like , even -
+1	6B	childbirth , and -
+1	6B	caring for children .
+1	6B	like , you know -
+1	6B	pre-natal care .
+1	6B	well , weed control trunc we can take out .
+0	6B	so -
+1	6B	that 's three . we need one more .
+1	6B	sure , since we do n't know what it is .
+1	6B	okay , recreation and public services . go ahead , you can read them .
+1	6B	that 's a good thing . i do n't know .
+1	6B	okay .
+1	6B	that 's pretty important .
+1	6B	yeah .
+1	6B	yeah that is true .
+1	6B	i know a lot of churches run food banks , too .
+1	6B	mm-hm .
+0	6B	yeah .
+2	6B	oh , i like the idea , but that is something that could be cut .
+1	6B	i do n't know .
+2	6B	as far as the level importance , it seems less important than soup kitchens to me .
+1	6B	stays ? yeah . housing assistance , think stays .
+0	6B	dog catcher -
+1	6B	i do n't know .
+0	6B	i think that 's th-
+0	6B	they take pets to the pound .
+0	6B	if they 're out running around .
+1	6B	i do n't know if that 's important or not . i 've never really been exposed that much that .
+1	6B	so .
+1	6B	potentially we could trunc cut it .
+0	6B	boy 's basketball club
+2	6B	i 'd rather keep the soccer league , cuz it sounds like it 's for everyone .
+1	6B	than the basketball club .
+0	6B	public access station ?
+0	6B	what does that mean ?
+0	6B	kay .
+0	6B	okay .
+0	6B	okay .
+0	6B	yeah , i have .
+0	6B	veterinary
+1	6B	that 's important , but it also does n't seem like it 'd be trunc funded by the community .
+1	6B	by the county , rather .
+0	6B	football stadium upkeep and pest control okay .
+1	6B	so if we 're to cut four -
+0	6B	we kinda said -
+1	6B	kitten and puppy adoption .
+1	6B	right ?
+1	6B	dog catcher .
+1	6B	do we agree ?
+0	6B	um -
+1	6B	boy 's basketball club .
+0	6B	and -
+1	6B	sure . we 'll - we 'll let a private one take over .
+0	6B	okay .
+0	6B	go for it .
+1	6B	i agree .
+1	6B	i agree .
+1	6B	that 's helpful .
+1	6B	yeah , that 's true .
+0	6B	mm-hm .
+0	6B	uh-huh .
+1	6B	okay .
+0	6B	i do n't know if -
+0	6B	i do n't know much about that .
+2	6B	um - but it 's not very important to me , personally , so -
+1	6B	maybe .
+1	6B	so , trunc potentially trunc additional bus stops and tattoo artist licenses .
+1	6B	i agree .
+1	6B	yeah . i think that 's pretty important .
+1	6B	i think that 's important to be funding .
+1	6B	i would also say that 's important for control .
+1	6B	people do n't hunt too much .
+1	6B	sure .
+1	6B	i would say also not as important .
+1	6B	i do n't know .
+0	6B	yeah .
+2	6B	i do n't know . let 's cut that one .
+1	6B	let 's keep it . keep the last three .
+0	6B	trunc so -
+1	6B	the ones we we 're were additional bus stops , tattoo artist licenses -
+1	6B	towing services , trunc trunc massage certificates , and taxi stops , so we can keep one of those . which one do we wan na keep ?
+1	6B	should we keep that one ?
+1	6B	sounds good .
+0	6B	alright .

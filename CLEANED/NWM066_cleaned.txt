@@ -1,212 +1,212 @@
-0	3I	okay . so - 
-1	3I	boating and siding and power cords . that 's hardware . 
-1	3I	here's travel guides , and toys and mouse traps , and then pet food is in with that . 
-1	3I	yeah , and then there 's toilet paper , and paper goods i guess , and that 's all food . 
-1	3I	yeah , food . that 's food . yeah . okay . 
-1	3I	tubing . yeah . right . yeah . 
-1	3I	yeah , that 's good . yeah . 
-0	3I	yeah . let's see . 
-0	3I	tweezers . 
-0	3I	uh 
-1	3I	yeah , so they would be - 
-1	3I	yeah , it wouldn't be with food , would it ? that would be - 
-1	3I	tweezers . okay , yeah 
-1	3I	yeah . yep . 
-1	3I	yeah okay . 
-2	3I	yeah . right . sticks , here we go . yes , i know ! bars of soap . here we go . next to toothpaste , yeah . 
-1	3I	yeah . 
-1	3I	here we go good . 
-1	3I	empty plastic jugs , that 's kinda camping . 
-1	3I	yeah . 
-1	3I	yeah , let's do it over there . okay . 
-0	3I	uh-huh what is that ? 
-0	3I	i know . big - 
-2	3I	thick trunc no , there 's no clothing up here . 
-1	3I	so we get to decide . 
-1	3I	yeah yeah . 
-1	3I	yeah , sure okay yeah okay . fish hooks . 
-1	3I	okay , next to boating supplies . 
-1	3I	mm-hm . mm-hm oh yeah , there we go . that 's good . yeah . 
-0	3I	boxes of donuts . 
-1	3I	mmmm cake mix , sugar - 
-1	3I	it's kind of - ice cream , eggs , this sweet - 
-1	3I	junk . 
-1	3I	okay . yeah . okay . 
-2	3I	that 's a baking section and this is finished food , like ice cream . yeah this is the guilty pleasure one . that 's right . 
-0	3I	trunc okay , we don't have , um - 
-0	3I	the paper - 
-1	3I	but - yeah - we could put it with toys , or shoelaces , or pet food , or mouse traps . 
-0	3I	yeah . 
-1	3I	yeah , okay . 
-1	3I	let's see how that goes . 
-0	3I	okay . 
-1	3I	yeah yeah right . 
-1	3I	you bet . 
-1	3I	mm-hm . mm-hm . 
-1	3I	yeah yeah yeah . 
-0	3I	egg trunc oh , here we are with egg timers once again . 
-1	3I	yeah . trunc uh , right . uh , it's a household - 
-1	3I	hardware . okay , yeah . yeah , okay uh . 
-1	3I	yeah good yeah . scissors . 
+0	3I	okay . so -
+1	3I	boating and siding and power cords . that 's hardware .
+1	3I	here 's travel guides , and toys and mouse traps , and then pet food is in with that .
+1	3I	yeah , and then there 's toilet paper , and paper goods i guess , and that 's all food .
+1	3I	yeah , food . that 's food . yeah . okay .
+1	3I	tubing . yeah . right . yeah .
+1	3I	yeah , that 's good . yeah .
+0	3I	yeah . let 's see .
+0	3I	tweezers .
+0	3I	uh
+1	3I	yeah , so they would be -
+1	3I	yeah , it would n't be with food , would it ? that would be -
+1	3I	tweezers . okay , yeah
+1	3I	yeah . yep .
+1	3I	yeahokay .
+2	3I	yeah . right . sticks , here we go . yes , i know ! bars of soap . here we go . next to toothpaste , yeah .
 1	3I	yeah .
-1	3I	um there kay 
-2	3I	face cream that 's gonna be with the bathroom stuff , yeah okay , sticks of butter ! that 's baking . 
-1	3I	right ? right there ? okay with sugar and pouches of oatmeal . 
-2	3I	yum . 
-1	3I	okay . alright . alright . there we go . 
-0	3I	large cups ! 
-1	3I	large cups . okay . yeah uh 
-2	3I	uh let's put it over here with the - 
-1	3I	yeah . yeah . 
-1	3I	i 'll put it here for travel . yeah . 
-2	3I	fishnet , there we go . sure . 
-1	3I	yeah . 
-1	3I	yeah . 
-1	3I	light trunc oh , clothing . we were just figuring out about clothing . yeah , okay . yeah . 
-1	3I	there we go . yeah . 
-1	3I	yeah . liters of water ? 
-2	3I	could be camping stuff . it could be truncnah , it's probably more like camping stuff . 
-1	3I	yeah yeah . 
-1	3I	mmkay . 
-1	3I	yeah . 
-0	3I	beets . 
-1	3I	tool section . 
-1	3I	yeah . 
-1	3I	yeah , we don't have a garden section . these are the same as the lists so we sorta don't - yeah i think so . 
-1	3I	yeah . 
-1	3I	yeah yeah , 
-0	3I	bagels , yeah . 
-1	3I	yeah . 
-1	3I	well not to be confused - yeah , guess it would . yeah she say we could move it ? yeah , she said we could move it . 
-1	3I	yeah yeah right that 's broke the rules . 
-1	3I	we moved it . yeah . 
-1	3I	dried figs is - 
-1	3I	we 're not using this at all , so you wan- 
-1	3I	yeah , so - 
-1	3I	yeah , start putting in the food - more food stuff there . 
-2	3I	hats . hats would go over here in the - 
-1	3I	in the , uh - with heavy coats and stuff . 
-0	3I	yeah . 
-1	3I	books of matches would be there . 
-1	3I	easy enough . 
-1	3I	yeah that 's all the guilty stuff , yeah ? right . 
-1	3I	oh yeah that 's right . 
-1	3I	bottles of juice . yeah 
-2	3I	flags . flags are kinda camping - deck chair kinda stuff . how does that sound ? 
-1	3I	yeah , we don't - oh , books . um - 
-1	3I	pet food , okay . 
-1	3I	loose leaf paper . i 'll go - yeah , trunc 
-1	3I	small saws . yeah . 
-1	3I	yeah . 
-1	3I	yeah okay . 
-0	3I	oh hm . 
-2	3I	here's bundles of sticks , small axes , and power cords . maybe we should just put em there . 
-1	3I	yeah . huh . 
-1	3I	this is a good store so , okay . 
-1	3I	yeah yeah . 
-2	3I	yeah good like bottles of juice and whiskey right next to one another . 
-1	3I	backpacks would be - 
-1	3I	mm , travel guides . yeah . yeah . okay . yeah . 
-0	3I	oh ,  box knives . 
-0	3I	yeah . 
-1	3I	okay , yeah . 
-2	3I	okay , good . oh , rolls of duct tape . that 's good yeah , that 's great . 
-2	3I	tow ropes i think that should be over here . that 's a heavy duty thing . 
-1	3I	wetsuits , that 's going - that 's what we had to have beforequal laughing - yeah . precut wood , that 's here . 
-2	3I	that 's a big section . yeah okay . 
-2	3I	yeah yeah , we did it . 
-0	6B	hm . 
-0	6B	what do you think , starting on the first one , what do you think assistant cook involves ? 
-0	6B	i dunno what that means . in school . i guess that 's in schools . in the schools that they had more people in the lunch room . yeah . 
-0	6B	ah , yeah . 
-0	6B	mm . 
-1	6B	yeah , i would trunc i agree . i agree . i think those are nice , but it's not something you really - i mean all these other things need it - need it more if we use that . yeah . 
-0	6B	yeah . 
-0	6B	mm . 
-1	6B	oh , we try for three . 
-1	6B	see if that goes . then if we can't handle that we 'll just - yeah . yeah . 
-1	6B	absolutely . we know that 's true . 
-2	6B	yeah , i think that 's true because there are any number of sources for that money . um . 
-2	6B	although you don't wanna go to those sources . there they are . 
-1	6B	and , um . i also think that , um - 
-1	6B	uh , i was gonna say cooking classes . but that 's i guess that 's actually really useful stuff . i - i grew up with that and , i mean , our high school had home ec . yeah . 
-1	6B	yeah that 's it . yeah . yeah , yeah . you 're right . 
-1	6B	mm-hm . 
-1	6B	so maybe it's the assistant cooks . 
-1	6B	yeah . 
-2	6B	yeah . this is interesting because we 're uh - volunteering at our neighborhood elementary school . you can see all this stuff , going into the big public - big public , you know elementary school . it's really fun . i mean , bookkeeping classes . that 's a real skill . i just - 
-1	6B	i don't - like , it sounds more like a - it sounds like a high school class , or trunc well , i guess you just don't fund it cuz you 'd have to get someone . 
-1	6B	you could , yeah . yeah . uh . 
-0	6B	sugar . football equipment . 
-1	6B	yeah . okay . so we did three . we did three . okay . alright . 
-0	6B	alright . mm . 
-0	6B	hm . 
-0	6B	hm . 
-1	6B	mm-hm . 
-1	6B	mh-hm . 
-1	6B	yeah . 
-1	6B	yeah . 
-1	6B	why do we need to inspect bagel factories ? 
-0	6B	is there some particular reason why bagel factories in particular are being singled out for being cut ? it's jus- 
-2	6B	yeah , but it doesn't - i mean bakeries are bakeries and , you know they - they don't - 
-0	6B	they get trunc they get the regular , um , health inspection . 
-0	6B	trunc really ? says bagel ? huh . huh . 
-0	6B	yeah . 
-1	6B	yeah . yeah . trunc yeah . 
-1	6B	yeah . 
-1	6B	yeah . 
-1	6B	yeah , and it's something that you can it depends on what you 're funding . if you 're funding somebody to organize it or make it happen . it still happens . 
-1	6B	neighbors do it anyway . 
-1	6B	okay , so we got one . 
-1	6B	uh , bagels . that 's two . 
-0	6B	hm . 
-2	6B	additions . i would , too . yeah . 
-1	6B	yeah . 
-2	6B	yeah , right . they 've just , they 've got a big one . yeah . well , it means , yeah , it means they have to go to private sources instead of government . 
-2	6B	but , i think not building a wing in a hospital is - 
-2	6B	trunc uh - is - is - i mean , trunc that 's okay compared to removing some of these other things . i mean , it's really - yeah . 
-1	6B	yeah , yeah . mm-kay we did three there . three there . okay . oh . 
-0	6B	hm . 
-0	6B	um , i 'm wondering if - public news station . i 'm wondering if it's like the thing - the trunc someone was reminding me of this yesterday that seattle had this thing that was an open station . do you remember that on television ? on cable ? and anybody could sign up . and you had all these wackos that were there doing half hour shows . um . i don't - yes . yes . i don't know if , um , that 's what it means . 
-2	6B	yeah , absolutely . yeah . 
-1	6B	yeah . you 're right . 
-2	6B	food bank you got ta keep . yeah . alright . 
-0	6B	soccer league . 
-0	6B	mm kitten and puppy adoptions . 
-1	6B	oh . very good . yeah . 
-2	6B	until they have boys  and girls . okay . good . yeah . public access station is the same idea as what i was talking about . so , one of those . public news station and public access station . that 's - that , that was called public access tv . let's get rid of that . yeah . yeah . yeah . 
-1	6B	yeah . yeah . 
-1	6B	yeah , right . 
-2	6B	yeah . it's actually a huge service . 
-1	6B	i mean , yeah . we 've been in to see that and it's really . yeah . yeah , right . exactly . mm-kay , so we have junior soccer guard - did we cut junior soccer league ? 
-2	6B	yeah , yeah , yeah . junior soccer league sounds co-ed . yeah . uh , but boys' basketball club does not . 
-0	6B	and . 
-0	6B	uh , what 'd we say ? trunc oh , the public access station and the boys' basketball club . 
-0	6B	reuse . 
-1	6B	mm-hm . 
-0	6B	veterinary hospital . 
-1	6B	yeah . 
-2	6B	yeah , that 's not something that the county would run . i mean , there 's private ones . 
-1	6B	that 's interesting . okay . yeah . yeah . okay . we 've got - we 've got three . yeah . we did it . 
-1	6B	yeah . oh , boy . 
-1	6B	yeah . 
-1	6B	yeah . 
-1	6B	that might be the money for building them . or planning them . yeah . 
-2	6B	yeah . way . way down . yeah . yeah . yeah . yeah . 
-1	6B	yeah . 
-2	6B	yeah . yeah , i dunno why you would need additional stops , or money for additional stops . 
-1	6B	yeah . yeah . right . yeah . 
-0	6B	huh . 
-0	6B	yeah . 
-0	6B	that 's a licensing thing . yeah . 
-0	6B	mm . 
-0	6B	mm . 
-1	6B	yeah , that means that , yeah . they keep knocking them down and trunc stuff . 
-2	6B	well , i don't trunc i would take - that 's one of my first candidates . it really is . because taxi stops , uh , exist in places , and they 're useful . but nobody trunc i mean , we 're talking about seattle . they don't really get used . i mean , in  some places . there 's huge lines for them in airports . you have a specialized - but the airport runs that . 
-1	6B	yeah . yeah . taxi stops . 
-0	6B	flagpole trunc repair . 
-2	6B	yeah additional bus stops for sure . yeah . that 's good . yeah . we did it , we did it ! 
-1	6B	and we 're cutting ! 
-1	6B	but nothing very vital . 
-2	6B	you look at this and see , see trunc yeah , and see - and see what the uh - constituency is . i mean , who's gonna go out and protest about flagpole maintenance ? right ? 
-2	6B	not gonna happen . somebody will , but they can go out and paint the darn pole themselves . alright ? 
+1	3I	here we go good .
+1	3I	empty plastic jugs , that 's kinda camping .
+1	3I	yeah .
+1	3I	yeah , let 's do it over there . okay .
+0	3I	uh-huh what is that ?
+0	3I	i know . big -
+2	3I	thick trunc no , there 's no clothing up here .
+1	3I	so we get to decide .
+1	3I	yeah yeah .
+1	3I	yeah , sure okay yeah okay . fish hooks .
+1	3I	okay , next to boating supplies .
+1	3I	mm-hm . mm-hm oh yeah , there we go . that 's good . yeah .
+0	3I	boxes of donuts .
+1	3I	mmmm cake mix , sugar -
+1	3I	it 's kind of - ice cream , eggs , this sweet -
+1	3I	junk .
+1	3I	okay . yeah . okay .
+2	3I	that 's a baking section and this is finished food , like ice cream . yeah this is the guilty pleasure one . that 's right .
+0	3I	trunc okay , we do n't have , um -
+0	3I	the paper -
+1	3I	but - yeah - we could put it with toys , or shoelaces , or pet food , or mouse traps .
+0	3I	yeah .
+1	3I	yeah , okay .
+1	3I	let 's see how that goes .
+0	3I	okay .
+1	3I	yeah yeah right .
+1	3I	you bet .
+1	3I	mm-hm . mm-hm .
+1	3I	yeah yeah yeah .
+0	3I	egg trunc oh , here we are with egg timers once again .
+1	3I	yeah . trunc uh , right . uh , it 's a household -
+1	3I	hardware . okay , yeah . yeah , okay uh .
+1	3I	yeah good yeah . scissors .
+1	3I	yeah.
+1	3I	um there kay
+2	3I	face cream that 's gon na be with the bathroom stuff , yeah okay , sticks of butter ! that 's baking .
+1	3I	right ? right there ? okay with sugar and pouches of oatmeal .
+2	3I	yum .
+1	3I	okay . alright . alright . there we go .
+0	3I	large cups !
+1	3I	large cups . okay . yeah uh
+2	3I	uh let 's put it over here with the -
+1	3I	yeah . yeah .
+1	3I	i 'll put it here for travel . yeah .
+2	3I	fishnet , there we go . sure .
+1	3I	yeah .
+1	3I	yeah .
+1	3I	light trunc oh , clothing . we were just figuring out about clothing . yeah , okay . yeah .
+1	3I	there we go . yeah .
+1	3I	yeah . liters of water ?
+2	3I	could be camping stuff . it could be trunc nah , it 's probably more like camping stuff .
+1	3I	yeah yeah .
+1	3I	mmkay .
+1	3I	yeah .
+0	3I	beets .
+1	3I	tool section .
+1	3I	yeah .
+1	3I	yeah , we do n't have a garden section . these are the same as the lists so we sorta do n't - yeah i think so .
+1	3I	yeah .
+1	3I	yeah yeah ,
+0	3I	bagels , yeah .
+1	3I	yeah .
+1	3I	well not to be confused - yeah , guess it would . yeah she say we could move it ? yeah , she said we could move it .
+1	3I	yeah yeah right that 's broke the rules .
+1	3I	we moved it . yeah .
+1	3I	dried figs is -
+1	3I	we 're not using this at all , so you wan-
+1	3I	yeah , so -
+1	3I	yeah , start putting in the food - more food stuff there .
+2	3I	hats . hats would go over here in the -
+1	3I	in the , uh - with heavy coats and stuff .
+0	3I	yeah .
+1	3I	books of matches would be there .
+1	3I	easy enough .
+1	3I	yeah that 's all the guilty stuff , yeah ? right .
+1	3I	oh yeah that 's right .
+1	3I	bottles of juice . yeah
+2	3I	flags . flags are kinda camping - deck chair kinda stuff . how does that sound ?
+1	3I	yeah , we do n't - oh , books . um -
+1	3I	pet food , okay .
+1	3I	loose leaf paper . i 'll go - yeah , trunc
+1	3I	small saws . yeah .
+1	3I	yeah .
+1	3I	yeah okay .
+0	3I	oh hm .
+2	3I	here 's bundles of sticks , small axes , and power cords . maybe we should just put em there .
+1	3I	yeah . huh .
+1	3I	this is a good store so , okay .
+1	3I	yeah yeah .
+2	3I	yeah good like bottles of juice and whiskey right next to one another .
+1	3I	backpacks would be -
+1	3I	mm , travel guides . yeah . yeah . okay . yeah .
+0	3I	oh , box knives .
+0	3I	yeah .
+1	3I	okay , yeah .
+2	3I	okay , good . oh , rolls of duct tape . that 's good yeah , that 's great .
+2	3I	tow ropes i think that should be over here . that 's a heavy duty thing .
+1	3I	wetsuits , that 's going - that 's what we had to have beforequal laughing - yeah . precut wood , that 's here .
+2	3I	that 's a big section . yeah okay .
+2	3I	yeah yeah , we did it .
+0	6B	hm .
+0	6B	what do you think , starting on the first one , what do you think assistant cook involves ?
+0	6B	i dunno what that means . in school . i guess that 's in schools . in the schools that they had more people in the lunch room . yeah .
+0	6B	ah , yeah .
+0	6B	mm .
+1	6B	yeah , i would trunc i agree . i agree . i think those are nice , but it 's not something you really - i mean all these other things need it - need it more if we use that . yeah .
+0	6B	yeah .
+0	6B	mm .
+1	6B	oh , we try for three .
+1	6B	see if that goes . then if we ca n't handle that we 'll just - yeah . yeah .
+1	6B	absolutely . we know that 's true .
+2	6B	yeah , i think that 's true because there are any number of sources for that money . um .
+2	6B	although you do n't wan na go to those sources . there they are .
+1	6B	and , um . i also think that , um -
+1	6B	uh , i was gon na say cooking classes . but that 's i guess that 's actually really useful stuff . i - i grew up with that and , i mean , our high school had home ec . yeah .
+1	6B	yeah that 's it . yeah . yeah , yeah . you 're right .
+1	6B	mm-hm .
+1	6B	so maybe it 's the assistant cooks .
+1	6B	yeah .
+2	6B	yeah . this is interesting because we 're uh - volunteering at our neighborhood elementary school . you can see all this stuff , going into the big public - big public , you know elementary school . it 's really fun . i mean , bookkeeping classes . that 's a real skill . i just -
+1	6B	i do n't - like , it sounds more like a - it sounds like a high school class , or trunc well , i guess you just do n't fund it cuz you 'd have to get someone .
+1	6B	you could , yeah . yeah . uh .
+0	6B	sugar . football equipment .
+1	6B	yeah . okay . so we did three . we did three . okay . alright .
+0	6B	alright . mm .
+0	6B	hm .
+0	6B	hm .
+1	6B	mm-hm .
+1	6B	mh-hm .
+1	6B	yeah .
+1	6B	yeah .
+1	6B	why do we need to inspect bagel factories ?
+0	6B	is there some particular reason why bagel factories in particular are being singled out for being cut ? it 's jus-
+2	6B	yeah , but it does n't - i mean bakeries are bakeries and , you know they - they do n't -
+0	6B	they get trunc they get the regular , um , health inspection .
+0	6B	trunc really ? says bagel ? huh . huh .
+0	6B	yeah .
+1	6B	yeah . yeah . trunc yeah .
+1	6B	yeah .
+1	6B	yeah .
+1	6B	yeah , and it 's something that you can it depends on what you 're funding . if you 're funding somebody to organize it or make it happen . it still happens .
+1	6B	neighbors do it anyway .
+1	6B	okay , so we got one .
+1	6B	uh , bagels . that 's two .
+0	6B	hm .
+2	6B	additions . i would , too . yeah .
+1	6B	yeah .
+2	6B	yeah , right . they 've just , they 've got a big one . yeah . well , it means , yeah , it means they have to go to private sources instead of government .
+2	6B	but , i think not building a wing in a hospital is -
+2	6B	trunc uh - is - is - i mean , trunc that 's okay compared to removing some of these other things . i mean , it 's really - yeah .
+1	6B	yeah , yeah . mm-kay we did three there . three there . okay . oh .
+0	6B	hm .
+0	6B	um , i 'm wondering if - public news station . i 'm wondering if it 's like the thing - the trunc someone was reminding me of this yesterday that seattle had this thing that was an open station . do you remember that on television ? on cable ? and anybody could sign up . and you had all these wackos that were there doing half hour shows . um . i do n't - yes . yes . i do n't know if , um , that 's what it means .
+2	6B	yeah , absolutely . yeah .
+1	6B	yeah . you 're right .
+2	6B	food bank you got ta keep . yeah . alright .
+0	6B	soccer league .
+0	6B	mm kitten and puppy adoptions .
+1	6B	oh . very good . yeah .
+2	6B	until they have boys and girls . okay . good . yeah . public access station is the same idea as what i was talking about . so , one of those . public news station and public access station . that 's - that , that was called public access tv . let 's get rid of that . yeah . yeah . yeah .
+1	6B	yeah . yeah .
+1	6B	yeah , right .
+2	6B	yeah . it 's actually a huge service .
+1	6B	i mean , yeah . we 've been in to see that and it 's really . yeah . yeah , right . exactly . mm-kay , so we have junior soccer guard - did we cut junior soccer league ?
+2	6B	yeah , yeah , yeah . junior soccer league sounds co-ed . yeah . uh , but boys ' basketball club does not .
+0	6B	and .
+0	6B	uh , what 'd we say ? trunc oh , the public access station and the boys ' basketball club .
+0	6B	reuse .
+1	6B	mm-hm .
+0	6B	veterinary hospital .
+1	6B	yeah .
+2	6B	yeah , that 's not something that the county would run . i mean , there 's private ones .
+1	6B	that 's interesting . okay . yeah . yeah . okay . we 've got - we 've got three . yeah . we did it .
+1	6B	yeah . oh , boy .
+1	6B	yeah .
+1	6B	yeah .
+1	6B	that might be the money for building them . or planning them . yeah .
+2	6B	yeah . way . way down . yeah . yeah . yeah . yeah .
+1	6B	yeah .
+2	6B	yeah . yeah , i dunno why you would need additional stops , or money for additional stops .
+1	6B	yeah . yeah . right . yeah .
+0	6B	huh .
+0	6B	yeah .
+0	6B	that 's a licensing thing . yeah .
+0	6B	mm .
+0	6B	mm .
+1	6B	yeah , that means that , yeah . they keep knocking them down and trunc stuff .
+2	6B	well , i do n't trunc i would take - that 's one of my first candidates . it really is . because taxi stops , uh , exist in places , and they 're useful . but nobody trunc i mean , we 're talking about seattle . they do n't really get used . i mean , in some places . there 's huge lines for them in airports . you have a specialized - but the airport runs that .
+1	6B	yeah . yeah . taxi stops .
+0	6B	flagpole trunc repair .
+2	6B	yeah additional bus stops for sure . yeah . that 's good . yeah . we did it , we did it !
+1	6B	and we 're cutting !
+1	6B	but nothing very vital .
+2	6B	you look at this and see , see trunc yeah , and see - and see what the uh - constituency is . i mean , who 's gon na go out and protest about flagpole maintenance ? right ?
+2	6B	not gon na happen . somebody will , but they can go out and paint the darn pole themselves . alright ?

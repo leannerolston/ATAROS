@@ -1,100 +1,100 @@
-2	3I	well , i  am gonna put my tweezers by the toilet paper . 
-2	3I	oh , excellent excellent . 
-0	3I	and now i have two clothing items . 
-0	3I	i don't see any clothing items at all ! 
-2	3I	so we 're gonna have to make a place . 
-1	3I	maybe on this side ? 
-1	3I	okay . 
-2	3I	oh ! maybe trunc maybe sugar . 
-2	3I	because they 're both baking ingredients . 
-0	3I	uh-huh . 
-0	3I	liters of water . 
-0	3I	hm . 
-2	3I	oh now , see , trunc we 've got eggs and ice cream out here , too . 
-0	3I	hm . 
-0	3I	well my next one - 
-1	3I	mm-kay . 
-1	3I	sticks of butter . so why don't we put it over in the refrigerated section ? 
-1	3I	yeah . 
-2	3I	beets . so this is produce , so should we put it maybe on this side of - ? 
-0	3I	go ahead . 
-1	3I	great ! 
-1	3I	alright ! 
-1	3I	cushions for deck chair , it should - maybe - maybe under the - ? 
-1	3I	okay . 
-1	3I	well , i think it should go there in the trunc somewhere in - maybe on trunc i don't know , this side , maybe down - . 
-2	3I	i 'm sorry . she told us not to move it , but - 
-1	3I	that 's somewhere over there , too . 
-0	3I	flags . 
-0	3I	where 'd we put that siding ? 
-1	3I	should we put it over here with the outdoor - 
-1	3I	outdoorsy things ? 
-1	3I	well , somewhere over there . 
-1	3I	hats . where's our clothing ? 
-0	3I	right over here . 
-1	3I	we 'll allow - 
-1	3I	another . 
-1	3I	yeah . 
-2	3I	or we coulda put it by the water . 
-2	3I	but we 're not supposed to move those ! 
-2	3I	face cream . toiletries . where we got - okay . 
-1	3I	so that in the - 
-1	3I	yeah . 
-1	3I	looks good . 
-2	3I	bags of peat moss , i 'm gonna put that over here . 
-1	3I	sure . 
-1	3I	gas-powered cookstoves over here ? or should we do it - 
-1	3I	along with the outdoorsy things ? maybe - 
-2	3I	but that 's a crap shoot . 
-1	3I	maybe we should put it over here somewhere . 
-1	3I	electric heaters . should i put it - ? 
-2	3I	gee ! 
-0	3I	um . 
-0	3I	hm . 
-0	3I	they have it - 
-1	3I	in the grocery trunc well - 
-2	3I	wine in the grocery store . 
-0	3I	trying to think , by - 
-2	3I	by the refrigerated stuff , so maybe somewhere over on that column . 
-2	3I	fishing net we 're gonna put up here . 
-1	3I	mm-hm . 
-0	3I	yeah . 
-2	3I	buckets , i 'm gonna put back over here . 
-0	3I	okay , so that 's for school supplies . 
-2	3I	so let's put it right in here in the middle somewhere . 
-1	3I	trunc oh , go ahead . good ! 
-2	3I	shoelaces , i 'm gonna put with that kinda stuff . 
-2	3I	kinda the sundry stuff here . 
-2	3I	sure . i trunc and i 'm gonna put this rolls of duct tape with the - 
-2	3I	above the mousetraps . 
-1	3I	yeah . 
-0	3I	heavy cable . 
-0	3I	uh - 
-1	3I	i know . 
-0	3I	huh . 
-2	3I	yeah . yeah , yeah ! that - i think that looks better . 
-1	3I	mm-hm . 
-1	3I	bundles of sticks . so , i 'm just gonna put it somewhere in here . 
-2	3I	cuz trunc oh , we have the pre-cut wood here , too , so that 's good . 
-1	3I	sure . mm-hm mm-hm . 
-0	3I	small saws . 
-2	3I	scissors , i 'm gonna put next to the tape . 
-1	3I	we could put that in - in - maybe by the paper bags or something ? 
-0	3I	boxes of doughnuts . 
-0	3I	do we have bakery ? we have baking goods . 
-1	3I	okay . 
-0	3I	thank you . 
-0	3I	hm . 
-1	3I	i guess we have to put it over here . 
-0	3I	and the large vests . 
-1	3I	yeah , with the boating stuff , or - 
-1	3I	i know i know . 
-1	3I	yeah . 
-2	3I	we could put that by well , we could put that by the - 
-1	3I	mm-hm 
-2	3I	small axes we have to put by the wood over here . 
-0	3I	and wetsuits - 
-1	3I	uh - just right there , too . 
-0	3I	oh , we are ? 
-1	3I	oh kay . 
-2	3I	well that column looks a little weeny . 
+2	3I	well , i am gon na put my tweezers by the toilet paper .
+2	3I	oh , excellent excellent .
+0	3I	and now i have two clothing items .
+0	3I	i do n't see any clothing items at all !
+2	3I	so we 're gon na have to make a place .
+1	3I	maybe on this side ?
+1	3I	okay .
+2	3I	oh ! maybe trunc maybe sugar .
+2	3I	because they 're both baking ingredients .
+0	3I	uh-huh .
+0	3I	liters of water .
+0	3I	hm .
+2	3I	oh now , see , trunc we 've got eggs and ice cream out here , too .
+0	3I	hm .
+0	3I	well my next one -
+1	3I	mm-kay .
+1	3I	sticks of butter . so why do n't we put it over in the refrigerated section ?
+1	3I	yeah .
+2	3I	beets . so this is produce , so should we put it maybe on this side of - ?
+0	3I	go ahead .
+1	3I	great !
+1	3I	alright !
+1	3I	cushions for deck chair , it should - maybe - maybe under the - ?
+1	3I	okay .
+1	3I	well , i think it should go there in the trunc somewhere in - maybe on trunc i do n't know , this side , maybe down - .
+2	3I	i 'm sorry . she told us not to move it , but -
+1	3I	that 's somewhere over there , too .
+0	3I	flags .
+0	3I	where 'd we put that siding ?
+1	3I	should we put it over here with the outdoor -
+1	3I	outdoorsy things ?
+1	3I	well , somewhere over there .
+1	3I	hats . where 's our clothing ?
+0	3I	right over here .
+1	3I	we 'll allow -
+1	3I	another .
+1	3I	yeah .
+2	3I	or we coulda put it by the water .
+2	3I	but we 're not supposed to move those !
+2	3I	face cream . toiletries . where we got - okay .
+1	3I	so that in the -
+1	3I	yeah .
+1	3I	looks good .
+2	3I	bags of peat moss , i 'm gon na put that over here .
+1	3I	sure .
+1	3I	gas-powered cookstoves over here ? or should we do it -
+1	3I	along with the outdoorsy things ? maybe -
+2	3I	but that 's a crap shoot .
+1	3I	maybe we should put it over here somewhere .
+1	3I	electric heaters . should i put it - ?
+2	3I	gee !
+0	3I	um .
+0	3I	hm .
+0	3I	they have it -
+1	3I	in the grocery trunc well -
+2	3I	wine in the grocery store .
+0	3I	trying to think , by -
+2	3I	by the refrigerated stuff , so maybe somewhere over on that column .
+2	3I	fishing net we 're gon na put up here .
+1	3I	mm-hm .
+0	3I	yeah .
+2	3I	buckets , i 'm gon na put back over here .
+0	3I	okay , so that 's for school supplies .
+2	3I	so let 's put it right in here in the middle somewhere .
+1	3I	trunc oh , go ahead . good !
+2	3I	shoelaces , i 'm gon na put with that kinda stuff .
+2	3I	kinda the sundry stuff here .
+2	3I	sure . i trunc and i 'm gon na put this rolls of duct tape with the -
+2	3I	above the mousetraps .
+1	3I	yeah .
+0	3I	heavy cable .
+0	3I	uh -
+1	3I	i know .
+0	3I	huh .
+2	3I	yeah . yeah , yeah ! that - i think that looks better .
+1	3I	mm-hm .
+1	3I	bundles of sticks . so , i 'm just gon na put it somewhere in here .
+2	3I	cuz trunc oh , we have the pre-cut wood here , too , so that 's good .
+1	3I	sure . mm-hm mm-hm .
+0	3I	small saws .
+2	3I	scissors , i 'm gon na put next to the tape .
+1	3I	we could put that in - in - maybe by the paper bags or something ?
+0	3I	boxes of doughnuts .
+0	3I	do we have bakery ? we have baking goods .
+1	3I	okay .
+0	3I	thank you .
+0	3I	hm .
+1	3I	i guess we have to put it over here .
+0	3I	and the large vests .
+1	3I	yeah , with the boating stuff , or -
+1	3I	i know i know .
+1	3I	yeah .
+2	3I	we could put that by well , we could put that by the -
+1	3I	mm-hm
+2	3I	small axes we have to put by the wood over here .
+0	3I	and wetsuits -
+1	3I	uh - just right there , too .
+0	3I	oh , we are ?
+1	3I	oh kay .
+2	3I	well that column looks a little weeny .

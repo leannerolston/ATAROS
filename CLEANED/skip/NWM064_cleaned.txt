@@ -1,972 +1,243 @@
-1	3I	alright.
-0	3I	face cream! face cream.
-2	3I	well, no, i - i wouldn't put that there.
-1	3I	uh, how bout, um -
-1	3I	toilet paper, yeah, probably.
-0	3I	cushions for deck chairs.
-0	3I	where'd you put those?
-1	3I	mm yeah, yeah, yeah.
-2	3I	not - uh, i put it closer to the direction of mousetraps, i'd say.
-1	3I	beets, beets. food.
-1	3I	yeah.
-0	3I	backpacks.
-1	3I	backpacks i'd probably put -
-2	3I	with the toys and refrigerator magnets, would you say? or, no, boating supplies and travel guides, trunc that makes more sense.
-2	3I	i think it'd be better if we put it by travel guides. i mean -
-1	3I	mm-hm.
+1	3I	alright .
+0	3I	face cream ! face cream .
+2	3I	well , no , i - i would n't put that there .
+1	3I	uh , how bout , um -
+1	3I	toilet paper , yeah , probably .
+0	3I	cushions for deck chairs .
+0	3I	where 'd you put those ?
+1	3I	mm yeah , yeah , yeah .
+2	3I	not - uh , i put it closer to the direction of mousetraps , i 'd say .
+1	3I	beets , beets . food .
+1	3I	yeah .
+0	3I	backpacks .
+1	3I	backpacks i 'd probably put -
+2	3I	with the toys and refrigerator magnets , would you say ? or , no , boating supplies and travel guides , trunc that makes more sense .
+2	3I	i think it 'd be better if we put it by travel guides . i mean -
+1	3I	mm-hm .
 2	3I	well obviously i -
-1	3I	yeah, yeah.
-0	3I	books of matches.
-0	3I	uh - hum.
-1	3I	probably with the, uh - trunc trunc trunc camping supplies, i'd say.
-0	3I	backpacks.
-1	3I	yeah.
-1	3I	suppose so.
+1	3I	yeah , yeah .
+0	3I	books of matches .
+0	3I	uh - hum .
+1	3I	probably with the , uh - trunc trunc trunc camping supplies , i 'd say .
+0	3I	backpacks .
+1	3I	yeah .
+1	3I	suppose so .
 0	3I	hm
-2	3I	well, they - need to be with clothes, but clothes aren't anywhere here.
-2	3I	how bout just over trunc in this general area?
-1	3I	mm.
-0	3I	small saws.
-1	3I	probably up with the boating supplies, would you say? power cords?
-2	3I	yeah, but trunc
-1	3I	i suppose so.
-2	3I	i was thinking this is more of a home - home improvement thing, but -
-1	3I	alright, how bout a-
-2	3I	trunc how bout near the siding, then?
-1	3I	yeah.
-0	3I	hm.
-1	3I	yeah, yeah.
-0	3I	books.
-2	3I	i think i'd put the books around the thick -
-2	3I	sweaters, but - no, near the toys. right next to the toys, would you say?
-1	3I	yep, yep.
-0	3I	electric heaters.
-1	3I	probably with the power cords.
-1	3I	mm-hm.
-0	3I	bundles of sticks.
-1	3I	next to books of matches?
-0	3I	mousetraps.
-1	3I	yeah.
-1	3I	near the heaters?
-1	3I	mm-hm.
-0	3I	small axes.
-1	3I	near the small saws.
-1	3I	but is there room?
-1	3I	yeah.
-2	3I	up there.
-0	3I	liters of water.
-1	3I	uh, i think it'd * also go up there.
-1	3I	yeah, yeah, yeah.
-2	3I	or maybe it go down here, with the food.
-2	3I	nah.
-2	3I	trunc trunc and besides, f-
-1	3I	yeah, and trunc and food, trunc any case - trunc i think we assume the people have running water.
-1	3I	probably up there as well i'd think.
-1	3I	maybe a bit further up?
-1	3I	yeah.
-0	3I	box knives.
-1	3I	small axes, small saws? box knives.
-1	3I	food.
-1	3I	yeah, yeah.
-0	3I	bags of peat moss.
-0	3I	hm.
-1	3I	up there?
-2	3I	alright, yeah! yeah, yeah.
-1	3I	yep, and thick sweaters.
-0	3I	bars of soap.
-2	3I	near face cream and toilet paper, of course.
-2	3I	yeah, yeah, yeah.
-1	3I	mint toothpaste. near the trunc toiletry area.
-1	3I	probably down by the pet food?
-1	3I	hm. alright, yeah. makes sense.
-0	3I	uh, i don't know, i don't have any pets.
-2	3I	my sister does, though, and they are a -
-2	3I	nuisance.
-0	3I	boxes of doughnuts?
-1	3I	yep.
-1	3I	dried figs. with beets.
-2	3I	hats also there.
-1	3I	next to eggs?
-0	3I	mm.
-1	3I	down there with pet food?
-1	3I	yeah, yeah.
-0	3I	buckets.
-2	3I	buckets would go down with box knives.
-1	3I	yeah.
-0	3I	bagels?
-2	3I	bagels with eggs.
-2	3I	always good way to start breakfast.
-0	3I	heavy cable.
-1	3I	down with power cords.
-1	3I	yeah.
-1	3I	mm-hm.
-1	3I	flags. with books.
-1	3I	hm.
-2	3I	man, that left column is really full.
-2	3I	and the right column is - empty.
-0	3I	socks.
-2	3I	right there.
-1	3I	with fleece-lined boots. shoelaces, face cc-
-1	3I	yep, yep.
-0	3I	rolls of duct tape?
-1	3I	ah, just put it here. there's more room here.
-1	3I	true.
-0	3I	cases of whiskey.
-2	3I	i think we should put it with junk foods.
-1	3I	yep, yep.
-1	3I	bottles of juice. near the whiskey.
-0	3I	five-pound weights.
-2	3I	is there any * space in the left column?
-1	3I	suppose so.
-0	3I	mm.
-2	3I	yeah, trunc maybe.
-2	3I	well, i think we should probably put it in the, um, middle column now.
-2	3I	there's barely any space in the left column.
-0	3I	scissors.
-1	3I	mm-hm.
-1	3I	alright!
-1	3I	yeah.
-1	3I	maybe this is r_e_i_?
-0	3I	mm.
-2	6B	i think we should take out the bookkeeping classes.
-2	6B	and the cooking classes.
+2	3I	well , they - need to be with clothes , but clothes are n't anywhere here .
+2	3I	how bout just over trunc in this general area ?
+1	3I	mm .
+0	3I	small saws .
+1	3I	probably up with the boating supplies , would you say ? power cords ?
+2	3I	yeah , but trunc
+1	3I	i suppose so .
+2	3I	i was thinking this is more of a home - home improvement thing , but -
+1	3I	alright , how bout a-
+2	3I	trunc how bout near the siding , then ?
+1	3I	yeah .
+0	3I	hm .
+1	3I	yeah , yeah .
+0	3I	books .
+2	3I	i think i 'd put the books around the thick -
+2	3I	sweaters , but - no , near the toys . right next to the toys , would you say ?
+1	3I	yep , yep .
+0	3I	electric heaters .
+1	3I	probably with the power cords .
+1	3I	mm-hm .
+0	3I	bundles of sticks .
+1	3I	next to books of matches ?
+0	3I	mousetraps .
+1	3I	yeah .
+1	3I	near the heaters ?
+1	3I	mm-hm .
+0	3I	small axes .
+1	3I	near the small saws .
+1	3I	but is there room ?
+1	3I	yeah .
+2	3I	up there .
+0	3I	liters of water .
+1	3I	uh , i think it 'd also go up there .
+1	3I	yeah , yeah , yeah .
+2	3I	or maybe it go down here , with the food .
+2	3I	nah .
+2	3I	trunc trunc and besides , f-
+1	3I	yeah , and trunc and food , trunc any case - trunc i think we assume the people have running water .
+1	3I	probably up there as well i 'd think .
+1	3I	maybe a bit further up ?
+1	3I	yeah .
+0	3I	box knives .
+1	3I	small axes , small saws ? box knives .
+1	3I	food .
+1	3I	yeah , yeah .
+0	3I	bags of peat moss .
+0	3I	hm .
+1	3I	up there ?
+2	3I	alright , yeah ! yeah , yeah .
+1	3I	yep , and thick sweaters .
+0	3I	bars of soap .
+2	3I	near face cream and toilet paper , of course .
+2	3I	yeah , yeah , yeah .
+1	3I	mint toothpaste . near the trunc toiletry area .
+1	3I	probably down by the pet food ?
+1	3I	hm . alright , yeah . makes sense .
+0	3I	uh , i do n't know , i do n't have any pets .
+2	3I	my sister does , though , and they are a -
+2	3I	nuisance .
+0	3I	boxes of doughnuts ?
+1	3I	yep .
+1	3I	dried figs . with beets .
+2	3I	hats also there .
+1	3I	next to eggs ?
+0	3I	mm .
+1	3I	down there with pet food ?
+1	3I	yeah , yeah .
+0	3I	buckets .
+2	3I	buckets would go down with box knives .
+1	3I	yeah .
+0	3I	bagels ?
+2	3I	bagels with eggs .
+2	3I	always good way to start breakfast .
+0	3I	heavy cable .
+1	3I	down with power cords .
+1	3I	yeah .
+1	3I	mm-hm .
+1	3I	flags . with books .
+1	3I	hm .
+2	3I	man , that left column is really full .
+2	3I	and the right column is - empty .
+0	3I	socks .
+2	3I	right there .
+1	3I	with fleece-lined boots . shoelaces , face cc-
+1	3I	yep , yep .
+0	3I	rolls of duct tape ?
+1	3I	ah , just put it here . there 's more room here .
+1	3I	true .
+0	3I	cases of whiskey .
+2	3I	i think we should put it with junk foods .
+1	3I	yep , yep .
+1	3I	bottles of juice . near the whiskey .
+0	3I	five-pound weights .
+2	3I	is there any space in the left column ?
+1	3I	suppose so .
+0	3I	mm .
+2	3I	yeah , trunc maybe .
+2	3I	well , i think we should probably put it in the , um , middle column now .
+2	3I	there 's barely any space in the left column .
+0	3I	scissors .
+1	3I	mm-hm .
+1	3I	alright !
+1	3I	yeah .
+1	3I	maybe this is r_e_i_ ?
+0	3I	mm .
+2	6B	i think we should take out the bookkeeping classes .
+2	6B	and the cooking classes .
 2	6B	and the -
-2	6B	well, i mean - i don't want - trunc trunc
-1	6B	maybe we trunc we should remove the football equipment?
-1	6B	alright, i suppose.
-1	6B	true, true.
-1	6B	what about the sugar-free juice machines?
-1	6B	mm-hm.
-1	6B	unfortunately.
-0	6B	one.
-2	6B	alright!
-1	6B	or in university.
-2	6B	ah, i'd keep that, but i - that's only because i trunc like poetry.
-2	6B	ah, trunc trunc we're horrible trunc trunc trunc at this, aren't we?
-2	6B	so much partial to um - trunc i'm being somewhat partial, but -
-1	6B	alright.
-1	6B	mm-hm.
-1	6B	yeah.
-1	6B	yep.
-1	6B	yep.
-1	6B	mm-hm.
-1	6B	mm-hm.
-1	6B	alright, so i think we're just cutting three things from each one.
-0	6B	mm-hm. assistant cooks.
-0	6B	and acting coaches.
-1	6B	mm-hm.
-1	6B	now for public health and safety.
-1	6B	we should probably keep reproductive education.
-2	6B	well, * yes, but this is, i suppose -
-2	6B	yeah, and then sex ed is for - i think is for high school. this is - yeah.
-2	6B	we should definitely keep that.
-1	6B	trunc keep.
-1	6B	invasive species removal we should also keep.
-2	6B	s_t_d_ education, also keep.
-1	6B	yep.
-0	6B	hm.
-2	6B	or maybe it's just new york, and everyone eats bagels anyway.
-1	6B	yeah.
-2	6B	definitely.
-1	6B	mm-hm.
-2	6B	weed control we can get rid of.
-1	6B	yeah.
-0	6B	pre-natal checkups.
-0	6B	neighborhood watch support.
-2	6B	why?
-2	6B	yeah, but police can oftentimes be somewhat, uh -
-2	6B	how i say, heavy-handed.
-1	6B	true.
-1	6B	i - i - i wouldn't know enough trunc about that, but let's just go with that for the trunc trunc for the sake of argument.
-1	6B	yeah.
-1	6B	let's see -
-1	6B	hm. football stadium upkeep.
-2	6B	well, i mean - uh, this is basically - this is mostly based on my own personal biases, but i'd say football stadium upkeep -
+2	6B	well , i mean - i do n't want - trunc trunc
+1	6B	maybe we trunc we should remove the football equipment ?
+1	6B	alright , i suppose .
+1	6B	true , true .
+1	6B	what about the sugar-free juice machines ?
+1	6B	mm-hm .
+1	6B	unfortunately .
+0	6B	one .
+2	6B	alright !
+1	6B	or in university .
+2	6B	ah , i 'd keep that , but i - that 's only because i trunc like poetry .
+2	6B	ah , trunc trunc we 're horrible trunc trunc trunc at this , are n't we ?
+2	6B	so much partial to um - trunc i 'm being somewhat partial , but -
+1	6B	alright .
+1	6B	mm-hm .
+1	6B	yeah .
+1	6B	yep .
+1	6B	yep .
+1	6B	mm-hm .
+1	6B	mm-hm .
+1	6B	alright , so i think we 're just cutting three things from each one .
+0	6B	mm-hm . assistant cooks .
+0	6B	and acting coaches .
+1	6B	mm-hm .
+1	6B	now for public health and safety .
+1	6B	we should probably keep reproductive education .
+2	6B	well , yes , but this is , i suppose -
+2	6B	yeah , and then sex ed is for - i think is for high school . this is - yeah .
+2	6B	we should definitely keep that .
+1	6B	trunc keep .
+1	6B	invasive species removal we should also keep .
+2	6B	s_t_d_ education , also keep .
+1	6B	yep .
+0	6B	hm .
+2	6B	or maybe it 's just new york , and everyone eats bagels anyway .
+1	6B	yeah .
+2	6B	definitely .
+1	6B	mm-hm .
+2	6B	weed control we can get rid of .
+1	6B	yeah .
+0	6B	pre-natal checkups .
+0	6B	neighborhood watch support .
+2	6B	why ?
+2	6B	yeah , but police can oftentimes be somewhat , uh -
+2	6B	how i say , heavy-handed .
+1	6B	true .
+1	6B	i - i - i would n't know enough trunc about that , but let 's just go with that for the trunc trunc for the sake of argument .
+1	6B	yeah .
+1	6B	let 's see -
+1	6B	hm . football stadium upkeep .
+2	6B	well , i mean - uh , this is basically - this is mostly based on my own personal biases , but i 'd say football stadium upkeep -
 2	6B	junior soccer league -
-2	6B	and boy's basketball club.
-2	6B	trunc i suppose. i mean - they'll probably take out their - their trunc vengeance trunc on some s-
+2	6B	and boy 's basketball club .
+2	6B	trunc i suppose . i mean - they 'll probably take out their - their trunc vengeance trunc on some s-
 2	6B	on some - on someone else if they trunc
-2	6B	if do that.
-1	6B	uh, how bout -
-1	6B	alright, i suppose.
-2	6B	yeah, yeah yeah.
-2	6B	and keep pest control and public access station and public news trunc station.
-1	6B	maybe we should just, uh -
+2	6B	if do that .
+1	6B	uh , how bout -
+1	6B	alright , i suppose .
+2	6B	yeah , yeah yeah .
+2	6B	and keep pest control and public access station and public news trunc station .
+1	6B	maybe we should just , uh -
 1	6B	get rid of the s-
-1	6B	hm. what about trunc free cat spaying?
-1	6B	alright.
-0	6B	i see.
-1	6B	i suppose.
-1	6B	alright, alright.
-1	6B	mm-hm.
-1	6B	mm-hm.
-1	6B	alright.
-0	6B	which one is the public access here? is -
-0	6B	oh.
-2	6B	yeah, yeah. agreed, agreed.
-3	6B	though, i - - though i * do love our trunc trunc our local trunc um, trunc our local stuff, for example, there was - uh, you ever saw almost live?
-2	6B	* really funny. it's * really really funny.
-2	6B	yeah, but it's funnier than s_n_l_.
-2	6B	ah, but this was in the the nineties. back when s_n_l_ use-
+1	6B	hm . what about trunc free cat spaying ?
+1	6B	alright .
+0	6B	i see .
+1	6B	i suppose .
+1	6B	alright , alright .
+1	6B	mm-hm .
+1	6B	mm-hm .
+1	6B	alright .
+0	6B	which one is the public access here ? is -
+0	6B	oh .
+2	6B	yeah , yeah . agreed , agreed .
+3	6B	though , i - - though i do love our trunc trunc our local trunc um , trunc our local stuff , for example , there was - uh , you ever saw almost live ?
+2	6B	really funny . it 's really really funny .
+2	6B	yeah , but it 's funnier than s_n_l_ .
+2	6B	ah , but this was in the the nineties . back when s_n_l_ use-
 0	6B	trunc now the person trunc who -
-2	6B	person - the people who run it are now running this new show, the two oh six. not, trunc nearly as good, i'd say.
-3	6B	it's - it's not - it's nothing much, i mean, i trunc i - i - i - i just think they're out of practice. they trunc they might get better soon.
-0	6B	well, and the other person is now on the seattle channel.
-0	6B	uh, nancy guppy?
-0	6B	uh, she's running an art zone.
-0	6B	trunc you ever seen that?
-0	6B	mm.
-2	6B	oh, cool!
-2	6B	cool, cool.
-2	6B	i'm jealous now.
-0	6B	mm-hm.
-0	6B	infrastructure and licensing.
-2	6B	well, trunc i'd trunc trunc i'd like to keep the trunc the bus stops and -
-2	6B	the, um subway system and so on.
-1	6B	yeah.
-1	6B	mm-hm.
-1	6B	trunc how bout, um -
-1	6B	taxi stops?
-1	6B	yeah yeah.
-1	6B	taxi stops, um, flagpole repair, and what about, um -
-1	6B	pothole maintenance?
-3	6B	nah pothole maintenance needs to be there.
-2	6B	yeah, yeah yeah.
-2	6B	i know, i know.
-1	6B	pothole maintenance was probably good to keep how about massage certificates?
-2	6B	tattoo artist license might be a bit more, um, useful, if only because -
-2	6B	you're cutting something into somebody's * skin.
+2	6B	person - the people who run it are now running this new show , the two oh six . not , trunc nearly as good , i 'd say .
+3	6B	it 's - it 's not - it 's nothing much , i mean , i trunc i - i - i - i just think they 're out of practice . they trunc they might get better soon .
+0	6B	well , and the other person is now on the seattle channel .
+0	6B	uh , nancy guppy ?
+0	6B	uh , she 's running an art zone .
+0	6B	trunc you ever seen that ?
+0	6B	mm .
+2	6B	oh , cool !
+2	6B	cool , cool .
+2	6B	i 'm jealous now .
+0	6B	mm-hm .
+0	6B	infrastructure and licensing .
+2	6B	well , trunc i 'd trunc trunc i 'd like to keep the trunc the bus stops and -
+2	6B	the , um subway system and so on .
+1	6B	yeah .
+1	6B	mm-hm .
+1	6B	trunc how bout , um -
+1	6B	taxi stops ?
+1	6B	yeah yeah .
+1	6B	taxi stops , um , flagpole repair , and what about , um -
+1	6B	pothole maintenance ?
+3	6B	nah pothole maintenance needs to be there .
+2	6B	yeah , yeah yeah .
+2	6B	i know , i know .
+1	6B	pothole maintenance was probably good to keep how about massage certificates ?
+2	6B	tattoo artist license might be a bit more , um , useful , if only because -
+2	6B	you 're cutting something into somebody 's skin .
 0	6B	uh -
-2	6B	yeah, it's better to trunc to -
-2	6B	than having an unlicensed tattoo artist.
-1	6B	mm-hm.
-1	6B	alright.
-1	3I	alright.
-0	3I	face cream! face cream.
-2	3I	well, no, i - i wouldn't put that there.
-1	3I	uh, how bout, um -
-1	3I	toilet paper, yeah, probably.
-0	3I	cushions for deck chairs.
-0	3I	where'd you put those?
-1	3I	mm yeah, yeah, yeah.
-2	3I	not - uh, i put it closer to the direction of mousetraps, i'd say.
-1	3I	beets, beets. food.
-1	3I	yeah.
-0	3I	backpacks.
-1	3I	backpacks i'd probably put -
-2	3I	with the toys and refrigerator magnets, would you say? or, no, boating supplies and travel guides, trunc that makes more sense.
-2	3I	i think it'd be better if we put it by travel guides. i mean -
-1	3I	mm-hm.
-2	3I	well obviously i -
-1	3I	yeah, yeah.
-0	3I	books of matches.
-0	3I	uh - hum.
-1	3I	probably with the, uh - trunc trunc trunc camping supplies, i'd say.
-0	3I	backpacks.
-1	3I	yeah.
-1	3I	suppose so.
-0	3I	hm
-2	3I	well, they - need to be with clothes, but clothes aren't anywhere here.
-2	3I	how bout just over trunc in this general area?
-1	3I	mm.
-0	3I	small saws.
-1	3I	probably up with the boating supplies, would you say? power cords?
-2	3I	yeah, but trunc
-1	3I	i suppose so.
-2	3I	i was thinking this is more of a home - home improvement thing, but -
-1	3I	alright, how bout a-
-2	3I	trunc how bout near the siding, then?
-1	3I	yeah.
-0	3I	hm.
-1	3I	yeah, yeah.
-0	3I	books.
-2	3I	i think i'd put the books around the thick -
-2	3I	sweaters, but - no, near the toys. right next to the toys, would you say?
-1	3I	yep, yep.
-0	3I	electric heaters.
-1	3I	probably with the power cords.
-1	3I	mm-hm.
-0	3I	bundles of sticks.
-1	3I	next to books of matches?
-0	3I	mousetraps.
-1	3I	yeah.
-1	3I	near the heaters?
-1	3I	mm-hm.
-0	3I	small axes.
-1	3I	near the small saws.
-1	3I	but is there room?
-1	3I	yeah.
-2	3I	up there.
-0	3I	liters of water.
-1	3I	uh, i think it'd * also go up there.
-1	3I	yeah, yeah, yeah.
-2	3I	or maybe it go down here, with the food.
-2	3I	nah.
-2	3I	trunc trunc and besides, f-
-1	3I	yeah, and trunc and food, trunc any case - trunc i think we assume the people have running water.
-1	3I	probably up there as well i'd think.
-1	3I	maybe a bit further up?
-1	3I	yeah.
-0	3I	box knives.
-1	3I	small axes, small saws? box knives.
-1	3I	food.
-1	3I	yeah, yeah.
-0	3I	bags of peat moss.
-0	3I	hm.
-1	3I	up there?
-2	3I	alright, yeah! yeah, yeah.
-1	3I	yep, and thick sweaters.
-0	3I	bars of soap.
-2	3I	near face cream and toilet paper, of course.
-2	3I	yeah, yeah, yeah.
-1	3I	mint toothpaste. near the trunc toiletry area.
-1	3I	probably down by the pet food?
-1	3I	hm. alright, yeah. makes sense.
-0	3I	uh, i don't know, i don't have any pets.
-2	3I	my sister does, though, and they are a -
-2	3I	nuisance.
-0	3I	boxes of doughnuts?
-1	3I	yep.
-1	3I	dried figs. with beets.
-2	3I	hats also there.
-1	3I	next to eggs?
-0	3I	mm.
-1	3I	down there with pet food?
-1	3I	yeah, yeah.
-0	3I	buckets.
-2	3I	buckets would go down with box knives.
-1	3I	yeah.
-0	3I	bagels?
-2	3I	bagels with eggs.
-2	3I	always good way to start breakfast.
-0	3I	heavy cable.
-1	3I	down with power cords.
-1	3I	yeah.
-1	3I	mm-hm.
-1	3I	flags. with books.
-1	3I	hm.
-2	3I	man, that left column is really full.
-2	3I	and the right column is - empty.
-0	3I	socks.
-2	3I	right there.
-1	3I	with fleece-lined boots. shoelaces, face cc-
-1	3I	yep, yep.
-0	3I	rolls of duct tape?
-1	3I	ah, just put it here. there's more room here.
-1	3I	true.
-0	3I	cases of whiskey.
-2	3I	i think we should put it with junk foods.
-1	3I	yep, yep.
-1	3I	bottles of juice. near the whiskey.
-0	3I	five-pound weights.
-2	3I	is there any * space in the left column?
-1	3I	suppose so.
-0	3I	mm.
-2	3I	yeah, trunc maybe.
-2	3I	well, i think we should probably put it in the, um, middle column now.
-2	3I	there's barely any space in the left column.
-0	3I	scissors.
-1	3I	mm-hm.
-1	3I	alright!
-1	3I	yeah.
-1	3I	maybe this is r_e_i_?
-0	3I	mm.
-2	6B	i think we should take out the bookkeeping classes.
-2	6B	and the cooking classes.
-2	6B	and the -
-2	6B	well, i mean - i don't want - trunc trunc
-1	6B	maybe we trunc we should remove the football equipment?
-1	6B	alright, i suppose.
-1	6B	true, true.
-1	6B	what about the sugar-free juice machines?
-1	6B	mm-hm.
-1	6B	unfortunately.
-0	6B	one.
-2	6B	alright!
-1	6B	or in university.
-2	6B	ah, i'd keep that, but i - that's only because i trunc like poetry.
-2	6B	ah, trunc trunc we're horrible trunc trunc trunc at this, aren't we?
-2	6B	so much partial to um - trunc i'm being somewhat partial, but -
-1	6B	alright.
-1	6B	mm-hm.
-1	6B	yeah.
-1	6B	yep.
-1	6B	yep.
-1	6B	mm-hm.
-1	6B	mm-hm.
-1	6B	alright, so i think we're just cutting three things from each one.
-0	6B	mm-hm. assistant cooks.
-0	6B	and acting coaches.
-1	6B	mm-hm.
-1	6B	now for public health and safety.
-1	6B	we should probably keep reproductive education.
-2	6B	well, * yes, but this is, i suppose -
-2	6B	yeah, and then sex ed is for - i think is for high school. this is - yeah.
-2	6B	we should definitely keep that.
-1	6B	trunc keep.
-1	6B	invasive species removal we should also keep.
-2	6B	s_t_d_ education, also keep.
-1	6B	yep.
-0	6B	hm.
-2	6B	or maybe it's just new york, and everyone eats bagels anyway.
-1	6B	yeah.
-2	6B	definitely.
-1	6B	mm-hm.
-2	6B	weed control we can get rid of.
-1	6B	yeah.
-0	6B	pre-natal checkups.
-0	6B	neighborhood watch support.
-2	6B	why?
-2	6B	yeah, but police can oftentimes be somewhat, uh -
-2	6B	how i say, heavy-handed.
-1	6B	true.
-1	6B	i - i - i wouldn't know enough trunc about that, but let's just go with that for the trunc trunc for the sake of argument.
-1	6B	yeah.
-1	6B	let's see -
-1	6B	hm. football stadium upkeep.
-2	6B	well, i mean - uh, this is basically - this is mostly based on my own personal biases, but i'd say football stadium upkeep -
-2	6B	junior soccer league -
-2	6B	and boy's basketball club.
-2	6B	trunc i suppose. i mean - they'll probably take out their - their trunc vengeance trunc on some s-
-2	6B	on some - on someone else if they trunc
-2	6B	if do that.
-1	6B	uh, how bout -
-1	6B	alright, i suppose.
-2	6B	yeah, yeah yeah.
-2	6B	and keep pest control and public access station and public news trunc station.
-1	6B	maybe we should just, uh -
-1	6B	get rid of the s-
-1	6B	hm. what about trunc free cat spaying?
-1	6B	alright.
-0	6B	i see.
-1	6B	i suppose.
-1	6B	alright, alright.
-1	6B	mm-hm.
-1	6B	mm-hm.
-1	6B	alright.
-0	6B	which one is the public access here? is -
-0	6B	oh.
-2	6B	yeah, yeah. agreed, agreed.
-3	6B	though, i - - though i * do love our trunc trunc our local trunc um, trunc our local stuff, for example, there was - uh, you ever saw almost live?
-2	6B	* really funny. it's * really really funny.
-2	6B	yeah, but it's funnier than s_n_l_.
-2	6B	ah, but this was in the the nineties. back when s_n_l_ use-
-0	6B	trunc now the person trunc who -
-2	6B	person - the people who run it are now running this new show, the two oh six. not, trunc nearly as good, i'd say.
-3	6B	it's - it's not - it's nothing much, i mean, i trunc i - i - i - i just think they're out of practice. they trunc they might get better soon.
-0	6B	well, and the other person is now on the seattle channel.
-0	6B	uh, nancy guppy?
-0	6B	uh, she's running an art zone.
-0	6B	trunc you ever seen that?
-0	6B	mm.
-2	6B	oh, cool!
-2	6B	cool, cool.
-2	6B	i'm jealous now.
-0	6B	mm-hm.
-0	6B	infrastructure and licensing.
-2	6B	well, trunc i'd trunc trunc i'd like to keep the trunc the bus stops and -
-2	6B	the, um subway system and so on.
-1	6B	yeah.
-1	6B	mm-hm.
-1	6B	trunc how bout, um -
-1	6B	taxi stops?
-1	6B	yeah yeah.
-1	6B	taxi stops, um, flagpole repair, and what about, um -
-1	6B	pothole maintenance?
-3	6B	nah pothole maintenance needs to be there.
-2	6B	yeah, yeah yeah.
-2	6B	i know, i know.
-1	6B	pothole maintenance was probably good to keep how about massage certificates?
-2	6B	tattoo artist license might be a bit more, um, useful, if only because -
-2	6B	you're cutting something into somebody's * skin.
-0	6B	uh -
-2	6B	yeah, it's better to trunc to -
-2	6B	than having an unlicensed tattoo artist.
-1	6B	mm-hm.
-1	6B	alright.
-1	3I	alright.
-0	3I	face cream! face cream.
-2	3I	well, no, i - i wouldn't put that there.
-1	3I	uh, how bout, um -
-1	3I	toilet paper, yeah, probably.
-0	3I	cushions for deck chairs.
-0	3I	where'd you put those?
-1	3I	mm yeah, yeah, yeah.
-2	3I	not - uh, i put it closer to the direction of mousetraps, i'd say.
-1	3I	beets, beets. food.
-1	3I	yeah.
-0	3I	backpacks.
-1	3I	backpacks i'd probably put -
-2	3I	with the toys and refrigerator magnets, would you say? or, no, boating supplies and travel guides, trunc that makes more sense.
-2	3I	i think it'd be better if we put it by travel guides. i mean -
-1	3I	mm-hm.
-2	3I	well obviously i -
-1	3I	yeah, yeah.
-0	3I	books of matches.
-0	3I	uh - hum.
-1	3I	probably with the, uh - trunc trunc trunc camping supplies, i'd say.
-0	3I	backpacks.
-1	3I	yeah.
-1	3I	suppose so.
-0	3I	hm
-2	3I	well, they - need to be with clothes, but clothes aren't anywhere here.
-2	3I	how bout just over trunc in this general area?
-1	3I	mm.
-0	3I	small saws.
-1	3I	probably up with the boating supplies, would you say? power cords?
-2	3I	yeah, but trunc
-1	3I	i suppose so.
-2	3I	i was thinking this is more of a home - home improvement thing, but -
-1	3I	alright, how bout a-
-2	3I	trunc how bout near the siding, then?
-1	3I	yeah.
-0	3I	hm.
-1	3I	yeah, yeah.
-0	3I	books.
-2	3I	i think i'd put the books around the thick -
-2	3I	sweaters, but - no, near the toys. right next to the toys, would you say?
-1	3I	yep, yep.
-0	3I	electric heaters.
-1	3I	probably with the power cords.
-1	3I	mm-hm.
-0	3I	bundles of sticks.
-1	3I	next to books of matches?
-0	3I	mousetraps.
-1	3I	yeah.
-1	3I	near the heaters?
-1	3I	mm-hm.
-0	3I	small axes.
-1	3I	near the small saws.
-1	3I	but is there room?
-1	3I	yeah.
-2	3I	up there.
-0	3I	liters of water.
-1	3I	uh, i think it'd * also go up there.
-1	3I	yeah, yeah, yeah.
-2	3I	or maybe it go down here, with the food.
-2	3I	nah.
-2	3I	trunc trunc and besides, f-
-1	3I	yeah, and trunc and food, trunc any case - trunc i think we assume the people have running water.
-1	3I	probably up there as well i'd think.
-1	3I	maybe a bit further up?
-1	3I	yeah.
-0	3I	box knives.
-1	3I	small axes, small saws? box knives.
-1	3I	food.
-1	3I	yeah, yeah.
-0	3I	bags of peat moss.
-0	3I	hm.
-1	3I	up there?
-2	3I	alright, yeah! yeah, yeah.
-1	3I	yep, and thick sweaters.
-0	3I	bars of soap.
-2	3I	near face cream and toilet paper, of course.
-2	3I	yeah, yeah, yeah.
-1	3I	mint toothpaste. near the trunc toiletry area.
-1	3I	probably down by the pet food?
-1	3I	hm. alright, yeah. makes sense.
-0	3I	uh, i don't know, i don't have any pets.
-2	3I	my sister does, though, and they are a -
-2	3I	nuisance.
-0	3I	boxes of doughnuts?
-1	3I	yep.
-1	3I	dried figs. with beets.
-2	3I	hats also there.
-1	3I	next to eggs?
-0	3I	mm.
-1	3I	down there with pet food?
-1	3I	yeah, yeah.
-0	3I	buckets.
-2	3I	buckets would go down with box knives.
-1	3I	yeah.
-0	3I	bagels?
-2	3I	bagels with eggs.
-2	3I	always good way to start breakfast.
-0	3I	heavy cable.
-1	3I	down with power cords.
-1	3I	yeah.
-1	3I	mm-hm.
-1	3I	flags. with books.
-1	3I	hm.
-2	3I	man, that left column is really full.
-2	3I	and the right column is - empty.
-0	3I	socks.
-2	3I	right there.
-1	3I	with fleece-lined boots. shoelaces, face cc-
-1	3I	yep, yep.
-0	3I	rolls of duct tape?
-1	3I	ah, just put it here. there's more room here.
-1	3I	true.
-0	3I	cases of whiskey.
-2	3I	i think we should put it with junk foods.
-1	3I	yep, yep.
-1	3I	bottles of juice. near the whiskey.
-0	3I	five-pound weights.
-2	3I	is there any * space in the left column?
-1	3I	suppose so.
-0	3I	mm.
-2	3I	yeah, trunc maybe.
-2	3I	well, i think we should probably put it in the, um, middle column now.
-2	3I	there's barely any space in the left column.
-0	3I	scissors.
-1	3I	mm-hm.
-1	3I	alright!
-1	3I	yeah.
-1	3I	maybe this is r_e_i_?
-0	3I	mm.
-2	6B	i think we should take out the bookkeeping classes.
-2	6B	and the cooking classes.
-2	6B	and the -
-2	6B	well, i mean - i don't want - trunc trunc
-1	6B	maybe we trunc we should remove the football equipment?
-1	6B	alright, i suppose.
-1	6B	true, true.
-1	6B	what about the sugar-free juice machines?
-1	6B	mm-hm.
-1	6B	unfortunately.
-0	6B	one.
-2	6B	alright!
-1	6B	or in university.
-2	6B	ah, i'd keep that, but i - that's only because i trunc like poetry.
-2	6B	ah, trunc trunc we're horrible trunc trunc trunc at this, aren't we?
-2	6B	so much partial to um - trunc i'm being somewhat partial, but -
-1	6B	alright.
-1	6B	mm-hm.
-1	6B	yeah.
-1	6B	yep.
-1	6B	yep.
-1	6B	mm-hm.
-1	6B	mm-hm.
-1	6B	alright, so i think we're just cutting three things from each one.
-0	6B	mm-hm. assistant cooks.
-0	6B	and acting coaches.
-1	6B	mm-hm.
-1	6B	now for public health and safety.
-1	6B	we should probably keep reproductive education.
-2	6B	well, * yes, but this is, i suppose -
-2	6B	yeah, and then sex ed is for - i think is for high school. this is - yeah.
-2	6B	we should definitely keep that.
-1	6B	trunc keep.
-1	6B	invasive species removal we should also keep.
-2	6B	s_t_d_ education, also keep.
-1	6B	yep.
-0	6B	hm.
-2	6B	or maybe it's just new york, and everyone eats bagels anyway.
-1	6B	yeah.
-2	6B	definitely.
-1	6B	mm-hm.
-2	6B	weed control we can get rid of.
-1	6B	yeah.
-0	6B	pre-natal checkups.
-0	6B	neighborhood watch support.
-2	6B	why?
-2	6B	yeah, but police can oftentimes be somewhat, uh -
-2	6B	how i say, heavy-handed.
-1	6B	true.
-1	6B	i - i - i wouldn't know enough trunc about that, but let's just go with that for the trunc trunc for the sake of argument.
-1	6B	yeah.
-1	6B	let's see -
-1	6B	hm. football stadium upkeep.
-2	6B	well, i mean - uh, this is basically - this is mostly based on my own personal biases, but i'd say football stadium upkeep -
-2	6B	junior soccer league -
-2	6B	and boy's basketball club.
-2	6B	trunc i suppose. i mean - they'll probably take out their - their trunc vengeance trunc on some s-
-2	6B	on some - on someone else if they trunc
-2	6B	if do that.
-1	6B	uh, how bout -
-1	6B	alright, i suppose.
-2	6B	yeah, yeah yeah.
-2	6B	and keep pest control and public access station and public news trunc station.
-1	6B	maybe we should just, uh -
-1	6B	get rid of the s-
-1	6B	hm. what about trunc free cat spaying?
-1	6B	alright.
-0	6B	i see.
-1	6B	i suppose.
-1	6B	alright, alright.
-1	6B	mm-hm.
-1	6B	mm-hm.
-1	6B	alright.
-0	6B	which one is the public access here? is -
-0	6B	oh.
-2	6B	yeah, yeah. agreed, agreed.
-3	6B	though, i - - though i * do love our trunc trunc our local trunc um, trunc our local stuff, for example, there was - uh, you ever saw almost live?
-2	6B	* really funny. it's * really really funny.
-2	6B	yeah, but it's funnier than s_n_l_.
-2	6B	ah, but this was in the the nineties. back when s_n_l_ use-
-0	6B	trunc now the person trunc who -
-2	6B	person - the people who run it are now running this new show, the two oh six. not, trunc nearly as good, i'd say.
-3	6B	it's - it's not - it's nothing much, i mean, i trunc i - i - i - i just think they're out of practice. they trunc they might get better soon.
-0	6B	well, and the other person is now on the seattle channel.
-0	6B	uh, nancy guppy?
-0	6B	uh, she's running an art zone.
-0	6B	trunc you ever seen that?
-0	6B	mm.
-2	6B	oh, cool!
-2	6B	cool, cool.
-2	6B	i'm jealous now.
-0	6B	mm-hm.
-0	6B	infrastructure and licensing.
-2	6B	well, trunc i'd trunc trunc i'd like to keep the trunc the bus stops and -
-2	6B	the, um subway system and so on.
-1	6B	yeah.
-1	6B	mm-hm.
-1	6B	trunc how bout, um -
-1	6B	taxi stops?
-1	6B	yeah yeah.
-1	6B	taxi stops, um, flagpole repair, and what about, um -
-1	6B	pothole maintenance?
-3	6B	nah pothole maintenance needs to be there.
-2	6B	yeah, yeah yeah.
-2	6B	i know, i know.
-1	6B	pothole maintenance was probably good to keep how about massage certificates?
-2	6B	tattoo artist license might be a bit more, um, useful, if only because -
-2	6B	you're cutting something into somebody's * skin.
-0	6B	uh -
-2	6B	yeah, it's better to trunc to -
-2	6B	than having an unlicensed tattoo artist.
-1	6B	mm-hm.
-1	6B	alright.
-1	3I	alright.
-0	3I	face cream! face cream.
-2	3I	well, no, i - i wouldn't put that there.
-1	3I	uh, how bout, um -
-1	3I	toilet paper, yeah, probably.
-0	3I	cushions for deck chairs.
-0	3I	where'd you put those?
-1	3I	mm yeah, yeah, yeah.
-2	3I	not - uh, i put it closer to the direction of mousetraps, i'd say.
-1	3I	beets, beets. food.
-1	3I	yeah.
-0	3I	backpacks.
-1	3I	backpacks i'd probably put -
-2	3I	with the toys and refrigerator magnets, would you say? or, no, boating supplies and travel guides, trunc that makes more sense.
-2	3I	i think it'd be better if we put it by travel guides. i mean -
-1	3I	mm-hm.
-2	3I	well obviously i -
-1	3I	yeah, yeah.
-0	3I	books of matches.
-0	3I	uh - hum.
-1	3I	probably with the, uh - trunc trunc trunc camping supplies, i'd say.
-0	3I	backpacks.
-1	3I	yeah.
-1	3I	suppose so.
-0	3I	hm
-2	3I	well, they - need to be with clothes, but clothes aren't anywhere here.
-2	3I	how bout just over trunc in this general area?
-1	3I	mm.
-0	3I	small saws.
-1	3I	probably up with the boating supplies, would you say? power cords?
-2	3I	yeah, but trunc
-1	3I	i suppose so.
-2	3I	i was thinking this is more of a home - home improvement thing, but -
-1	3I	alright, how bout a-
-2	3I	trunc how bout near the siding, then?
-1	3I	yeah.
-0	3I	hm.
-1	3I	yeah, yeah.
-0	3I	books.
-2	3I	i think i'd put the books around the thick -
-2	3I	sweaters, but - no, near the toys. right next to the toys, would you say?
-1	3I	yep, yep.
-0	3I	electric heaters.
-1	3I	probably with the power cords.
-1	3I	mm-hm.
-0	3I	bundles of sticks.
-1	3I	next to books of matches?
-0	3I	mousetraps.
-1	3I	yeah.
-1	3I	near the heaters?
-1	3I	mm-hm.
-0	3I	small axes.
-1	3I	near the small saws.
-1	3I	but is there room?
-1	3I	yeah.
-2	3I	up there.
-0	3I	liters of water.
-1	3I	uh, i think it'd * also go up there.
-1	3I	yeah, yeah, yeah.
-2	3I	or maybe it go down here, with the food.
-2	3I	nah.
-2	3I	trunc trunc and besides, f-
-1	3I	yeah, and trunc and food, trunc any case - trunc i think we assume the people have running water.
-1	3I	probably up there as well i'd think.
-1	3I	maybe a bit further up?
-1	3I	yeah.
-0	3I	box knives.
-1	3I	small axes, small saws? box knives.
-1	3I	food.
-1	3I	yeah, yeah.
-0	3I	bags of peat moss.
-0	3I	hm.
-1	3I	up there?
-2	3I	alright, yeah! yeah, yeah.
-1	3I	yep, and thick sweaters.
-0	3I	bars of soap.
-2	3I	near face cream and toilet paper, of course.
-2	3I	yeah, yeah, yeah.
-1	3I	mint toothpaste. near the trunc toiletry area.
-1	3I	probably down by the pet food?
-1	3I	hm. alright, yeah. makes sense.
-0	3I	uh, i don't know, i don't have any pets.
-2	3I	my sister does, though, and they are a -
-2	3I	nuisance.
-0	3I	boxes of doughnuts?
-1	3I	yep.
-1	3I	dried figs. with beets.
-2	3I	hats also there.
-1	3I	next to eggs?
-0	3I	mm.
-1	3I	down there with pet food?
-1	3I	yeah, yeah.
-0	3I	buckets.
-2	3I	buckets would go down with box knives.
-1	3I	yeah.
-0	3I	bagels?
-2	3I	bagels with eggs.
-2	3I	always good way to start breakfast.
-0	3I	heavy cable.
-1	3I	down with power cords.
-1	3I	yeah.
-1	3I	mm-hm.
-1	3I	flags. with books.
-1	3I	hm.
-2	3I	man, that left column is really full.
-2	3I	and the right column is - empty.
-0	3I	socks.
-2	3I	right there.
-1	3I	with fleece-lined boots. shoelaces, face cc-
-1	3I	yep, yep.
-0	3I	rolls of duct tape?
-1	3I	ah, just put it here. there's more room here.
-1	3I	true.
-0	3I	cases of whiskey.
-2	3I	i think we should put it with junk foods.
-1	3I	yep, yep.
-1	3I	bottles of juice. near the whiskey.
-0	3I	five-pound weights.
-2	3I	is there any * space in the left column?
-1	3I	suppose so.
-0	3I	mm.
-2	3I	yeah, trunc maybe.
-2	3I	well, i think we should probably put it in the, um, middle column now.
-2	3I	there's barely any space in the left column.
-0	3I	scissors.
-1	3I	mm-hm.
-1	3I	alright!
-1	3I	yeah.
-1	3I	maybe this is r_e_i_?
-0	3I	mm.
-2	6B	i think we should take out the bookkeeping classes.
-2	6B	and the cooking classes.
-2	6B	and the -
-2	6B	well, i mean - i don't want - trunc trunc
-1	6B	maybe we trunc we should remove the football equipment?
-1	6B	alright, i suppose.
-1	6B	true, true.
-1	6B	what about the sugar-free juice machines?
-1	6B	mm-hm.
-1	6B	unfortunately.
-0	6B	one.
-2	6B	alright!
-1	6B	or in university.
-2	6B	ah, i'd keep that, but i - that's only because i trunc like poetry.
-2	6B	ah, trunc trunc we're horrible trunc trunc trunc at this, aren't we?
-2	6B	so much partial to um - trunc i'm being somewhat partial, but -
-1	6B	alright.
-1	6B	mm-hm.
-1	6B	yeah.
-1	6B	yep.
-1	6B	yep.
-1	6B	mm-hm.
-1	6B	mm-hm.
-1	6B	alright, so i think we're just cutting three things from each one.
-0	6B	mm-hm. assistant cooks.
-0	6B	and acting coaches.
-1	6B	mm-hm.
-1	6B	now for public health and safety.
-1	6B	we should probably keep reproductive education.
-2	6B	well, * yes, but this is, i suppose -
-2	6B	yeah, and then sex ed is for - i think is for high school. this is - yeah.
-2	6B	we should definitely keep that.
-1	6B	trunc keep.
-1	6B	invasive species removal we should also keep.
-2	6B	s_t_d_ education, also keep.
-1	6B	yep.
-0	6B	hm.
-2	6B	or maybe it's just new york, and everyone eats bagels anyway.
-1	6B	yeah.
-2	6B	definitely.
-1	6B	mm-hm.
-2	6B	weed control we can get rid of.
-1	6B	yeah.
-0	6B	pre-natal checkups.
-0	6B	neighborhood watch support.
-2	6B	why?
-2	6B	yeah, but police can oftentimes be somewhat, uh -
-2	6B	how i say, heavy-handed.
-1	6B	true.
-1	6B	i - i - i wouldn't know enough trunc about that, but let's just go with that for the trunc trunc for the sake of argument.
-1	6B	yeah.
-1	6B	let's see -
-1	6B	hm. football stadium upkeep.
-2	6B	well, i mean - uh, this is basically - this is mostly based on my own personal biases, but i'd say football stadium upkeep -
-2	6B	junior soccer league -
-2	6B	and boy's basketball club.
-2	6B	trunc i suppose. i mean - they'll probably take out their - their trunc vengeance trunc on some s-
-2	6B	on some - on someone else if they trunc
-2	6B	if do that.
-1	6B	uh, how bout -
-1	6B	alright, i suppose.
-2	6B	yeah, yeah yeah.
-2	6B	and keep pest control and public access station and public news trunc station.
-1	6B	maybe we should just, uh -
-1	6B	get rid of the s-
-1	6B	hm. what about trunc free cat spaying?
-1	6B	alright.
-0	6B	i see.
-1	6B	i suppose.
-1	6B	alright, alright.
-1	6B	mm-hm.
-1	6B	mm-hm.
-1	6B	alright.
-0	6B	which one is the public access here? is -
-0	6B	oh.
-2	6B	yeah, yeah. agreed, agreed.
-3	6B	though, i - - though i * do love our trunc trunc our local trunc um, trunc our local stuff, for example, there was - uh, you ever saw almost live?
-2	6B	* really funny. it's * really really funny.
-2	6B	yeah, but it's funnier than s_n_l_.
-2	6B	ah, but this was in the the nineties. back when s_n_l_ use-
-0	6B	trunc now the person trunc who -
-2	6B	person - the people who run it are now running this new show, the two oh six. not, trunc nearly as good, i'd say.
-3	6B	it's - it's not - it's nothing much, i mean, i trunc i - i - i - i just think they're out of practice. they trunc they might get better soon.
-0	6B	well, and the other person is now on the seattle channel.
-0	6B	uh, nancy guppy?
-0	6B	uh, she's running an art zone.
-0	6B	trunc you ever seen that?
-0	6B	mm.
-2	6B	oh, cool!
-2	6B	cool, cool.
-2	6B	i'm jealous now.
-0	6B	mm-hm.
-0	6B	infrastructure and licensing.
-2	6B	well, trunc i'd trunc trunc i'd like to keep the trunc the bus stops and -
-2	6B	the, um subway system and so on.
-1	6B	yeah.
-1	6B	mm-hm.
-1	6B	trunc how bout, um -
-1	6B	taxi stops?
-1	6B	yeah yeah.
-1	6B	taxi stops, um, flagpole repair, and what about, um -
-1	6B	pothole maintenance?
-3	6B	nah pothole maintenance needs to be there.
-2	6B	yeah, yeah yeah.
-2	6B	i know, i know.
-1	6B	pothole maintenance was probably good to keep how about massage certificates?
-2	6B	tattoo artist license might be a bit more, um, useful, if only because -
-2	6B	you're cutting something into somebody's * skin.
-0	6B	uh -
-2	6B	yeah, it's better to trunc to -
-2	6B	than having an unlicensed tattoo artist.
-1	6B	mm-hm.
-1	6B	alright.
+2	6B	yeah , it 's better to trunc to -
+2	6B	than having an unlicensed tattoo artist .
+1	6B	mm-hm .
+1	6B	alright .

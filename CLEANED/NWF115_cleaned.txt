@@ -1,285 +1,285 @@
-0	3I	hats . 
-0	3I	i don't see any clothing 
-2	3I	yeah , the sides look like they are also aisles . 
-0	3I	um . let's see . 
-1	3I	i would say could put clothing in this area sort of near the - 
-1	3I	travel guides and - 
-1	3I	okay . 
-0	3I	alright . i 've got some tweezers . 
-1	3I	that 's - sort of toiletries , trunc health and beauty . which goes well with the toilet paper . 
-2	3I	here's the refrigerated section it looks like . with the ice cream and eggs . 
-1	3I	alright . 
-0	3I	alright . i have beets . 
-2	3I	which - those are vegetables - produce . so i 'm gonna put them with the soy beans . so right underneath the - soybeans . 
-1	3I	alright . i 've got a couple liters of water here . 
-2	3I	that could either be food or sorta utilities sorta things . 
-0	3I	um . 
-1	3I	yeah . i 'll go ahead and put it - uh - 
-2	3I	with the - yeah , i 'll put it beneath the bottles of juice , because - 
-1	3I	yeah . with liquids . 
-0	3I	lem me grab a few more things off this truck . 
-2	3I	let's put it with the boating supplies . people need flags on their boats . 
-0	3I	i have some cases of whisky .  cases . of whisky . 
-0	3I	ah , let's see . 
-1	3I	i wanna put these - 
-0	3I	mm . 
-2	3I	we 'll go ahead and put it with the juice and the water . 
-1	3I	liquids with liquids . 
-1	3I	i would say that goes near the cake mix . 
-0	3I	okay . now we have some paper bags . 
-1	3I	which seems like they go well sort of - 
-1	3I	with - 
-1	3I	the power cords here . 
-1	3I	probably better with the mouse traps . 
-2	3I	i 'm gonna put them right underneath the mouse traps 
-2	3I	alright . i have some box knives which go really well with the power cords . i 'm gonna put them right above those power cords . 
-1	3I	yes . a whole aisle of things you can hurt yourself with . 
-1	3I	let's see - wetsuits . which are more recreational than just regular clothing so le- 
-2	3I	yeah . i 'm gonna put em right underneath the boating supplies . 
-0	3I	yeah . 
-1	3I	alright . fish hooks go fairly well with the - 
-2	3I	wetsuits and boating supplies . it's going to be underneath those two . 
-1	3I	yeah . you do . 
-2	3I	and some small saws . let's go ahead and put those with the rest of the sharps . right above the small axes . 
-1	3I	yeah . 
-2	3I	alright . i 've got some electric heaters . which , that seems to go hand and hand with the power cords . so i 'm gonna put that right underneath the power cords . 
-0	3I	let me grab a few more . 
-1	3I	yeah . 
-1	3I	works for me . 
-0	3I	i 've got some books of matches which - 
-2	3I	if we 're continuing in that sorta camping theme - i 'm gonna put them above the bundles of sticks . 
-2	3I	that sounds good . i 've got some rolls of duct tape which i 'm just gonna put underneath the siding here . cuz you can use one to repair the other . 
-1	3I	alright . 
-0	3I	i have some large vests . 
-2	3I	which , we have a clothing section . i 'm putting it right underneath the fleece lined boots . 
-1	3I	yeah . 
-0	3I	and i have some five pound weights . 
-1	3I	which let's go ahead and we 'll put that underneath the rolls of duct tape . 
-1	3I	in that sorta utilities section . 
-1	3I	yeah . 
-2	3I	i have sticks of butter which seem to go well just underneath the sugar . 
-1	3I	mm-hm . 
-1	3I	alright . mint toothpaste . 
-2	3I	will go - 
-2	3I	uh we 'll put it underneath the tweezers , in that sorta health and beauty section . 
-1	3I	oh yes . 
-0	3I	i - gas powered cook stoves . 
-2	3I	let's go ahead and put that underneath the electric heaters . 
-1	3I	mm-hm . 
-1	3I	yeah . 
-2	3I	face cream i 'm gonna go ahead and put above the toilet paper . 
-1	3I	alright . 
-0	3I	bags of peat moss . 
-2	3I	we don't really have a gardening section so i 'm just gonna put it with the paper bags and mouse traps . as things you find in the garage . 
-0	3I	and then i 've got loose leaf paper . 
-1	3I	which we don't really have an office supply section but - yeah , they can go with the travel guides . 
-0	3I	i 've got some packages of cookies . 
-2	3I	which i 'm gonna go ahead and put with the pouches of oatmeal . as sorta that prepackaged deal . 
-1	3I	there we go . 
-2	3I	i 've got some backpacks . which go great with loose leaf paper . 
-2	3I	alright . i 've got some empty plastic jugs . which are fairly utilitarian but still trunc somewhat miscellaneous . 
-2	3I	so we 'll put that with the canvas bags . it's looking like it's just things that carry other things . 
-1	3I	alright . 
-2	3I	bagels . i 'm going to put underneath the package of cookies . 
-2	3I	mm-kay . i 've got some egg timers that i 'm putting with the larger cups , just above the there . 
-1	3I	yeah . 
-2	3I	alright . i 've got some light jackets that will go great - 
-2	3I	right over those thick sweaters . so you can label that so - then - i 'm putting those right underneath the thick sweaters . 
-0	3I	alright . 
-1	3I	and across and trunc up from cases of whiskey . so also celebratory . 
-1	3I	so looks like we 're done . 
-2	6B	let's just go left to right . 
-0	6B	math tutors . 
-1	6B	math tutors are pretty important . 
-1	6B	yeah . 
-0	6B	um . assistant cooks . 
-1	6B	yeah . 
-2	6B	yeah . uh we 're not going to cut sex ed . that is a bad idea . 
-2	6B	let's not cut the custodians either . 
-1	6B	yeah . 
-0	6B	football equipment . 
-2	6B	yeah . and if they have - if they 're using sub-par equipment that could be a public health risk . 
-0	6B	and then acting coaches . 
-2	6B	i don't know how necessary the coaches are - in education . because drama teachers usually - 
-2	6B	are not - acting coaches . 
-0	6B	so . 
-1	6B	i 'd say let's cut funding for the acting coaches . just for a little bit and see how things do . see if there 's a complete fallout of society . 
-0	6B	uh . 
-2	6B	we don't need to continue funding poetry books . because they have poetry books . 
-1	6B	yeah , let's keep the special ed . and get rid of speech therapy . 
-0	6B	cooking classes 
-2	6B	uh . just - turn on food network . 
-2	6B	that is pretty different and - 
-1	6B	yeah . it's pretty necessary for access . 
-1	6B	eh . 
-2	6B	let's go ahead and axe those . no more sugar free juice machines . 
-1	6B	we could lump that in together with the math tutors and - keep one or the other . 
-1	6B	yeah . 
-0	6B	em . 
-2	6B	i know so many music teachers . i don't wanna cut them . 
-2	6B	and it's important . 
-0	6B	mm-kay . so how many have we cut from this one ? 
-0	6B	speech therapy . 
-0	6B	acting coaches , poetry books . 
-0	6B	the cooking classes - and the sugar free juice machines . 
-1	6B	we 'll see . 
-2	6B	reproductive education . that 's staying . 
-0	6B	um . 
-1	6B	i guess they 're kinda similar . 
-2	6B	well the sex ed is under education while the reproductive education is under public health . 
-2	6B	and that could be - also be more along the lines of like prenatal . 
-1	6B	trunc or not necessarily prenatal . checkups which was on there - but just - 
-1	6B	okay . yes . this is what you need to be doing for your baby's health and all that . so . 
-2	6B	mm . we definitely don't want an unemployed populous so . 
-1	6B	yeah , 
-0	6B	invasive species removal . 
-2	6B	but i don't think we 're necessarily cutting these things forever until the end of time . we could probably - do a trial cut for a year . 
-1	6B	it is important . 
-2	6B	i don't think we can cross the streams , no . 
-2	6B	i 'm so glad you got that reference okay . uh . toxic waste disposal . 
-2	6B	we don't want to be - wallowing in our own toxic waste . 
-0	6B	um . hospital additions . 
-0	6B	what are we adding ? 
-2	6B	i trunc i know that mine really needs a new operating suite but - 
-2	6B	yeah who trunc who cares about the bagel factories . 
-2	6B	bagel factory inspections , they can go off for a little while . hospital additions . ehm . 
-2	6B	they don't need public funding , really . so we don't really need do public funding for hospital additions so we can cut that . 
-2	6B	probably not because i know that needle exchange also includes uh diabetes equipment for homeless and so on and so forth . 
-0	6B	um . 
-1	6B	moon of yeah . 
-2	6B	yeah . it's broken . we need to come up with something else for it . 
-1	6B	yeah . 
-2	6B	keep it . 
-0	6B	egg farm regulations . 
-2	6B	they 're pretty well regulated at this point . 
-2	6B	so we can cut that . 
-2	6B	let's get rid of weed control . invasive species removal is more overarching . 
-1	6B	totally . well - 
-0	6B	um . 
-2	6B	i mean the prenatal check ups are pretty important . 
-2	6B	that would be unpleasant to the microphone . 
-1	6B	um . let's see . 
-2	6B	uh . gosh . 
-2	6B	if we were to cut one then the duties that its cut will fall under the other 
-0	6B	and prenatal checkups are a larger - 
-2	6B	financial thing so we - we should probably keep that . 
-0	6B	and then - 
-0	6B	that way - 
-2	6B	the funding from trunc reproductive education that isn't completely cut will be funneled into that . 
-2	6B	there 's like no funding that really needs to go to that . 
-2	6B	and for the most part people don't know their neighbors anymore anyway . 
-0	6B	okay . so how many do we have from there ? 
-0	6B	reproductive education . 
-0	6B	uh invasive trunc no it was the - 
-0	6B	hospital additions . bagel factory . 
-0	6B	sex offender 
-0	6B	egg farm . 
-2	6B	weed control . yay ! 
-0	6B	we got - oh . and we got rid of - neighborhood watch so there 's seven . 
-1	6B	we can keep one . 
-0	6B	um . 
-2	6B	then let's keep the reproductive education . 
-0	6B	alright . 
-2	6B	excellent . moving right along . 
-2	6B	i don't wanna have a whole bunch of cats . 
-1	6B	mm-hm . 
-2	6B	and then it cost money - it cost more money to put em down than to spay them . 
-2	6B	public news station is important . oh no ! 
-2	6B	oh no ! 
-2	6B	nobody watches it . 
-1	6B	yeah . 
-2	6B	we can come back to it . 
-2	6B	food bank we 're keeping . 
-1	6B	yeah . junior soccer league . 
-2	6B	i mean the y_m_c_a_ has their own and - we don't need a county one . 
-0	6B	uh . kitten and puppy adoption . 
-2	6B	i don't know why we have to have that publicly funded . 
-1	6B	yes . and no more kitten and puppy adoption 
-2	6B	let's keep the soup kitchens . 
-1	6B	let's keep the housing assistance . 
-2	6B	mm we 're not really doing anything with them . just catching em and putting em in pound 
-0	6B	that - 
-2	6B	seems rather ridiculous . 
-2	6B	i 'd say we get rid of the dog catcher . 
-1	6B	or lump it under pest control . there we go . 
-1	6B	yeah . no more boys basketball club . 
-1	6B	the public access station we can we kind of - 
-1	6B	combine that with the public news station . 
-2	6B	so we can get rid of one or the other . 
-0	6B	yeah . 
-1	6B	mm-kay . reusable bag campaign . 
-2	6B	uh do we really need to campaign over it anymore ? 
-2	6B	people are doing well and for the most part their keeping their plastic bags anyway . and - 
-2	6B	well - i 'm gonna assume that we 're - in the perfect society that has now adopted the reusable bag campaign . 
-2	6B	and we don't need to campaign over it anymore . 
-0	6B	veterinary hospital . 
-2	6B	i 'd like to keep it but at the same time - publicly funded - 
-1	6B	yeah . football stadium upkeep . 
-2	6B	yeah . 
-1	6B	yeah . 
-0	6B	so we 've - we 're getting rid of the public news station - 
-0	6B	the junior soccer league - 
-0	6B	adoption - 
-0	6B	dog catcher - 
-0	6B	basketball - 
-0	6B	reusable bag campaign . 
-2	6B	so we can keep the - 
-2	6B	no , let's keep the veterinary hospital . 
-1	6B	nn-yeah . 
-1	6B	let's go ahead and keep the adoption . 
-2	6B	because i really don't care about that football stadium . 
-2	6B	it's not bringing in any money and - 
-1	6B	exactly . 
-0	6B	alright . 
-0	6B	okay . 
-0	6B	infrastructure and licensing . 
-2	6B	oh god keep the teaching certificates . 
-2	6B	everyone speeds anyway and don't we already have them up there ? are they trunc do we have to pay rent for having them ? 
-2	6B	i mean , people aren't stealing them , are they ? 
-2	6B	so we 'll get rid of the speed limit signs . 
-2	6B	yeah . so let's just keep - let's get rid of the additional bus stops . 
-2	6B	yeah let's keep licensing them . 
-2	6B	yeah we 'll keep the licenses . so we 'll also keep the boating license . 
-2	6B	yes let pothole maintenance is necessary . 
-0	6B	subway system . 
-2	6B	kind of - it's a subway for like a mile and a half . 
-0	6B	yeah . that 's true . 
-2	6B	yeah we need to keep funding it until it's done . because a half done one isn't gonna do anything . 
-2	6B	so we 'll keep the subway system for now . 
-0	6B	hunting tags . 
-2	6B	i mean every time someone gets a license they are paying for it . 
-2	6B	so that 's a source of income . so let's keep that . 
-2	6B	towing services should be privatized . 
-0	6B	so - 
-2	6B	yeah . so no more towing services . 
-1	6B	um . massage certificate . that 's another certification . 
-3	6B	how many flag poles - 
-3	6B	do we have in this city that we need to have a flag pole repair department ? 
-3	6B	how many people are we putting out of a job if we cut that ? like one hisname is larry and he works part time . i think trunc it's okay if we get rid of the flag pole repair . 
-2	6B	i have never heard of a taxi stop . 
-2	6B	i 'm standing outside the grocery store . i 'm gonna call a taxi . 
-3	6B	let's get rid of the taxi stops . 
-3	6B	or at least stop funding them . 
-1	6B	yeah . 
-1	6B	yes . 
-2	6B	yes and no more taxi stops . 
-1	6B	go ahead and keep that . 
-1	6B	yes . we 'll keep public bus upkeep . 
-2	6B	yes they are . we did not trunc cut a whole lot here . 
-0	6B	additional bus stops . 
-0	6B	towing services , flag pole repair , taxi stops - 
-1	6B	need one more . 
-0	6B	hm 
-1	6B	yeah . 
-2	6B	there isn't much hunting in the trunc this particular county . 
-0	6B	but if you go hunting anywhere do you need a - 
-0	6B	license from that county . 
-0	6B	does it have to be where you live ? or does it have to be from where you 're going ? 
-2	6B	okay . well let's get rid of hunting tags . 
-0	6B	alright . 
-1	6B	yeah . six from each one . 
-1	6B	um . sorry larry . 
-1	6B	but you can - start your own private business repairing flag poles . 
-0	6B	alright . 
-1	6B	we 're done 
-2	6B	flag pole repair . i mean really 
+0	3I	hats .
+0	3I	i do n't see any clothing
+2	3I	yeah , the sides look like they are also aisles .
+0	3I	um . let 's see .
+1	3I	i would say could put clothing in this area sort of near the -
+1	3I	travel guides and -
+1	3I	okay .
+0	3I	alright . i 've got some tweezers .
+1	3I	that 's - sort of toiletries , trunc health and beauty . which goes well with the toilet paper .
+2	3I	here 's the refrigerated section it looks like . with the ice cream and eggs .
+1	3I	alright .
+0	3I	alright . i have beets .
+2	3I	which - those are vegetables - produce . so i 'm gon na put them with the soy beans . so right underneath the - soybeans .
+1	3I	alright . i 've got a couple liters of water here .
+2	3I	that could either be food or sorta utilities sorta things .
+0	3I	um .
+1	3I	yeah . i 'll go ahead and put it - uh -
+2	3I	with the - yeah , i 'll put it beneath the bottles of juice , because -
+1	3I	yeah . with liquids .
+0	3I	lem me grab a few more things off this truck .
+2	3I	let 's put it with the boating supplies . people need flags on their boats .
+0	3I	i have some cases of whisky . cases . of whisky .
+0	3I	ah , let 's see .
+1	3I	i wan na put these -
+0	3I	mm .
+2	3I	we 'll go ahead and put it with the juice and the water .
+1	3I	liquids with liquids .
+1	3I	i would say that goes near the cake mix .
+0	3I	okay . now we have some paper bags .
+1	3I	which seems like they go well sort of -
+1	3I	with -
+1	3I	the power cords here .
+1	3I	probably better with the mouse traps .
+2	3I	i 'm gon na put them right underneath the mouse traps
+2	3I	alright . i have some box knives which go really well with the power cords . i 'm gon na put them right above those power cords .
+1	3I	yes . a whole aisle of things you can hurt yourself with .
+1	3I	let 's see - wetsuits . which are more recreational than just regular clothing so le-
+2	3I	yeah . i 'm gon na put em right underneath the boating supplies .
+0	3I	yeah .
+1	3I	alright . fish hooks go fairly well with the -
+2	3I	wetsuits and boating supplies . it 's going to be underneath those two .
+1	3I	yeah . you do .
+2	3I	and some small saws . let 's go ahead and put those with the rest of the sharps . right above the small axes .
+1	3I	yeah .
+2	3I	alright . i 've got some electric heaters . which , that seems to go hand and hand with the power cords . so i 'm gon na put that right underneath the power cords .
+0	3I	let me grab a few more .
+1	3I	yeah .
+1	3I	works for me .
+0	3I	i 've got some books of matches which -
+2	3I	if we 're continuing in that sorta camping theme - i 'm gon na put them above the bundles of sticks .
+2	3I	that sounds good . i 've got some rolls of duct tape which i 'm just gon na put underneath the siding here . cuz you can use one to repair the other .
+1	3I	alright .
+0	3I	i have some large vests .
+2	3I	which , we have a clothing section . i 'm putting it right underneath the fleece lined boots .
+1	3I	yeah .
+0	3I	and i have some five pound weights .
+1	3I	which let 's go ahead and we 'll put that underneath the rolls of duct tape .
+1	3I	in that sorta utilities section .
+1	3I	yeah .
+2	3I	i have sticks of butter which seem to go well just underneath the sugar .
+1	3I	mm-hm .
+1	3I	alright . mint toothpaste .
+2	3I	will go -
+2	3I	uh we 'll put it underneath the tweezers , in that sorta health and beauty section .
+1	3I	oh yes .
+0	3I	i - gas powered cook stoves .
+2	3I	let 's go ahead and put that underneath the electric heaters .
+1	3I	mm-hm .
+1	3I	yeah .
+2	3I	face cream i 'm gon na go ahead and put above the toilet paper .
+1	3I	alright .
+0	3I	bags of peat moss .
+2	3I	we do n't really have a gardening section so i 'm just gon na put it with the paper bags and mouse traps . as things you find in the garage .
+0	3I	and then i 've got loose leaf paper .
+1	3I	which we do n't really have an office supply section but - yeah , they can go with the travel guides .
+0	3I	i 've got some packages of cookies .
+2	3I	which i 'm gon na go ahead and put with the pouches of oatmeal . as sorta that prepackaged deal .
+1	3I	there we go .
+2	3I	i 've got some backpacks . which go great with loose leaf paper .
+2	3I	alright . i 've got some empty plastic jugs . which are fairly utilitarian but still trunc somewhat miscellaneous .
+2	3I	so we 'll put that with the canvas bags . it 's looking like it 's just things that carry other things .
+1	3I	alright .
+2	3I	bagels . i 'm going to put underneath the package of cookies .
+2	3I	mm-kay . i 've got some egg timers that i 'm putting with the larger cups , just above the there .
+1	3I	yeah .
+2	3I	alright . i 've got some light jackets that will go great -
+2	3I	right over those thick sweaters . so you can label that so - then - i 'm putting those right underneath the thick sweaters .
+0	3I	alright .
+1	3I	and across and trunc up from cases of whiskey . so also celebratory .
+1	3I	so looks like we 're done .
+2	6B	let 's just go left to right .
+0	6B	math tutors .
+1	6B	math tutors are pretty important .
+1	6B	yeah .
+0	6B	um . assistant cooks .
+1	6B	yeah .
+2	6B	yeah . uh we 're not going to cut sex ed . that is a bad idea .
+2	6B	let 's not cut the custodians either .
+1	6B	yeah .
+0	6B	football equipment .
+2	6B	yeah . and if they have - if they 're using sub-par equipment that could be a public health risk .
+0	6B	and then acting coaches { voc breath {
+2	6B	i do n't know how necessary the coaches are - in education . because drama teachers usually -
+2	6B	are not - acting coaches .
+0	6B	so .
+1	6B	i 'd say let 's cut funding for the acting coaches . just for a little bit and see how things do . see if there 's a complete fallout of society .
+0	6B	uh .
+2	6B	we do n't need to continue funding poetry books . because they have poetry books .
+1	6B	yeah , let 's keep the special ed . and get rid of speech therapy .
+0	6B	cooking classes
+2	6B	uh . just - turn on food network .
+2	6B	that is pretty different and -
+1	6B	yeah . it 's pretty necessary for access .
+1	6B	eh .
+2	6B	let 's go ahead and axe those . no more sugar free juice machines .
+1	6B	we could lump that in together with the math tutors and - keep one or the other .
+1	6B	yeah .
+0	6B	em .
+2	6B	i know so many music teachers . i do n't wan na cut them .
+2	6B	and it 's important .
+0	6B	mm-kay . so how many have we cut from this one ?
+0	6B	speech therapy .
+0	6B	acting coaches , poetry books .
+0	6B	the cooking classes - and the sugar free juice machines .
+1	6B	we 'll see .
+2	6B	reproductive education . that 's staying .
+0	6B	um .
+1	6B	i guess they 're kinda similar .
+2	6B	well the sex ed is under education while the reproductive education is under public health .
+2	6B	and that could be - also be more along the lines of like prenatal .
+1	6B	trunc or not necessarily prenatal . checkups which was on there - but just -
+1	6B	okay . yes . this is what you need to be doing for your baby 's health and all that . so .
+2	6B	mm . we definitely do n't want an unemployed populous so .
+1	6B	yeah ,
+0	6B	invasive species removal .
+2	6B	but i do n't think we 're necessarily cutting these things forever until the end of time . we could probably - do a trial cut for a year .
+1	6B	it is important .
+2	6B	i do n't think we can cross the streams , no .
+2	6B	i 'm so glad you got that reference okay . uh . toxic waste disposal .
+2	6B	we do n't want to be - wallowing in our own toxic waste .
+0	6B	um . hospital additions .
+0	6B	what are we adding ?
+2	6B	i trunc i know that mine really needs a new operating suite but -
+2	6B	yeah who trunc who cares about the bagel factories .
+2	6B	bagel factory inspections , they can go off for a little while . hospital additions . ehm .
+2	6B	they do n't need public funding , really . so we do n't really need do public funding for hospital additions so we can cut that .
+2	6B	probably not because i know that needle exchange also includes uh diabetes equipment for homeless and so on and so forth .
+0	6B	um .
+1	6B	moon of yeah .
+2	6B	yeah . it 's broken . we need to come up with something else for it .
+1	6B	yeah .
+2	6B	keep it .
+0	6B	egg farm regulations .
+2	6B	they 're pretty well regulated at this point .
+2	6B	so we can cut that .
+2	6B	let 's get rid of weed control . invasive species removal is more overarching .
+1	6B	totally . well -
+0	6B	um .
+2	6B	i mean the prenatal check ups are pretty important .
+2	6B	that would be unpleasant to the microphone .
+1	6B	um . let 's see .
+2	6B	uh . gosh .
+2	6B	if we were to cut one then the duties that its cut will fall under the other
+0	6B	and prenatal checkups are a larger -
+2	6B	financial thing so we - we should probably keep that .
+0	6B	and then -
+0	6B	that way -
+2	6B	the funding from trunc reproductive education that is n't completely cut will be funneled into that .
+2	6B	there 's like no funding that really needs to go to that .
+2	6B	and for the most part people do n't know their neighbors anymore anyway .
+0	6B	okay . so how many do we have from there ?
+0	6B	reproductive education .
+0	6B	uh invasive trunc no it was the -
+0	6B	hospital additions . bagel factory .
+0	6B	sex offender
+0	6B	egg farm .
+2	6B	weed control . yay !
+0	6B	we got - oh . and we got rid of - neighborhood watch so there 's seven .
+1	6B	we can keep one .
+0	6B	um .
+2	6B	then let 's keep the reproductive education .
+0	6B	alright .
+2	6B	excellent . moving right along .
+2	6B	i do n't wan na have a whole bunch of cats .
+1	6B	mm-hm .
+2	6B	and then it cost money - it cost more money to put em down than to spay them .
+2	6B	public news station is important . oh no !
+2	6B	oh no !
+2	6B	nobody watches it .
+1	6B	yeah .
+2	6B	we can come back to it .
+2	6B	food bank we 're keeping .
+1	6B	yeah . junior soccer league .
+2	6B	i mean the y_m_c_a_ has their own and - we do n't need a county one .
+0	6B	uh . kitten and puppy adoption .
+2	6B	i do n't know why we have to have that publicly funded .
+1	6B	yes . and no more kitten and puppy adoption
+2	6B	let 's keep the soup kitchens .
+1	6B	let 's keep the housing assistance .
+2	6B	mm we 're not really doing anything with them . just catching em and putting em in pound
+0	6B	that -
+2	6B	seems rather ridiculous .
+2	6B	i 'd say we get rid of the dog catcher .
+1	6B	or lump it under pest control . there we go .
+1	6B	yeah . no more boys basketball club .
+1	6B	the public access station we can we kind of -
+1	6B	combine that with the public news station .
+2	6B	so we can get rid of one or the other .
+0	6B	yeah .
+1	6B	mm-kay . reusable bag campaign .
+2	6B	uh do we really need to campaign over it anymore ?
+2	6B	people are doing well and for the most part their keeping their plastic bags anyway . and -
+2	6B	well - i 'm gon na assume that we 're - in the perfect society that has now adopted the reusable bag campaign .
+2	6B	and we do n't need to campaign over it anymore .
+0	6B	veterinary hospital .
+2	6B	i 'd like to keep it but at the same time - publicly funded -
+1	6B	yeah . football stadium upkeep .
+2	6B	yeah .
+1	6B	yeah .
+0	6B	so we 've - we 're getting rid of the public news station -
+0	6B	the junior soccer league -
+0	6B	adoption -
+0	6B	dog catcher -
+0	6B	basketball -
+0	6B	reusable bag campaign .
+2	6B	so we can keep the -
+2	6B	no , let 's keep the veterinary hospital .
+1	6B	nn-yeah .
+1	6B	let 's go ahead and keep the adoption .
+2	6B	because i really do n't care about that football stadium .
+2	6B	it 's not bringing in any money and -
+1	6B	exactly .
+0	6B	alright .
+0	6B	okay .
+0	6B	infrastructure and licensing .
+2	6B	oh god keep the teaching certificates .
+2	6B	everyone speeds anyway and do n't we already have them up there ? are they trunc do we have to pay rent for having them ?
+2	6B	i mean , people are n't stealing them , are they ?
+2	6B	so we 'll get rid of the speed limit signs .
+2	6B	yeah . so let 's just keep - let 's get rid of the additional bus stops .
+2	6B	yeah let 's keep licensing them .
+2	6B	yeah we 'll keep the licenses . so we 'll also keep the boating license .
+2	6B	yes let pothole maintenance is necessary .
+0	6B	subway system .
+2	6B	kind of - it 's a subway for like a mile and a half .
+0	6B	yeah . that 's true .
+2	6B	yeah we need to keep funding it until it 's done . because a half done one is n't gon na do anything .
+2	6B	so we 'll keep the subway system for now .
+0	6B	hunting tags .
+2	6B	i mean every time someone gets a license they are paying for it .
+2	6B	so that 's a source of income . so let 's keep that .
+2	6B	towing services should be privatized .
+0	6B	so -
+2	6B	yeah . so no more towing services .
+1	6B	um . massage certificate . that 's another certification .
+3	6B	how many flag poles -
+3	6B	do we have in this city that we need to have a flag pole repair department ?
+3	6B	how many people are we putting out of a job if we cut that ? like one his name is larry and he works part time . i think trunc it 's okay if we get rid of the flag pole repair .
+2	6B	i have never heard of a taxi stop .
+2	6B	i 'm standing outside the grocery store . i 'm gon na call a taxi .
+3	6B	let 's get rid of the taxi stops .
+3	6B	or at least stop funding them .
+1	6B	yeah .
+1	6B	yes .
+2	6B	yes and no more taxi stops .
+1	6B	go ahead and keep that .
+1	6B	yes . we 'll keep public bus upkeep .
+2	6B	yes they are . we did not trunc cut a whole lot here .
+0	6B	additional bus stops .
+0	6B	towing services , flag pole repair , taxi stops -
+1	6B	need one more .
+0	6B	hm
+1	6B	yeah .
+2	6B	there is n't much hunting in the trunc this particular county .
+0	6B	but if you go hunting anywhere do you need a -
+0	6B	license from that county .
+0	6B	does it have to be where you live ? or does it have to be from where you 're going ?
+2	6B	okay . well let 's get rid of hunting tags .
+0	6B	alright .
+1	6B	yeah . six from each one .
+1	6B	um . sorry larry .
+1	6B	but you can - start your own private business repairing flag poles .
+0	6B	alright .
+1	6B	we 're done
+2	6B	flag pole repair . i mean really

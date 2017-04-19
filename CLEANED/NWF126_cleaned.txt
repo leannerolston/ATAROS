@@ -1,319 +1,319 @@
-0	3I	fish hooks . 
-1	3I	food , huh ? 
-0	3I	right . 
-1	3I	household . 
-1	3I	and this is all kinda h- 
-1	3I	hardware and recreation ? 
-1	3I	and that is too . 
-0	3I	so- 
-1	3I	i agree . 
-0	3I	so we have fish hooks . 
-1	3I	boating supplies . i agree . 
-1	3I	let's do it . 
-0	3I	heavy coats . 
-1	3I	we can always wait . 
-0	3I	i- 
-0	3I	oh . 
-1	3I	let's wait and see . 
-1	3I	we can some back to that one . beets . 
-1	3I	definitely over there . 
-1	3I	next to the soybeans ? 
-0	3I	bagels . 
-0	3I	cake mix , sugar - 
-0	3I	yeah . 
-1	3I	ice cream , eggs - so those are kinda refrigerated , aren't they ? 
-0	3I	bagels . 
-0	3I	uh - 
-1	3I	maybe - of course this - there 's this side too . we forget . let's do this . where do you want it ? 
-2	3I	rolls of duct tape . this got ta be over here someplace . 
-1	3I	right there ? 
-1	3I	mousetraps . 
-1	3I	yeah . 
-0	3I	face cream . 
-1	3I	near p- 
-1	3I	toilet paper ? 
-2	3I	light jackets . we had heavy jackets before . we 're just gonna wait on that one . cans of peas . 
-1	3I	yeah , you wanna put that on ? 
-1	3I	half inch tubing . i think we 're over here again . 
-1	3I	siding or power cords ? 
-1	3I	siding . 
-0	3I	fishing net . 
-1	3I	up there , don't you think ? 
-1	3I	boxes of donuts . next to the bagels . 
-0	3I	yeah , chocolate bars . 
-2	3I	trunc trunc yeah , or - 
-1	3I	somewhere on that - yeah . somewhere in this aisle , but maybe not - 
-1	3I	trunc yeah . not as close . 
-0	3I	pouches of oatmeal . 
-2	3I	problem is we don't now what else is in the box . 
-1	3I	or - cause is would go with trunc maybe we should put a separate - 
-1	3I	here . 
-1	3I	does that make sense ? 
-0	3I	pre-cut wood ? 
-1	3I	oh , it's probably , like , two by fours and things , do you think ? 
-1	3I	yeah . 
-0	3I	liters of water ? 
-1	3I	boy that could be in a bunch a different place . 
-1	3I	they have a trunc part of the store where it's refrigerated , and a part in a store where it's not . 
-1	3I	we could put it in the refrigerated stuff . 
-2	3I	why argue it ? 
-1	3I	yeah , it's got ta be over - one of these i think , don't you think ? 
-0	3I	yep . 
-2	3I	fridge . 
-1	3I	yeah . 
-0	3I	canvas bags . 
-0	3I	here . 
-2	3I	we don't know what they 're for . we don't know if it's for , like , travel - 
-1	3I	okay . 
-1	3I	i 'm gonna save clothes until the end , gonna figure out where the - cushions for deck chairs . 
-1	3I	over here someplace , huh ? 
-2	3I	or - or- 
-2	3I	is it outdoor stuff , or is it , like , home kinda stuff ? 
-1	3I	yeah . 
-0	3I	i - yeah , i don't know . 
-1	3I	for the - yeah . 
-0	3I	uh - 
-1	3I	put it there . 
-1	3I	bags of peat moss , so now we 're into gardening . 
-1	3I	could be here . could be there . 
-1	3I	could be - could be here . 
-1	3I	which one ? 
-1	3I	start one up there ? 
-1	3I	cookies ! over there with the donuts and the bagels . 
-0	3I	empty plastic jugs . 
-1	3I	so it says . 
-0	3I	i didn't know that they sold empty plastic jugs . 
-1	3I	i have no clue . 
-1	3I	okay . 
-1	3I	electric heaters , so power cords ? 
-0	3I	egg timers . 
-1	3I	uh , near refrigerator magnets . 
-0	3I	box knives . 
-1	3I	in here . 
-0	3I	wetsuits . 
-0	3I	bars of soap . 
-0	3I	mint toothpaste . 
-0	3I	large cups . 
-0	3I	uh - 
-2	3I	you think so ? or maybe here ? 
-1	3I	how bout there ? 
-0	3I	small axes . 
-1	3I	okay . 
-0	3I	bottles of juice . 
-1	3I	maybe where the water was ? 
-1	3I	we 're having refrigerated juice . 
-0	3I	tweezers . 
-0	3I	small saws . 
-1	3I	yeah . 
-0	3I	five pound weights . 
-1	3I	you think that 's for trunc for weight lifting , that kind of thing ? 
-0	3I	uh - 
-1	3I	um , i think it's either here , or it's here . what do you think ? 
-0	3I	uh . i keep stepping on this . 
-0	3I	buckets . 
-1	3I	could be over here some place , huh ? 
-0	3I	books of matches . 
-1	3I	maybe around here ? 
-0	3I	scissors . 
-1	3I	or here ? or here ? 
-1	3I	probably here . 
-1	3I	fleece lined - okay we got clothes here . fleece lined boots . where are we gonna put clothes ? 
-0	3I	fleece . 
-1	3I	clothes up here . 
-1	3I	kay . 
-0	3I	hats ? 
-0	3I	thick sweaters . 
-0	3I	large vests . 
-0	3I	shoelaces . 
-1	3I	paper bags . kind of - 
-1	3I	in here ? 
-1	3I	we put empty - 
-1	3I	plastic jugs there . 
-1	3I	either there . yeah . loose leaf paper . 
-0	3I	whiskey . cases . 
-0	3I	cases . 
-0	3I	uh - 
-1	3I	bundles of sticks , must be for kindling or something . 
-0	3I	backpacks . 
-1	3I	 flags . now that 's different . 
-1	3I	put it in there . okay . 
-0	3I	butter . 
-1	3I	yep . 
-1	3I	books . i didn't know there was gonna be a book - 
-1	3I	section in here . 
-1	3I	up by toys ? 
-0	3I	dried figs . 
-0	3I	uh - 
-1	3I	yeah . 
-0	3I	gas powered cook stoves . 
-1	3I	does that mean , like - ? 
-1	3I	coleman stoves ? 
-1	3I	or does this mean - ? 
-1	3I	here . here . 
-1	3I	yeah . 
-2	3I	unless you wanna put camping trunc kinda gear there . 
-0	3I	heavy cable . 
-1	3I	down here by the tubing and stuff ? 
-0	3I	socks . 
-0	3I	jackets . 
-0	3I	heavy coats . 
-0	3I	tow ropes . 
-1	3I	boat stuff . 
-0	3I	we 're done . 
-0	3I	yeah . 
-1	3I	no . 
-2	6B	well , let's see . math tutors we agree trunc we should keep , right ? 
-0	6B	yeah , assistant cooks . 
-1	6B	we don't know how many kids there are . we don't know how many - 
-1	6B	actually eat lunch in the lunch room . we don't know anything , do we ? 
-0	6B	yeah . yeah . 
-0	6B	that 's the one you would cut ? 
-1	6B	sex ed , do we agree that we should keep ? 
-1	6B	i think we should probably keep it . 
-0	6B	custodians . 
-1	6B	i think you have to have  some at least . 
-0	6B	speech therapy . 
-1	6B	boy if you 've got - 
-1	6B	disabled kids you almost - who - who need speech therapy you almost have to have it , don't you ? 
-0	6B	okay , here's the trunc football equipment . 
-1	6B	i would cut acting trunc i think acting coaches is like drama coaches . 
-1	6B	that 's how i trunc read that . 
-1	6B	or is it - ? 
-1	6B	you were thinking - 
-1	6B	trunc oh , that 's - 
-1	6B	that could be too . 
-1	6B	that could be - that could - 
-1	6B	that could - 
-1	6B	as a drama coach ? 
-1	6B	can we cut that ? 
-1	6B	okay , let's cut that . 
-0	6B	poetry books . 
-1	6B	okay , s- 
-1	6B	we 've got two . 
-1	6B	special ed teachers , think you need those . cooking classes - 
-0	6B	right . note takers for disability services . 
-2	6B	does that - ? is that for people who can't write ? i think you have to have em , don't you ? 
-1	6B	yeah , i do too . sugar free juice machines . 
-1	6B	so we keep that in ? 
-0	6B	bookkeeping classes . 
-1	6B	i - i - i agree with that , so we 've cut two ? the assist- 
-1	6B	okay . 
-1	6B	you know , in japan - 
-1	6B	in japan the kids - 
-1	6B	are the custodians , all of them together . 
-1	6B	they clean up the rooms . of course that doesn't explain who's gonna do the - 
-1	6B	you know , that hallways and the - 
-1	6B	and the custodians do - don't they do facilities management and stuff like that too ? it's not just - 
-0	6B	yeah . 
-1	6B	so we 're gonna get rid of the assistant cooks - 
-1	6B	the acting coaches - 
-0	6B	was there any more ? 
-1	6B	oh ! was poetry books that one we were gonna go back to ? 
-2	6B	i think you have to have em . 
-1	6B	right . 
-1	6B	okay , those two . okay , so let's go to the - 
-1	6B	okay . 
-0	6B	public health and safety . reproductive education . 
-0	6B	job training . 
-2	6B	yeah . i got - yeah , that 's a good idea . 
-1	6B	yeah . 
-1	6B	got ta cut two . 
-2	6B	see i think you have to have chicken pox vaccinations and job training programs . 
-2	6B	and we 're just gonna assume that everybody got it then ? 
-0	6B	and - 
-1	6B	hospitals and doctors , yeah . okay , so we 're cutting out reproductive education . 
-1	6B	we 're leaving in job training . 
-1	6B	we 're leaving in chicken pox vaccination . 
-2	6B	you have to have invasive species removal , or they just take over . 
-2	6B	but what are you gonna do along the highways and stuff ? 
-2	6B	s_t_d_ education you pretty much have to have . toxic waste disposal you pretty much have to have . 
-2	6B	hospital additions . if you need it you need it . 
-2	6B	bagel factory inspections . you got ta have it for public health . 
-2	6B	needle exchange you got ta have . 
-2	6B	the sex offender database you got ta have . 
-1	6B	the veteran's medical assistance you got ta have . 
-1	6B	public health requires egg farm regulations . weed control . what's the difference between - ? 
-1	6B	weed control and trunc invasive species removal ? i guess that there are certain things that are considered invasive but there are weeds beyond invasive species . 
-1	6B	prenatal check-ups . you got ta have that for low income people , right ? 
-1	6B	you 're right . it's hard . 
-0	6B	neighborhood watch support . 
-0	6B	what about - 
-1	6B	i 'd be willing to get rid of neighborhood watch support . 
-2	6B	uh , maybe we shouldn't . 
-1	6B	yeah , it would . 
-2	6B	let's get rid of the reproductive education and one of these two . 
-0	6B	weeds . okay . 
-1	6B	i 'm with you . that 's fine . 
-1	6B	okay . 
-0	6B	um - 
-2	6B	i 've got hay fever that 's asthma - that creates asthma , so i 'm - i 'm happy about weed control . 
-0	6B	um - 
-1	6B	well , exactly . that 's exactly it . 
-2	6B	how bout reproductive education and weed control . 
-0	6B	okay . 
-1	6B	trunc we 'll set up - we 'll set up neighborhood - 
-1	6B	work parties . sort of adopt a park , or adopt a something and they can go out an do the weed control . 
-0	6B	okay , recreation and public services . i got ta read this . 
-1	6B	so we got ta cut two . 
-0	6B	public news station . 
-2	6B	stray cat spaying i think we have to have , 
-2	6B	or there 'd be cats everywhere . 
-2	6B	public news station . 
-1	6B	do we even have a public news station ? 
-1	6B	here ? 
-1	6B	i don't think we need a public news station . 
-2	6B	i don't think that 's what that is . 
-2	6B	that says a station . 
-2	6B	a specific station . 
-1	6B	cuz when they put out the amber alerts it goes out trunc on all stations . 
-1	6B	and - and - each - each - 
-1	6B	like komo and king and all those , those are privately owned , but they each have their own traffic . 
-1	6B	the food bank we definitely have to have . 
-1	6B	the junior soccer league , eh . 
-1	6B	kitten puppy adoption i think we have to have . soup kitchens we have to have . housing assistance we have to have . dog catcher we have to have . 
-1	6B	i think the boys basketball club is useful . 
-0	6B	public access station , reusable bag campaign - 
-0	6B	veterinary hospital . 
-0	6B	football st- 
-1	6B	let them do their own ? okay cuz we have to have pest control . 
-0	6B	so we 're gonna get rid of football station - stadium upkeep and the public news station . 
-1	6B	sa- 
-1	6B	sounds good . 
-2	6B	well , you have to have teaching certificates . 
-2	6B	you have to have speed limit signs . 
-1	6B	gee ! what do you cut from that ? 
-0	6B	towing services . 
-1	6B	oh , maybe when there 's an accident or something ? 
-1	6B	and they - and the cars aren't drivable ? 
-1	6B	or - or - 
-2	6B	yeah , but you have to pay em . 
-1	6B	or - or - or trunc or parking . 
-1	6B	with - 
-1	6B	you know , abandoned vehicles . 
-1	6B	i would think it would be the same thing as a license . 
-0	6B	wouldn't it ? 
-1	6B	massage therapists are licensed . 
-2	6B	well , it would be like a teaching trunc you do have to go through a test . you have to go through - 
-2	6B	so i think all those certificates and licenses you have to have . 
-1	6B	boy . i don't like any of these . 
-2	6B	yeah , you have to have drainage ditches . 
-2	6B	you have to keep your public buses - 
-2	6B	maintained - 
-2	6B	the , um - i guess we 're gonna have to cut out additional bus stops . okay , i 'm with you there . 
-2	6B	pothole maintenance we need to have . 
-2	6B	if we had a subway system , we 'd have to maintain that . 
-2	6B	hunting tags you have to have . 
-2	6B	well , i don't know . what is that ? 
-2	6B	it doesn't really say , does it ? 
-0	6B	flagpole repair . 
-2	6B	i think we could get rid of flagpole repair . you could get veterans groups or trunc or boy scout groups , or somebody to do it . 
-0	6B	taxi stops . 
-0	6B	yeah , fishing licenses . 
-1	6B	i think they are too . 
-1	6B	have we talked about all of em ? i guess - pothole maintenance you got ta have . 
-0	6B	yeah . 
-1	6B	yeah , i think that 's fine . 
-1	6B	yeah . 
-1	6B	we 've done it . i think we 're done . 
-1	6B	yeah . 
-1	6B	yep . 
+0	3I	fish hooks .
+1	3I	food , huh ?
+0	3I	right .
+1	3I	household .
+1	3I	and this is all kinda h-
+1	3I	hardware and recreation ?
+1	3I	and that is too .
+0	3I	so-
+1	3I	i agree .
+0	3I	so we have fish hooks .
+1	3I	boating supplies . i agree .
+1	3I	let 's do it .
+0	3I	heavy coats .
+1	3I	we can always wait .
+0	3I	i-
+0	3I	oh .
+1	3I	let 's wait and see .
+1	3I	we can some back to that one . beets .
+1	3I	definitely over there .
+1	3I	next to the soybeans ?
+0	3I	bagels .
+0	3I	cake mix , sugar -
+0	3I	yeah .
+1	3I	ice cream , eggs - so those are kinda refrigerated , are n't they ?
+0	3I	bagels .
+0	3I	uh -
+1	3I	maybe - of course this - there 's this side too . we forget . let 's do this . where do you want it ?
+2	3I	rolls of duct tape . this got ta be over here someplace .
+1	3I	right there ?
+1	3I	mousetraps .
+1	3I	yeah .
+0	3I	face cream .
+1	3I	near p-
+1	3I	toilet paper ?
+2	3I	light jackets . we had heavy jackets before . we 're just gon na wait on that one . cans of peas .
+1	3I	yeah , you wan na put that on ?
+1	3I	half inch tubing . i think we 're over here again .
+1	3I	siding or power cords ?
+1	3I	siding .
+0	3I	fishing net .
+1	3I	up there , do n't you think ?
+1	3I	boxes of donuts . next to the bagels .
+0	3I	yeah , chocolate bars .
+2	3I	trunc trunc yeah , or -
+1	3I	somewhere on that - yeah . somewhere in this aisle , but maybe not -
+1	3I	trunc yeah . not as close .
+0	3I	pouches of oatmeal .
+2	3I	problem is we do n't now what else is in the box .
+1	3I	or - cause is would go with trunc maybe we should put a separate -
+1	3I	here .
+1	3I	does that make sense ?
+0	3I	pre-cut wood ?
+1	3I	oh , it 's probably , like , two by fours and things , do you think ?
+1	3I	yeah .
+0	3I	liters of water ?
+1	3I	boy that could be in a bunch a different place .
+1	3I	they have a trunc part of the store where it 's refrigerated , and a part in a store where it 's not .
+1	3I	we could put it in the refrigerated stuff .
+2	3I	why argue it ?
+1	3I	yeah , it 's got ta be over - one of these i think , do n't you think ?
+0	3I	yep .
+2	3I	fridge .
+1	3I	yeah .
+0	3I	canvas bags .
+0	3I	here .
+2	3I	we do n't know what they 're for . we do n't know if it 's for , like , travel -
+1	3I	okay .
+1	3I	i 'm gon na save clothes until the end , gon na figure out where the - cushions for deck chairs .
+1	3I	over here someplace , huh ?
+2	3I	or - or-
+2	3I	is it outdoor stuff , or is it , like , home kinda stuff ?
+1	3I	yeah .
+0	3I	i - yeah , i do n't know .
+1	3I	for the - yeah .
+0	3I	uh -
+1	3I	put it there .
+1	3I	bags of peat moss , so now we 're into gardening .
+1	3I	could be here . could be there .
+1	3I	could be - could be here .
+1	3I	which one ?
+1	3I	start one up there ?
+1	3I	cookies ! over there with the donuts and the bagels .
+0	3I	empty plastic jugs .
+1	3I	so it says .
+0	3I	i did n't know that they sold empty plastic jugs .
+1	3I	i have no clue .
+1	3I	okay .
+1	3I	electric heaters , so power cords ?
+0	3I	egg timers .
+1	3I	uh , near refrigerator magnets .
+0	3I	box knives .
+1	3I	in here .
+0	3I	wetsuits .
+0	3I	bars of soap .
+0	3I	mint toothpaste .
+0	3I	large cups .
+0	3I	uh -
+2	3I	you think so ? or maybe here ?
+1	3I	how bout there ?
+0	3I	small axes .
+1	3I	okay .
+0	3I	bottles of juice .
+1	3I	maybe where the water was ?
+1#	3I	we 're having refrigerated juice .
+0	3I	tweezers .
+0	3I	small saws .
+1	3I	yeah .
+0	3I	five pound weights .
+1	3I	you think that 's for trunc for weight lifting , that kind of thing ?
+0	3I	uh -
+1	3I	um , i think it 's either here , or it 's here . what do you think ?
+0	3I	uh . i keep stepping on this .
+0	3I	buckets .
+1	3I	could be over here some place , huh ?
+0	3I	books of matches .
+1	3I	maybe around here ?
+0	3I	scissors .
+1	3I	or here ? or here ?
+1	3I	probably here .
+1	3I	fleece lined - okay we got clothes here . fleece lined boots . where are we gon na put clothes ?
+0	3I	fleece .
+1	3I	clothes up here .
+1	3I	kay .
+0	3I	hats ?
+0	3I	thick sweaters .
+0	3I	large vests .
+0	3I	shoelaces .
+1	3I	paper bags . kind of -
+1	3I	in here ?
+1	3I	we put empty -
+1	3I	plastic jugs there .
+1	3I	either there . yeah . loose leaf paper .
+0	3I	whiskey . cases .
+0	3I	cases .
+0	3I	uh -
+1	3I	bundles of sticks , must be for kindling or something .
+0	3I	backpacks .
+1	3I	flags . now that 's different .
+1	3I	put it in there . okay .
+0	3I	butter .
+1	3I	yep .
+1	3I	books . i did n't know there was gon na be a book -
+1	3I	section in here .
+1	3I	up by toys ?
+0	3I	dried figs .
+0	3I	uh -
+1	3I	yeah .
+0	3I	gas powered cook stoves .
+1	3I	does that mean , like - ?
+1	3I	coleman stoves ?
+1	3I	or does this mean - ?
+1	3I	here . here .
+1	3I	yeah .
+2	3I	unless you wan na put camping trunc kinda gear there .
+0	3I	heavy cable .
+1	3I	down here by the tubing and stuff ?
+0	3I	socks .
+0	3I	jackets .
+0	3I	heavy coats .
+0	3I	tow ropes .
+1	3I	boat stuff .
+0	3I	we 're done .
+0	3I	yeah .
+1	3I	no .
+2	6B	well , let 's see . math tutors we agree trunc we should keep , right ?
+0	6B	yeah , assistant cooks .
+1	6B	we do n't know how many kids there are . we do n't know how many -
+1	6B	actually eat lunch in the lunch room . we do n't know anything , do we ?
+0	6B	yeah . yeah .
+0	6B	that 's the one you would cut ?
+1	6B	sex ed , do we agree that we should keep ?
+1	6B	i think we should probably keep it .
+0	6B	custodians .
+1	6B	i think you have to have some at least .
+0	6B	speech therapy .
+1	6B	boy if you 've got -
+1	6B	disabled kids you almost - who - who need speech therapy you almost have to have it , do n't you ?
+0	6B	okay , here 's the trunc football equipment .
+1	6B	i would cut acting trunc i think acting coaches is like drama coaches .
+1	6B	that 's how i trunc read that .
+1	6B	or is it - ?
+1	6B	you were thinking -
+1	6B	trunc oh , that 's -
+1	6B	that could be too .
+1	6B	that could be - that could -
+1	6B	that could -
+1	6B	as a drama coach ?
+1	6B	can we cut that ?
+1	6B	okay , let 's cut that .
+0	6B	poetry books .
+1	6B	okay , s-
+1	6B	we 've got two .
+1	6B	special ed teachers , think you need those . cooking classes -
+0	6B	right . note takers for disability services .
+2	6B	does that - ? is that for people who ca n't write ? i think you have to have em , do n't you ?
+1	6B	yeah , i do too . sugar free juice machines .
+1	6B	so we keep that in ?
+0	6B	bookkeeping classes .
+1	6B	i - i - i agree with that , so we 've cut two ? the assist-
+1	6B	okay .
+1	6B	you know , in japan -
+1	6B	in japan the kids -
+1	6B	are the custodians , all of them together .
+1	6B	they clean up the rooms . of course that does n't explain who 's gon na do the -
+1	6B	you know , that hallways and the -
+1	6B	and the custodians do - do n't they do facilities management and stuff like that too ? it 's not just -
+0	6B	yeah .
+1	6B	so we 're gon na get rid of the assistant cooks -
+1	6B	the acting coaches -
+0	6B	was there any more ?
+1	6B	oh ! was poetry books that one we were gon na go back to ?
+2	6B	i think you have to have em .
+1	6B	right .
+1	6B	okay , those two . okay , so let 's go to the -
+1	6B	okay .
+0	6B	public health and safety . reproductive education .
+0	6B	job training .
+2	6B	yeah . i got - yeah , that 's a good idea .
+1	6B	yeah .
+1	6B	got ta cut two .
+2	6B	see i think you have to have chicken pox vaccinations and job training programs .
+2	6B	and we 're just gon na assume that everybody got it then ?
+0	6B	and -
+1	6B	hospitals and doctors , yeah . okay , so we 're cutting out reproductive education .
+1	6B	we 're leaving in job training .
+1	6B	we 're leaving in chicken pox vaccination .
+2	6B	you have to have invasive species removal , or they just take over .
+2	6B	but what are you gon na do along the highways and stuff ?
+2	6B	s_t_d_ education you pretty much have to have . toxic waste disposal you pretty much have to have .
+2	6B	hospital additions . if you need it you need it .
+2	6B	bagel factory inspections . you got ta have it for public health .
+2	6B	needle exchange you got ta have .
+2	6B	the sex offender database you got ta have .
+1	6B	the veteran 's medical assistance you got ta have .
+1	6B	public health requires egg farm regulations . weed control . what 's the difference between - ?
+1	6B	weed control and trunc invasive species removal ? i guess that there are certain things that are considered invasive but there are weeds beyond invasive species .
+1	6B	prenatal check-ups . you got ta have that for low income people , right ?
+1	6B	you 're right . it 's hard .
+0	6B	neighborhood watch support .
+0	6B	what about -
+1	6B	i 'd be willing to get rid of neighborhood watch support .
+2	6B	uh , maybe we should n't .
+1	6B	yeah , it would .
+2	6B	let 's get rid of the reproductive education and one of these two .
+0	6B	weeds . okay .
+1	6B	i 'm with you . that 's fine .
+1	6B	okay .
+0	6B	um -
+2	6B	i 've got hay fever that 's asthma - that creates asthma , so i 'm - i 'm happy about weed control .
+0	6B	um -
+1	6B	well , exactly . that 's exactly it .
+2	6B	how bout reproductive education and weed control .
+0	6B	okay .
+1	6B	trunc we 'll set up - we 'll set up neighborhood -
+1	6B	work parties . sort of adopt a park , or adopt a something and they can go out an do the weed control .
+0	6B	okay , recreation and public services . i got ta read this .
+1	6B	so we got ta cut two .
+0	6B	public news station .
+2	6B	stray cat spaying i think we have to have ,
+2	6B	or there 'd be cats everywhere .
+2	6B	public news station .
+1	6B	do we even have a public news station ?
+1	6B	here ?
+1	6B	i do n't think we need a public news station .
+2	6B	i do n't think that 's what that is .
+2	6B	that says a station .
+2	6B	a specific station .
+1	6B	cuz when they put out the amber alerts it goes out trunc on all stations .
+1	6B	and - and - each - each -
+1	6B	like komo and king and all those , those are privately owned , but they each have their own traffic .
+1	6B	the food bank we definitely have to have .
+1	6B	the junior soccer league , eh .
+1	6B	kitten puppy adoption i think we have to have . soup kitchens we have to have . housing assistance we have to have . dog catcher we have to have .
+1	6B	i think the boys basketball club is useful .
+0	6B	public access station , reusable bag campaign -
+0	6B	veterinary hospital .
+0	6B	football st-
+1	6B	let them do their own ? okay cuz we have to have pest control .
+0	6B	so we 're gon na get rid of football station - stadium upkeep and the public news station .
+1	6B	sa-
+1	6B	sounds good .
+2	6B	well , you have to have teaching certificates .
+2	6B	you have to have speed limit signs .
+1	6B	gee ! what do you cut from that ?
+0	6B	towing services .
+1	6B	oh , maybe when there 's an accident or something ?
+1	6B	and they - and the cars are n't drivable ?
+1	6B	or - or -
+2	6B	yeah , but you have to pay em .
+1	6B	or - or - or trunc or parking .
+1	6B	with -
+1	6B	you know , abandoned vehicles .
+1	6B	i would think it would be the same thing as a license .
+0	6B	would n't it ?
+1	6B	massage therapists are licensed .
+2	6B	well , it would be like a teaching trunc you do have to go through a test . you have to go through -
+2	6B	so i think all those certificates and licenses you have to have .
+1	6B	boy . i do n't like any of these .
+2	6B	yeah , you have to have drainage ditches .
+2	6B	you have to keep your public buses -
+2	6B	maintained -
+2	6B	the , um - i guess we 're gon na have to cut out additional bus stops . okay , i 'm with you there .
+2	6B	pothole maintenance we need to have .
+2	6B	if we had a subway system , we 'd have to maintain that .
+2	6B	hunting tags you have to have .
+2	6B	well , i do n't know . what is that ?
+2	6B	it does n't really say , does it ?
+0	6B	flagpole repair .
+2	6B	i think we could get rid of flagpole repair . you could get veterans groups or trunc or boy scout groups , or somebody to do it .
+0	6B	taxi stops .
+0	6B	yeah , fishing licenses .
+1	6B	i think they are too .
+1	6B	have we talked about all of em ? i guess - pothole maintenance you got ta have .
+0	6B	yeah .
+1	6B	yeah , i think that 's fine .
+1	6B	yeah .
+1	6B	we 've done it . i think we 're done .
+1	6B	yeah .
+1	6B	yep .

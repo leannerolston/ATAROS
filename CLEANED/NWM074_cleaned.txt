@@ -1,363 +1,364 @@
-0	3I	it's trunc trunc trunc here it's sort of all - 
-1	3I	trunc good . exactly . there you go . 
-1	3I	and this is sort of domestic stuff . 
-1	3I	foods . 
-1	3I	and  kind of miscellane- 
-0	3I	go grab a couple of these suckers . 
-0	3I	tow ropes . 
-1	3I	bingo ? 
-1	3I	buckets ! i 'd do the same again , would you ? 
-1	3I	ah , the egg timers . 
-1	3I	i 'd put it there . 
-1	3I	okay . 
-1	3I	your turn . grab a few . 
-1	3I	absolutely . 
-1	3I	food . ice cream . 
-1	3I	yeah . i completely agree . 
-1	3I	it's - it's trivial here , but i 'll just grab a couple more . hats . 
-2	3I	well , i 'd - i 'd put probably in this column or possibly in this , but certainly not over there . 
-1	3I	bingo ? 
-0	3I	cans of peas . 
-1	3I	agreed ? 
-1	3I	right near the soybeans . 
-1	3I	i - yeah - i - i would agree , somewhere in this column is about right . sure . 
-1	3I	you bet . we 're gonna build something yet . 
-1	3I	i trunc yeah , power cords you bet . 
-0	3I	large vests . 
-1	3I	hats and travel guides ? 
-1	3I	we 'll pretend it's a travel vest . 
-0	3I	liters of water . 
-1	3I	staples , i think . 
-0	3I	thick sweaters . 
-1	3I	bingo ? 
-1	3I	absolutely . oh yes . and the cases of whiskey . can't forget the cases of whiskey . 
-1	3I	i think that 's - i trunc i would put it over in the first or second column . 
-1	3I	okay . 
-1	3I	i agree . 
-0	3I	bagels . 
-1	3I	yes . 
-1	3I	right . and who wants bagels with that ? 
-1	3I	cases of whiskey . 
-0	3I	bars of soap . 
-1	3I	agreed ? 
-0	3I	bundles of sticks . 
-2	3I	it's obviously one of those two . 
-1	3I	um how bout here ? 
-0	3I	socks . 
-1	3I	how bout - ? 
-1	3I	near the shoelaces ? 
-1	3I	yes . 
-1	3I	i would . 
-1	3I	fish hooks ? 
-1	3I	sure . 
-1	3I	that 's hardware . 
-1	3I	we could run a store together . pre-cut wood . 
-1	3I	how bout bundles of sticks and pre-cut wood ? 
-0	3I	books ? 
-1	3I	books where do it - travel guides , books . 
-0	3I	pouches of oatmeal . 
-1	3I	have any trouble putting it next to the cake mix ? 
-0	3I	books of matches . 
-1	3I	back in trunc household ? 
-1	3I	yes , it could . 
-0	3I	bottles of juice . 
-0	3I	um . 
-1	3I	i think here . 
-0	3I	wetsuits ? 
-1	3I	i 'm gonna call that a boating supply rather than a clothing . 
-1	3I	i mean it's trunc it's somehow in the - fall into recreation . well - 
-1	3I	yeah , i think that 's good . 
-1	3I	yeah yeah . 
-1	3I	absolutely . 
-1	3I	sure . 
-1	3I	i trunc i would put that - trunc one of these two rows . 
-1	3I	where's the tweezers ? yeah , it's kind of household . 
-1	3I	yes . 
-0	3I	travel guides . shoelaces . 
-1	3I	canvas bags . all of them around there . 
-0	3I	face cream 
-1	3I	absolutely . 
-0	3I	flags . 
-1	3I	it's kind of a weird category . 
-0	3I	um - 
-1	3I	again , it's pretty clearly one of these two . 
-1	3I	we don't know what kind of flags we 're talking about , do we ? 
-1	3I	consider it done . 
-0	3I	empty plastic jugs . 
-0	3I	um - 
-0	3I	i - i - eh . 
-0	3I	where do you think ? 
-1	3I	done . 
-0	3I	packages of cookies , boxes of donuts . 
-1	3I	right ? 
-1	3I	you bet . 
-1	3I	yeah , i think it's householdy stuff . 
-1	3I	uh , i 'd call that - that 's somehow a hardware-ish - well , unless it's - yeah , it's a hardware-ish thing . 
-1	3I	i suppose it c- 
-2	3I	yep , i trunc i was - yeah , i completely agree . 
-0	3I	uh , right there . 
-0	3I	fishing net . 
-2	3I	i 'm not even gonna consult with you . 
-0	3I	um , chocolate bars . 
-1	3I	where's our - uh - here , maybe ? 
-1	3I	sweets , which we sort of - but that 's okay . 
-0	3I	uh , box knives . 
-1	3I	agreed ? 
-1	3I	absolutely . 
-1	3I	sure . 
-2	3I	oh , we 're bussing right though this sucker . 
-0	3I	gas powered cook stoves . 
-2	3I	what's weird about this is - is there were - they don't - they don't care about our organization . they - they only care about how we 're pronouncing these various things . sticks of butter . 
-1	3I	technic- 
-0	3I	is that over here ? 
-1	3I	okay . 
-1	3I	and large cups . we had something like large cups . didn't we have , uh - ? 
-1	6B	i agree . 
-0	6B	i 'm basically just looking at the first column right now . 
-1	6B	pretty much - 
-1	6B	pretty much - 
-1	6B	they 've sort of rationalized the groups . 
-0	6B	um - 
-1	6B	um sure . 
-1	6B	um , i agree with you on math tutors . 
-1	6B	um , i think if you 're gonna have a kitchen - 
-1	6B	of  any sort , or for that matter a food warm up program in the school - in schools or whatever you 're gonna continue to need assistant cooks . 
-3	6B	i personally believe that sort of health ed , sex ed matters . 
-3	6B	custodians , same story . 
-2	6B	speech therapy - 
-2	6B	i think think probably schools need that . 
-3	6B	football equipment , you 're getting into my political turf there . i love football , and i hate football . 
-0	6B	um - 
-1	6B	right . okay well that 'll trunc yeah . 
-2	6B	well , i mean - i just - i - i think - i 'm - i do love to watch football . i played it myself in high school . 
-2	6B	i , um - but i - but i think it is a public health - 
-2	6B	terrible threat . i mean i and this - and this even before the newest evidence has come out about - 
-2	6B	um , repetitive impact brain injuries . 
-3	6B	i just think football doesn't belong in our schools . 
-0	6B	acting coaches . 
-2	6B	that 's - that would be my preference . um , just if i 'm looking for - 
-0	6B	um - 
-0	6B	yep . 
-2	6B	although i 'm - i mean i - almost any youngster i know - 
-2	6B	unless they had kinda a stage mamma - 
-2	6B	who had introduction to , like - 
-2	6B	theater and drama got it through their schools . they didn't get it - 
-1	6B	well , i don't know what an acting coach - 
-1	6B	yeah , that 's what - 
-2	6B	i see what you mean . okay , let's drop acting coaches . they 'll - they 'll - if a kid wants it they 'll figure it out somehow 
-0	6B	um - 
-1	6B	i think they should stay , for the moment . 
-0	6B	um - 
-1	6B	a interesting thing . yes , i trunc i agree . 
-1	6B	uh , cooking classes - home ec , i actually - 
-2	6B	am a big subscriber to home ec , and i think it should be co-ed . 
-2	6B	uh , notetakers just falls in to the same category to me as special ed teachers . 
-1	6B	sugar free juice machines . well , there 's reality and there 's the game we 're playing . 
-0	6B	um - 
-2	6B	i happen to believe that we shouldn't be f- 
-2	6B	promoting crap food for the kids . 
-2	6B	those machines , none the less , are actually profit makers - 
-2	6B	for the school . 
-2	6B	i think . 
-1	6B	well , if you - if you took - if you - 
-1	6B	i don't think you - i don't think the public - 
-1	6B	the county pays to put the sugar free juice machines in . i think the juice companies - 
-1	6B	pay 
-1	6B	to put - 
-1	6B	um , so it's actually a small profit center for the public sector to have those juice machines in there . 
-1	6B	i don't think so . i don't think so . and then , what the hell is sugar free juice ? i 'd trunc i mean frankly i mean soda pop is one thing - 
-1	6B	sugar free , to me , is almost as evil as - 
-1	6B	a soda trunc i mean - 
-2	6B	exactly . exactly . 
-1	6B	uh , bookkeeping classes . um , trunc i mean - i 'd say that the only two things that - 
-2	6B	i could get rid of the sugar free juice machines , if it's truly sugar free . 
-2	6B	i can get rid of the football equipment and the sugar free , at least on the first cut . 
-1	6B	oh , and acting coaches . we got - we got rid of three things . 
-0	6B	bookkeeping classes . 
-1	6B	uh , i think it's a decent set of skills . and music - uh , music to me is - 
-2	6B	it's essential . yeah , yeah . 
-0	6B	so what - what have we gotten rid there ? we 've gotten rid of , uh , football - 
-0	6B	acting coaches - 
-0	6B	trunc sugar fee juice machines - is that it so far ? 
-0	6B	okay . 
-1	6B	move to next column ? 
-1	6B	yeah this - 
-1	6B	i do too . i mean 
-2	6B	vaccinations , absolutely . 
-2	6B	invasive species removal . well , i happen to believe in that , but i 'd trunc happy to revisit it . 
-1	6B	i do - i do it . i do it on a volunteer basis myself . 
-2	6B	but it does require some public money to coordinate it . 
-1	6B	uh , cuz i do it on park and - i mean i do it and county . 
-1	6B	um , properties . 
-0	6B	um - 
-0	6B	i work with - 
-0	6B	green seattle , i think it's called . 
-0	6B	i don't know . i just sign up , and go out there and - i work on the same trunc we 've been doing the burke gilman trail . yeah , it's , uh - 
-1	6B	no , i 'm just sorta reading through the list here . s_t_d_s - trunc i - 
-1	6B	probably part of the same as , um - 
-1	6B	reproductive education . 
-2	6B	toxic waste disposal , can't get rid of that . 
-1	6B	hospital additions , interesting . bagel factory inspectors - 
-0	6B	um - 
-1	6B	i 'm - 
-1	6B	uh - i trunc i - yeah , i mean i - but - by the way , i 'm just sort of going through the list right now , and - uh - i don't disagree with you . 
-1	6B	needle exchange , i think is a basic public health issue . 
-0	6B	sex offender data , veteran's medical assistance - 
-1	6B	i thought that was federal . 
-1	6B	yeah , we 're a county committee . 
-1	6B	egg farm regulations , i thought that was state and or federal . 
-1	6B	prenatal check-ups , neighborhood watch support - okay i ready to - i 'm ready to hit some stuff here . 
-0	6B	um - 
-2	6B	i 'm trunc i 'm ready to immediately hit - 
-2	6B	sounds ruthless , but veteran's medical assistance , cuz i don't think it should be in our budget . 
-2	6B	egg farm regulations , to the best of my knowledge is either a sate department of agriculture , or an f_d_a responsibility . 
-1	6B	yeah . so let trunc so trunc so minimally one could fold one into the other and cut some budget . 
-0	6B	um - 
-0	6B	yep . 
-0	6B	oh ! 
-1	6B	good . 
-1	6B	excellent work . 
-0	6B	um - oh , and the hospital additions ! 
-0	6B	recreation and public service . 
-0	6B	there was in one of our other exercises , there was a reference to public news station . i wasn't - 
-0	6B	quite sure - or - no , it was public access - public access something . 
-0	6B	but i presume public news station is - do you live in seattle proper ? 
-0	6B	you know , then on your - do you have cable t_v_ ? 
-2	6B	oh . there are three or four really interesting - 
-1	6B	of the - 
-0	6B	well there 's - there 's the seattle channel . there 's the king county channel . there 's the - 
-0	6B	state of washington channel . 
-0	6B	there 's actually three different c_spans , if you have cable . 
-0	6B	one , two and three . 
-0	6B	and there 's a public access channel . 
-2	6B	all of which are moderately interesting . i mean the seattle channel is actually brilliant . 
-1	6B	i mean it's - there 's actually programming to be seen on that . 
-0	6B	um - 
-0	6B	so , i don't know what the public news station is . i don't know whether that 's like a k_u_o_w_ kinda thing or - 
-0	6B	what . 
-1	6B	junior soccer league , i can go right there immediately . uh , we got ta maintain it . we obviously got ta maintain our fields , but i thought the leagues - 
-1	6B	were - 
-1	6B	non-profit self supporting kinds of things . 
-0	6B	um - 
-1	6B	kitten puppy adoption , to me is - 
-1	6B	part of stray cat - oh , stray cat spaying . 
-1	6B	that 's - stray cat spaying is something different - 
-2	6B	yeah , but stray cat spaying is , like ,  feral - is i think , like feral cats . 
-0	6B	um , soup kitchens , housing assistance , dog catcher - 
-0	6B	boy basketball club , publi- 
-0	6B	oh , there is public access station versus public news station . 
-2	6B	i trunc no , i trunc i think i know what it - i mean i think i 'm right . i think public news station is something like those stations i just was laying out . 
-2	6B	public access is still another category . all the cable companies obligated to make a channel available . 
-2	6B	but i th- 
-1	6B	precisely . 
-1	6B	yep . yeah . 
-2	6B	i thought that - i thought that the cable companies were actually obligated to underwrite that or to pay for that . 
-0	6B	um - 
-1	6B	i would do the - 
-1	6B	a public access station . i would do the junior soccer league . 
-1	6B	trunc for taking out . 
-1	6B	junior trunc oh , and the boys basketball club - 
-1	6B	which gets a little complicated because i think - 
-1	6B	that kind - i mean , this and this i think are usually non-profit community organizations , the junior soccer league and the boys basketball club . 
-1	6B	but they do use public facilities . 
-1	6B	but if we keep - 
-1	6B	public facilities we 'll se what we get when we get over here . 
-1	6B	but if we keep them up , they can still use the public facilities . 
-1	6B	but we don't have to pay to organize the leagues . 
-1	6B	oh , well there 'd be a human crying out . 
-0	6B	hm . 
-2	6B	the reusable - trunc well , a_ the voters did not reject it - 
-2	6B	b_ 
-2	6B	well in seattle we all more or less doing it . 
-1	6B	or i mean king county , i guess . 
-1	6B	it's very hard to get a plastic bag anymore as a matter of fact now if you - 
-1	6B	i save them when i 'm in a trunc when i 'm in a jurisdiction that doesn't have - 
-1	6B	the bag thing , i 'll ask to have it double bagged so i 'll have - 
-1	6B	you know it's - 
-1	6B	i trunc i try and be green , but - 
-1	6B	i think we 're in the ballpark here . i think , um - 
-1	6B	i think we 've done j- 
-1	6B	junior soccer league - i think we 've done basketball club and i think - 
-1	6B	public access station . 
-1	6B	and we could , although we have three everywhere else - i think - 
-1	6B	the reusable bag campaign . and again remember we don't have to actually have to do this . they just want to hear us talking . 
-2	6B	trunc i could see getting rid of the reusable bag campaign . although - although , as a public service campaign - 
-1	6B	it's , uh - 
-0	6B	you know . 
-1	6B	and in my travels i 've - i have definitely seen how evil - 
-1	6B	plastic bags can get . 
-1	6B	should we move over to the next category , infrastructure and licensing ? 
-0	6B	yeah . 
-0	6B	infrastructure and licensing . 
-1	6B	the state - this county does not do teaching certificates . 
-1	6B	well , i know - i know i 'm right . that 's my - that 's part of my career . 
-0	6B	um - 
-1	6B	on county roads they do em , so - 
-0	6B	um - 
-1	6B	bus stops , that is a transportation function of - 
-1	6B	the county government , or - 
-1	6B	um - boating licensing is state , not county to the best of my knowledge , although there might be some sort of fee generation that i 'm unaware of . i don't own a boat . 
-2	6B	i think that 's a county public health issue . 
-0	6B	um - 
-2	6B	yeah , but i think that 's a state - i think boating licenses are state , not county . i 'm a- 
-2	6B	trunc my only question on boating licenses is whether there 's any revenue source for the counties out of - like , when you - when you - 
-2	6B	trunc put a new tab on your car . 
-1	6B	i don't know . 
-0	6B	um - 
-1	6B	it's a big ti- 
-1	6B	hunting tags is state . 
-2	6B	i know that . 
-0	6B	subway system . 
-0	6B	uh . 
-1	6B	i don't - i don't know . 
-1	6B	yeah , and i 'm - i 'm - 
-1	6B	and that - at this point - 
-1	6B	is probably multi-jurisdictional . 
-1	6B	the feds would always be in it and so forth . 
-2	6B	uh , towing services - you need to have that contract . 
-2	6B	i think if you 're on - if you 're on a county road and you have a - 
-2	6B	abandoned car - 
-2	6B	someone has to have a way of - 
-2	6B	having a non-corrupt way of having that car removed . 
-0	6B	um - 
-2	6B	you know - i trunc i don't - trunc the issue isn't getting my car towed . the issue is keeping the trunc keeping people from , like , abandoning their cars on public roadways . 
-0	6B	um - 
-1	6B	massage certificates is probably a - might - massage - if they mean massage  licensing - 
-1	6B	yeah . 
-1	6B	what's the county doing in that ? 
-0	6B	um - 
-0	6B	flagpole repair . 
-1	6B	whew . 
-1	6B	yeah right . 
-0	6B	um - 
-0	6B	flagpole repair . 
-1	6B	i don't know what to make of it . 
-1	6B	it's a frill . that 's right . if you wanna repair your flagpole 
-0	6B	um tsk taxi stops . 
-2	6B	i think of taxi stops as being more urban than county . 
-0	6B	um - 
-1	6B	i mean where would you - ? where would the county put a taxi stop ? 
-1	6B	out at the airport ? 
-1	6B	yes . 
-1	6B	see i 'm thinking most - 
-1	6B	in the city you have those some places at the airport it would go under - 
-1	6B	or for that matter , it would be port of seattle . 
-0	6B	um - 
-1	6B	and in - in more suburban settings that are maybe unincorporated king county , for example if it was at a hotel , the probably have place right on the hotel grounds . 
-1	6B	yeah , and they - and they probably , at least indirectly , pay through trunc pay for it through their licensing fees . 
-0	6B	um - 
-1	6B	i - i think that could go . 
-1	6B	uh , public bus upkeep , yes . fishing licenses is state of washington . 
-1	6B	drainage ditches is sure . i have no - so - 
-0	6B	um - 
-2	6B	that 's state of washington . 
-2	6B	subway system we don't get . whoops ! 
-1	6B	thank you . 
-0	6B	um - 
-2	6B	hunting tags is state of washington . 
-2	6B	fishing licenses is state of washington . 
-2	6B	and we 've said every word on these lists . i think we should call valerie in . 
-2	6B	cuz we don't actually have to resolve these issues . 
-0	6B	we 've said the trunc valerie , we 've said the words . 
-2	6B	right . 
-2	6B	or even trunc flagpole repair which - which - whichnancy thinks is a frill . 
+0	3I	it 's trunc trunc trunc here it 's sort of all -
+1	3I	trunc good . exactly . there you go .
+1	3I	and this is sort of domestic stuff .
+1	3I	foods .
+1	3I	and kind of miscellane-
+0	3I	go grab a couple of these suckers .
+0	3I	tow ropes .
+1	3I	bingo ?
+1	3I	buckets ! i 'd do the same again , would you ?
+1	3I	ah , the egg timers .
+1	3I	i 'd put it there .
+1	3I	okay .
+1	3I	your turn . grab a few .
+1	3I	absolutely .
+1	3I	food . ice cream .
+1	3I	yeah . i completely agree .
+1	3I	it 's - it 's trivial here , but i 'll just grab a couple more . hats .
+2	3I	well , i 'd - i 'd put probably in this column or possibly in this , but certainly not over there .
+1	3I	bingo ?
+0	3I	cans of peas .
+1	3I	agreed ?
+1	3I	right near the soybeans .
+1	3I	i - yeah - i - i would agree , somewhere in this column is about right . sure .
+1	3I	you bet . we 're gon na build something yet .
+1	3I	i trunc yeah , power cords you bet .
+0	3I	large vests .
+1	3I	hats and travel guides ?
+1	3I	we 'll pretend it 's a travel vest .
+0	3I	liters of water .
+1	3I	staples , i think .
+0	3I	thick sweaters .
+1	3I	bingo ?
+1	3I	absolutely . oh yes . and the cases of whiskey . ca n't forget the cases of whiskey .
+1	3I	i think that 's - i trunc i would put it over in the first or second column .
+1	3I	okay .
+1	3I	i agree .
+0	3I	bagels .
+1	3I	yes .
+1	3I	right . and who wants bagels with that ?
+1	3I	cases of whiskey .
+0	3I	bars of soap .
+1	3I	agreed ?
+0	3I	bundles of sticks .
+2	3I	it 's obviously one of those two .
+1	3I	um how bout here ?
+0	3I	socks .
+1	3I	how bout - ?
+1	3I	near the shoelaces ?
+1	3I	yes .
+1	3I	i would .
+1	3I	fish hooks ?
+1	3I	sure .
+1	3I	that 's hardware .
+1	3I	we could run a store together . pre-cut wood .
+1	3I	how bout bundles of sticks and pre-cut wood ?
+0	3I	books ?
+1	3I	books where do it - travel guides , books .
+0	3I	pouches of oatmeal .
+1	3I	have any trouble putting it next to the cake mix ?
+0	3I	books of matches .
+1	3I	back in trunc household ?
+1	3I	yes , it could .
+0	3I	bottles of juice .
+0	3I	um .
+1	3I	i think here .
+0	3I	wetsuits ?
+1	3I	i 'm gon na call that a boating supply rather than a clothing .
+1	3I	i mean it 's trunc it 's somehow in the - fall into recreation . well -
+1	3I	yeah , i think that 's good .
+1	3I	yeah yeah .
+1	3I	absolutely .
+1	3I	sure .
+1	3I	i trunc i would put that - trunc one of these two rows .
+1	3I	where 's the tweezers ? yeah , it 's kind of household .
+1	3I	yes .
+0	3I	travel guides . shoelaces .
+1	3I	canvas bags . all of them around there .
+0	3I	face cream
+1	3I	absolutely .
+0	3I	flags .
+1	3I	it 's kind of a weird category .
+0	3I	um -
+1	3I	again , it 's pretty clearly one of these two .
+1	3I	we do n't know what kind of flags we 're talking about , do we ?
+1	3I	consider it done .
+0	3I	empty plastic jugs .
+0	3I	um -
+0	3I	i - i - eh .
+0	3I	where do you think ?
+1	3I	done .
+0	3I	packages of cookies , boxes of donuts .
+1	3I	right ?
+1	3I	you bet .
+1	3I	yeah , i think it 's householdy stuff .
+1	3I	uh , i 'd call that - that 's somehow a hardware-ish - well , unless it 's - yeah , it 's a hardware-ish thing .
+1	3I	i suppose it c-
+2	3I	yep , i trunc i was - yeah , i completely agree .
+0	3I	uh , right there .
+0	3I	fishing net .
+2	3I	i 'm not even gon na consult with you .
+0	3I	um , chocolate bars .
+1	3I	where 's our - uh - here , maybe ?
+1	3I	sweets , which we sort of - but that 's okay .
+0	3I	uh , box knives .
+1	3I	agreed ?
+1	3I	absolutely .
+1	3I	sure .
+2	3I	oh , we 're bussing right though this sucker .
+0	3I	gas powered cook stoves .
+2	3I	what 's weird about this is - is there were - they do n't - they do n't care about our organization . they - they only care about how we 're pronouncing these various things . sticks of butter .
+1	3I	technic-
+0	3I	is that over here ?
+1	3I	okay .
+1	3I	and large cups . we had something like large cups . did n't we have , uh - ?
+1	6B	i agree .
+0	6B	i 'm basically just looking at the first column right now .
+1	6B	pretty much -
+1	6B	pretty much -
+1	6B	they 've sort of rationalized the groups .
+0	6B	um -
+1	6B	um sure .
+1	6B	um , i agree with you on math tutors .
+1	6B	um , i think if you 're gon na have a kitchen -
+1	6B	of any sort , or for that matter a food warm up program in the school - in schools or whatever you 're gon na continue to need assistant cooks .
+3	6B	i personally believe that sort of health ed , sex ed matters .
+3	6B	custodians , same story .
+2	6B	speech therapy -
+2	6B	i think think probably schools need that .
+3	6B	football equipment , you 're getting into my political turf there . i love football , and i hate football .
+0	6B	um -
+1	6B	right . okay well that 'll trunc yeah .
+2	6B	well , i mean - i just - i - i think - i 'm - i do love to watch football . i played it myself in high school .
+2	6B	i , um - but i - but i think it is a public health -
+2	6B	terrible threat . i mean i and this - and this even before the newest evidence has come out about -
+2	6B	um , repetitive impact brain injuries .
+3	6B	i just think football does n't belong in our schools .
+0	6B	acting coaches .
+2	6B	that 's - that would be my preference . um , just if i 'm looking for -
+0	6B	um -
+0	6B	yep .
+2	6B	although i 'm - i mean i - almost any youngster i know -
+2	6B	unless they had kinda a stage mamma -
+2	6B	who had introduction to , like -
+2	6B	theater and drama got it through their schools . they did n't get it -
+1	6B	well , i do n't know what an acting coach -
+1	6B	yeah , that 's what -
+2	6B	i see what you mean . okay , let 's drop acting coaches . they 'll - they 'll - if a kid wants it they 'll figure it out somehow
+0	6B	um -
+1	6B	i think they should stay , for the moment .
+0	6B	um -
+1	6B	a interesting thing . yes , i trunc i agree .
+1	6B	uh , cooking classes - home ec , i actually -
+2	6B	am a big subscriber to home ec , and i think it should be co-ed .
+2	6B	uh , notetakers just falls in to the same category to me as special ed teachers .
+1	6B	sugar free juice machines . well , there 's reality and there 's the game we 're playing .
+0	6B	um -
+2	6B	i happen to believe that we should n't be f-
+2	6B	promoting crap food for the kids .
+2	6B	those machines , none the less , are actually profit makers -
+2	6B	for the school .
+2	6B	i think .
+1	6B	well , if you - if you took - if you -
+1	6B	i do n't think you - i do n't think the public -
+1	6B	the county pays to put the sugar free juice machines in . i think the juice companies -
+1	6B	pay
+1	6B	to put -
+1	6B	um , so it 's actually a small profit center for the public sector to have those juice machines in there .
+1	6B	i do n't think so . i do n't think so . and then , what the hell is sugar free juice ? i 'd trunc i mean frankly i mean soda pop is one thing -
+1	6B	sugar free , to me , is almost as evil as -
+1	6B	a soda trunc i mean -
+2	6B	exactly . exactly .
+1	6B	uh , bookkeeping classes . um , trunc i mean - i 'd say that the only two things that -
+2	6B	i could get rid of the sugar free juice machines , if it 's truly sugar free .
+2	6B	i can get rid of the football equipment and the sugar free , at least on the first cut .
+1	6B	oh , and acting coaches . we got - we got rid of three things .
+0	6B	bookkeeping classes .
+1	6B	uh , i think it 's a decent set of skills . and music - uh , music to me is -
+2	6B	it 's essential . yeah , yeah .
+0	6B	so what - what have we gotten rid there ? we 've gotten rid of , uh , football -
+0	6B	acting coaches -
+0	6B	trunc sugar fee juice machines - is that it so far ?
+0	6B	okay .
+1	6B	move to next column ?
+1	6B	yeah this -
+1	6B	i do too . i mean
+2	6B	vaccinations , absolutely .
+2	6B	invasive species removal . well , i happen to believe in that , but i 'd trunc happy to revisit it .
+1	6B	i do - i do it . i do it on a volunteer basis myself .
+2	6B	but it does require some public money to coordinate it .
+1	6B	uh , cuz i do it on park and - i mean i do it and county .
+1	6B	um , properties .
+0	6B	um -
+0	6B	i work with -
+0	6B	green seattle , i think it 's called .
+0	6B	i do n't know . i just sign up , and go out there and - i work on the same trunc we 've been doing the burke gilman trail . yeah , it 's , uh -
+1	6B	no , i 'm just sorta reading through the list here . s_t_d_s - trunc i -
+1	6B	probably part of the same as , um -
+1	6B	reproductive education .
+2	6B	toxic waste disposal , ca n't get rid of that .
+1	6B	hospital additions , interesting . bagel factory inspectors -
+0	6B	um -
+1	6B	i 'm -
+1	6B	uh - i trunc i - yeah , i mean i - but - by the way , i 'm just sort of going through the list right now , and - uh - i do n't disagree with you .
+1	6B	needle exchange , i think is a basic public health issue .
+0	6B	sex offender data , veteran 's medical assistance -
+1	6B	i thought that was federal .
+1	6B	yeah , we 're a county committee .
+1	6B	egg farm regulations , i thought that was state and or federal .
+1	6B	prenatal check-ups , neighborhood watch support - okay i ready to - i 'm ready to hit some stuff here .
+0	6B	um -
+2	6B	i 'm trunc i 'm ready to immediately hit -
+2	6B	sounds ruthless , but veteran 's medical assistance , cuz i do n't think it should be in our budget .
+2	6B	egg farm regulations , to the best of my knowledge is either a sate department of agriculture , or an f_d_a responsibility .
+1	6B	yeah . so let trunc so trunc so minimally one could fold one into the other and cut some budget .
+0	6B	um -
+0	6B	yep .
+0	6B	oh !
+1	6B	good .
+1	6B	excellent work .
+0	6B	um - oh , and the hospital additions !
+0	6B	recreation and public service .
+0	6B	there was in one of our other exercises , there was a reference to public news station . i was n't -
+0	6B	quite sure - or - no , it was public access - public access something .
+0	6B	but i presume public news station is - do you live in seattle proper ?
+0	6B	you know , then on your - do you have cable t_v_ ?
+2	6B	oh . there are three or four really interesting -
+1	6B	of the -
+0	6B	well there 's - there 's the seattle channel . there 's the king county channel . there 's the -
+0	6B	state of washington channel .
+0	6B	there 's actually three different c_spans , if you have cable .
+0	6B	one , two and three .
+0	6B	and there 's a public access channel .
+2	6B	all of which are moderately interesting . i mean the seattle channel is actually brilliant .
+1	6B	i mean it 's - there 's actually programming to be seen on that .
+0	6B	um -
+0	6B	so , i do n't know what the public news station is . i do n't know whether that 's like a k_u_o_w_ kinda thing or -
+0	6B	what .
+1	6B	junior soccer league , i can go right there immediately . uh , we got ta maintain it . we obviously got ta maintain our fields , but i thought the leagues -
+1	6B	were -
+1	6B	non-profit self supporting kinds of things .
+0	6B	um -
+1	6B	kitten puppy adoption , to me is -
+1	6B	part of stray cat - oh , stray cat spaying .
+1	6B	that 's - stray cat spaying is something different -
+2	6B	yeah , but stray cat spaying is , like , feral - is i think , like feral cats .
+0	6B	um , soup kitchens , housing assistance , dog catcher -
+0	6B	boy basketball club , trunc
+0	6B	oh , there is public access station versus public news station .
+2	6B	i trunc no , i trunc i think i know what it - i mean i think i 'm right . i think public news station is something like those stations i just was laying out .
+2	6B	public access is still another category . all the cable companies obligated to make a channel available .
+2	6B	but i th-
+1	6B	precisely .
+1	6B	yep . yeah .
+2	6B	i thought that - i thought that the cable companies were actually obligated to underwrite that or to pay for that .
+0	6B	um -
+1	6B	i would do the -
+1	6B	a public access station . i would do the junior soccer league .
+1	6B	trunc for taking out .
+1	6B	junior trunc oh , and the boys basketball club -
+1	6B	which gets a little complicated because i think -
+1	6B	that kind - i mean , this and this i think are usually non-profit community organizations , the junior soccer league and the boys basketball club .
+1	6B	but they do use public facilities .
+1	6B	but if we keep -
+1	6B	public facilities we 'll se what we get when we get over here .
+1	6B	but if we keep them up , they can still use the public facilities .
+1	6B	but we do n't have to pay to organize the leagues .
+1	6B	oh , well there 'd be a human crying out .
+0	6B	hm .
+2	6B	the reusable - trunc well , a_ the voters did not reject it -
+2	6B	b_
+2	6B	well in seattle we all more or less doing it .
+1	6B	or i mean king county , i guess .
+1	6B	it 's very hard to get a plastic bag anymore as a matter of fact now if you -
+1	6B	i save them when i 'm in a trunc when i 'm in a jurisdiction that does n't have -
+1	6B	the bag thing , i 'll ask to have it double bagged so i 'll have -
+1	6B	you know it 's -
+1	6B	i trunc i try and be green , but -
+1	6B	i think we 're in the ballpark here . i think , um -
+1	6B	i think we 've done j-
+1	6B	junior soccer league - i think we 've done basketball club and i think -
+1	6B	public access station .
+1	6B	and we could , although we have three everywhere else - i think -
+1	6B	the reusable bag campaign . and again remember we do n't have to actually have to do this . they just want to hear us talking .
+2	6B	trunc i could see getting rid of the reusable bag campaign . although - although , as a public service campaign -
+1	6B	it 's , uh -
+0	6B	you know .
+1	6B	and in my travels i 've - i have definitely seen how evil -
+1	6B	plastic bags can get .
+1	6B	should we move over to the next category , infrastructure and licensing ?
+0	6B	yeah .
+0	6B	infrastructure and licensing .
+1	6B	the state - this county does not do teaching certificates .
+1	6B	well , i know - i know i 'm right . that 's my - that 's part of my career .
+0	6B	um -
+1	6B	on county roads they do em , so -
+0	6B	um -
+1	6B	bus stops , that is a transportation function of -
+1	6B	the county government , or -
+1	6B	um - boating licensing is state , not county to the best of my knowledge , although there might be some sort of fee generation that i 'm unaware of . i do n't own a boat .
+2	6B	i think that 's a county public health issue .
+0	6B	um -
+2	6B	yeah , but i think that 's a state - i think boating licenses are state , not county . i 'm a-
+2	6B	trunc my only question on boating licenses is whether there 's any revenue source for the counties out of - like , when you - when you -
+2	6B	trunc put a new tab on your car .
+1	6B	i do n't know .
+0	6B	um -
+1	6B	it 's a big ti-
+1	6B	hunting tags is state .
+2	6B	i know that .
+0	6B	subway system .
+0	6B	uh .
+1	6B	i do n't - i do n't know .
+1	6B	yeah , and i 'm - i 'm -
+1	6B	and that - at this point -
+1	6B	is probably multi-jurisdictional .
+1	6B	the feds would always be in it and so forth .
+2	6B	uh , towing services - you need to have that contract .
+2	6B	i think if you 're on - if you 're on a county road and you have a -
+2	6B	abandoned car -
+2	6B	someone has to have a way of -
+2	6B	having a non-corrupt way of having that car removed .
+0	6B	um -
+2	6B	you know - i trunc i do n't - trunc the issue is n't getting my car towed . the issue is keeping the trunc keeping people from , like , abandoning their cars on public roadways .
+0	6B	um -
+1	6B	massage certificates is probably a - might - massage - if they mean massage licensing -
+1	6B	yeah .
+1	6B	what 's the county doing in that ?
+0	6B	um -
+0	6B	flagpole repair .
+1	6B	whew .
+1	6B	yeah right .
+0	6B	um -
+0	6B	flagpole repair .
+1	6B	i do n't know what to make of it .
+1	6B	it 's a frill . that 's right . if you wan na repair your flagpole
+0	6B	um tsk taxi stops .
+2	6B	i think of taxi stops as being more urban than county .
+0	6B	um -
+1	6B	i mean where would you - ? where would the county put a taxi stop ?
+1	6B	out at the airport ?
+1	6B	yes .
+1	6B	see i 'm thinking most -
+1	6B	in the city you have those some places at the airport it would go under -
+1	6B	or for that matter , it would be port of seattle .
+0	6B	um -
+1	6B	and in - in more suburban settings that are maybe unincorporated king county , for example if it was at a hotel , the probably have place right on the hotel grounds .
+#	6B	fort taxis to line up . they have that -
+1	6B	yeah , and they - and they probably , at least indirectly , pay through trunc pay for it through their licensing fees .
+0	6B	um -
+1	6B	i - i think that could go .
+1	6B	uh , public bus upkeep , yes . fishing licenses is state of washington .
+1	6B	drainage ditches is sure . i have no - so -
+0	6B	um -
+2	6B	that 's state of washington .
+2	6B	subway system we do n't get . whoops !
+1	6B	thank you .
+0	6B	um -
+2	6B	hunting tags is state of washington .
+2	6B	fishing licenses is state of washington .
+2	6B	and we 've said every word on these lists . i think we should call valerie in .
+2	6B	cuz we do n't actually have to resolve these issues .
+0	6B	we 've said the trunc valerie , we 've said the words .
+2	6B	right .
+2	6B	or even trunc flagpole repair which - which - which nancy thinks is a frill .

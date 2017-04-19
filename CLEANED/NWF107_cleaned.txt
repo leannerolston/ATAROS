@@ -1,276 +1,276 @@
-0	3I	wonder where it came from . 
-0	3I	interesting . 
-2	3I	well , first of all let's look at what's - what we got ta work wi- 
-0	3I	so the food seems to be over there . 
-0	3I	pet food and toys are opposite . 
-1	3I	yeah . 
-1	3I	yeah . 
-1	3I	yeah . 
-1	3I	alright . 
-1	3I	and these guys go up with egg timer ? 
-1	3I	alright . 
-0	3I	no . 
-2	3I	let's hold off . 
-2	3I	let's grab another one . 
-1	3I	well , okay , got power cords over here . 
-0	3I	and your mousetraps . 
-1	3I	so , like , this makes sense . 
-2	3I	well , no , think about what else was on the list . you had whiskey , cake , beets , sugar , butter . 
-0	3I	and then you had your , um , shoelaces - 
-3	3I	know that we can't use that same logic , cuz we 're gonna - we got different placements up here . so what makes sense for this arrangement ? 
-1	3I	so , dry foods - 
-1	3I	and what's going to go in the middle here ? 
-1	3I	your toothpaste , your water trunc jugs . water jugs up here by boating ? 
-3	3I	well , how bout your clothing over here ? 
-2	3I	well , cuz it all , uh - wetsuits by boating supplies . 
-2	3I	or fishing . and then we still have our fishing stuff . 
-1	3I	travel guides ? mousetraps ? 
-0	3I	yeah . 
-1	3I	yeah , i agree . 
-2	3I	oh , it's a wetsuit , though . 
-2	3I	and these are jackets and hats . these are outdoor things . 
-2	3I	i was outdoor activities area . 
-2	3I	and this is  interior . 
-2	3I	and this is the kitchen . 
-1	3I	and this is , uh supplies . like , utility . 
-2	3I	oh , and it's a - 
-2	3I	so , it's a general store , i thought , we were shaping . 
-1	3I	mm-kay . 
-1	3I	so where do you think hats , then ? 
-1	3I	let's just call it - what , uh - where do you want it , here ? 
-2	3I	how bout this ? 
-1	3I	dog walkers ? supplies . 
-1	3I	alright . 
-2	3I	we gonna put  all of them up there . 
-2	3I	power cords or siding . 
-2	3I	water - away from the power cords . tow rope tow rope . 
-1	3I	sorry , i had to sneeze . that was a strange sound . tow ropes up by the boats , right ? 
-1	3I	and empty plastic jugs . this is one i - 
-1	3I	okay . 
-1	3I	how bout - oh , we can't move them once we put them on there . 
-1	3I	um , shoes could go by the pet food ? 
-1	3I	or - 
-1	3I	okay . 
-2	3I	we 'll put the shoes down there . 
-2	3I	cake and chocolate bars go together , but trunc like , s'mores , people looking for s'mores , yep . and bagels - 
-2	3I	yeah , by the eggs . breakfast . 
-0	3I	water - 
-1	3I	jugs ? 
-1	3I	uh it's fishing , cleaning the fish . 
-0	3I	trunc where are the tweezers ? uh - 
-1	3I	yeah , yeah . 
-2	3I	i don't know ! this reminds me of the port gamble - 
-2	3I	general store . oh , this goes with bars of soap . 
-1	3I	yeah , sure . 
-0	3I	whiskey , cookies , cake . 
-1	3I	yeah ! that makes sense . lunch trunc lunch . 
-1	3I	i 'm surprised there 's not tunafish on the list . sticks of butter . 
-2	3I	eggs ? or - 
-1	3I	yeah . 
-0	3I	pre-cut wood and heavy cable . 
-2	3I	cushions for for deck trunc that wasn't on our list ! 
-2	3I	oh that goes by boating supplies . 
-1	3I	what do you think , here ? 
-0	3I	half-inch tubing and gas cookstoves . 
-0	3I	we got ta cook the - 
-1	3I	i think next to the wood . 
-2	3I	well - 
-1	3I	or here , next trunc 
-0	3I	half-inch tubing . 
-1	3I	you wanted the shoes in the - 
-0	3I	so , the - 
-0	3I	books . 
-1	3I	yeah , that sounds fine . how bout the books - travel guides and books are the same thing . 
-1	3I	you sit and read them , you got ta put it in the backpack . 
-0	3I	oh . 
-1	3I	that would go here maybe ? well - 
-2	3I	we could do this . and put them on the other side . 
-2	3I	will that work ? 
-1	3I	okay . 
-0	3I	you think they 're canned or fresh ? 
-2	3I	but the eggs , you assume , is fresh . sticks of butter you assume is fresh . you need a refrigerator . 
-2	3I	socks . well , we know where that trunc that goes with shoelaces . 
-1	3I	oh . where do the - where should that go ? 
-1	3I	seriously ? 
-2	3I	no . 
-2	3I	no , no , if you put it by the ice cream and the sugar , it makes it easier . 
-2	3I	for the parents to shop . 
-2	3I	well , trunc what do you think ? seriously ? 
-1	3I	it's still sort of food item , on the other one . oh , oh , yeah , pouches of oatmeal . 
-1	3I	how bout here ? 
-2	3I	well , you know , you  do have in the the far righthand corner , that  is a problem for the register . 
-2	3I	you 'd have to have a camera on that . that wasn't a good idea . 
-0	3I	alright , um , toothpaste ? 
-2	3I	uh , next to the toilet paper ? or the bar of soap ? 
-1	3I	yeah . 
-0	3I	mm . 
-1	3I	yeah . 
-2	3I	i don't know ! 
-2	3I	there could be a xylophone in here . 
-1	3I	next to the mousetraps ? 
-1	3I	yep . 
-1	3I	yep , fish hooks . 
-1	3I	over here . 
-1	3I	should be up here . 
-0	3I	oh . 
-1	3I	here . 
-2	3I	yeah , there 's a fishing section then trunc  then you get the power cords 
-0	3I	mm-hm . 
-0	3I	okay . 
-1	3I	that makes sense to me . 
-1	3I	an electric heater . would that go - 
-1	3I	here ? 
-1	3I	or - this sh- 
-1	3I	what else would be pet-related ? 
-2	3I	we can only look at three , though . 
-0	3I	toilet paper . 
-2	3I	i think maybe - 
-2	3I	well this is near the power cord , though . 
-2	3I	and you need the tubing to cover the electrical . and the duct tape's just practical . 
-1	3I	right here ? 
-1	3I	right . that makes more sense . 
-2	3I	yeah , these were the ones we 're walking for . 
-0	3I	okay . 
-1	3I	how bout here ? yeah . small saws near the - 
-2	3I	away from the toy section . 
-1	3I	kitchen . it's a kitchen item , too . how bout here ? those are all practical . 
-1	3I	how bout these guys ? 
-2	3I	that 's a little unkind . visually . 
-0	3I	oh . 
-0	3I	bundles of sticks . 
-2	3I	bundles trunc yeah . i think maybe bundles of sticks here . 
-2	3I	well , no , plastic jugs . 
-1	3I	i think maybe - 
-1	3I	here . 
-2	3I	well , wouldn't you wanna put them near - the beverages ? 
-2	3I	well , m- 
-2	3I	well , that 's all food , though . 
-0	3I	when you 're in a hurry for something - 
-0	3I	you go look where , for cups ? 
-0	3I	yeah . 
-1	3I	um , the foil aisle . where would the foil aisle be in this ? 
-1	3I	yeah , i agree . 
-1	3I	how bout - 
-1	3I	something across the way would be logical ? 
-1	3I	empty plastic jugs . 
-1	3I	well , once we place it . so what else we got ? 
-1	3I	bottles of juice would be - 
-1	3I	yeah . 
-1	3I	don't you think ? 
-1	3I	near , uh - well , wait - trunc yeah . 
-2	3I	these guys should go together . yeah , that would be good . 
-1	3I	yeah . 
-0	3I	so what else - are we done ? 
-1	3I	so , large cups could go - 
-1	3I	wherever we want them . 
-2	3I	it's trunc it's the outlier , though 
-2	6B	this is hard . 
-0	6B	yeah . 
-0	6B	well - 
-1	6B	so they want us to say the words probably , so trunc i 'll read it . um - 
-1	6B	education programs . so we 're starting with education first . 
-0	6B	huh . 
-1	6B	alright , let's go for it . i - i agree with that . 
-0	6B	yep . 
-1	6B	yeah . so we got ta get rid of one on the other side . 
-1	6B	sure . public health and safety . reproductive education , job training programs , chicken pox vaccinations - 
-0	6B	invasive species removal , s_t_d_ education , toxic waste disposal - 
-0	6B	hospital  additions , needle exchange , sex offender database - 
-0	6B	veterans medical assistance weed control , pre-natal checkups , and neighborhood watch support . 
-2	6B	no . 
-1	6B	maybe hospital additions ? 
-0	6B	under toxic waste disposal . 
-2	6B	now , some would say invasive species removal , but that 's really important for seattle . 
-2	6B	and weed control is not the same thing . 
-2	6B	but they 're  of the samenature . 
-0	6B	mm , a separate office , you mean ? 
-0	6B	to - 
-2	6B	yeah . sorry , i had to sneeze , heather . um , neighborhood watch support , you think then might - it's definitely we have to keep pre-natal checkups . 
-1	6B	and the v_a_ . 
-2	6B	it's pretty different populations , actually . teenagers and adults . 
-2	6B	um , you could combine the two . 
-0	6B	oh . 
-1	6B	well , i think maybe s_t_d_ education . 
-2	6B	oh , this is really hard . 
-2	6B	well , neighbors could be helping in a time of budget , so yeah , let's get rid of neighborhood watch support . 
-0	6B	hm . 
-2	6B	because it handles the trunc animals . 
-1	6B	public health . 
-2	6B	look , you got stray cat spraying , and baby and kitten puppy adoption  and the veterinary hospital . 
-2	6B	it's a public service . 
-2	6B	uh , to keep , uh , vermin down . 
-2	6B	disease control . 
-2	6B	you also have dog catcher on there . 
-2	6B	well , the dog catcher picks up the puppies and the kittens . and then they adopt them out . 
-2	6B	the dog catcher doesn't do that . 
-1	6B	it would be a more humane world if they did , yes . 
-2	6B	right , so in a hypothetical world veterinary hospital  would be essential . 
-0	6B	alright . 
-1	6B	so , get rid of the veterinary hospital ? 
-2	6B	is that more important than football stadium upkeep ? 
-2	6B	couldn't the football stadium people take care of their own upkeep ? 
-2	6B	conference rooms , you got ta lead a trunc leave a conference room clean . you trunc you leave a stadium clean ? 
-2	6B	no , those are essential for homeless . 
-2	6B	there aren't enough of them . 
-1	6B	yeah . 
-2	6B	you 'll have to keep the junior soccer league . 
-0	6B	the junior soccer league . 
-0	6B	well , hm- 
-0	6B	there has to be one thing to go . 
-1	6B	what are the community news ads ? that 's important . 
-2	6B	some would say that could go online . 
-0	6B	well - 
-0	6B	what do you trunc what do you suggest ? 
-1	6B	go for it . 
-0	6B	uh-huh . 
-2	6B	that 's how you make your money . 
-1	6B	yeah . 
-2	6B	but they have to tow the cars they 're - 
-2	6B	towing away to the tow yard for the parking tickets . 
-0	6B	mm-hm ? 
-2	6B	so that 's an easy one . you say towing system - services ? 
-0	6B	so trunc mm - 
-1	6B	well , then taxi stops ? 
-0	6B	those are signs . 
-0	6B	a signing service . speed limit signs - 
-0	6B	additional bus stops . 
-2	6B	pothole maintenance  has to stay . 
-2	6B	the subway system  has to stay . 
-2	6B	so , you say - 
-2	6B	towing services but the public bus upkeep is important . 
-2	6B	and the drainage ditches are essential . 
-2	6B	but those drainage ditches could be maintained by - 
-2	6B	invasive species removal department . 
-1	6B	but we 're down to just trunc one item . 
-2	6B	so what would you propose if the towing service people said - 
-1	6B	where would the towing services be absorbed into ? 
-0	6B	right . 
-1	6B	the dispatcher contracted . yeah . 
-1	6B	yeah , trunc um , i think i understand , yeah . 
-2	6B	but wouldn't that be a part of the budget for public bus upkeep already ? 
-2	6B	the towing services would be in that . 
-2	6B	because if the public bus is stuck - 
-2	6B	or the public transportation pool is stuck , they would  have to have something  big enough as a bus . 
-2	6B	that 's the worst case scenario . 
-1	6B	so it looks like we identified at least two things . 
-2	6B	now , i 'm - i 'm glad that you and i agreed on that trunc s_t_d_ education and reproductive education . the way those are worded , it makes it harder to make the choice . 
-2	6B	and sex ed is  kinda the same thing , but - 
-2	6B	i wonder if there 's a way to involve all of them . 
-2	6B	you very thoughtful person . 
-2	6B	it's really nice that you took that - now , and we left the math tutors and the acting coaches . some would say the acting coaches need to go . some would say - 
-2	6B	the music teachers need to go . 
-2	6B	but i think the m- 
-2	6B	music teachers are more essential than the sugar-free juice machines . 
-0	6B	yeah ? 
-1	6B	yeah . 
-2	6B	it  does help with social behavior . 
-2	6B	well , we didn't have to take it off . 
-1	6B	but i can see where there 's a little wiggle room . 
-2	6B	you 're very thoughtful person . 
-1	6B	so do you think we - we could present to a committee and would seem - 
-1	6B	i - i think we 've done - 
-1	6B	done well . 
-2	6B	or we are trying to move others to help . 
-0	6B	yeah . 
-1	6B	we did . 
-2	6B	i like that method , actually . 
+0	3I	wonder where it came from .
+0	3I	interesting .
+2	3I	well , first of all let 's look at what 's - what we got ta work wi-
+0	3I	so the food seems to be over there .
+0	3I	pet food and toys are opposite .
+1	3I	yeah .
+1	3I	yeah .
+1	3I	yeah .
+1	3I	alright .
+1	3I	and these guys go up with egg timer ?
+1	3I	alright .
+0	3I	no .
+2	3I	let 's hold off .
+2	3I	let 's grab another one .
+1	3I	well , okay , got power cords over here .
+0	3I	and your mousetraps .
+1	3I	so , like , this makes sense .
+2	3I	well , no , think about what else was on the list . you had whiskey , cake , beets , sugar , butter .
+0	3I	and then you had your , um , shoelaces -
+3	3I	know that we ca n't use that same logic , cuz we 're gon na - we got different placements up here . so what makes sense for this arrangement ?
+1	3I	so , dry foods -
+1	3I	and what 's going to go in the middle here ?
+1	3I	your toothpaste , your water trunc jugs . water jugs up here by boating ?
+3	3I	well , how bout your clothing over here ?
+2	3I	well , cuz it all , uh - wetsuits by boating supplies .
+2	3I	or fishing . and then we still have our fishing stuff .
+1	3I	travel guides ? mousetraps ?
+0	3I	yeah .
+1	3I	yeah , i agree .
+2	3I	oh , it 's a wetsuit , though .
+2	3I	and these are jackets and hats . these are outdoor things .
+2	3I	i was outdoor activities area .
+2	3I	and this is interior .
+2	3I	and this is the kitchen .
+1	3I	and this is , uh supplies . like , utility .
+2	3I	oh , and it 's a -
+2	3I	so , it 's a general store , i thought , we were shaping .
+1	3I	mm-kay .
+1	3I	so where do you think hats , then ?
+1	3I	let 's just call it - what , uh - where do you want it , here ?
+2	3I	how bout this ?
+1	3I	dog walkers ? supplies .
+1	3I	alright .
+2	3I	we gon na put all of them up there .
+2	3I	power cords or siding .
+2	3I	water 1 - away from the power cords . tow rope tow rope .
+1	3I	sorry , i had to sneeze . that was a strange sound . tow ropes up by the boats , right ?
+1	3I	and empty plastic jugs . this is one i -
+1	3I	okay .
+1	3I	how bout - oh , we ca n't move them once we put them on there .
+1	3I	um , shoes could go by the pet food ?
+1	3I	or -
+1	3I	okay .
+2	3I	we 'll put the shoes down there .
+2	3I	cake and chocolate bars go together , but trunc like , s'mores , people looking for s'mores , yep . and bagels -
+2	3I	yeah , by the eggs . breakfast .
+0	3I	water -
+1	3I	jugs ?
+1	3I	uh it 's fishing , cleaning the fish .
+0	3I	trunc where are the tweezers ? uh -
+1	3I	yeah , yeah .
+2	3I	i do n't know ! this reminds me of the port gamble -
+2	3I	general store . oh , this goes with bars of soap .
+1	3I	yeah , sure .
+0	3I	whiskey , cookies , cake .
+1	3I	yeah ! that makes sense . lunch trunc lunch .
+1	3I	i 'm surprised there 's not tunafish on the list . sticks of butter .
+2	3I	eggs ? or -
+1	3I	yeah .
+0	3I	pre-cut wood and heavy cable .
+2	3I	cushions for for deck trunc that was n't on our list !
+2	3I	oh that goes by boating supplies .
+1	3I	what do you think , here ?
+0	3I	half-inch tubing and gas cookstoves .
+0	3I	we got ta cook the -
+1	3I	i think next to the wood .
+2	3I	well -
+1	3I	or here , next trunc
+0	3I	half-inch tubing .
+1	3I	you wanted the shoes in the -
+0	3I	so , the -
+0	3I	books .
+1	3I	yeah , that sounds fine . how bout the books - travel guides and books are the same thing .
+1	3I	you sit and read them , you got ta put it in the backpack .
+0	3I	oh .
+1	3I	that would go here maybe ? well -
+2	3I	we could do this . and put them on the other side .
+2	3I	will that work ?
+1	3I	okay .
+0	3I	you think they 're canned or fresh ?
+2	3I	but the eggs , you assume , is fresh . sticks of butter you assume is fresh . you need a refrigerator .
+2	3I	socks . well , we know where that trunc that goes with shoelaces .
+1	3I	oh . where do the - where should that go ?
+1	3I	seriously ?
+2	3I	no .
+2	3I	no , no , if you put it by the ice cream and the sugar , it makes it easier .
+2	3I	for the parents to shop .
+2	3I	well , trunc what do you think ? seriously ?
+1	3I	it 's still sort of food item , on the other one . oh , oh , yeah , pouches of oatmeal .
+1	3I	how bout here ?
+2	3I	well , you know , you do have in the the far righthand corner , that is a problem for the register .
+2	3I	you 'd have to have a camera on that . that was n't a good idea .
+0	3I	alright , um , toothpaste ?
+2	3I	uh , next to the toilet paper ? or the bar of soap ?
+1	3I	yeah .
+0	3I	mm .
+1	3I	yeah .
+2	3I	i do n't know !
+2	3I	there could be a xylophone in here .
+1	3I	next to the mousetraps ?
+1	3I	yep .
+1	3I	yep , fish hooks .
+1	3I	over here .
+1	3I	should be up here .
+0	3I	oh .
+1	3I	here .
+2	3I	yeah , there 's a fishing section then trunc then you get the power cords
+0	3I	mm-hm .
+0	3I	okay .
+1	3I	that makes sense to me .
+1	3I	an electric heater . would that go -
+1	3I	here ?
+1	3I	or - this sh-
+1	3I	what else would be pet-related ?
+2	3I	we can only look at three , though .
+0	3I	toilet paper .
+2	3I	i think maybe -
+2	3I	well this is near the power cord , though .
+2	3I	and you need the tubing to cover the electrical . and the duct tape 's just practical .
+1	3I	right here ?
+1	3I	right . that makes more sense .
+2	3I	yeah , these were the ones we 're walking for .
+0	3I	okay .
+1	3I	how bout here ? yeah . small saws near the -
+2	3I	away from the toy section .
+1	3I	kitchen . it 's a kitchen item , too . how bout here ? those are all practical .
+1	3I	how bout these guys ?
+2	3I	that 's a little unkind . visually .
+0	3I	oh .
+0	3I	bundles of sticks .
+2	3I	bundles trunc yeah . i think maybe bundles of sticks here .
+2	3I	well , no , plastic jugs .
+1	3I	i think maybe -
+1	3I	here .
+2	3I	well , would n't you wan na put them near - the beverages ?
+2	3I	well , m-
+2	3I	well , that 's all food , though .
+0	3I	when you 're in a hurry for something -
+0	3I	you go look where , for cups ?
+0	3I	yeah .
+1	3I	um , the foil aisle . where would the foil aisle be in this ?
+1	3I	yeah , i agree .
+1	3I	how bout -
+1	3I	something across the way would be logical ?
+1	3I	empty plastic jugs .
+1	3I	well , once we place it . so what else we got ?
+1	3I	bottles of juice would be -
+1	3I	yeah .
+1	3I	do n't you think ?
+1	3I	near , uh - well , wait - trunc yeah .
+2	3I	these guys should go together . yeah , that would be good .
+1	3I	yeah .
+0	3I	so what else - are we done ?
+1	3I	so , large cups could go -
+1	3I	wherever we want them .
+2	3I	it 's trunc it 's the outlier , though
+2	6B	this is hard .
+0	6B	yeah .
+0	6B	well -
+1	6B	so they want us to say the words probably , so trunc i 'll read it . um -
+1	6B	education programs . so we 're starting with education first .
+0	6B	huh .
+1	6B	alright , let 's go for it . i - i agree with that .
+0	6B	yep .
+1	6B	yeah . so we got ta get rid of one on the other side .
+1	6B	sure . public health and safety . reproductive education , job training programs , chicken pox vaccinations -
+0	6B	invasive species removal , s_t_d_ education , toxic waste disposal -
+0	6B	hospital additions , needle exchange , sex offender database -
+0	6B	veterans medical assistance weed control , pre-natal checkups , and neighborhood watch support .
+2	6B	no .
+1	6B	maybe hospital additions ?
+0	6B	under toxic waste disposal .
+2	6B	now , some would say invasive species removal , but that 's really important for seattle .
+2	6B	and weed control is not the same thing .
+2	6B	but they 're of the same nature .
+0	6B	mm , a separate office , you mean ?
+0	6B	to -
+2	6B	yeah . sorry , i had to sneeze , heather . um , neighborhood watch support , you think then might - it 's definitely we have to keep pre-natal checkups .
+1	6B	and the v_a_ .
+2	6B	it 's pretty different populations , actually . teenagers and adults .
+2	6B	um , you could combine the two .
+0	6B	oh .
+1	6B	well , i think maybe s_t_d_ education .
+2	6B	oh , this is really hard .
+2	6B	well , neighbors could be helping in a time of budget , so yeah , let 's get rid of neighborhood watch support .
+0	6B	hm .
+2	6B	because it handles the trunc animals .
+1	6B	public health .
+2	6B	look , you got stray cat spraying , and baby and kitten puppy adoption and the veterinary hospital .
+2	6B	it 's a public service .
+2	6B	uh , to keep , uh , vermin down .
+2	6B	disease control .
+2	6B	you also have dog catcher on there .
+2	6B	well , the dog catcher picks up the puppies and the kittens . and then they adopt them out .
+2	6B	the dog catcher does n't do that .
+1	6B	it would be a more humane world if they did , yes .
+2	6B	right , so in a hypothetical world veterinary hospital would be essential .
+0	6B	alright .
+1	6B	so , get rid of the veterinary hospital ?
+2	6B	is that more important than football stadium upkeep ?
+2	6B	could n't the football stadium people take care of their own upkeep ?
+2	6B	conference rooms , you got ta lead a trunc leave a conference room clean . you trunc you leave a stadium clean ?
+2	6B	no , those are essential for homeless .
+2	6B	there are n't enough of them .
+1	6B	yeah .
+2	6B	you 'll have to keep the junior soccer league .
+0	6B	the junior soccer league .
+0	6B	well , hm-
+0	6B	there has to be one thing to go .
+1	6B	what are the community news ads ? that 's important .
+2	6B	some would say that could go online .
+0	6B	well -
+0	6B	what do you trunc what do you suggest ?
+1	6B	go for it .
+0	6B	uh-huh .
+2	6B	that 's how you make your money .
+1	6B	yeah .
+2	6B	but they have to tow the cars they 're -
+2	6B	towing away to the tow yard for the parking tickets .
+0	6B	mm-hm ?
+2	6B	so that 's an easy one . you say towing system - services ?
+0	6B	so trunc mm -
+1	6B	well , then taxi stops ?
+0	6B	those are signs .
+0	6B	a signing service . speed limit signs -
+0	6B	additional bus stops .
+2	6B	pothole maintenance has to stay .
+2	6B	the subway system has to stay .
+2	6B	so , you say -
+2	6B	towing services but the public bus upkeep is important .
+2	6B	and the drainage ditches are essential .
+2	6B	but those drainage ditches could be maintained by -
+2	6B	invasive species removal department .
+1	6B	but we 're down to just trunc one item .
+2	6B	so what would you propose if the towing service people said -
+1	6B	where would the towing services be absorbed into ?
+0	6B	right .
+1	6B	the dispatcher contracted . yeah .
+1	6B	yeah , trunc um , i think i understand , yeah .
+2	6B	but would n't that be a part of the budget for public bus upkeep already ?
+2	6B	the towing services would be in that .
+2	6B	because if the public bus is stuck -
+2	6B	or the public transportation pool is stuck , they would have to have something big enough as a bus .
+2	6B	that 's the worst case scenario .
+1	6B	so it looks like we identified at least two things .
+2	6B	now , i 'm - i 'm glad that you and i agreed on that trunc s_t_d_ education and reproductive education . the way those are worded , it makes it harder to make the choice .
+2	6B	and sex ed is kinda the same thing , but -
+2	6B	i wonder if there 's a way to involve all of them .
+2	6B	you very thoughtful person .
+2	6B	it 's really nice that you took that - now , and we left the math tutors and the acting coaches . some would say the acting coaches need to go . some would say -
+2	6B	the music teachers need to go .
+2	6B	but i think the m-
+2	6B	music teachers are more essential than the sugar-free juice machines .
+0	6B	yeah ?
+1	6B	yeah .
+2	6B	it does help with social behavior .
+2	6B	well , we did n't have to take it off .
+1	6B	but i can see where there 's a little wiggle room .
+2	6B	you 're very thoughtful person .
+1	6B	so do you think we - we could present to a committee and would seem -
+1	6B	i - i think we 've done -
+1	6B	done well .
+2	6B	or we are trying to move others to help .
+0	6B	yeah .
+1	6B	we did .
+2	6B	i like that method , actually .

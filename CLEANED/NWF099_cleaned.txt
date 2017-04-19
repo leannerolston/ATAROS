@@ -1,132 +1,132 @@
-1	3I	um , so i 'll let you take the lead on this , since apparently you 've worked groceries . 
-0	3I	um , so i guess the first one we have is - 
-0	3I	yeah . yeah . 
-1	3I	do you think it should go next to toilet paper ? 
-0	3I	okay . 
-0	3I	um , so , books of matches . 
-1	3I	next to magnets ? yeah , i would . 
-0	3I	um , socks ? 
-0	3I	i don't think so . 
-1	3I	yeah . is that good ? 
-0	3I	um , five-pound weights . 
-1	3I	i 'd say trunc somewhere over here . yeah , sure . 
-0	3I	um , empty plastic jugs . 
-1	3I	maybe next to travel guides ? cuz , you need - 
-1	3I	? is that good here ? 
-0	3I	um , heavy coats . next to socks ? 
-0	3I	um , pouches of oatmeal . 
-0	3I	there 's only  one side to each - or , i guess there 's two sides . 
-1	3I	like , here ? 
-1	3I	kay . 
-0	3I	um fish hooks . 
-0	3I	um , bundles of sticks . 
-2	3I	i think we can put it in the outdoor - it 'll be  bigger , too , and i feel like it should go on the side . 
-0	3I	um , scissors ? 
-1	3I	like , up here ? 
-0	3I	um , cans of peas . 
-0	3I	um , sticks of butter . 
-0	3I	uh , dried figs . 
-1	3I	yeah , people like dried fruit in their oatmeal . 
-2	3I	um , large vests . next to heavy coats . 
-0	3I	um , gas-powered cookstoves . 
-1	3I	yeah . 
-0	3I	um , fishing net . 
-0	3I	yeah . um , thick sweaters . 
-0	3I	uh , toys . 
-1	3I	i think this is fine , in the middle . 
-1	3I	um , tow ropes , probably down here . 
-0	3I	small saws . 
-1	3I	tools over here , maybe ? 
-0	3I	um , mint toothpaste . 
-0	3I	boxes of doughnuts ? 
-0	3I	oh , sorry . 
-0	3I	yeah . 
-1	3I	yeah . okay , bottles of juice . 
-1	3I	trunc do we wanna put  drinks up here ? 
-0	3I	um , face cream ? 
-1	3I	maybe with the toothpaste ? 
-0	3I	um , hats . 
-1	3I	do you think that we 're allowed - ? 
-1	3I	i don't know , maybe we 'll go on the other side . 
-1	3I	cases of whiskey ? with the juice ? 
-1	3I	or should those go in the back ? 
-1	3I	yeah . 
-1	3I	sure . 
-0	3I	um , half-inch tubing . 
-0	3I	bags of peat moss ? 
-0	3I	loose-leaf paper . 
-1	3I	like , with scissors and stuff ? 
-0	3I	um , packages of cookies . 
-1	3I	kay rolls of duct tape . 
-2	3I	i would put it  here , but that 's just me . 
-0	3I	um , egg timers . 
-1	3I	um , liters of water , maybe here ? 
-0	3I	buckets ? 
-1	3I	maybe here ? 
-1	3I	um , small axes maybe here ? 
-0	3I	uh , wetsuits ? 
-1	3I	and travel , yeah . 
-0	3I	fleece-lined boots . 
-0	3I	tweezers . 
-0	3I	books . 
-1	3I	maybe here ? 
-0	3I	electric heaters . 
-1	3I	yeah . think here ? 
-0	3I	um , chocolate bars . 
-0	3I	uh , light jackets . 
-0	3I	heavy cable . 
-1	3I	trunc , trunc sure . i don't know . 
-0	3I	um , shoelaces ? 
-1	3I	like , here ? 
-0	3I	uh , cushions for deck chairs . 
-0	3I	uh , bagels . 
-1	3I	breakfast items ? 
-0	3I	box knives . 
-0	3I	i don't really know what that is . 
-0	3I	oh , like a box cutter ? 
-1	3I	like , maybe here ? 
-0	3I	um beets ? 
-0	3I	um , pre-cut wood . 
-1	3I	yeah . and backpacks . 
-1	3I	okay . i think we 're done ! 
-1	3I	it's okay . 
-2	3I	we were limited by - 
-1	3I	what was already up . 
-1	3I	yeah . 
-1	3I	mm-hm . 
-1	3I	mm-hm . 
-2	3I	that 's what i don't like about - i like trader joe's a lot , but they don't have a lot of , like , basic stuff . 
-2	3I	yeah . i don't like safeway . 
-1	3I	yeah . 
-0	3I	huh . 
-1	3I	do you think she knows we 're done ? 
-0	3I	okay . hi . 
-1	6B	um , do you wanna start by just picking a number of how many you wanna cut - 
-0	6B	from each ? 
-1	6B	yeah . wanna say three ? 
-1	6B	sure . 
-1	6B	yeah , i would too 
-1	6B	i 'd say poetry books . 
-2	6B	oh , football equipment . 
-2	6B	personally . 
-2	6B	okay . so there 're our three . 
-1	6B	yeah . 
-1	6B	feel like weed control - 
-1	6B	maybe hospital additions ? i mean , that 's so vague , i don't really know what that means , so - 
-2	6B	i 'm an environmentalist , so i would keep that . but i would maybe get rid of neighborhood watch support . 
-1	6B	okay . 
-1	6B	yeah . 
-1	6B	yeah , i cou- 
-2	6B	i would cut that one out . 
-1	6B	yeah . 
-2	6B	yeah , i feel like the newspaper's  out , so we could maybe cut that one . 
-1	6B	yeah . 
-1	6B	yeah . i 'd say that 's okay . 
-0	6B	yep . 
-1	6B	i 'd say massage certificates . 
-1	6B	are not necessary . 
-2	6B	or trunc too - well , i mean , you don't want rogue tattoo artists , but still . 
-2	6B	we 're making cuts , so i think that that 's okay . 
-1	6B	maybe taxi stops ? i don't r- 
-1	6B	yeah . okay . 
-0	6B	alright . we 're done . 
+1	3I	um , so i 'll let you take the lead on this , since apparently you 've worked groceries .
+0	3I	um , so i guess the first one we have is -
+0	3I	yeah . yeah .
+1	3I	do you think it should go next to toilet paper ?
+0	3I	okay .
+0	3I	um , so , books of matches .
+1	3I	next to magnets ? yeah , i would .
+0	3I	um , socks ?
+0	3I	i do n't think so .
+1	3I	yeah . is that good ?
+0	3I	um , five-pound weights .
+1	3I	i 'd say trunc somewhere over here . yeah , sure .
+0	3I	um , empty plastic jugs .
+1	3I	maybe next to travel guides ? cuz , you need -
+1	3I	? is that good here ?
+0	3I	um , heavy coats . next to socks ?
+0	3I	um , pouches of oatmeal .
+0	3I	there 's only one side to each - or , i guess there 's two sides .
+1	3I	like , here ?
+1	3I	kay .
+0	3I	um fish hooks .
+0	3I	um , bundles of sticks .
+2	3I	i think we can put it in the outdoor - it 'll be bigger , too , and i feel like it should go on the side .
+0	3I	um , scissors ?
+1	3I	like , up here ?
+0	3I	um , cans of peas .
+0	3I	um , sticks of butter .
+0	3I	uh , dried figs .
+1	3I	yeah , people like dried fruit in their oatmeal .
+2	3I	um , large vests . next to heavy coats .
+0	3I	um , gas-powered cookstoves .
+1	3I	yeah .
+0	3I	um , fishing net .
+0	3I	yeah . um , thick sweaters .
+0	3I	uh , toys .
+1	3I	i think this is fine , in the middle .
+1	3I	um , tow ropes , probably down here .
+0	3I	small saws .
+1	3I	tools over here , maybe ?
+0	3I	um , mint toothpaste .
+0	3I	boxes of doughnuts ?
+0	3I	oh , sorry .
+0	3I	yeah .
+1	3I	yeah . okay , bottles of juice .
+1	3I	trunc do we wan na put drinks up here ?
+0	3I	um , face cream ?
+1	3I	maybe with the toothpaste ?
+0	3I	um , hats .
+1	3I	do you think that we 're allowed - ?
+1	3I	i do n't know , maybe we 'll go on the other side .
+1	3I	cases of whiskey ? with the juice ?
+1	3I	or should those go in the back ?
+1	3I	yeah .
+1	3I	sure .
+0	3I	um , half-inch tubing .
+0	3I	bags of peat moss ?
+0	3I	loose-leaf paper .
+1	3I	like , with scissors and stuff ?
+0	3I	um , packages of cookies .
+1	3I	kay rolls of duct tape .
+2	3I	i would put it here , but that 's just me .
+0	3I	um , egg timers .
+1	3I	um , liters of water , maybe here ?
+0	3I	buckets ?
+1	3I	maybe here ?
+1	3I	um , small axes maybe here ?
+0	3I	uh , wetsuits ?
+1	3I	and travel , yeah .
+0	3I	fleece-lined boots .
+0	3I	tweezers .
+0	3I	books .
+1	3I	maybe here ?
+0	3I	electric heaters .
+1	3I	yeah . think here ?
+0	3I	um , chocolate bars .
+0	3I	uh , light jackets .
+0	3I	heavy cable .
+1	3I	trunc , trunc sure . i do n't know .
+0	3I	um , shoelaces ?
+1	3I	like , here ?
+0	3I	uh , cushions for deck chairs .
+0	3I	uh , bagels .
+1	3I	breakfast items ?
+0	3I	box knives .
+0	3I	i do n't really know what that is .
+0	3I	oh , like a box cutter ?
+1	3I	like , maybe here ?
+0	3I	um beets ?
+0	3I	um , pre-cut wood .
+1	3I	yeah . and backpacks .
+1	3I	okay . i think we 're done !
+1	3I	it 's okay .
+2	3I	we were limited by -
+1	3I	what was already up .
+1	3I	yeah .
+1	3I	mm-hm .
+1	3I	mm-hm .
+2	3I	that 's what i do n't like about - i like trader joe 's a lot , but they do n't have a lot of , like , basic stuff .
+2	3I	yeah . i do n't like safeway .
+1	3I	yeah .
+0	3I	huh .
+1	3I	do you think she knows we 're done ?
+0	3I	okay . hi .
+1	6B	um , do you wan na start by just picking a number of how many you wan na cut -
+0	6B	from each ?
+1	6B	yeah . wan na say three ?
+1	6B	sure .
+1	6B	yeah , i would too
+1	6B	i 'd say poetry books .
+2	6B	oh , football equipment .
+2	6B	personally .
+2	6B	okay . so there 're our three .
+1	6B	yeah .
+1	6B	feel like weed control -
+1	6B	maybe hospital additions ? i mean , that 's so vague , i do n't really know what that means , so -
+2	6B	i 'm an environmentalist , so i would keep that . but i would maybe get rid of neighborhood watch support .
+1	6B	okay .
+1	6B	yeah .
+1	6B	yeah , i cou-
+2	6B	i would cut that one out .
+1	6B	yeah .
+2	6B	yeah , i feel like the newspaper 's out , so we could maybe cut that one .
+1	6B	yeah .
+1	6B	yeah . i 'd say that 's okay .
+0	6B	yep .
+1	6B	i 'd say massage certificates .
+1	6B	are not necessary .
+2	6B	or trunc too - well , i mean , you do n't want rogue tattoo artists , but still .
+2	6B	we 're making cuts , so i think that that 's okay .
+1	6B	maybe taxi stops ? i do n't r-
+1	6B	yeah . okay .
+0	6B	alright . we 're done .

@@ -1,271 +1,271 @@
-2	3I	well , i think this clearly should be trunc the food aisles , right ? are we doing - there 's an aisle on either side , right ? 
-1	3I	yeah . 
-1	3I	okay . so then , does this look like outdoor slash , like home improvement-y type stuff ? and then - 
-1	3I	paper , miscellaneous , other things ? 
-0	3I	okay . 
-0	3I	let's - 
-0	3I	okay . scissors ? 
-1	3I	i feel like , in this one ? 
-0	3I	um - 
-1	3I	yeah . you want this to be , like , household ? 
-2	3I	we  are gonna need to put clothes somewhere . do we wanna decide - ? that 's a big category that we don't have represented on here . 
-1	3I	you wanna do em , like , here ? 
-1	3I	okay . so scissors , how bout by toilet paper ? 
-1	3I	maybe , like , by the power cords ? 
-1	3I	mm-hm . 
-1	3I	okay . so , maybe just fill in this area right here ? 
-1	3I	yeah . 
-0	3I	cases of whiskey ! 
-1	3I	maybe at the end of the food aisle ? 
-0	3I	i 'm trying really hard to avoid that noise . okay , pre-cut wood . 
-0	3I	mm-hm . 
-1	3I	you wanna do , like - 
-1	3I	more outdoors slash home improvement ? 
-1	3I	up here ? 
-1	3I	what do you think ? next to it , or - ? kay . 
-1	3I	how bout mint toothpaste ? 
-1	3I	yeah , i would agree with that . 
-0	3I	sticks of butter . 
-1	3I	by the eggs ? 
-0	3I	mm-hm . 
-2	3I	oh , that does make sense that this stuff is refrigerated . 
-1	3I	yeah , do they mean like - ? it probably doesn't - i would say by the power cords . 
-1	3I	maybe in here somewhere ? 
-1	3I	that works . 
-1	3I	bars of soap . with this other bathroom stuff right here ? 
-1	3I	and then liters of water ? maybe by the whiskey ? 
-1	3I	maybe by the cake mix ? 
-0	3I	large cups . 
-1	3I	this might be , like , a miscellaneous non-food . 
-1	3I	right here ? 
-1	3I	yeah . 
-1	3I	i have a small axes . maybe with the wood ? 
-1	3I	mm . yeah . 
-1	3I	yeah , i think in there , probably . 
-1	3I	yeah . sure . 
-1	3I	face cream . more bathroom stuff ? 
-1	3I	right here ? 
-1	3I	yeah . that makes sense to me . 
-1	3I	yeah . yeah . 
-1	3I	definitely . 
-0	3I	thick sweaters . 
-1	3I	with the clothes ? where's the - ? yeah . the heavy coats . and then , dried figs . see , do we have anything else like that ? this stuff is all dry . 
-1	3I	yeah . that makes sense to me . 
-1	3I	maybe next to the doughnuts ? 
-1	3I	no it's fine . 
-1	3I	uh , anywhere in here would make sense to me . maybe down here ? 
-0	3I	trunc is there - trunc was there more bread stuff ? do you remember ? 
-1	3I	we could do , like , under the soybeans . 
-2	3I	now do you wanna do with clothes or over here ? i 'd say by the boating supplies . yeah . 
-0	3I	backpacks . 
-1	3I	with the travel guides . 
-1	3I	yeah . 
-0	3I	hats . 
-1	3I	want do with this stuff ? 
-0	3I	thick sweaters . 
-0	3I	small saws . there was another saw , right ? 
-2	3I	i don't think that spot is meant for something this big . uh - 
-1	3I	you think i can stick it there ? 
-1	3I	oh yeah . okay . 
-1	3I	do that . 
-0	3I	like a box cutter ? 
-0	3I	yeah . 
-1	3I	maybe with the duct tape and the power cords . 
-1	3I	oh yeah , and the mousetraps . 
-1	3I	yeah . let's see . 
-2	3I	i think definitely somewhere over here . 
-1	3I	what about in there ? 
-0	3I	large vests . 
-0	3I	okay . 
-1	3I	bottles of juice ? down here ? 
-0	3I	buckets . 
-0	3I	mm-mm . 
-1	3I	what about with this stuff ? 
-1	3I	just , like , miscellaneous house stuff ? 
-1	3I	yeah . 
-1	3I	yeah , that 's good . 
-1	3I	we did . 
-1	3I	put it on the other side of egg timers ? 
-1	3I	perfect . 
-0	3I	pouches of oatmeal . 
-1	3I	i think by the figs . 
-2	3I	or here . 
-0	3I	let's see . five-pound weights . 
-1	3I	yeah . 
-1	3I	yeah . like here . 
-1	3I	yeah . 
-0	3I	uh - 
-1	3I	we don't really have , like , a gardening - 
-1	3I	i 'd say somewhere here . 
-0	3I	light jackets . 
-1	3I	yeah . 
-1	3I	yeah . 
-0	3I	okay . 
-0	3I	chocolate bars . 
-1	3I	probably by the sugar . 
-1	3I	or maybe here . 
-1	3I	yeah . 
-1	3I	perfect . 
-0	3I	where did our buckets go ? 
-1	3I	yeah , maybe down here ? 
-0	3I	books of matches . 
-1	3I	i think , yeah . 
-1	3I	perfect . 
-1	3I	mm-hm . 
-0	3I	we have cans of peas . 
-1	3I	maybe here ? 
-1	3I	yeah . 
-2	3I	i think we ended up using up - but maybe go on the other side of the toys ? 
-0	3I	beets . 
-2	3I	what do you think , somewhere over here ? since we have all this space for food ? 
-0	3I	um - 
-1	3I	yes , i 'm sort of - yeah , over there . maybe . 
-1	3I	by the jugs or something ? 
-2	3I	we made fun of their organization , but i don't know that we 're doing any better . books by travel guides ? 
-1	3I	tow ropes . boating supplies . 
-1	3I	yeah . 
-0	3I	there 's a lot of empty space over here . okay . we 're done , i think . 
-2	6B	this is gonna be more , like , ideological . okay , let's look at these . 
-1	6B	mm-hm . i think we should read through the whole list . 
-0	6B	mm-hm . 
-1	6B	mm-hm . 
-0	6B	okay . 
-2	6B	yeah , i looked at em all . i think the sugar-free juice machines . cuz they can bring it from home ! 
-2	6B	yeah . um , do we wanna do one from each category ? you wanna do one from each and then - 
-1	6B	maybe more ? 
-1	6B	mm-kay . 
-2	6B	so definitely sugar-free juice machines . 
-0	6B	oh , okay . okay . 
-2	6B	i think that 's important . people need extra help . 
-2	6B	particularly with math . 
-1	6B	i agree . 
-1	6B	trunc depends on how trunc large of a school , too . it could , one - 
-2	6B	then definitely . 
-1	6B	i think it's important , too . 
-0	6B	mine neither . 
-2	6B	yeah , i think it's important for public health , too , if you wanna keep , like , teenage pregnancies down . okay , so we 'll keep that for sure . custodians , clearly important . 
-0	6B	speech therapy ? 
-0	6B	mm-hm . 
-1	6B	yeah . 
-1	6B	maybe that could be outsourced , too . 
-3	6B	i think trunc we have to remember that the - the extra-curricular stuff is important . like , i would definitely not wanna get rid of the poetry or the cooking class , so we probably got ta keep the football equipment for that kinda kid . right ? 
-0	6B	okay . um - 
-1	6B	acting coaches . similarly , the arts , probably kind of important . 
-1	6B	yeah . 
-1	6B	individual . 
-1	6B	i agree . 
-1	6B	i completely agree . 
-2	6B	you 're right . i didn't think about it that way , so . 
-1	6B	yeah . 
-1	6B	yeah . think we should keep that . 
-2	6B	yeah . trunc that 's already funded , right ? 
-1	6B	special ed teachers , i think that 's really important . 
-2	6B	people don't know how to take care of themselves . i think that 's really important . 
-1	6B	yeah . 
-1	6B	that 's required by law to be available , so we got ta keep that . 
-1	6B	cut that . 
-1	6B	i think that 's another thing we could get rid of . 
-1	6B	that 's really specific . 
-1	6B	um , music teachers . i think that 's really important . 
-0	6B	okay . 
-1	6B	yeah . and i think we could go back if we wanted to and get rid of right there . okay . 
-0	6B	that 's like sex ed , but for adults , right ? 
-1	6B	i think that 's important . 
-1	6B	i think that 's also really important . 
-1	6B	it probably depends on whether you 're old . i think . 
-1	6B	mm-hm . 
-1	6B	mm-hm . 
-1	6B	i have the same feeling about that one . it could go , maybe . 
-1	6B	i think that 's important . 
-1	6B	invasive species removal ? i think we could get rid of weed trunc weed control . 
-2	6B	if it's about being pretty , rather than , like , destroying the - the area . 
-0	6B	to get rid of ? 
-1	6B	should keep that , yeah . 
-1	6B	they could go together . 
-1	6B	mm-hm . 
-1	6B	clearly . 
-0	6B	hospital additions . 
-0	6B	mm-hm . 
-1	6B	yeah . 
-2	6B	if it's a time of cuts , it might not be time to make an addition , too . 
-1	6B	yeah . 
-1	6B	me too . 
-1	6B	that seems important . yeah . 
-1	6B	definitely . 
-1	6B	yeah , you can't get rid of that . 
-1	6B	we 'll cut that one . i think that 's gonna be our one . 
-1	6B	got ta keep that . 
-0	6B	neighborhood watch support ? 
-1	6B	i don't feel that - 
-1	6B	importantly about that one . 
-1	6B	that could be , like , the next on the list to go . 
-2	6B	stray cat spaying . keep it , otherwise the cat population just explodes . 
-0	6B	is that , like , classifieds ? 
-1	6B	mm-hm . 
-1	6B	yeah , maybe it's , like , postings about things that are going on in the community ? 
-0	6B	considering the category . 
-2	6B	that 's - i mean , it's - trunc that would be important as far as , like , keeping a community feeling like a trunc community . but , uh - 
-1	6B	mm-hm . 
-0	6B	county . that 's a whole county . 
-1	6B	i think it could be low on the priority list , but probably we 'd like to keep it . 
-1	6B	food bank trunc very , yeah . 
-0	6B	that 's , like not in addition - that 's , like , in addition to what's in the schools , right ? 
-0	6B	mm-hm . 
-0	6B	mm-hm . 
-1	6B	yeah . yeah . 
-1	6B	otherwise they 're gonna get euthanized , right ? 
-3	6B	oh my god ! i can't have that happen on my watch . 
-1	6B	okay . soup kitchens , obviously . have to keep that . 
-1	6B	really important . 
-0	6B	is that even something that still exists ? 
-1	6B	i don't know if it's high priority . if you 're looking at , like , cutting a food bank or cutting a dog catcher . 
-1	6B	yeah . 
-0	6B	oh , you 've never seen that ? they 're - it's a station where pretty much anybody can have a show . 
-0	6B	any kind of show . yeah , it's on t_v_ . 
-2	6B	it's usually very weird . 
-0	6B	like wayne's world , actually . that - that whole idea behind that , yeah . on t_v_ . 
-2	6B	 i think that could be towards the bottom of the priority list , though . 
-1	6B	or public access . yeah . i would cut that before i would cut the dog catcher , too . 
-1	6B	i agree . 
-1	6B	mm-hm . then it's important . yeah . 
-2	6B	yeah . well , i mean , if we 're not gonna - they have to upkeep it if it's gonna get used . right ? 
-1	6B	how bout pest control ? clearly . i mean , we can't have , like , county property that 's covered in - 
-0	6B	bugs or mice . 
-0	6B	so , out of that list - ? 
-1	6B	access - public access station , i think . 
-2	6B	or - 
-2	6B	could the public access station show the news ads - ? 
-1	6B	and get rid of the news ads . 
-1	6B	yeah , i trunc trunc feeling it would be in trunc the back of something , like a - like a stranger , or something like that ? 
-1	6B	let's get rid of the - 
-1	6B	the news ads and keep the station . and then they can have , like , a thing where they show the news . okay . teaching certificates . gonna stay . yeah . 
-2	6B	absolutely has to stay . yes . 
-1	6B	mm-hm . 
-2	6B	the one thing i was thinking of is if you got ta choose between trunc additional bus stops or  taxi stops . taxis are a - a private thing . yeah . 
-1	6B	i would keep the bus stops . 
-0	6B	mm-hm . 
-1	6B	regulation of that ? yeah , definitely . 
-1	6B	if you 're near water . yeah . 
-1	6B	well i think if you cut those thing , people are just gonna do it without . 
-1	6B	pothole maintenance . got ta - got ta keep that . 
-1	6B	right , cuz people can't drive on the trunc on the streets . subway system . 
-0	6B	is it already existing ? i would assume . 
-1	6B	yeah . 
-0	6B	i don't either . 
-0	6B	um . is that , like - i 'm assuming , the same as a license ? 
-0	6B	mm-hm . 
-1	6B	so it's not just everybody going for it . 
-1	6B	yeah , cuz then trunc what if you have , like , a - ? 
-1	6B	mm . well , i 'm thinking - 
-1	6B	it's probably not as important , as far as , like , uh - 
-2	6B	punishing people for parking in the wrong spot , but what if you have , like a broken down car in downtown forever ? you wanna get that outta there . 
-1	6B	yeah . 
-1	6B	i mean , i just keep thinking we 're only gonna have to get rid of one outta here . and i think taxi stops are it . 
-1	6B	okay . and then , just to talk about the last three . fishing licenses , again , we wanna regulate it . 
-1	6B	very important . 
-1	6B	also . yeah , things can flood . 
-1	6B	oh , yeah . 
-1	6B	yeah . 
-1	6B	okay . 
-1	6B	yeah . 
-0	6B	okay , we 're done . 
+2	3I	well , i think this clearly should be trunc the food aisles , right ? are we doing - there 's an aisle on either side , right ?
+1	3I	yeah .
+1	3I	okay . so then , does this look like outdoor slash , like home improvement-y type stuff ? and then -
+1	3I	paper , miscellaneous , other things ?
+0	3I	okay .
+0	3I	let 's -
+0	3I	okay . scissors ?
+1	3I	i feel like , in this one ?
+0	3I	um -
+1	3I	yeah . you want this to be , like , household ?
+2	3I	we are gon na need to put clothes somewhere . do we wan na decide - ? that 's a big category that we do n't have represented on here .
+1	3I	you wan na do em , like , here ?
+1	3I	okay . so scissors , how bout by toilet paper ?
+1	3I	maybe , like , by the power cords ?
+1	3I	mm-hm .
+1	3I	okay . so , maybe just fill in this area right here ?
+1	3I	yeah .
+0	3I	cases of whiskey !
+1	3I	maybe at the end of the food aisle ?
+0	3I	i 'm trying really hard to avoid that noise . okay , pre-cut wood .
+0	3I	mm-hm .
+1	3I	you wan na do , like -
+1	3I	more outdoors slash home improvement ?
+1	3I	up here ?
+1	3I	what do you think ? next to it , or - ? kay .
+1	3I	how bout mint toothpaste ?
+1	3I	yeah , i would agree with that .
+0	3I	sticks of butter .
+1	3I	by the eggs ?
+0	3I	mm-hm .
+2	3I	oh , that does make sense that this stuff is refrigerated .
+1	3I	yeah , do they mean like - ? it probably does n't - i would say by the power cords .
+1	3I	maybe in here somewhere ?
+1	3I	that works .
+1	3I	bars of soap . with this other bathroom stuff right here ?
+1	3I	and then liters of water ? maybe by the whiskey ?
+1	3I	maybe by the cake mix ?
+0	3I	large cups .
+1	3I	this might be , like , a miscellaneous non-food .
+1	3I	right here ?
+1	3I	yeah .
+1	3I	i have a small axes . maybe with the wood ?
+1	3I	mm . yeah .
+1	3I	yeah , i think in there , probably .
+1	3I	yeah . sure .
+1	3I	face cream . more bathroom stuff ?
+1	3I	right here ?
+1	3I	yeah . that makes sense to me .
+1	3I	yeah . yeah .
+1	3I	definitely .
+0	3I	thick sweaters .
+1	3I	with the clothes ? where 's the - ? yeah . the heavy coats . and then , dried figs . see , do we have anything else like that ? this stuff is all dry .
+1	3I	yeah . that makes sense to me .
+1	3I	maybe next to the doughnuts ?
+1	3I	no it 's fine .
+1	3I	uh , anywhere in here would make sense to me . maybe down here ?
+0	3I	trunc is there - trunc was there more bread stuff ? do you remember ?
+1	3I	we could do , like , under the soybeans .
+2	3I	now do you wan na do with clothes or over here ? i 'd say by the boating supplies . yeah .
+0	3I	backpacks .
+1	3I	with the travel guides .
+1	3I	yeah .
+0	3I	hats .
+1	3I	want do with this stuff ?
+0	3I	thick sweaters .
+0	3I	small saws . there was another saw , right ?
+2	3I	i do n't think that spot is meant for something this big . uh -
+1	3I	you think i can stick it there ?
+1	3I	oh yeah . okay .
+1	3I	do that .
+0	3I	like a box cutter ?
+0	3I	yeah .
+1	3I	maybe with the duct tape and the power cords .
+1	3I	oh yeah , and the mousetraps .
+1	3I	yeah . let 's see .
+2	3I	i think definitely somewhere over here .
+1	3I	what about in there ?
+0	3I	large vests .
+0	3I	okay .
+1	3I	bottles of juice ? down here ?
+0	3I	buckets .
+0	3I	mm-mm .
+1	3I	what about with this stuff ?
+1	3I	just , like , miscellaneous house stuff ?
+1	3I	yeah .
+1	3I	yeah , that 's good .
+1	3I	we did .
+1	3I	put it on the other side of egg timers ?
+1	3I	perfect .
+0	3I	pouches of oatmeal .
+1	3I	i think by the figs .
+2	3I	or here .
+0	3I	let 's see . five-pound weights .
+1	3I	yeah .
+1	3I	yeah . like here .
+1	3I	yeah .
+0	3I	uh -
+1	3I	we do n't really have , like , a gardening -
+1	3I	i 'd say somewhere here .
+0	3I	light jackets .
+1	3I	yeah .
+1	3I	yeah .
+0	3I	okay .
+0	3I	chocolate bars .
+1	3I	probably by the sugar .
+1	3I	or maybe here .
+1	3I	yeah .
+1	3I	perfect .
+0	3I	where did our buckets go ?
+1	3I	yeah , maybe down here ?
+0	3I	books of matches .
+1	3I	i think , yeah .
+1	3I	perfect .
+1	3I	mm-hm .
+0	3I	we have cans of peas .
+1	3I	maybe here ?
+1	3I	yeah .
+2	3I	i think we ended up using up - but maybe go on the other side of the toys ?
+0	3I	beets .
+2	3I	what do you think , somewhere over here ? since we have all this space for food ?
+0	3I	um -
+1	3I	yes , i 'm sort of - yeah , over there . maybe .
+1	3I	by the jugs or something ?
+2	3I	we made fun of their organization , but i do n't know that we 're doing any better . books by travel guides ?
+1	3I	tow ropes . boating supplies .
+1	3I	yeah .
+0	3I	there 's a lot of empty space over here . okay . we 're done , i think .
+2	6B	this is gon na be more , like , ideological . okay , let 's look at these .
+1	6B	mm-hm . i think we should read through the whole list .
+0	6B	mm-hm .
+1	6B	mm-hm .
+0	6B	okay .
+2	6B	yeah , i looked at em all . i think the sugar-free juice machines . cuz they can bring it from home !
+2	6B	yeah . um , do we wan na do one from each category ? you wan na do one from each and then -
+1	6B	maybe more ?
+1	6B	mm-kay .
+2	6B	so definitely sugar-free juice machines .
+0	6B	oh , okay . okay .
+2	6B	i think that 's important . people need extra help .
+2	6B	particularly with math .
+1	6B	i agree .
+1	6B	trunc depends on how trunc large of a school , too . it could , one -
+2	6B	then definitely .
+1	6B	i think it 's important , too .
+0	6B	mine neither .
+2	6B	yeah , i think it 's important for public health , too , if you wan na keep , like , teenage pregnancies down . okay , so we 'll keep that for sure . custodians , clearly important .
+0	6B	speech therapy ?
+0	6B	mm-hm .
+1	6B	yeah .
+1	6B	maybe that could be outsourced , too .
+3	6B	i think trunc we have to remember that the - the extra-curricular stuff is important . like , i would definitely not wan na get rid of the poetry or the cooking class , so we probably got ta keep the football equipment for that kinda kid . right ?
+0	6B	okay . um -
+1	6B	acting coaches . similarly , the arts , probably kind of important .
+1	6B	yeah .
+1	6B	individual .
+1	6B	i agree .
+1	6B	i completely agree .
+2	6B	you 're right . i did n't think about it that way , so .
+1	6B	yeah .
+1	6B	yeah . think we should keep that .
+2	6B	yeah . trunc that 's already funded , right ?
+1	6B	special ed teachers , i think that 's really important .
+2	6B	people do n't know how to take care of themselves . i think that 's really important .
+1	6B	yeah .
+1	6B	that 's required by law to be available , so we got ta keep that .
+1	6B	cut that .
+1	6B	i think that 's another thing we could get rid of .
+1	6B	that 's really specific .
+1	6B	um , music teachers . i think that 's really important .
+0	6B	okay .
+1	6B	yeah . and i think we could go back if we wanted to and get rid of right there . okay .
+0	6B	that 's like sex ed , but for adults , right ?
+1	6B	i think that 's important .
+1	6B	i think that 's also really important .
+1	6B	it probably depends on whether you 're old . i think .
+1	6B	mm-hm .
+1	6B	mm-hm .
+1	6B	i have the same feeling about that one . it could go , maybe .
+1	6B	i think that 's important .
+1	6B	invasive species removal ? i think we could get rid of weed trunc weed control .
+2	6B	if it 's about being pretty , rather than , like , destroying the - the area .
+0	6B	to get rid of ?
+1	6B	should keep that , yeah .
+1	6B	they could go together .
+1	6B	mm-hm .
+1	6B	clearly .
+0	6B	hospital additions .
+0	6B	mm-hm .
+1	6B	yeah .
+2	6B	if it 's a time of cuts , it might not be time to make an addition , too .
+1	6B	yeah .
+1	6B	me too .
+1	6B	that seems important . yeah .
+1	6B	definitely .
+1	6B	yeah , you ca n't get rid of that .
+1	6B	we 'll cut that one . i think that 's gon na be our one .
+1	6B	got ta keep that .
+0	6B	neighborhood watch support ?
+1	6B	i do n't feel that -
+1	6B	importantly about that one .
+1	6B	that could be , like , the next on the list to go .
+2	6B	stray cat spaying . keep it , otherwise the cat population just explodes .
+0	6B	is that , like , classifieds ?
+1	6B	mm-hm .
+1	6B	yeah , maybe it 's , like , postings about things that are going on in the community ?
+0	6B	considering the category .
+2	6B	that 's - i mean , it 's - trunc that would be important as far as , like , keeping a community feeling like a trunc community . but , uh -
+1	6B	mm-hm .
+0	6B	county . that 's a whole county .
+1	6B	i think it could be low on the priority list , but probably we 'd like to keep it .
+1	6B	food bank trunc very , yeah .
+0	6B	that 's , like not in addition - that 's , like , in addition to what 's in the schools , right ?
+0	6B	mm-hm .
+0	6B	mm-hm .
+1	6B	yeah . yeah .
+1	6B	otherwise they 're gon na get euthanized , right ?
+3	6B	oh my god ! i ca n't have that happen on my watch .
+1	6B	okay . soup kitchens , obviously . have to keep that .
+1	6B	really important .
+0	6B	is that even something that still exists ?
+1	6B	i do n't know if it 's high priority . if you 're looking at , like , cutting a food bank or cutting a dog catcher .
+1	6B	yeah .
+0	6B	oh , you 've never seen that ? they 're - it 's a station where pretty much anybody can have a show .
+0	6B	any kind of show . yeah , it 's on t_v_ .
+2	6B	it 's usually very weird .
+0	6B	like wayne 's world , actually . that - that whole idea behind that , yeah . on t_v_ .
+2	6B	i think that could be towards the bottom of the priority list , though .
+1	6B	or public access . yeah . i would cut that before i would cut the dog catcher , too .
+1	6B	i agree .
+1	6B	mm-hm . then it 's important . yeah .
+2	6B	yeah . well , i mean , if we 're not gon na - they have to upkeep it if it 's gon na get used . right ?
+1	6B	how bout pest control ? clearly . i mean , we ca n't have , like , county property that 's covered in -
+0	6B	bugs or mice .
+0	6B	so , out of that list - ?
+1	6B	access - public access station , i think .
+2	6B	or -
+2	6B	could the public access station show the news ads - ?
+1	6B	and get rid of the news ads .
+1	6B	yeah , i trunc trunc feeling it would be in trunc the back of something , like a - like a stranger , or something like that ?
+1	6B	let 's get rid of the -
+1	6B	the news ads and keep the station . and then they can have , like , a thing where they show the news . okay . teaching certificates . gon na stay . yeah .
+2	6B	absolutely has to stay . yes .
+1	6B	mm-hm .
+2	6B	the one thing i was thinking of is if you got ta choose between trunc additional bus stops or taxi stops . taxis are a - a private thing . yeah .
+1	6B	i would keep the bus stops .
+0	6B	mm-hm .
+1	6B	regulation of that ? yeah , definitely .
+1	6B	if you 're near water . yeah .
+1	6B	well i think if you cut those thing , people are just gon na do it without .
+1	6B	pothole maintenance . got ta - got ta keep that .
+1	6B	right , cuz people ca n't drive on the trunc on the streets . subway system .
+0	6B	is it already existing ? i would assume .
+1	6B	yeah .
+0	6B	i do n't either .
+0	6B	um . is that , like - i 'm assuming , the same as a license ?
+0	6B	mm-hm .
+1	6B	so it 's not just everybody going for it .
+1	6B	yeah , cuz then trunc what if you have , like , a - ?
+1	6B	mm . well , i 'm thinking -
+1	6B	it 's probably not as important , as far as , like , uh -
+2	6B	punishing people for parking in the wrong spot , but what if you have , like a broken down car in downtown forever ? you wan na get that outta there .
+1	6B	yeah .
+1	6B	i mean , i just keep thinking we 're only gon na have to get rid of one outta here . and i think taxi stops are it .
+1	6B	okay . and then , just to talk about the last three . fishing licenses , again , we wan na regulate it .
+1	6B	very important .
+1	6B	also . yeah , things can flood .
+1	6B	oh , yeah .
+1	6B	yeah .
+1	6B	okay .
+1	6B	yeah .
+0	6B	okay , we 're done .

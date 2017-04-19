@@ -1,346 +1,216 @@
-1	6B	sure.
-0	6B	so, we have, math tutors, assistant cooks, sex ed, custodians, speech therapy, football equipment -
-0	6B	acting coaches, poetry books, special ed teachers, cooking classes, note takers for disability services -
-0	6B	sugar free juice machines, bookkeeping classes -
-0	6B	music teachers -
-0	6B	what's the least important on that list?
-1	6B	me too. let's cut that.
-1	6B	i know.
-1	6B	well, we could come back. if we wanna come -
-1	6B	let's -
-1	6B	yeah. let's cut one. yeah, at least one.
-0	6B	reproductive education, job training programs, chicken pox vaccinations -
-0	6B	invasive species removal, s_t_d_ education -
-0	6B	toxic waste disposal, hospital additions -
-0	6B	bagel factory inspections -
-0	6B	needle exchange, sex offender database -
-0	6B	veterans' medical assistance, egg farm regulations, weed control -
-0	6B	pre-natal check-ups, neighborhood watch support -
-0	6B	and egg farm regulations.
-1	6B	i'm wondering if we need hospital additions. that'd be a big budget cut.
-1	6B	depending on how much money we have to cut, i - th-
-1	6B	be combined? oh, that's a good idea.
-1	6B	okay, we're cutting .
-1	6B	well we could - i don't know.
-1	6B	and just -?
-1	6B	and we just have - we - our weed control.
-1	6B	so - okay.
-1	6B	was s_t_d_s.
-1	6B	yeah.
-1	6B	yeah.
-1	6B	well, let's get rid of the invasive species removal cuz we're still going to have weed control.
-1	6B	oh, that's a good idea.
-1	6B	i think we should -
-0	6B	why they have boys basketball club and no girls? i trunc
-1	6B	they're not cutting the girls, they're just cutting the boys and i don't think they sh-
-0	6B	well -
-1	6B	i think the public access station. i think you're right about that.
-1	6B	yeah.
-1	6B	okay, i think the public access station.
-2	6B	well, maybe it's rats.
-1	6B	okay.
-0	6B	teaching certificates, speed limit signs, additional bus stops -
-0	6B	tattoo artist licenses, boating licenses -
-0	6B	pothole maintenance, subway system -
-0	6B	hunting tags, towing services -
-0	6B	massage certificates, flagpole repair -
-0	6B	taxi stops, fishing licenses -
-0	6B	public bus upkeep, and drainage ditches -
-2	6B	well, i'm thinking all the licenses should trunc pay for themselves, cuz people pay for those -
-0	6B	where else -? what did i see?
-0	6B	additional bus stops.
-1	6B	do we need additional bus stops?
-1	6B	but if we continue to - if we do the public bus upkeep -
-1	6B	and the subway system -
-1	6B	i say we don't need additional bus stops at the - at this time.
-1	6B	oh, that's true too. okay.
-0	6B	taxi -
-1	6B	i would - uh - yeah, you're right. taxi stops we don't need.
-1	6B	cuz you just flag it down it comes over to the -
-0	6B	massage certificate.
-1	6B	i think the taxi stops is -
-1	6B	yeah i agree with the taxi stops.
-0	6B	yes.
-1	6B	yes, i think we did.
-0	6B	we're done.
-1	6B	sure.
-0	6B	so, we have, math tutors, assistant cooks, sex ed, custodians, speech therapy, football equipment -
-0	6B	acting coaches, poetry books, special ed teachers, cooking classes, note takers for disability services -
-0	6B	sugar free juice machines, bookkeeping classes -
-0	6B	music teachers -
-0	6B	what's the least important on that list?
-1	6B	me too. let's cut that.
-1	6B	i know.
-1	6B	well, we could come back. if we wanna come -
-1	6B	let's -
-1	6B	yeah. let's cut one. yeah, at least one.
-0	6B	reproductive education, job training programs, chicken pox vaccinations -
-0	6B	invasive species removal, s_t_d_ education -
-0	6B	toxic waste disposal, hospital additions -
-0	6B	bagel factory inspections -
-0	6B	needle exchange, sex offender database -
-0	6B	veterans' medical assistance, egg farm regulations, weed control -
-0	6B	pre-natal check-ups, neighborhood watch support -
-0	6B	and egg farm regulations.
-1	6B	i'm wondering if we need hospital additions. that'd be a big budget cut.
-1	6B	depending on how much money we have to cut, i - th-
-1	6B	be combined? oh, that's a good idea.
-1	6B	okay, we're cutting .
-1	6B	well we could - i don't know.
-1	6B	and just -?
-1	6B	and we just have - we - our weed control.
-1	6B	so - okay.
-1	6B	was s_t_d_s.
-1	6B	yeah.
-1	6B	yeah.
-1	6B	well, let's get rid of the invasive species removal cuz we're still going to have weed control.
-1	6B	oh, that's a good idea.
-1	6B	i think we should -
-0	6B	why they have boys basketball club and no girls? i trunc
-1	6B	they're not cutting the girls, they're just cutting the boys and i don't think they sh-
-0	6B	well -
-1	6B	i think the public access station. i think you're right about that.
-1	6B	yeah.
-1	6B	okay, i think the public access station.
-2	6B	well, maybe it's rats.
-1	6B	okay.
-0	6B	teaching certificates, speed limit signs, additional bus stops -
-0	6B	tattoo artist licenses, boating licenses -
-0	6B	pothole maintenance, subway system -
-0	6B	hunting tags, towing services -
-0	6B	massage certificates, flagpole repair -
-0	6B	taxi stops, fishing licenses -
-0	6B	public bus upkeep, and drainage ditches -
-2	6B	well, i'm thinking all the licenses should trunc pay for themselves, cuz people pay for those -
-0	6B	where else -? what did i see?
-0	6B	additional bus stops.
-1	6B	do we need additional bus stops?
-1	6B	but if we continue to - if we do the public bus upkeep -
-1	6B	and the subway system -
-1	6B	i say we don't need additional bus stops at the - at this time.
-1	6B	oh, that's true too. okay.
-0	6B	taxi -
-1	6B	i would - uh - yeah, you're right. taxi stops we don't need.
-1	6B	cuz you just flag it down it comes over to the -
-0	6B	massage certificate.
-1	6B	i think the taxi stops is -
-1	6B	yeah i agree with the taxi stops.
-0	6B	yes.
-1	6B	yes, i think we did.
-0	6B	we're done.
-0	3I	okay.
-1	3I	where should we put -?
-1	3I	clothes?
-1	3I	i mean we should put clothes down here.
+0	3I	okay .
+1	3I	where should we put - ?
+1	3I	clothes ?
+1	3I	i mean we should put clothes down here .
 1	3I	since we have room -
-1	3I	you think?
-1	3I	oh! we could. okay, let's do that.
-1	3I	okay. i have cookies.
-1	3I	so, should i put it by cake mix? yeah.
-1	3I	and large vests. how bout boating supplies?
-1	3I	that's a boating. well trunc could be boating, could be car.
-2	3I	well, we don't know what kinda vests they are.
-1	3I	i'll put it across from boating supplies, because -
+1	3I	you think ?
+1	3I	oh ! we could . okay , let 's do that .
+1	3I	okay . i have cookies .
+1	3I	so , should i put it by cake mix ? yeah .
+1	3I	and large vests . how bout boating supplies ?
+1	3I	that 's a boating . well trunc could be boating , could be car .
+2	3I	well , we do n't know what kinda vests they are .
+1	3I	i 'll put it across from boating supplies , because -
 1	3I	it might be -
-1	3I	life saving vest, or it might be a -
-1	3I	down vest.
-1	3I	yeah, i'd put it by boating supplies. yeah.
-1	3I	heavy cable, i think that can go -
-1	3I	by power cords.
-1	3I	i think so.
-1	3I	either magnets or mousetraps.
-1	3I	okay.
-1	3I	okay.
-1	3I	beets. i'm gonna put beets by the soybeans.
-0	3I	yeah.
-1	3I	small saws, well that can go by the power cords, don'tcha think?
-1	3I	what about eggs?
-0	3I	fish hooks.
-1	3I	can go by boating supplies.
-1	3I	scissors.
-0	3I	boxes of doughnuts.
-1	3I	well trunc by the - or the - above the cookies?
-0	3I	okay.
-0	3I	uh.
-1	3I	should they be by the trunc up above the scissors?
+1	3I	life saving vest , or it might be a -
+1	3I	down vest .
+1	3I	yeah , i 'd put it by boating supplies . yeah .
+1	3I	heavy cable , i think that can go -
+1	3I	by power cords .
+1	3I	i think so .
+1	3I	either magnets or mousetraps .
+1	3I	okay .
+1	3I	okay .
+1	3I	beets . i 'm gon na put beets by the soybeans .
+0	3I	yeah .
+1	3I	small saws , well that can go by the power cords , don'tcha think ?
+1	3I	what about eggs ?
+0	3I	fish hooks .
+1	3I	can go by boating supplies .
+1	3I	scissors .
+0	3I	boxes of doughnuts .
+1	3I	well trunc by the - or the - above the cookies ?
+0	3I	okay .
+0	3I	uh .
+1	3I	should they be by the trunc up above the scissors ?
 1	3I	or should they be over -
-0	3I	hm.
-1	3I	by the small saws?
-1	3I	do - down there?
-0	3I	chocolate bars.
-1	3I	or we did sorta fill that up.
-1	3I	okay, i'll put it above ice cream.
-1	3I	chocolate cars above ice cream.
-1	3I	yeah.
-1	3I	i wanna put em above large vests.
-1	3I	well, by refrigerator magnets, are we gonna add?
-1	3I	do we use the paper bags -?
-1	3I	in there?
+0	3I	hm .
+1	3I	by the small saws ?
+1	3I	do - down there ?
+0	3I	chocolate bars .
+1	3I	or we did sorta fill that up .
+1	3I	okay , i 'll put it above ice cream .
+1	3I	chocolate cars above ice cream .
+1	3I	yeah .
+1	3I	i wan na put em above large vests .
+1	3I	well , by refrigerator magnets , are we gon na add ?
+1	3I	do we use the paper bags - ?
+1	3I	in there ?
 1	3I	or do we want it by the -
-1	3I	paper and scissors?
-2	3I	yeah, i would put it more in kitchen stuff.
-0	3I	bagels. bagels -
-1	3I	bagel across from donuts?
-0	3I	i don't know. what are we -?
+1	3I	paper and scissors ?
+2	3I	yeah , i would put it more in kitchen stuff .
+0	3I	bagels . bagels -
+1	3I	bagel across from donuts ?
+0	3I	i do n't know . what are we - ?
 0	3I	s-
-1	3I	okay. i'm gonna put bagels across from donuts.
-1	3I	by the beets and soybeans.
-1	3I	fleece lined boots. well, that goes up by the vests and the socks. we have just a space between em.
-1	3I	can the go across form the?
-1	3I	saw? saws? yeah. whoops.
-1	3I	shoelaces go by socks.
+1	3I	okay . i 'm gon na put bagels across from donuts .
+1	3I	by the beets and soybeans .
+1	3I	fleece lined boots . well , that goes up by the vests and the socks . we have just a space between em .
+1	3I	can the go across form the ?
+1	3I	saw ? saws ? yeah . whoops .
+1	3I	shoelaces go by socks .
 1	3I	and the -
-1	3I	boots.
+1	3I	boots .
 0	3I	um -
-1	3I	or in between here?
-1	3I	or by the pet food?
-1	3I	or above the toilet paper, somewhere up here?
-1	3I	gas powered cookstoves. well, we know that's gotta be -
-1	3I	over here.
-1	3I	probably put it by the small axes.
-1	3I	up by the magnets, don'tcha think?
-0	3I	back packs.
-1	3I	that can go by the canvas bags, don'tcha think?
-0	3I	deck chairs.
-0	3I	we don't have deck chairs.
-2	3I	no, except the -
-1	3I	sure. put it by the bundle of sticks.
+1	3I	or in between here ?
+1	3I	or by the pet food ?
+1	3I	or above the toilet paper , somewhere up here ?
+1	3I	gas powered cookstoves . well , we know that 's got ta be -
+1	3I	over here .
+1	3I	probably put it by the small axes .
+1	3I	up by the magnets , don'tcha think ?
+0	3I	back packs .
+1	3I	that can go by the canvas bags , don'tcha think ?
+0	3I	deck chairs .
+0	3I	we do n't have deck chairs .
+2	3I	no , except the -
+1	3I	sure . put it by the bundle of sticks .
 1	3I	they can -
-1	3I	have cushions while they get their firewood.
+1	3I	have cushions while they get their firewood .
 0	3I	trunc
-0	3I	tweezers.
-0	3I	trunc we haven't.
-2	3I	i was thinking way up here. trunc put trunc start it up here with the personal. so heavy coats.
+0	3I	tweezers .
+0	3I	trunc we have n't .
+2	3I	i was thinking way up here . trunc put trunc start it up here with the personal . so heavy coats .
 1	3I	pull it -
-2	3I	but we have the shoes and shoelaces over here.
-2	3I	and socks, and vests -
-1	3I	empty plastic jugs, by the water?
-1	3I	okay. i'll put it up above the gas powered stove.
-1	3I	oh! they should be over here somewhere. by the bagels?
-1	3I	there's rooms there.
-0	3I	bags of peat moss.
-1	3I	yeah, i'm gonna put it - don'tcha think -
-1	3I	i know, i'm thinking of the end of the aisle. down here.
-1	3I	don'tcha - or in the aisle up here?
-1	3I	by the trunc axes, okay.
-1	3I	we do, huh? well, let's put it at the top, up there.
-0	3I	okay.
-0	3I	we don't have any on this aisle here either.
-0	3I	electric heaters.
-1	3I	uh okay, we'll put it above the heavy cable.
-1	3I	well that has to go.
-1	3I	ooh! by mousetraps? it could go up there.
-0	3I	large cups.
-1	3I	i'm gonna put em down by the because -
-1	3I	by the toilet paper. more paper goods.
-1	3I	yeah.
-1	3I	buckets go by empty plastic jugs.
-0	3I	right here.
+2	3I	but we have the shoes and shoelaces over here .
+2	3I	and socks , and vests -
+1	3I	empty plastic jugs , by the water ?
+1	3I	okay . i 'll put it up above the gas powered stove .
+1	3I	oh ! they should be over here somewhere . by the bagels ?
+1	3I	there 's rooms there .
+0	3I	bags of peat moss .
+1	3I	yeah , i 'm gon na put it - don'tcha think -
+1	3I	i know , i 'm thinking of the end of the aisle . down here .
+1	3I	don'tcha - or in the aisle up here ?
+1	3I	by the trunc axes , okay .
+1	3I	we do , huh ? well , let 's put it at the top , up there .
+0	3I	okay .
+0	3I	we do n't have any on this aisle here either .
+0	3I	electric heaters .
+1	3I	uh okay , we 'll put it above the heavy cable .
+1	3I	well that has to go .
+1	3I	ooh ! by mousetraps ? it could go up there .
+0	3I	large cups .
+1	3I	i 'm gon na put em down by the because -
+1	3I	by the toilet paper . more paper goods .
+1	3I	yeah .
+1	3I	buckets go by empty plastic jugs .
+0	3I	right here .
 1	3I	can go by the -
-1	3I	the sweaters.
-0	3I	okay.
-0	3I	and we'll -
-0	3I	five pound weights.
-1	3I	yeah, can we put those up -?
-1	3I	oh, that'd be good by the toys. yeah.
-1	3I	yeah.
-1	3I	well, that's a good place. okay.
-0	3I	bars of soap. okay, now we're getting to more -
-0	3I	yeah.
-1	3I	and liters of water - where'd we put the tweezers? up there.
-1	3I	we could put it across from the tweezers.
-1	3I	oh, lets put that across from the -
+1	3I	the sweaters .
+0	3I	okay .
+0	3I	and we 'll -
+0	3I	five pound weights .
+1	3I	yeah , can we put those up - ?
+1	3I	oh , that 'd be good by the toys . yeah .
+1	3I	yeah .
+1	3I	well , that 's a good place . okay .
+0	3I	bars of soap . okay , now we 're getting to more -
+0	3I	yeah .
+1	3I	and liters of water - where 'd we put the tweezers ? up there .
+1	3I	we could put it across from the tweezers .
+1	3I	oh , lets put that across from the -
 1	3I	eggs or some -
-1	3I	over here?
-1	3I	by the ice cream, or -?
-1	3I	trunc trunc put it across from the chocolate bars.
-1	3I	we haven't filled up that aisle.
-0	3I	light jackets.
-0	3I	yeah.
-1	3I	okay.
+1	3I	over here ?
+1	3I	by the ice cream , or - ?
+1	3I	trunc trunc put it across from the chocolate bars .
+1	3I	we have n't filled up that aisle .
+0	3I	light jackets .
+0	3I	yeah .
+1	3I	okay .
 2	3I	or it could be up by -
-2	3I	the rolls of ducts tape.
-1	3I	cuz there's rooms there.
-1	3I	yeah, that's true.
-0	3I	flags.
-1	3I	you know, flags could be at the end of a row, up by whiskey.
-1	3I	yeah.
-1	3I	okay, but by the tweezers?
-0	3I	pouches of oatmeal.
-1	3I	can we head, like by the cake mix?
-1	3I	or across?
-1	3I	i'll put it across from the cake mix.
-1	3I	trunc yeah.
-1	3I	oh. good.
-1	3I	pre-cut wood goes by bundles of sticks, don'tcha think?
-1	3I	sure.
-0	3I	books of matches.
-1	3I	by the wood?
-1	3I	mm-kay.
-0	3I	we're done.
-1	3I	we have lots of room on one aisle.
-1	6B	sure.
-0	6B	so, we have, math tutors, assistant cooks, sex ed, custodians, speech therapy, football equipment -
-0	6B	acting coaches, poetry books, special ed teachers, cooking classes, note takers for disability services -
-0	6B	sugar free juice machines, bookkeeping classes -
+2	3I	the rolls of ducts tape .
+1	3I	cuz there 's rooms there .
+1	3I	yeah , that 's true .
+0	3I	flags .
+1	3I	you know , flags could be at the end of a row , up by whiskey .
+1	3I	yeah .
+1	3I	okay , but by the tweezers ?
+0	3I	pouches of oatmeal .
+1	3I	can we head , like by the cake mix ?
+1	3I	or across ?
+1	3I	i 'll put it across from the cake mix .
+1	3I	trunc yeah .
+1	3I	oh . good .
+1	3I	pre-cut wood goes by bundles of sticks , don'tcha think ?
+1	3I	sure .
+0	3I	books of matches .
+1	3I	by the wood ?
+1	3I	mm-kay .
+0	3I	we 're done .
+1	3I	we have lots of room on one aisle .
+1	6B	sure .
+0	6B	so , we have , math tutors , assistant cooks , sex ed , custodians , speech therapy , football equipment -
+0	6B	acting coaches , poetry books , special ed teachers , cooking classes , note takers for disability services -
+0	6B	sugar free juice machines , bookkeeping classes -
 0	6B	music teachers -
-0	6B	what's the least important on that list?
-1	6B	me too. let's cut that.
-1	6B	i know.
-1	6B	well, we could come back. if we wanna come -
-1	6B	let's -
-1	6B	yeah. let's cut one. yeah, at least one.
-0	6B	reproductive education, job training programs, chicken pox vaccinations -
-0	6B	invasive species removal, s_t_d_ education -
-0	6B	toxic waste disposal, hospital additions -
+0	6B	what 's the least important on that list ?
+1	6B	me too . let 's cut that .
+1	6B	i know .
+1	6B	well , we could come back . if we wan na come -
+1	6B	let 's -
+1	6B	yeah . let 's cut one . yeah , at least one .
+0	6B	reproductive education , job training programs , chicken pox vaccinations -
+0	6B	invasive species removal , s_t_d_ education -
+0	6B	toxic waste disposal , hospital additions -
 0	6B	bagel factory inspections -
-0	6B	needle exchange, sex offender database -
-0	6B	veterans' medical assistance, egg farm regulations, weed control -
-0	6B	pre-natal check-ups, neighborhood watch support -
-0	6B	and egg farm regulations.
-1	6B	i'm wondering if we need hospital additions. that'd be a big budget cut.
-1	6B	depending on how much money we have to cut, i - th-
-1	6B	be combined? oh, that's a good idea.
-1	6B	okay, we're cutting .
-1	6B	well we could - i don't know.
-1	6B	and just -?
-1	6B	and we just have - we - our weed control.
-1	6B	so - okay.
-1	6B	was s_t_d_s.
-1	6B	yeah.
-1	6B	yeah.
-1	6B	well, let's get rid of the invasive species removal cuz we're still going to have weed control.
-1	6B	oh, that's a good idea.
+0	6B	needle exchange , sex offender database -
+0	6B	veterans ' medical assistance , egg farm regulations , weed control -
+0	6B	pre-natal check-ups , neighborhood watch support -
+0	6B	and egg farm regulations .
+1	6B	i 'm wondering if we need hospital additions . that 'd be a big budget cut .
+1	6B	depending on how much money we have to cut , i - th-
+1	6B	be combined ? oh , that 's a good idea .
+1	6B	okay , we 're cutting .
+1	6B	well we could - i do n't know .
+1	6B	and just - ?
+1	6B	and we just have - we - our weed control .
+1	6B	so - okay .
+1	6B	was s_t_d_s .
+1	6B	yeah .
+1	6B	yeah .
+1	6B	well , let 's get rid of the invasive species removal cuz we 're still going to have weed control .
+1	6B	oh , that 's a good idea .
 1	6B	i think we should -
-0	6B	why they have boys basketball club and no girls? i trunc
-1	6B	they're not cutting the girls, they're just cutting the boys and i don't think they sh-
+0	6B	why they have boys basketball club and no girls ? i trunc
+1	6B	they 're not cutting the girls , they 're just cutting the boys and i do n't think they sh-
 0	6B	well -
-1	6B	i think the public access station. i think you're right about that.
-1	6B	yeah.
-1	6B	okay, i think the public access station.
-2	6B	well, maybe it's rats.
-1	6B	okay.
-0	6B	teaching certificates, speed limit signs, additional bus stops -
-0	6B	tattoo artist licenses, boating licenses -
-0	6B	pothole maintenance, subway system -
-0	6B	hunting tags, towing services -
-0	6B	massage certificates, flagpole repair -
-0	6B	taxi stops, fishing licenses -
-0	6B	public bus upkeep, and drainage ditches -
-2	6B	well, i'm thinking all the licenses should trunc pay for themselves, cuz people pay for those -
-0	6B	where else -? what did i see?
-0	6B	additional bus stops.
-1	6B	do we need additional bus stops?
+1	6B	i think the public access station . i think you 're right about that .
+1	6B	yeah .
+1	6B	okay , i think the public access station .
+2	6B	well , maybe it 's rats .
+1	6B	okay .
+0	6B	teaching certificates , speed limit signs , additional bus stops -
+0	6B	tattoo artist licenses , boating licenses -
+0	6B	pothole maintenance , subway system -
+0	6B	hunting tags , towing services -
+0	6B	massage certificates , flagpole repair -
+0	6B	taxi stops , fishing licenses -
+0	6B	public bus upkeep , and drainage ditches -
+2	6B	well , i 'm thinking all the licenses should trunc pay for themselves , cuz people pay for those -
+0	6B	where else - ? what did i see ?
+0	6B	additional bus stops .
+1	6B	do we need additional bus stops ?
 1	6B	but if we continue to - if we do the public bus upkeep -
 1	6B	and the subway system -
-1	6B	i say we don't need additional bus stops at the - at this time.
-1	6B	oh, that's true too. okay.
+1	6B	i say we do n't need additional bus stops at the - at this time .
+1	6B	oh , that 's true too . okay .
 0	6B	taxi -
-1	6B	i would - uh - yeah, you're right. taxi stops we don't need.
+1	6B	i would - uh - yeah , you 're right . taxi stops we do n't need .
 1	6B	cuz you just flag it down it comes over to the -
-0	6B	massage certificate.
+0	6B	massage certificate .
 1	6B	i think the taxi stops is -
-1	6B	yeah i agree with the taxi stops.
-0	6B	yes.
-1	6B	yes, i think we did.
-0	6B	we're done.
+1	6B	yeah i agree with the taxi stops .
+0	6B	yes .
+1	6B	yes , i think we did .
+0	6B	we 're done .
