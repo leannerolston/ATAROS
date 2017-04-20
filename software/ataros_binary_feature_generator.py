@@ -52,8 +52,9 @@ for f in files:
 
 			tokens = s.split("\t")
 
-			stance = tokens[0]
-			task = tokens[1]
+			stance = tokens[0].replace("+", "").replace("-", "").replace("X", "").replace("x", "").replace("#", "").strip()
+
+			task = tokens[1].strip()
 
 			text = tokens[2].replace("*", "").split()
 

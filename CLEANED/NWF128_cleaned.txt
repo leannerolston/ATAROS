@@ -95,7 +95,7 @@
 1	3I	construction equipment .
 1	3I	makes sense .
 1	3I	so next to the rolls of duct tape and power cords , but need immediately adjacent . alright .
-# 1	3I	let 's see what we have here .
+1	3I	let 's see what we have here .
 1	3I	um , but perhaps with a bit of space as they are a -
 1	3I	non -
 0	3I	um -
@@ -205,7 +205,7 @@
 1	3I	nearby , at the end of the aisle -
 1	3I	tow ropes . well , we do have -
 1	3I	cables , cords , and rolls of duct tape there , but we also have boating supplies up there .
-# 1	3I	do you have a - a rope , spool , and coil section ?
+1	3I	do you have a - a rope , spool , and coil section ?
 1	3I	that sounds perfect .
 1	3I	we 've got a -
 1	3I	solid store organization .

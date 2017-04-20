@@ -1,6 +1,6 @@
 #Open files:
-gridPath$ = "/Users/rolston/Desktop/ATAROS/textgrids/new/"
-outputPath$ = "/Users/rolston/Desktop/ATAROS/"
+gridPath$ = "/Users/rolston/Desktop/ATAROS/textgrids/"
+outputPath$ = "/Users/rolston/Desktop/ATAROS/tg_out"
 
 clearinfo
 

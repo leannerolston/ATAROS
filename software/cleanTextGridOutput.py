@@ -15,7 +15,7 @@ for line in data:
 		continue
 
 	text = tokens[0].replace("*", "")
-	stance = tokens[1].replace("+", "").replace("-", "").replace("X", "").replace("x", "")
+	stance = tokens[1].replace("+", "").replace("-", "").replace("X", "").replace("x", "").replace("#", "").strip()
 	task = tokens[2]
 
 	if not stance:

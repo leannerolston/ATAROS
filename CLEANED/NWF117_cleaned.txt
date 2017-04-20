@@ -138,7 +138,7 @@
 2	6B	what - trunc i 'll tell you what they 're thinking about . they 're thinking about certificates of need for hospital beds .
 2	6B	that 's what they 're thinking .
 1	6B	well , it just is there . now if we were to find two under recreation and public services . we were there once .
- 1	6B	dog catcher was gone .
+1	6B	dog catcher was gone .
 1	6B	and reusable bags .
 0	6B	okay .
 0	6B	and infrastructure ?

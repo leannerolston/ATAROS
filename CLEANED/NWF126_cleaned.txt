@@ -101,7 +101,7 @@
 1	3I	okay .
 0	3I	bottles of juice .
 1	3I	maybe where the water was ?
-1#	3I	we 're having refrigerated juice .
+1	3I	we 're having refrigerated juice .
 0	3I	tweezers .
 0	3I	small saws .
 1	3I	yeah .
