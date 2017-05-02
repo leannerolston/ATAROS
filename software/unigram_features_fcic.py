@@ -11,7 +11,7 @@ dir = sys.argv[1]
 unigrams = []
 COUNT = 10
 
-files = [f for f in os.listdir(dir) if f.endswith(".txt") and f.startswith("NW")]
+files = [f for f in os.listdir(dir) if f.endswith("cleaned.txt")]
 
 #grab list of unigrams:
 
@@ -23,7 +23,7 @@ for f in files:
 
 		for line in sentences:
 
-			text = line.split("\t")[2].replace("*", "")
+			text = line.split("\t")[1].replace("*", "")
 
 			unis = nltk.word_tokenize(text)
 
@@ -58,7 +58,7 @@ for f in files:
 
 			#stance = tokens[0]
 			#task = tokens[1]
-			sentence = nltk.word_tokenize(tokens[2].replace("*", ""))
+			sentence = nltk.word_tokenize(tokens[1].replace("*", ""))
 
 			for s in sentence:
 
@@ -82,7 +82,7 @@ for c in more_than_count:
 	valid_unigrams.append(unigrams[c])
 
 #Start printing:
-print("speaker\ttask\tstance", end="\t")
+print("speaker\tstance", end="\t")
 
 for i in range(len(valid_unigrams)):
 	if i < len(valid_unigrams) - 1:
@@ -101,13 +101,11 @@ for f in files:
 			tokens = line.split("\t")
 
 			stance = tokens[0]
-			task = tokens[1]
-			sentence = nltk.word_tokenize(tokens[2].replace("*", ""))
+			sentence = nltk.word_tokenize(tokens[1].replace("*", ""))
 
 			features = [0] * len(valid_unigrams)
 
 			print(speaker, end="\t")
-			print(task, end="\t")
 			print(stance, end="\t")
 
 			for s in sentence:

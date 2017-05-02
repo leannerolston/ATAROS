@@ -6,18 +6,22 @@ import sys, regex
 import operator
 
 model_file = sys.argv[1]
+headings_file = sys.argv[2]
 
-headings = ["", "period", "comma", "questionmark", "exclamationmark",
-				"pronoun", "ipron", "ppron", "singPPron", "plurPPron", "1stPPron",
-            "2ndPPron", "3rdPPron", "defArt", "indefArt", "function", "prep",
-            "conj", "filler", "nonflu", "swear", "tentat", "differ",
-            "discrep", "certain"]
+with open(headings_file) as inp:
+	data = inp.read()
+	data = data.strip()
 
+#Remove columns 0:2 since they're "speaker task stance"
+headings = data.split("\t")[3:]
+
+#Since we're using the index returned by e1071, add a blank cell at index[0]
+headings.insert(0, "")
 
 sv_header_pattern = regex.compile(r'^SV$')
 label_pattern = regex.compile(r'^label ')
 
-sums = [0] * 25
+sums = [0] * len(headings)
 
 with open(model_file) as inp:
 	data = [l.strip() for l in inp]
@@ -26,17 +30,16 @@ with open(model_file) as inp:
 #find out labels:
 label_idx = [i for i, x in enumerate(data) if regex.match(label_pattern, x)]
 labels = data[label_idx[0]].split()[1:]
-print(labels)
 
 sv_header_idx = [i for i, x in enumerate(data) if regex.match(sv_header_pattern, x)]
 
 for sv in data[sv_header_idx[0] + 1: ]:
 	feats = sv.split()
-	#print(sv)
 
 	vector_weights = []
 
 	start_idx = 0
+
 	for i in range(len(feats)):
 		if not ":" in feats[i]:
 			vector_weights.append(feats[i])
@@ -51,7 +54,7 @@ for sv in data[sv_header_idx[0] + 1: ]:
 		for w in vector_weights:
 			sums[idx] += float(w) * value
 
-maximums = sorted(range(len(sums)), key=lambda k: sums[k], reverse = True)
+maximums = sorted(range(len(sums)), key=lambda k: abs(sums[k]), reverse = True)
 
 #print(maximums)
 
