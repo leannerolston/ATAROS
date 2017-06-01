@@ -146,7 +146,7 @@
 0	3I	that 's trunc i was looking for the word small .
 1	3I	okay .
 1	3I	hm . s-
-1	3I	yep. }
+1	3I	yep. 
 1	3I	power cords ?
 1	3I	uh-huh !
 1	3I	and the boats and all that .
@@ -207,7 +207,7 @@
 1	6B	properly fund , you know , the soup kitchen and the -
 1	6B	housing assistance and the food bank .
 0	6B	let 's see .
-0	6B	uh , } infrastructure and licensing .
+0	6B	uh ,  infrastructure and licensing .
 2	6B	i really want the teaching certificates cuz we - we want good education infrastructure .
 1	6B	the speed limit signs are important .
 1	6B	safety measure .

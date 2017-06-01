@@ -224,7 +224,7 @@
 0	6B	um .
 0	6B	it 's just a matter of - oh , i can feel a sneeze coming .
 0	6B	okay . i think i 'm good .
-2	6B	oh yeah . { voc laugh {
+2	6B	oh yeah . 
 0	6B	listening to random thing , oh hey there 's a sneeze . okay , okay . continuing . uh . prenatal checkups .
 1	6B	yeah .
 0	6B	reproductive education .

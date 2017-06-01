@@ -67,7 +67,7 @@
 2	3I	okay ! um , cushions for deck chairs .
 2	3I	i - somewhere up here , for sure .
 0	3I	um .
-1	3I	okay.1+
+1	3I	okay.
 1	3I	yeah !
 0	3I	okay .
 2	3I	yeah ! yeah yeah . kind of surprise them . i read some - or , heard some interesting things about trunc the flow of traffic in - in grocery stores . people will always tend to , like - trunc i forget if it was -
@@ -248,7 +248,7 @@
 1	6B	i dunno . i feel differently about it , i guess .
 1	6B	yeah ?
 1	6B	yeah , it 's like a -
-2	6B	i feel like it 's a development thing . it trunc it rounds out your development.1
+2	6B	i feel like it 's a development thing . it trunc it rounds out your development .
 1	6B	mm-hm .
 1	6B	yeah . true . yeah .
 1	6B	yeah , but for music stuff , you need like , private lessons .

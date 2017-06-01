@@ -323,7 +323,7 @@
 1	6B	no . no .
 0	6B	yeah .
 0	6B	yep .
-2	6B	well 1
+2	6B	well 
 2	6B	any more -
 1	6B	yeah .
 1	6B	yeah .

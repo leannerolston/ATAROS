@@ -2,7 +2,7 @@
 0	3I	tow ropes .
 1	3I	mm . well this is - actually that 's pretty good .
 1	3I	food .
-1	3I	i think . travel guides { qual whispered .
+1	3I	i think . travel guides .
 2	3I	oh . do you wan na do that ? oh that 's a good idea .
 0	3I	and we used to like playing trunc you know , where you can only like -
 1	3I	one at a time but we do n't have that uh -

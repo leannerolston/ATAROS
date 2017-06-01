@@ -1,0 +1,2340 @@
+sp	
+Yes, I do. .. Thank you.	0
+sp	
+Thank you. 	0
+sp	
+Chairman Levin, .. Ranking Member Coburn, .. uh and Members of the Subcommittee. 	0
+sp	
+Thank you for the invitation to appear before you today 	0
+{VOC breath}	
+as you examine some of the causes and consequences of the financial crisis. 	0
+sp	
+Today, ..  the financial system is fragile, ..  but it is largely stable. 	1
+sp	
+This stability is a result of decisive and necessary government action .. during the fall of two thousand eight. 	1
+sp	
+ Like other financial institutions, .. Goldman Sachs received an investment from the government as a part of its various efforts 	0
+{VOC breath}	
+to fortify our markets and the economy 	0
+{VOC breath}	
+during a very difficult time. 	0
+sp	
+I want to express my gratitude and the gratitude of our entire firm. 	0
+sp	
+We held the government's investment for approximately eight months 	0
+{NVC}	
+and repaid it in full, .. along with a twenty three percent annualized return for taxpayers. 	0
+sp	
+Until recently, .. most Americans had never heard of Goldman Sachs .. or were - or - ..  weren't sure what it did. 	0
+sp	
+We don't have banking branches. 	0
+sp	
+We provide very few mortgages .. and don't issue credit cards .. or loans to consumers. 	0
+sp	
+Instead, 	0
+sp	
+we generally work with companies, .. governments, .. pension funds, .. mutual funds, .. and other investing institutions. 	0
+sp	
+These clients usually come to Goldman Sachs for one or more of the following reasons. 	0
+sp	
+They want financial advice, .. they need financing, .. they want to buy or sell a stock, bond, or other financial instrument, 	0
+sp	
+or they want help in managing and growing their financial assets. 	0
+sp	
+The nearly thirty-five thousand people who work at Goldman Sachs, .. the majority of whom work in the United States, 	0
+{VOC breath}	
+are hard working, .. diligent, .. and thoughtful. 	1
+sp	
+Through them, .. we help governments raise capital to fund schools and roads. 	0
+sp	
+We advise companies and provide them funds to invest in their growth. 	0
+sp	
+We work with pension funds, labor unions, and university endowments 	0
+{VOC breath} 	
+to help build and secure their assets .. for generations to come. 	0
+sp	
+And we connect buyers and sellers in the securities markets, .. contributing to the liquidity and vitality of our financial system. 	0
+sp	
+These functions are important to economic growth and job creation. 	1
+sp	
+I recognize, however, that many Americans are skeptical about the contribution of investment banking to our economy 	0
+{VOC breath}	
+and understandably angry about how Wall Street contributed to the financial crisis. 	0
+sp	
+As a firm, we are trying to deal with the implications of the crisis for ourselves and for the system. 	0
+sp	
+What we and other banks, rating agencies, and regulators failed to do 	0
+{VOC breath} 	
+was sound the alarm that there was too much lending .. and too much leverage in the system, 	1
+sp	
+that credit had become too cheap. 	1
+sp	
+One consequence of the growth of the housing market was that instruments that pooled mortgages and their risk .. became overly complex. 	1
+sp	
+That complexity and the fact that some instruments couldn't be easily bought or sold 	1
+{VOC breath}	
+compounded the effects of the crisis. 	1
+sp	
+While derivatives are an important tool to help companies and financial institutions manage their risk, 	1
+{VOC breath}	
+we need more transparency for the public and regulators as well as safeguards in the system for their use. 	1
+sp	
+That is why Goldman Sachs, in supporting regula- tory reform, 	0
+{VOC breath}	
+has made it clear that it supports clearinghouses for eligible derivatives 	0
+{VOC breath}	
+and a higher capital requirements for non-standard instruments. 	0
+sp	
+As you know, .. ten days ago, .. the S_E_C_ announced a civil action against Goldman Sachs in connection with a specific transaction. 	0
+sp	
+It was one of the worst days of my professional life, as I know it was for every person at our firm. 	1
+sp	
+We believe deeply in a culture that prizes teamwork, 	1
+{VOC breath}	
+depends on honesty, and rewards saying no as much as saying yes. 	1
+sp	
+We have been a client-centered firm for one hundred and forty years, and if our clients believe that we don't deserve their trust, 	1
+{NVC}	
+we cannot survive. 	1
+sp	
+While we strongly disagree with the S_E_C_s complaint, 	1
+sp	
+I also recognize how such a complicated transaction may look to many people. 	0
+sp	
+To them, it is confirmation of how out of control they believe Wall Street has become, 	1
+{VOC breath}	
+no matter how sophisticated the parties or what disclosures were made. 	0
+sp	
+We have to do a better job of striking the balance between what an informed client believes is important to his or her investing goals 	1
+sp	
+and what the public believes is overly complex and risky. 	0
+sp	
+Finally, Mister Chairman, .. the Subcommittee is focused on the more specific issues revolving around the mortgage securitization market. 	0
+sp	
+I think it is important to consider these issues in the context of risk management. 	1
+sp	
+We believe that strong, conservative risk management is fundamental .. and helps define Goldman Sachs. 	1
+sp	
+Our risk management processes did not and could not provide for absolute clarity. 	1
+sp	
+They highlighted uncertainty about evolving conditions in the housing market. 	0
+sp	
+That uncertainty dictated our decision to attempt to reduce the firm's overall risk. 	0
+sp	
+Much has been said about the supposedly massive short Goldman Sachs had on the U_S_ housing market. 	1
+sp	
+The fact is, .. we were not consistently or significantly net short the market 	0
+{VOC breath}	
+in residential mortgage-related products in two thousand seven and two thousand eight. 	0
+sp	
+Our performance in our residential mortgage-related business confirms this. 	0
+sp	
+During the two years of the financial crisis, while profitable overall, 	0
+{VOC breath}	
+Goldman Sachs lost approximately one point two billion dollars from our activities in the residential housing market. 	0
+sp	
+We didn't have a massive short .. against the housing market, and we certainly did not bet against our clients. 	2
+sp	
+Rather, we believe that we managed our risk as our shareholders and our regulators would expect. 	1
+sp	
+Mister Chairman, .. thank you for the opportunity to address these issues. .. I look forward to your questions.	0
+sp	
+Well, Senator, that's a - the- there's a lot in your question, and I'm sure we- we're gonna spend a lot of time on - .. on a lo- uh .. a dif- uh different parts of it.	0
+sp	
+Um, 	0
+{VOC mouthnoise} {VOC breath}	
+our clients' trust -	1
+sp	
+is not only important to us, .. it's essential to us. 	1
+sp	
+It is why we're as successful a firm as we are, and have been for a hundred and forty years.	1
+sp	
+We are 	1
+sp	
+one of the largest .. client franchises .. in market making .. in these kinds of activities we're talking now - .. about now, and our client base .. is a pretty critical -	2
+sp	
+client base for us. And they know our activities, and they understand what market making is.	1
+sp	
+Again, I don't know who the they is, and again - 	2-
+sp	
+No, I know. I - I know, Senator, and 	2
+{VOC breath}	
+we pi- .. there were individual emails that were picked out and some people thought .. something. But I'll tell you -	1
+sp	
+Senator, I want to make one thing 	1
+sp	
+cle- When you say .. we sell something .. and then our com- customer bets against it -	1
+sp	
+*We ..bet against it. 	2
+sp	
+We are principals. 	2
+sp	
+The - .. the .. act of selling something .. is what gives us .. the opposite position of what the client has. 	2
+{VOC breath}	
+If the client asks us for a bid .. and we buy it from them, 	0
+sp	
+the next minute, .. we own it. .. They don't. .. If they ask to buy it from us, 	2
+{VOC breath}	
+the next minute, they own it .. and we don't. 	2
+{VOC breath}	
+We could cover that risk. 	2
+{VOC breath}	
+But the nature of the principal business and market making 	1
+	
+is 	0
+{VOC breath}	
+that we are the other side 	1
+{VOC breath}	
+of what our clients 	1
+sp	
+want to do. 	1
+sp	
+Not necessarily. 	2-
+sp	
+In the con-	x
+sp	
+In the context of market making, that is not a conflict.	2
+sp	
+What we're sell- what clients .. are buying, .. or customers are buying, 	1
+{VOC breath}	
+is they're buying an exposure. 	1
+{VOC breath}	
+The thing that we are selling to them 	0
+{VOC breath}	
+is supposed to give them 	2
+{VOC breath}	
+the risk they want. 	2
+{VOC breath}	
+They are not coming to us .. to represent what our views are. 	2
+sp	
+They probably - .. the institutional clients we have, .. wouldn't care what our views are. 	2
+{VOC breath}	
+They shouldn't care. 	2
+{VOC breath}	
+We do other things at the firm. We're advisors. We manage their money. 	1
+{VOC breath}	
+There are parts of the business and we- where we are fiduciaries.	0
+sp	
+I know.	x
+sp	
+Uh, not .. in the market context.	2-
+sp	
+Senat-	x
+sp	
+Senator - 	x
+	
+We don't - 	x
+sp	
+We don't - I don't think - 	2-
+sp	
+our clients .. care .. or they should care 	2-
+what our positions are. 	x
+sp	
+You say betting against -	2-
+sp	
+I know that these are -	0
+sp	
+You know, we live in different contexts and this is a professional - 	1
+{VOC start}	
+this is a - a mark-	1
+sp	
+In a human context, 	0
+sp	
+the markets .. work	1
+sp	
+on transparency with respect to .. what the item is. 	1
+{VOC breath}	
+It doesn't carry .. representations 	1
+sp	
+just of what a position 	0
+sp	
+a seller has. 	0
+{VOC breath}	
+Just think of buying from the New York - .. from a stock exchange. 	0
+{VOC breath}	
+Or a futures market.	0
+sp	
+You don't even know - you're not even supposed to know who's on the other side. 	2-
+{VOC breath}	
+You could have the biggest mutual fund in the world 	0
+{VOC breath{	
+selling all its position in something.	0
+sp	
+They could hate it. .. You would never know that if you were the buyer of a stock, 	2
+{VOC breath}	
+who was selling it or why they were selling it. 	2
+{VOC breath}	
+Liquidity in the market 	2
+sp	
+demands .. transparency, 	2
+{VOC breath}	
+that the thing is supposed to do what it's supposed to do. The people .. who were .. coming to us 	1
+{VOC breath}	
+for risk in the housing market 	0
+sp	
+wanted to have a security .. that gave them exposure to the housing market. 	1
+{VOC breath}	
+And that's what they got. 	1
+{VOC breath}	
+The unfortunate thing - 	1
+sp	
+and it's unfortunate, .. but it doesn't - .. is .. that the housing market 	1
+sp	
+went south very quickly 	1
+sp	
+after some of these securities - not all of them, because some of them were done early - 	0
+{VOC breath}	
+but they went, and so people lost money in it. 	0
+{VOC breath}	
+But the security itself .. delivered the specific exposure 	1
+sp	
+that the client wanted to have.	1
+sp	
+Yes. .. And the people who are selling it in our firm 	1
+sp	
+wouldn't even know .. what the firm's position is 	1
+sp	
+and -	0
+sp	
+Se- Senator, we have 	0
+thirty five thousand people and thousands of traders .. making markets .. throughout our firm.	0
+sp	
+They might have an idea, 	1
+sp	
+but they might not have an idea. And the next day it might be different.	1
+sp	
+I think they would -	1
+sp	
+again, as a hypothetical?	0
+sp	
+Well, then I don't -	2-
+sp	
+Well -	0
+sp	
+Well, Senator -	0
+sp	
+I think there are a lot of opinions 	1
+sp	
+about what a secur- how a security will perform .. against the market it is in.	1
+sp	
+I think that the investors that we're dealing with, 	1
+	
+on the long side .. or on the short side, 	0
+	
+know what they want to acquire 	1
+{VOC breath}	
+and .. probably if they asked .. a - a sales person his or her opinion, 	1
+sp	
+that sales person owes a duty of honesty. 	1
+sp	
+But otherwise, the sales person is representing .. what that security is .. and what that a securi- what the position in that security will accomplish. 	0
+{VOC brath}	
+And as far as whether something is a weak security or going bad, 	0
+sp	
+we are selling .. securities all the time 	1
+sp	
+ that are weak, .. that we ourselves don't like. It is just a function of the price in the market. 	1
+{VOC breath}	
+I bet .. some of those securities, and I don't know specifically 	1
+sp	
+which are .. the subject of those comments 	0
+sp	
+can be bought today .. for a willing buyer .. and a seller 	1
+sp	
+at cents on the dollar. 	1
+{VOC breath}	
+As long as people know - I think there are people who are making rational decisions today 	1
+sp	
+to buy deci- .. to buy securities 	1
+sp	
+for pennies on the dollar .. because they think it will go up, 	2
+sp	
+and the sellers of those securities are happy to get the pennies because they think they'll go down. 	2
+sp	
+(??)	x
+sp	
+I think we - .. I think in those transactions 	1
+sp	
+in which we underwrote -	1
+sp	
+I believe, and I'm not looking at specif- .. and in fact I don't - .. My understanding is 	1
+{VOC breath}	
+that that is disclosed, .. that we can ha- we can have a short or a long position in those securities.	1
+sp	
+Senator, you keep using the word betting against -	2-
+sp	
+If some- .. If somebody bought - 	2-
+{VOC start} {VOC start} {VOC start}	
+as a market maker, if somebody can't -	2-
+sp	
+I - I have to be able to -	2
+sp	
+That we're not going to cover it in the market? 	2-
+	
+I don't -	x
+sp	
+No, I don't think .. we would have to tell them. I don't even know that we would know ourselves .. what we were going to do. Even if we intended - 	2-
+sp	
+N- uh, I don't think - .. um, I don't think we would, um - I - I don't think we would  	2-
+sp	
+disclose that. .. And I don't know - .. Again, intention .. for a market maker 	2
+sp	
+is a very 	2
+	
+(??) -	x
+sp	
+I don't think so. I - um, I'm trying - I'm trying to answer it. Or, for that matter, 	2-
+{VOC breath}	
+if a client came to us .. and asked us to *buy something from him 	0
+{NVC}	
+and we intended to hold the long position, 	0
+{VOC breath}	
+I don't think we have an obligation of telling him what our intention is 	2
+sp	
+to hold it. 	2
+{VOC breath}	
+In - in 	2
+sp	
+half of every -	x
+sp	
+No, it's not. It's the opposite side. 	2-
+sp	
+Every tran- .. Every transaction, .. Senator - And this is - and - and I think it's important -	2
+sp	
+And again, I am not trying to be resistant but we - to make sure we - your terminology - 	2
+{VOC breath}	
+We are -	2
+sp	
+When, as a market maker, .. we are buying from sellers and selling to buyers.  	2
+	
+Every transac-	x
+sp	
+I don't believe there is a dis- 	x
+I - I don't believe there is a disclosure obligation, 	2-
+{VOC breath}	
+but as a market maker, 	2
+sp	
+I'm not sure .. how a market would work 	2
+sp	
+if you - if it was premised on the assumption 	2
+{NVC}	
+that the other side of the market .. cared what your opinion was .. about the position they were taking.	2
+sp	
+I think we have to have a belief, and we *do 	2
+sp	
+ have a belief that if somebody wants an exposure to housing -	2
+sp	
+Again, I want to -	x
+sp	
+	x
+sp	
+Senator, your char- I - I - again - your - .. I can't endorse - .. I - I'm sorry. I can't endorse your characterization. 	2-
+sp	
+I'm not troubled by the fact that we market make as principal and that we're the opposite - and - when somebody sells, 	2
+{VOC breath}	
+they sell to us, .. or when they buy, they buy from us.	2
+sp	
+Senator, as I - I - again -	2-
+sp	
+Senator, I think people 	2-
+sp	
+do trust us.	2-
+sp	
+Senator - 	0
+sp	
+Senator, .. we could do 	0
+sp	
+a public issue 	0
+sp	
+of an oil company 	0
+sp	
+tomorrow, an I_P_O_ .. of an oil company that goes out and searches for oil.	0
+sp	
+It is not - when we sell that company, 	2-
+{VOC breath}	
+and as a underwriter, we make sure there's due diligence because our obligations of an underwriter are disclosure and due diligence and that is very well established. 	0
+sp	
+But we can pr- tell our investors, 	2
+{VOC breath}	
+if they want an exposure to an oil company and they understand the risks 	2
+{VOC breath}	
+and we have - do a good job in diligence and we do all the disclosures that are required by 	2
+{VOC breath}	
+ourselves and all the re- uh and all the regulators, 	2
+	
+we can sell that regul- uh that security 	2
+{VOC breath}	
+and we .. will not necessarily disclose 	2
+	
+and won't even know, .. and the buyer won't care - 	2
+{VOC breath}	
+We could be .. negative on the equity market 	2
+sp	
+and negative on the oil market! 	2
+{VOC breath}	
+It still won't matter to that buyer of the security. 	2-
+sp	
+Right. 	x
+	
+Um, I - I don't - Senator, I can't speak to what -  uh - what people would care. I would say 	2-
+{VOC breath}	
+that the obligations of a market maker 	2
+{NVC}	
+are .. to make sure your clients are suitable 	2
+{VOC breath}	
+and to make sure they understand it. But we are a part of .. a market process. .. We do 	2
+{VOC breath}	
+hundreds of thousands, if not millions of transactions a day .. as a market maker.	0
+sp	
+I - I think - Okay Senator - 	x
+sp	
+Our - 	x
+	
+Sorry. 	x
+sp	
+Um, I think there was 	1
+sp	
+a number of factors. I don't know whether that was the .. initial factor, but that certainly was a major, major .. episode in the collapse.	1
+sp	
+Correct.	1+
+sp	
+Uh, we - um, were - an investment was made into Goldman Sachs, yes.	1+
+sp	
+I think we were part of a .. group of banks 	1
+sp	
+that um -	0
+sp	
+that were frank - that were brought in - 	0
+sp	
+and at the same time were - uh had an investment .. uh - made in - um - uh - by the uh government in order to stabilize 	0
+sp	
+what was a - 	0
+sp	
+maybe it's too strong a word, maybe not - a panic of sorts, 	1
+	
+that - that caused a lack of confidence in (2x) -	1
+sp	
+Cor- um -	0
+sp	
+uh if - uh .. ne- uh de minimis.	0
+sp	
+Um -	0
+sp	
+I - I don't know the exact number, but that would be in the ballpark.	1+
+sp	
+Um -	0
+sp	
+Um, .. about uh nine million dollars.	0
+sp	
+Um -	0
+sp	
+fi- financially, um - 	0
+sp	
+Uh, 	0
+{NVC}	
+y- yes.	1+
+sp	
+I think there's a, uh, the recession - um -	1
+sp	
+Well -	0
+sp	
+whether or not the recession has ended, and .. I think most people believe it has ended, 	1
+{VOC breath}	
+the consequences of it still grinds on and is creating a substantial hardship. 	1
+sp	
+In residential - um, .. in this market, .. in residential housing, 	0
+sp	
+we made, for the entire year of two thousand seven, 	0
+sp	
+ less than five hundred million dollars of revenue, 	0
+sp	
+and in the succeeding year of the housing crisis, .. two thousand eight, 	0
+sp	
+we lost one point seven billion dollars. .. We did not make -	0
+sp	
+uh, we did not make big money. .. What I was referring to in my email 	1
+sp	
+was 	0
+sp	
+that -	0
+sp	
+And this was on the back of a s- of a .. message that was looking at a part of our business 	0
+{NVC}	
+and saying 	0
+	
+they made a lot of money on shorts, when I knew 	0
+sp	
+that we had 	0
+	
+a lot of longs 	0
+sp	
+and a lot of shorts .. that netted to .. very very .. small position, as our goal during this period .. was just to manage our risk down.	0
+sp	
+A- absolutely. .. I think 	1+
+{NVC}	
+um 	0
+	
+community banks .. uh play a very very important role. 	1
+sp	
+They are 	0
+sp	
+not necessarily - 	0
+	
+I me- a- again, not knowing in gen- I am not sp- in general or specifically. .. Maybe some 	1
+sp	
+helped author their own 	1
+sp	
+situation by over-lending or making imprudent judgments. 	1
+{VOC breath}	
+But I'm sure for many, .. they just conducted their social purpose .. and lent out money against housing, 	1
+{VOC breath}	
+that people who owe them the money can't pay it back, and the housing .. that they would have as collateral goes down in value, 	1
+{VOC breath}	
+they may very well be .. victims of the recession 	1
+{VOC breath}	
+and that's - I can understand um, 	1
+{VOC mouthnoise}	
+I can unders- uh uh a- and I - and I share your uh, you know, your concern for the situation.	1
+sp	
+{VOC start} Senator, 	x
+sp	
+We have -	0
+sp	
+Um, .. yes, we did, and I mentioned in my opening statement the disposition of that, the return, 	2-
+{VOC breath}	
+and the return with a high rate of return for the taxpayer, 	0
+{VOC breath}	
+but we understand our obligations uh don't end there. 	1
+sp	
+We have always been a philanthropic organization. 	1
+{VOC breath}	
+We don't 	1
+sp	
+tend t- Again -	1
+sp	
+we sometimes are too - are - are invisible. .. But I would say in the last year, 	1
+sp	
+oh nine, 	0
+sp	
+we 	0
+sp	
+allocated, and I don't mean just accrued, .. we delivered 	2
+sp	
+a billion dollars 	2
+sp	
+of the firm's funds to philanthropy, including .. five hundred million dollars 	2
+sp	
+to a program .. to support .. small businesses 	1
+sp	
+by giving education .. to small businesses .. through the medium and delivery mechanism of community colleges 	1
+	
+uh .. and with a view to 	0
+sp	
+providing finance for some of the graduates of the programs that we have for those small businessmen in order to make them big- bigger businessmen 	1
+	
+um, thi- and - .. and to involve our people with it. 	0
+{VOC breath}	
+This is - 	0
+sp	
+I- I'm not s- y- you know - .. i- are any of these things enough? .. Not for the .. suffering 	1
+sp	
+existing in the world, but we are tr- again, we are trying to do our part. 	1
+{VOC breath}	
+We think in the main conduct of our business. 	1
+sp	
+We are also doing important things for the capital markets, but we do take account 	1
+{VOC breath}	
+of communities and institutions that we normally don't reach as Goldman Sachs. 	1
+sp	
+Uh, we may .. help find - I just don't know.	0
+sp	
+A C_D_O -	0
+sp	
+I - I was gonna build to it. 	1
+sp	
+Um, sorry -	0
+sp	
+A synthe- a C_D_O_ 	0
+sp	
+is a pool 	0
+sp	
+of 	0
+sp	
+assets, in this case, 	0
+{VOC start} {VOC start}	
+mortgage - mortgage assets, so mortgages 	0
+sp	
+that are pooled together 	0
+sp	
+and then can be sliced 	0
+sp	
+in a way .. that will um .. yield a particular .. credit exposure. The reason why .. one would p- want to pool mortgages 	0
+{VOC breath}	
+is it gives diversification, 	0
+sp	
+um, .. so that you can pool mortgages not from just one community, but distribute it over the whole country. 	0
+{VOC breath}	
+The reason why one would want to slice it 	0
+{VOC breath}	
+is so you could pick .. your place on the credit spectrum 	0
+{VOC breath}	
+and say, I'd like .. the more senior mortgages. I'd like .. the more junior risks. 	0
+{VOC breath}	
+A synthetic mortgage i- .. mo- uh, in a synthetic, 	0
+sp	
+you don't pool the actual mortgages per se. 	0
+sp	
+You pool reference securities .. that are indexed to specific mor- uh pools of mortgages.	0
+sp	
+Y- you - 	0
+{VOC start}	
+um.	0
+sp	
+Yes, you're doing it in a way .. to get a specific risk 	0
+sp	
+in a specific place at a specific spectru- uh level of the spectrum 	0
+{VOC breath}	
+without necessarily 	0
+sp	
+having to .. assemble .. the particular securities, and so you can do it more quickly and you can do it more precisely.	0
+sp	
+Well, I think the people who are participating 	1
+sp	
+in the .. synthetic C_D_O_ market 	1
+sp	
+are specifically trying to .. take 	1
+sp	
+particular risks 	1
+sp	
+with respect to the housing market, 	1
+sp	
+short or long, 	1
+sp	
+and presumably they want to take that to either initiate an - that exposure 	1
+sp	
+or to use that exposure to help .. hedge themselves 	1
+{VOC breath}	
+or to adjust their risk profile, in the case of somebody who already has accumulated risk. 	1
+sp	
+Abacus. Sir.	0
+sp	
+I think the f- um -	1
+sp	
+I think the .. specific 	1
+sp	
+complaint .. was th- a lack of disclosure .. that a short -	1
+sp	
+someone who was taking the short side of the position .. had an influence 	1
+sp	
+uh on the uh selection agent, and that that should have been disclosed. 	1
+sp	
+Um, .. we don't think so, no, and that's be- that's in dispute.	1
+sp	
+Bu- uh - uh - You know, again, it's complicated, because in the alternative, .. there's also - 	2
+sp	
+Um and again, this is a case, and in the alternative - then - and there is also .. some - and again, .. this is a litigation and obviously one side thinks one thing and another side thinks a- another -	1
+sp	
+There's also a belief on our side .. that uh the selection agent did know. 	1#
+So - 	x
+sp	
+I personally would not. The person, and he was here testifying, .. asserted that he believed .. um the other side of the transaction .. did know, .. and therein lies .. the factual - a factual dispute.	1
+sp	
+I'm sorry, are we talking about the selection agent?	0
+sp	
+I don't think there's a difference of opinion between the hedge fund client and Goldman. 	1
+sp	
+A rating agency, yes, rates a C_D_O_.	0
+sp	
+Senator, this may be a different point. This is not the subject of the um, of the legal proceeding. 	2
+sp	
+To my - best of my knowledge. 	1+
+sp	
+Good afternoon. 	0
+sp	
+Yes sir.	0
+sp	
+Uh -	0
+sp	
+I would - we have focused more - we've had f- m- focused more and more 	0
+sp	
+in trading as a principal, 	0
+sp	
+but that is the c- that is the way the client business has evolved, sir.	1
+sp	
+Well -	0
+sp	
+I would say that, .. increasingly - .. And this is a change in the sociology of the business that took place	1
+sp	
+over the last 	0
+sp	
+fifteen or twenty years. 	0
+sp	
+I am not sure it was precipitated by the fall of Glass-Steagall 	1
+sp	
+or 	0
+sp	
+it .. caused .. Glass-Steagall to f- uh to fall as U_S_ institutions had to become 	1
+sp	
+more .. competitive with global institutions, 	1
+{VOC breath}	
+but somewhere along the line, 	0
+sp	
+clients 	0
+sp	
+used to ask you .. for advice .. and then went to - if you were an investment bank, and then went to other institutions 	0
+{VOC breath}	
+and asked them for financing. 	0
+sp	
+And to take principal risk. 	0
+sp	
+Along - Somewhere along the line, 	0
+sp	
+they stopped asking .. necessarily to do things *for them, .. but to do things *with them, 	0
+sp	
+in other words, to be the other side. .. And today in the world, and this evolved over .. a long period of time, 	0
+sp	
+to be effective 	2
+sp	
+for your clients, 	2
+sp	
+you not only had to give them advice, 	2
+sp	
+but you had to have the financial wherewithal, in other words, the balance sheet, 	1
+{VOC breath}	
+to be able to accomplish 	1
+sp	
+their objectives, not just advise them on their objectives. And so Goldman Sachs 	1
+sp	
+um, .. twelve or fourt- uh twelve or thirteen years ago, 	0
+sp	
+actually 	0
+sp	
+had to reverse many years of being a private partnership and become a public partnership - 	2
+{VOC breath]	
+public company, 	0
+{VOC breath}	
+so we could be - so we could frankly, .. survive 	2
+sp	
+uh, in the evolving world .. of .. needing to be a principal .. to accomplish our clients' objectives.	2
+sp	
+No no - I - I know, Senator, a- and I know you're not saying it negative, but 	2+
+sp	
+{VOC start}{VOC start}	
+just for the .. history of it, 	0
+sp	
+It was 	0
+sp	
+a very famously - uh .. it was a very 	1
+sp	
+observed decision 	1
+by the world 	1
+of what Goldman Sachs was do- uh doing, 	1
+{VOC breath}	
+done very reluctantly -	2
+sp	
+Not so much to - .. and .. the - 	0
+sp	
+the real rationale for it was not because to make incremental profits. It was done in order 	2
+{VOC breath}	
+for us to survive .. as a leading financial institution. Had we not done it, had we not grown, 	2
+{VOC breath}	
+if we were not effective .. for our clients .. in order to allow them to accomplish those objectives, 	2
+sp	
+I don't think - I - Goldman Sachs would be around, 	2
+sp	
+but it wouldn't be an important company today.	2
+sp	
+(Yeah.)	x
+sp	
+We were the last - 	x
+we were the last .. of the firms .. to do this. 	2
+sp	
+(??)	x
+sp	
+No, I understand. 	x
+sp	
+The fact that we're princip- in other words, when you say proprietary, .. it means that business that is totally separate from our client business, 	0
+in which no 	0
+client is engaged.	0
+sp	
+No, I - I don't think so. We keep those - .. When we do proprietary trading, 	2
+sp	
+it's um, it's separate. 	2
+	
+Uh - 	0
+sp	
+Separate, and .. separate people -	2
+sp	
+Okay.	x
+sp	
+No no, I know you're not. (I'm not) -	2+
+sp	
+I think there are a lot - .. I think 	1
+sp	
+in our principal activities, which is more than our proprietary activities, 	1
+	
+for example, 	0
+{VOC breath}	
+I think there is always that p- there is always - we have to manage. I think um, 	2
+sp	
+David Viniar said, we h- always have to manage .. conflicts. Because necessarily, 	2
+{VOC breath}	
+if you're a principal, 	0
+	
+You are nec- on the other side. I think .. our -	1
+sp	
+our .. proprietary 	1
+sp	
+businesses actually have much less -	1
+sp	
+although the perception of it - .. Um -	1
+sp	
+you know, obviously, if you're asking the question, the perception of conflicts, but we keep those s- uh .. very separate.	1
+sp	
+Two thousand seven - 	0
+sp	
+Um - 	x
+	
+We sold um -	0
+sp	
+We sold - uh - we reduced our risk, .. which since the risk largely started out as long, 	1
+{VOC breath}	
+it means we sold some of our .. long positions 	0
+	
+and put on other short positions. 	0
+sp	
+Uh, I'm sorry. You said that quickly.	0
+sp	
+Yeah. I - I just don't have any - I - I don't have any knowledge of that -	2
+sp	
+I believe that we can have -	1
+sp	
+that some people can own the C_- Look, 	2
+{VOC breath}	
+on the first day, somebody could buy a C_D_O_ from us - 	1
+sp	
+And then - and - and - Yes.	x
+We could - we could sell mo- on the first day, we could sell more - 	1
+sp	
+If people came to us for a market the day after we sold our whole inventory and wanted to buy it, .. we would short (??) -	2
+sp	
+Yeah, I can't answer - I - I'm not - I know that we -	1
+sp	
+S- .. I know that we reduced our risk 	1
+{VOC breath}	
+bec- uh as per the instruction. 	1
+{VOC breath}	
+The risk started out long. I can't - I just don't know to what extent, to - how much was its selling length, 	1
+sp	
+which was some of it, for sure, 	1
+sp	
+selling certain securities, 	0
+sp	
+um -	0
+sp	
+shorting certain security, but I can't tell you, because some of it was, I think, the um, .. the future - the new 	1
+{VOC breath}	
+A_B_X_ .. index, also. I just don't know. 	1
+sp	
+But I know the -	1
+sp	
+I don't.	2
+sp	
+But I - I'm also - it - 	2
+To the extent you're asking me about whether we were long or short a specific security, 	0
+{VOC breath} 	
+and in what proportion, I just don't know. 	1
+sp	
+I can't rule it out. I just don't know. 	2
+sp	
+That we were 	0
+short some -	0
+sp	
+Again, I don't - I - I - I do- I - I don't know. .. Um. 	2-
+sp	
+If we have 	0
+sp	
+pools .. of securities 	0
+sp	
+in our inventory, 	0
+	
+and we have - .. and we are trying to get - 	0
+sp	
+reduce our risk, 	0
+sp	
+we are going to 	0
+sp	
+be 	0
+sp	
+selling those,  	0
+{VOC breath}	
+some 	0
+combination of selling those, 	0
+{VOC breath}	
+selling indexes or selling other things short. 	0
+sp	
+Can I - can I s- may I speak generally?	0
+	
+Not knowing about the specific secur- uh security?	0
+sp	
+Someti- The best way of reducing your risk 	2
+sp	
+is to sell what you have. 	2
+sp	
+Sometimes - .. as you said, sometimes you can't because it's illiquid. Sometimes it's -	0
+sp	
+Or sometimes it's unattractive. But sometimes what people are doing 	0
+	
+is, gee, .. I'm short this thing in this part of the capital structure, 	1
+sp	
+what I'll do is I'll sell something similar to it 	1
+sp	
+but a little lower in quality because I think that will underperform relative to what I have. But that's what they're doing.	2
+sp	
+(Right.)	x
+	
+Yes.	x
+sp	
+Senator -	x
+sp	
+No, Senator, I - I - I realize that, 	2-
+sp	
+and - 	0
+sp	
+You know we're very much informed, 	0
+sp	
+and we wouldn't be here but for the fact 	1
+sp	
+that there was such a collapse .. in the housing market. 	1
+sp	
+Um, to go back to that oil a- analogy that I -	0
+gave that uh - 	0
+that I gave you, if we were 	0
+sp	
+sitting here and we had underwritten .. a I- uh a new security -	0
+sp	
+like that, 	0
+{VOC start}	
+what I described to you, instead of hous- uh housing, and .. after we put it in the market, 	0
+sp	
+three months later, 	0
+sp	
+we were short that security in connection with our market making, 	0
+{VOC breath}	
+that sounds okay.	1
+sp	
+But it was the same security that we had underwritten 	0
+sp	
+three months earlier.	x
+sp	
+(Right.)	x
+	
+Sure.	x
+sp	
+I - 	x
+	
+May I ask a - I think you're asking me 	0
+what we knew -	0
+sp	
+We did not - 	2
+{VOC start}	
+we did not know 	2
+sp	
+what -	0
+sp	
+What subsequently occurred 	2
+sp	
+in the housing market - 	2
+	
+We did not know - 	2
+sp	
+We - By the way, .. we didn't behave .. like we knew it. 	2
+sp	
+In other words .. there's 	0
+sp	
+emails going around where this one was n- n- this one was nervous and this one really - you know, I mean, we're talking about relatively .. 	0
+junior people, managing positions on desks - 	1
+{VOC breath}	
+And then there are other emails 	1
+{VOC breath}	
+where people 	1
+{VOC breath}	
+were excited and thought the market would rebound. 	1
+{VOC breath}	
+We did not know 	2
+sp	
+that the housing market was going to- w- was going to happen 	2
+like that.	2
+sp	
+And by the way, our positions reflect that 	2
+	
+because had we known, 	2
+sp	
+we would have been 	2
+sp	
+massively short the market instead of 	2
+	
+just getting short -	2
+sp	
+Um -	0
+sp	
+About equal to what our longs were, and maybe 	2
+	
+a bit more. 	x
+sp	
+I never did. 	2
+	
+Oh, no -	x
+sp	
+I don't know that we - Again, 	2
+sp	
+we are .. dealing with .. the same information. I think -	2
+sp	
+Tomo- tomo- if tomorrow -  	1
+	
+Let me a- 	2
+{VOC start} {VOC start} {VOC start} 	
+tomorrow -	1
+	
+I think 	2
+sp	
+there needs to be a s- you know, I - I think it would serve 	2
+sp	
+the public interest for 	2
+sp	
+a 	2
+sp	
+securities market in housing - Again, .. learning from the mistakes 	1
+(well) {VOC start}	
+revealed, in other words, if you assume with me 	1
+{VOC breath}	
+that we learned from all the mistakes, I think 	1
+{VOC breath}	
+securitizing 	1
+sp	
+home -	1
+sp	
+mortgages 	1
+sp	
+is not .. inherently a bad activity. 	2
+sp	
+We never, uh, 	2
+decided to get 	2
+out of (the) business. 	x
+sp	
+Uh - Again -	2
+sp	
+to the best of my kno- Again - And I'm not close .. to that decision. There's other people -	1
+sp	
+Um, .. I don't know that a decision was made .. to leave that business as opposed to .. reduce the risks .. of the business.	2
+Um - 	0
+	
+When you tell - 	2
+{VOC start}	
+When you tell me, get out of the business - 	2
+sp	
+{VOC start}	
+Senator, I don't - I don't know if - I - I don't know what exa- I - I - 	2
+	
+I don't know what that means.	x
+sp	
+Senator, I heard your uh - your earlier re- remarks, as well. 	0
+sp	
+I think .. w- I - I think we're not that s- we're not that smart at - at - 	2
+{VOC breath}	
+And maybe there were people who knew - And, by the way, even the people who with hindsight knew it, 	2
+sp	
+I think they thought it, .. and then they turned out to be right. 	2
+sp	
+I think -	2
+sp	
+I could tell you .. from my o- my own self -	2
+sp	
+At .. twenty percent down in the housing .. market, .. 	2
+I didn't know whether it would go down thirty percent 	2
+	
+or rebound up ten percent. 	2
+{VOC breath}	
+Even now - .. even now -	2
+sp	
+I know it -	3
+	
+bu- but now (it) -	2
+sp	
+Senator, there were a lot of .. business judgments, and maybe - .. I wish I had .. known - 	2
+{VOC start} {VOC start} 	
+if you look - just look at all the big .. Wall Street firms 	2
+{VOC breath}	
+that lost tens of billions of dollars .. 	1
+even after this period, .. in oh eight. 	2
+	
+Holding on .. to these securities. .. I did not know -	2
+sp	
+All we know .. is the discipline of mark to market 	2
+sp	
+and .. reducing our risk .. when .. the markets are nervous, and when P_-and-L_s are moving. 	2
+sp	
+Uh, yes. .. And - and to a .. greater extent than us in most cases.	1+
+sp	
+Uh, that is correct.	1+
+sp	
+Um, 	0
+sp	
+ I did not. 	1
+sp	
+Oh, I'm sorry - 	x
+sp	
+I think 	1
+sp	
+as I heard it 	1
+sp	
+everything sounds 	1
+sp	
+correct. 	1+
+	
+But when you say concerns - .. I mean, I'm in the business - In my role, .. I will .. look deeply into everything .. that uh - that's surfaced here. There's - what - what's going on in this hearing today 	1+
+sp	
+is, of course, fact finding for you, 	1
+	
+but it's fact finding for everyone. .. So um, .. I - I - I heard nothing today 	1
+	
+that makes me think anything 	1
+{VOC breath}	
+um .. went wrong. .. But I won't - I - I - you - you raised transactions that I never heard of before and I will .. have people look deeply into them. 	1
+	
+I'm sorry, what date? 	0
+	
+Prior to September twenty first? 	0
+	
+Um, .. we .. had, um - 	1
+	
+We had - um, yes. .. We didn't - we - 	1+
+	
+{VOC start}	
+didn't resolve to do it, 	1
+	
+but it was something that we were very - 	1
+	
+uh very much looking - 	1
+{NVC}	
+uh - looking at. 	1
+	
+Yes, it was.	1+
+	
+Um -	0
+	
+There must be. I haven't s- I've never - I haven't reviewed the records. 	1+
+	
+Sure.	1+
+	
+And it was decided at that Board meeting not to do it. 	2
+	
+You mean outside -	0
+You mean - would - not a bank holding -	0
+	
+I think um - 	1
+	
+I do- 	1
+	
+I'm not sure how reali- 	1
+{VOC start}	
+You know, we'll have to wait and see how the legislation unfolds. I really um - .. I'm really not sure 	1
+	
+and I'll say it this way, how realistic 	1
+	
+that will be. A- if you - .. um - .. how realistic that will be. The reason why we were looking at it at the time 	1
+	
+was it was hard to - 	1
+{VOC start} uh - we rid- 	
+originally started with 	0
+	
+a whole regime for investment banks 	0
+	
+and then post-	0
+	
+Bear Stearns 	0
+	
+and certainly post-Lehman, .. I think there was, uh, you know, at that point, .. it was clear there was not going to be a whole regime 	1
+	
+for -	0
+	
+For the classical investment bank at that point, because there weren't that - there weren't uh - there weren't that many. 	1
+	
+I'm not sure. I think s- I - I think possibly. I'm not - I'm just not sure. 	2
+	
+It would make sense to me, but I'm just not sure. Um, I know there were a lot of facilities .. that were in place 	1
+	
+already, and I'm not sure, um - 	1
+	
+I'm just not s- I'm just not sure. 	1
+	
+Um, .. there are people - .. other people - .. even people here who might know that answer better than me. .. I'd - I'd - I know that we had .. access	1
+{VOC breath}	
+to certain funding facilities. 	0
+	
+I .. not sure it was the discount window per se. I don't think so, but I'm not sure. 	1
+	
+Yes, sir. 	x*
+	
+To the best of my belief, other than to test it 	0
+{VOC breath}	
+shortly after um 	0
+{VOC mouthnoise} 	
+we became it, just to see if it would work, 	0
+	
+I would say - 	0
+	
+I would say no. .. But I - as - as you'll notice, I am looking for uh -	1
+	
+confirmation from my C_F_O_.	x
+{VOC breath}	
+And I feel much better having gotten it. 	1
+	
+No. 	x
+	
+Um, I think executi- Well, .. first of all, some aspects of the bill, I think, have morphed over the last - .. maybe even over the last few days. I'm just not sure bec-	1
+	
+I see. 	0
+	
+Right. 	1+
+	
+I'm generally supportive, uh and .. to be sure, there are details of it that I think 	1
+	
+I'm less sure of. But I think, .. on the whole, .. financial reform .. is .. absolute- you know, is essential, and 	1
+	
+I will say that um, 	0
+{VOC mouthnoise}	
+last week I - uh, in New York, .. I listened to a speech by a Barack Obama .. at Wall Street, and one of the points he made 	0
+	
+um resonated with me because I'd said it myself. 	1
+	
+He said that the .. grea- the biggest beneficiaries .. of reform 	1+
+	
+will be .. Wall Street itself, 	1+
+	
+because .. proper reform will make the markets safer, .. and the big- uh and then I'll add my own piece, .. the biggest risks 	1
+	
+that .. financial institutions have .. are with each other. 	1
+	
+And so to the extent that that's all made safer, .. um, I think we'll - they - the - 	0
+{VOC breath}	
+America will be a big beneficiary, but specifically um, uh, we will, as well. 	1
+	
+You know, sir, I - .. I am not - in - .. in - you know - 	2-
+	
+I think you - I - I should give a qualification to my - 	2
+	
+There are parts of that bill 	2
+	
+that we will - that affect us 	2
+	
+and that we have particular expertise and experience in, 	2
+{VOC breath}	
+and that's really I - what I was addressing. 	2
+{VOC breath}	
+There are other .. big parts of that bill 	2
+{VOC breath}	
+that are just remote from our experience. 	2
+	
+How it affects community banks, .. how it affects mortgage originators, since we're only in that business in a de minimis way, 	2
+	
+and how it affects consumer banks, .. consumer legislation being a major part of it, 	2
+	
+is really remote from our experience because we don't engage in those activities. So I'm - I should give you that qualification.	2
+	
+I think -	2
+	
+I can't speak to .. the qualifications or standards 	2
+	
+of Fannie Mae or Freddie Mac. 	2
+	
+I can say .. that they were 	2
+	
+an instrument of policy 	2
+	
+to .. uh - to attract 	2
+	
+more money .. into .. home ownership. Which is - I'm not s- suggesting that's - .. I mean - uh but that's - that's what they accomplished. 	2
+	
+Yes. 	1+
+	
+I would say there are two, 	1
+	
+and there may be a lot more, but coming to mind, 	1
+{VOC breath}	
+there are two big .. policy 	1
+	
+um - 	0
+	
+facts .. that tend to br- draw more money into housing - 	1
+	
+um, at least two, 	1
+{VOC breath} 	
+one of which is that .. through the .. government-sponsor - sponsored entities, 	1
+{VOC breath}	
+money - .. the government would in a f- in a - .. implici- 	2
+{VOC start}	
+i- i- implicitly - 	2
+	
+those entities were able to draw in money .. because they were perceived to be .. quasi-government credits. .. That's one. And the other is, of course, um, 	2
+{VOC breath} 	
+the fact that the tax code .. allows you to deduct um mortgage interest. .. And so those two 	2
+	
+things .. would cause - would favor .. um .. uh, more money, all other things being equal, to flow into those sectors. 	2
+	
+Oh, I um -	0
+	
+since the beginning? .. Uh, not um -	2x
+	
+I might have.	1
+	
+Um - 	0
+	
+Po- um, .. I might have, but they were - they would be at a very uh general and high level, .. not specific. Uh oh -	1
+	
+Frankly, along the lines in which I'm talk- uh i- i- to the same way I'm talking about it to you. 	1
+{VOC start} 	
+The same -	x
+	
+Um, I call, 	0
+	
+you know as part of what I do, give- uh in my role, 	1
+{VOC breath}	
+I try to see um senior people in Treasury and at the White House and in um - frankly, in the legislature, 	1
+{VOC breath}	
+and introduce myself, talk abou- you know offer to discuss things on .. their mind and 	1
+{VOC breath}	
+offer them things, if they're interested in hearing it, on my mind. But they are generally - .. um, I - I - but I wasn't involved in any kind of roll-up-your-sleeve effort on specific points. 	1
+	
+Sure. 	1+
+	
+Right. 	x
+	
+Well, 	0
+	
+I think for sure 	2
+	
+we need .. the apparatus - 	2
+	
+{VOC start} {VOC start} {VOC start} 	
+could ver- very well be the apparatus proposed .. for systemic risk 	0
+	
+regulation .. and observing systems and people who can look 	0
+	
+in a tr- uh across 	0
+	
+all the different institutions and potential sources of systemic risk. 	0
+	
+Um, 	0
+	
+sec-	0
+	
+sec- I think that's very important. Secondly, 	2
+	
+and I think possibly the most important thing that's being discussed, 	2
+	
+is to recognize .. that despite every good intention, despite trying to see around every corner, .. you just .. will miss stuff, 	2
+	
+and to make sure that the system is better able to absorb 	2
+	
+the consequence of missing something. .. And so making .. financial institutions, including institutions like ourselves, 	2
+{VOC breath}	
+have .. appropriate levels of capital and liquidity, .. which by and large means .. more of both. 	2
+	
+That -	x
+	
+You might limit our leverage ratio. You might .. have us have 	1
+{VOC breath}	
+certain kinds of contingent securities, 	1
+{VOC breath}	
+which 	1
+	
+cause people to have to give us money at times we need it. There are a number of .. proposals out to do it, 	0
+{VOC breath}	
+but in general, the system would be made safer 	1
+{VOC breath}	
+if financial institutions had more .. capital. 	1
+{VOC breath}	
+There is, of course, a cost for this, .. because to the extent that you have more capital 	1
+	
+and lower leverage, 	1
+	
+loans will be more expensive. .. There will be less credit granted, but that is a tradeoff that after the experience of the last few years, 	2
+{VOC breath}	
+policy makers may well be .. interested in making, and it is a question of degree that -	0
+(??)	x
+	
+Right. So (??)	x
+	
+And .. I think at least a third level, 	1
+	
+of thing - after you try to avoid all the problems and after you try to have more capital to absorb the problems, 	1
+{VOC breath}	
+you have to have a resolution authority to make sure if .. number one and number two don't work, 	1
+	
+that an individual institution .. that was poorly run or undercapitalized 	1
+{VOC breath}	
+doesn't um - doesn't bring down the system, 	1
+	
+and so um, and make it so no institution should be too big to fail 	2
+{VOC breath}	
+or have to burden the public with the cost of its um - of its uh - .. failure or being saved. 	2
+	
+Um, .. my - 	0
+	
+{VOC mouthnoise}	
+You know, I can't um, .. I can't um,  answer your question. My experience with the F_D_I_C_, 	2-
+{VOC breath}	
+while limited, because as we started out in the beginning of this conversation, we've only been a bank 	2
+	
+for a short period of time, 	2
+	
+um, .. has been um, 	0
+	
+you know, makes me respect them quite - .. you know, to quite a g- great degree, 	2
+{VOC breath}	
+but it's been in connection with their existing functions. 	0
+	
+Yes. 	1+
+	
+I'm not s- I'm not sure of the interaction of that. 	1
+{VOC breath}	
+Senator, one thing I would say - 	2
+	
+I - 	x
+	
+Again, these - uh again I - I - uh, I - I'll be - .. I don't know how that interacts, and I don't know the rules, and I don't know how they'll be applied 	2
+{VOC breath}	
+in the details of the regulations, and the devil, of course, is always in the details -	2
+	
+I said we .. support the direction of the bill, and I th- um - 	2
+	
+but with respect to this, I think it's very important for Goldman Sachs, 	2
+	
+and I think it's very important for taxpayers - but uh - but let me come back and say the first - it's important for Goldman Sachs 	2
+	
+that we take away .. the notion - it's is a very big .. burden 	2
+	
+on us 	2
+	
+if people think 	2
+	
+we're too big to fail. .. We don't think we're too big to fail. 	2
+{VOC breath} 	
+We don't wanna be too big to fail. 	2
+	
+But a lot of the negativity 	2
+	
+that's associated with us 	2
+	
+is because people think we're getting the benefit of being too big to fail, 	2
+{VOC breath} 	
+and I do- and I don't think it's good for the country .. or for us to be in that place. 	2
+	
+Yes. 	1+
+	
+Um, .. certainly at that time, .. um, uh, the answer is, yes, at that time. At that time, 	1+
+	
+even a small 	1
+	
+institution might have been too big to fail, just because of the fragility. 	1
+{VOC breath}	
+There was so much tinder - 	1
+	
+So I would think -	x
+	
+I thought - I - I - I thought of that -	2
+	
+I thought of that. 	2
+	
+I don't think that that would be a good idea, and I'm - and I'm speaking, Senator, from a position 	2-
+{VOC breath}	
+of even - e- of not being 	2
+{VOC breath}	
+really .. one of those big banks. In other words, our balance sheet of something over eight hundred billion dollars, 	2
+{VOC breath}	
+I think is about .. a third or forty percent of where the big banks are. .. So even though we are a big investment bank, 	2
+	
+because we don't do all those, we're not as big as those - We're not - we're not as big as those and don't have the balance sheet. 	2
+{VOC breath}	
+But notwithstanding that we're one of the s- you know, the smaller ones, I would say 	2
+{VOC breath}	
+	#
+there is a lot of - 	#
+obviously, if someone is going to get to that position .. of failing, the fact that they're big 	2
+	
+makes it worse. 	2
+	
+But .. the fact that banks are bigger and more diverse and more activities in more places in the world 	2
+{VOC breath}	
+probably makes them .. safer. 	2
+	
+And secondly, 	2
+{VOC breath}	
+when you think of the big financing purposes in the world and what the U_S_ needs to mee- to maintain its competitiveness, 	2
+	
+having financial institutions too small 	2
+{VOC breath}	
+to conduct .. financing .. and a competitive basis as the rest of the world, I think will be 	2
+{VOC breath}	
+a um - 	0
+{VOC mouthnoise}	
+will be a uh competitive disadvantage, uh, to the United States. 	1
+	
+Yes, sir. 	1+
+	
+I do, sir. 	1+
+	
+You know, I wasn't - 	2
+	
+uh I wasn't close to the decision, 	2
+	
+but uh can I - can I give you - um - but I think - 	2
+	
+I wa- I wasn't specific about that, but I think what we - 	2
+	
+we've been cr- .. we .. wanted to get, .. and I wasn't thinking about that because we also put - 	2
+	
+we also 	0
+	
+provided some information 	0
+{VOC breath}	
+from emails with respect to the business and 	0
+{VOC breath}	
+these - there were elements here 	0
+{VOC breath}	
+that were - spoke badly of the firm 	1
+	
+and we just wanted to .. come abreast 	2
+	
+of all the issues .. about which were bad to the firm. There was nothing in anything, to my understanding, 	2
+	
+about Mister Tourre's subsequent emails 	0
+{VOC breath}	
+that weren't evidenced .. by the emails that had already been out. 	0
+{VOC breath}	
+And so I didn't think we were adding .. anything to distract - 	1
+	
+Senator, um, I don't know 	1
+	
+what it was, but there were emails .. that were extant 	1
+	
+and - 	0
+	
+t- uh again, this is all to the best of my knowledge - 	1
+	
+And I think what we - and I think - and I think what we wanted to do - 	1
+	
+and not - with respect to 	1
+{VOC breath}	
+some of the issues 	1
+{VOC breath}	
+was to just 	1
+	
+get inform- get it out, .. so that we could deal with it. Because at this point, you want - um - And I think you are aware that the press 	1
+	
+was just 	0
+	
+very - And maybe the press got- I - I don't - I don't know where they came from, but I don't think we added, 	2
+	
+to the best of my knowledge, but I don't know, I don't think we added to the state of knowledge about those emails which um, 	2
+{VOC mouthnoise}	
+which our employee addressed, and I think needed to address. 	2
+	
+Thank you, Senator. 	0
+	
+I - I - I would welcome the company. 	x
+	
+Oh, I'm sorry. 	x
+	
+Uh, I must - Could you give me the number again? I'm -	0
+	
+I'm sorry. I apologize. 	0
+	
+Senator, I - I - I - I - I don't know whether - 	2
+	
+I'm reading the words. I don't know 	2
+	
+who these - uh, who these people are. It sounds like, 	2
+	
+just looking at it, it sounds like 	1
+	
+somebody is complaining 	1
+	
+and asking - recommending that we not do 	1
+	
+some of these - mo- most - some of things, from what I can see on this page. 	1
+	
+But I don't know -	x
+	
+But I don't know whether any of this was - 	1
+{VOC start} {VOC start}	
+I don't know who these people are, 	2
+	
+and I don't know whether any of this was done. I just -	2
+	
+Are you saying that we - we did these? 	0
+	
+No, I know it's a document -	x
+	
+But -	x
+	
+Well I -	x
+	
+I think - 	1
+	
+There better have been. I think we are uh sp- we are supposed to analyze uh and do due diligence with respect to 	2
+{VOC breath}	
+um - in - in securities and instruments that are created. 	0
+	
+I don't know specifically about uh, Long Beach. I know we have, 	1
+	
+in all our businesses, .. due diligence processes .. um .. that are um - 	1
+	
+that are um - you know, that are appropriate .. uh f- for the business. So, 	2
+{VOC breath}	
+I'd say as a matter of process,	2
+	
+I would assume appropriate due diligence was done on it, .. uh based on our - you know, based on our standards and our, you know, protocols. 	1
+	
+O- okay. I'm not e- I'm not sure whether an instrument was created out of this, but I - I get the point and will look for it. 	2
+	
+Sure. 	x
+	
+Sure. 	x
+	
+Sure. 	x
+	
+Um, given that things didn't work out well, 	1
+	
+in hindsight - 	1
+{VOC mouthnoise}	
+Sorry. 	0
+	
+in si- hindsight I wish um we had d- I wish we had done more. 	2
+	
+I think we 	2
+	
+thought at the time, and again, 	2
+	
+{VOC start}	
+	
+I don't have contemporaneous knowledge of it and I'm not an expert .. on - on - on that area. 	2
+{VOC breath}	
+Um, I believe we um, believed we were doing appropriate due diligence and appropriate disclosure. 	2
+{VOC breath}	
+Things um - .. uh you know - things went 	2
+	
+much further 	2
+{VOC breath}	
+and got much worse 	2
+	
+um than people uh - people realized. 	2
+	
+I don't know that we would have - I don't know - 	2
+	
+I wish we had done - I - I don't know what due diligence m- would have picked that up, but I wish we had done more .. to get there. 	2
+	
+Um, 	0
+	
+I don't -	x
+	
+I don't think so. 	2-
+	
+Uh I don't - I don't know. .. I'm not sure. 	1
+	
+(What's -)	x
+	
+I'm thinking in terms of risk. I'm not s- I'm not sure they were equity residual - 	1
+{VOC start} {VOC start} {VOC start} {VOC start} 	
+I'm - I'm not - I'm not sure. .. I - I don't - I don't know that I had formed an- uh a view of equity residual positions, per se. 	2
+	
+I got to the page. 	0
+	
+Um. 	0
+	
+I don't remember uh typing this, but I could tell you clearly what I - how I use those words and what I mean. 	2
+	
+Um .. I hope I have this right, but when I use the expression cats and dogs, I mean miscellaneous stuff. 	2
+	
+Is - I hope everybody thinks of it that way. That's what I - that's how I use the words. 	1
+	
+Um, and I'm referring - this is just my normal .. rant .. about aged inventory. Just as a m- a matter of risk management. 	2
+{VOC breath}	
+When somebody tells me .. they're losing money on old stuff, 	2
+{VOC breath}	
+my reaction is, 	2
+	
+why do you - ? You know, part of the discipline of our business 	2
+{VOC breath}	
+is to .. manage risk 	2
+{VOC breath}	
+and sell .. inventory, and so here, I'm not even thinking about 	2
+{VOC breath}	
+the particular .. asset class he's talking about. I'm saying, could should we have cleaned up these books? In other words, I'm yelling at him. 	2
+	
+Before, and are we doing enough right now to sell off cats and dogs in other books throughout the division? I'm basically saying 	2
+{VOC breath}	
+that .. you're head of the division. .. You're supposed to be managing 	2
+{VOC breath}	
+um um an aged inven- you know we have something called aged inventory, which is just as a matter of discipline, 	2
+{VOC breath}	
+um let's not accumulate residuals, parts of other deals. Sometimes 	1
+{VOC breath}	
+you have little pieces left over, but those little pieces, .. if you don't pay at- they're not big enough to pay attention to, 	0
+{VOC breath}	
+but in the aggregate can hurt you. So I'm saying, 	1
+{VOC breath}	
+you know, I'm just being - 	1
+	
+Senator, it wouldn't matter to me one bit. 	2
+{VOC breath}	
+If we had risk on our book, it wouldn't matter to me 	2
+{VOC breath}	
+whether it was there for a long time or a short time. 	2
+{VOC breath}	
+Risk is risk. 	2
+	
+And I would want them - I would want peop- if we would ask people to manage their risk down, 	1
+	
+they would manage their risk down. By the way, I found, you know, on the front page - I'm - I - I'm sure I didn't .. look at this whole - 	2
+	
+The fellow who wrote to me said, 	0
+{VOC breath}	
+most of the risk is in old residual positions from deal- d- d- deals done over the last few years, 	0
+{VOC breath}	
+and that's what I was responding to. 	0
+	
+In other words, a person - It's inac- it's undisciplined 	2
+	
+to hold stuff .. because it's small 	2
+	
+for years. .. It just is .. probably because it was too small to pay attention to, and that's not uh the way you're supposed to be.	2
+	
+(Well, I'm try- I just -)	x
+Uh, referring to most of the risk is an old residual position. Anyway, that's what I think I was saying. 	2
+	
+Um - ..  I - I - you know, I'm not inv- I haven't heard about or involved in it. 	1
+	
+And I mean I'm sure there is. .. Um, .. but - 	2
+	
+but if there's somebody who has- .. And if - uh if there's somebody whose business 	2
+	
+depends 	2
+	
+on - 	2
+	
+would be able to do their business better 	1
+	
+if they were able to .. hedge or eliminate 	2
+	
+a financial risk, 	2
+	
+and they came to us and asked us to eliminate that risk, and it was a legitimate, proper, and honest and 	2
+	
+susceptible to being understood, 	2
+	
+I think we would - they would come to us and ask to do it. You know, 	2
+{VOC breath}	
+when you're doing that -	x
+	
+I- I can't say what Mister Paulson is speaking, but there's nothing wrong 	2
+{VOC breath}	
+specula- If he was, which I don't know what he was thinking, if he was just a speculator, 	2
+	
+there are people who speculate in corn and speculate in 	2
+{VOC breath}	
+all sorts of commodities 	2
+{VOC breath}	
+that allow 	2
+{VOC breath}	
+the professional users of those markets 	2
+{VOC breath}	
+to complete their hedges. 	2
+{VOC breath}	
+That's a socially 	2
+{VOC start}	
+acceptable -	2
+	#
+	
+You know, w- every futures contract - 	2
+{VOC breath}	
+on oil or anything consists of - .. You could characterize it as a bet, 	2
+	
+but not the underlying ca- commodity. Some of these things just don't even settle in physical form, but they provide the liquidity 	2
+{VOC breath}	
+and the opportunity for people who want to hedge themselves 	2
+	
+to get in and take that position. 	2
+	
+Oh, for sure. 	x
+	
+Let me - let me be clear - 	x
+	
+I'm sorry, that what wasn't a big deal? 	0
+	
+Well - 	0
+	
+Senator, I - I - I -	x
+	
+Senator, on these transactions, 	0
+{VOC breath}	
+I know .. there - And I feel it. .. I know there is a inherent 	2
+	
+distaste 	2
+	
+for the short side of things as opposed to the long side of things. But for every transaction, there's a buyer and a seller 	2
+{VOC breath}	
+and there's nothing immoral 	2
+{VOC breath}	
+about somebody structuring a position - And by the way, some of the people who are going - 	2
+	
+taking the short position may just be wanting to str- uh restructure their portfolios, as well. 	2
+	
+But - 	x
+{VOC breath} 	
+but - but - Yes. 	x
+	
+I do. 	2+
+	
+(Ace-)	x
+	
+In that transaction, A_C_A_, the selection agent, 	2
+	
+I think .. *was the buyer 	2
+	
+itself 	2
+	
+of something like eighty or ninety percent of the transaction. 	2
+{VOC breath}	
+The biggest buyer, .. the biggest long 	2
+{VOC breath}	
+in that whole transaction 	2
+{VOC breath}	
+was A_C_A_ itself. I think it took a position 	2
+{VOC breath}	
+of a total deal of between one and one- around one point one billion dollars. 	2
+{VOC breath}	
+I think it took over nine hundred million dollars of the transaction itself. 	2
+{VOC breath}	
+So the biggest buyer of that transaction 	2
+{VOC breath}	
+was very well represented. It was the selection agent itself. 	2
+	
+The selection agent had done - had 	2
+	
+engaged in a lot of these portfolios and was one of the biggest portfolio managers 	2
+{VOC breath} 	
+in that asset class. 	2
+{VOC breath} 	
+You know, when we talk about investors and deals, it sounds like 	2
+{VOC breath} 	
+this is a broad distribution. 	2
+	
+There was only 	2
+	
+three professional investors .. engaged in the whole transaction. 	2
+	
+This was - 	1
+	
+In effect, there was no transaction - 	2
+	
+This was not a transaction that had to be done, 	2
+{VOC breath} 	
+this was a transaction that only worked 	2
+{VOC breath} 	
+if the longs and the shorts agreed on what the portfolio was. 	2
+	
+And I realize that that's not intuitive, but 	2
+{VOC breath} 	
+that - those professional investors .. wanted those exposures. 	2
+	
+Uh, in retrospect, um .. they were .. uh inaccurate. 	1
+	
+I think they never anticipated 	1
+	
+that the market could fall as much as the market fell. 	1
+	
+Again, 	0
+	
+this is not contemporaneous knowledge. This is not anything in depth. I know about the - 	1
+{NVC}	
+I mean, I read articles, too, but it just - and that - and that's where I get 	1
+	
+some of this from. .. But .. it just 	1
+	
+seems that they um 	1
+{VOC mouthnoise}	
+never contempla- they - they never worked into their models 	1
+	
+the kind of move 	1
+	
+that occurred .. uh in the market. 	1
+{VOC breath}	
+Um, and -	0
+	
+and that's - you know, I think that's why they didn't work. 	1
+	
+Um, .. I don't know. The first panel uh that you had today 	1
+	
+um, 	0
+	
+is - included people who 	0
+	
+execute deals .. and .. uh - in connection with obtain ratings. In my entire career at Goldman Sachs, 	0
+	
+I never dealt .. directly with a rating agency other 	1#
+	
+than with the rating of Goldman Sachs. 	0#
+	
+And I could te- {VOC laugh}	x
+	
+And I've been very under- {VOC laugh} 	2
+and they - and -	2
+they've been very - 	2
+{VOC start} {VOC start} I - 	
+I've not - I'm not sure that I've been able to influence them. 	2
+	
+(??)	x
+	
+SIVs?	0
+	
+S- SIV. Yeah, okay, I'm sorry.	0
+	
+Uh, I'm not sure. 	1
+	
+I'm not sure that we do. 	1
+	
+Uh, I - I - I'm not sure. I think .. some deal trusts may be - 	1
+	
+	
+I - I'm just - I - I - I'm just not sure. I do - I could tell you 	1
+{VOC breath}	
+that as a matter of our policy, 	1
+	
+we mark to market 	2
+	
+all the risks of the firm, 	2
+	
+whether they are on balance sheet or off balance sheet, so there would be no 	1
+	
+P_ and L_ consequence to us -	0
+	
+I - I - I - .. I can't - 	2-
+{VOC breath}	
+I - 	2-
+	
+I don't know. 	2-
+	
+Again, .. uh well, you obviously know I wasn't there. 	0
+	
+But, 	0
+	
+um, I think 	1
+	
+our person um .. who testified in the first p- uh panel, .. um Fabrice Tourre, 	0
+	
+maintained that he believed .. um that they did know, 	1
+	
+and I think that - Look, some of these things, it's not a question of - You - you give me license in the sense that I - you know I wasn't there and I don't know. I'm doing the best I can, so -	2
+{VOC breath}	
+Um .. I think 	1
+	
+there um - 	1
+	
+there's a lot of 	1
+	
+elements of the transaction .. and reputations and things that suggest 	1
+	
+they should know and must have known, .. and then there's also a lot of opinions that are floating out .. in which some people say they did know. 	2
+{VOC breath}	
+But I think that ki- it's not a question of 	1
+{VOC breath}	
+not wanting to tell you. I can't tell you more. I know that one of the contested facts 	2
+	
+in the case 	2
+	
+is whether um 	2
+{VOC mouthnoise}	
+the - uh the - uh the selection agent knew or didn't know. 	2
+	
+I don't - 	2
+	
+I'm - I - again, 	2
+{VOC start}	
+you know I'm n- I'm not sh- I - I'm not sure. In other words, the leg- the legal - 	2
+	
+the complaint 	2
+	
+is whether 	2
+	
+the - 	2
+	
+I mean, pa- at least part of the complaint .. is whether the influence 	2
+	
+had 	2
+	
+an undue - uh of the - of that person had an undue effect. I don't think there would be anybo- I'm not sure that anybody - there's any duty on us 	2
+	
+to disclose 	2
+	
+the existence of that 	2
+	
+short position. 	2
+	
+This is a synthetic, .. so there *had to have been a short position. If it wasn't .. them, it would be us. 	2
+	
+So there - everybody in the transaction knew, .. to the extent there was a long, .. there had to have been a short. 	2
+	
+The issue is not whether there was a short and whether we were disclosing it. It just *has to be a short. 	2
+	
+The question was, did that short 	2
+	
+have .. undue influence 	2
+	
+on the placement age- on the placement age- on the selection agent, 	2
+{VOC breath}	
+and then you get to the situation where 	2
+	
+our person says - thinks - believes they knew. 	2
+	
+I think 	2
+	
+Paulson .. you know may have - you know, person may have been quoted as having an opinion on that. 	2
+{VOC breath}	
+And then there's the issue with - with, well, 	2
+	
+how could you not know? 	2
+	
+Kind of element to it. So you get a factual thing, and obviously it's a legal case, 	2
+{VOC breath}	
+so there are people on one side and people on the other, and I don't want to diminish it, but 	2
+{VOC breath} {NVC}	
+that's the best - that's the best I can do. That's what they're - that's what the - the case is. 	2
+{VOC breath}	
+That's the factual issue over which the case is. 	2
+	
+{VOC start} Again, I'm doing - 	1
+{VOC breath}	
+I'll do the best I can, 	2
+not 	x
+knowing - not .. knowing anyth- any of these facts firsthand. 	1
+	
+But .. one of the facts, and I think it's on the - uh in the S_E_C_s complaint, 	1
+	
+was .. that 	0
+	
+the portfolio that was initially proposed, 	0
+	
+um in which um 	0
+	
+the hedge fund 	0
+{VOC breath}	
+at least participated, and maybe, for all I know, gave all - I - uh I'm not sure, maybe proposed all the names - 	1
+	
+more than half those securities 	0
+	
+were thrown out 	0
+	
+by the .. selection agent. Now, .. in throwing out more than half, 	2
+	
+they're obviously looking and making a judgment 	2
+	
+about all of them. 	2
+	
+They just turned back 	2
+	
+more than half of them, but that doesn't mean they only looked at that half. They looked at all of them and asked that more than half of them 	2
+{VOC breath}	
+be eliminated. 	2
+	
+Then 	0
+	
+Paulson, I guess, proposed others. .. Some of those were accepted. .. Some of those were turned back. 	2
+{VOC breath}	
+And then I_K_B_ and the - .. also proposed, .. I think, some. 	2
+{VOC breath}	
+So there was a healthy .. back and forth over - 	2
+{VOC breath}	
+So it looks 	2
+	
+like they were - And so every decision that was made, 	2
+{VOC breath}	
+people may have been - You know, there's no deal .. unless the long and the short agree to it. 	2
+{VOC breath}	
+So, there was no doubt, 	2
+	
+no doubt because it's part of the record there was conversations between them, but whether 	2
+{VOC breath}	
+the selection agent 	2
+{VOC breath}	
+that had the responsibility and duty to pick that portfolio picked that portfolio. They did. 	2
+	
+That's our - that's our point of view. .. The S_E_C_, .. I think, 	2
+	
+um .. has its point of view. Now, I hope I'm doing a good job representing both sides of this because I'm really - I'm trying to be 	2
+	
+uh cooperative and not resort - uh and not not answering, but that's - that's my best understanding that I - that I have. 	2
+	
+Well - 	x
+	
+well, on the basis of what - that's consistent with what I just said, and that's consistent, in my view, that they did 	2
+	
+uh select the um - 	1
+{VOC mouthnoise}	
+um the portfolio. We have an independent auditor. 	2
+	
+It doesn't mean we don't interact with them. 	2
+	
+It doesn't mean that we don't give them our views if they have an dif- if they have an opinion of how they should treat an accounting i- item at Goldman Sachs. But at the end of the day, they're the independent auditor and they make the judgment. y	2
+	
+Um. 	0
+	
+I - I - I don't know, but I'm - uh if there's a disclosure 	2
+{VOC start}	
+uh, .. document, which I assume there is - I mean, there were disclosure materials, yes.	1
+	
+There are disclosure materials, yes. 	0
+	
+Listen, I think the financial reform 	2
+	
+is .. a good step -	2
+	
+That we're working on. Uh, you know, there'll be - 	2
+	
+there's 	0
+	
+gives and takes in it, and I'm not sure myself where it would - 	2
+	
+Nobody is. Where it would uh - where it would come out, so they ha- need for reform. I mentioned earlier 	2
+{VOC breath}	
+the need for higher capital standards, systemic .. you know risk 	2
+	
+uh regulation. .. Um, 	1
+	
+that's gener- that's general. And .. obviously every firm 	1
+	
+needs .. to manage its risks 	2
+	
+very well and better than they have been doing in- in most cases. 	2
+	
+And I think in our case, particularly, you have to look also through 	2
+{VOC breath}	
+every aspect of your business practices 	1
+	
+to make sure, .. uh and - and to .. not be defensive, which there's a tendency to be, but to learn from 	1
+	
+prior .. um - .. you know, pr- prior situations, including the one we are in now, .. and make sure that you um- you do a better job. 	1
+	
+Senator, there's not - Even .. as I'm explaining what we did and why I thought 	2
+	
+it was adequate at the time, 	2
+	
+there is not a thing that will arise 	2
+	
+here .. and elsewhere 	2
+{VOC breath}	
+that won't be the subject of some big soul search and some tightening up 	2
+	
+um of some s- of standards. 	1
+{NVC}	
+We are - 	2
+	
+we	0
+	
+have a 	0
+	
+high level committee in our firm 	0
+{VOC breath}	
+going over every - We call it Business Practices Committee, 	0
+{VOC breath}	
+chaired by uh - our - our senior - uh our vice chairman, one of our named executive officers, that involve 	0
+	
+the seniormost people in the firm, 	0
+	
+and 	0
+{VOC breath}	
+it is not with reference to .. legal requirements, law, whether we can win a lawsuit or lose a lawsuit, what happened, what were the standards of the day were, 	0
+{VOC breath}	
+and we are going to g- we are 	0
+	
+going over everything. Now, we always .. do things - You know, it's a little bit - you know, it's like painting a bridge. You get to the end of the bridge, you go back, and you paint uh beginning because things are evolving. 	1
+{VOC breath}	
+But, 	0
+	
+if 	0
+	
+you know, we have to - everybody has to .. tighten up and ratchet .. um their standards up 	1
+	
+and learn um - learn from these - the- these elements. You asked me - you were just talking about 	1
+	
+the standards 	0
+{NVC}	
+in that particular transaction that's the subject of the lawsuit. 	0
+	
+Um. 	0
+	
+We may - we have the p- we- we have the position that we do, and we believe everything is adequate, but 	0
+	
+given the criticism that we're going under and given the position that the S_E_C_ has taken with our sta- with our duties, 	1
+	
+we wouldn't do it that- you know, guess what. 	2
+	
+We - we - we could h- we would tighten that up now. Of course, everything that's been the subject of criticism .. uh will be tightened up. 	2
+	
+I don't know them well, but I know that I've heard of the company, of course.	0
+	
+Yep.	x
+	
+Yes. 	1+
+	
+I think the industry is substantially less leveraged. 	1
+	
+And I- I'll tell you, we thought .. we weren't leveraged going into the crisis, 	1
+	
+um, .. as much - and we weren't, as much as other fir- other investment banks like ourselves. 	1
+	
+With the benefit of hindsight, .. we were too leveraged. .. Even at what we thought at the time, 	2
+	
+uh was fine, and we're substantially - we're less than half as leveraged 	1
+{NVC}	
+as we were then. 	1
+	
+Um, the recency of this crisis 	2
+	
+is going to reverberate with me 	2
+	
+for the rest of my career and my life. So I will be - .. uh, you know - uh, 	2
+	
+the - the image of it and the fear and the anxiety that we all had. And so 	1
+{VOC breath}	
+I agree, uh I think the firm - uh all firms will be run 	1
+{VOC breath}	
+much more um, 	1
+{VOC mouthnoise}	
+you know - you know, much more conservatively, and I hope for a long time. And I tell you 	1
+{VOC breath}	
+that society will not rely on the good will .. and the memory of financial firms. I think s- uh, I think 	1
+	
+Congress and regulators .. will impose 	1
+	
+um .. tighter - um .. uh higher capital requirements and liquidity re- requirements, 	1
+{VOC breath}	
+and I think that's appropriate, because 	1
+{VOC breath}	
+as we also found out in the crisis, 	1
+	
+we all 	1
+	
+have um - we all have interrelated 	1
+	
+obligations to each other. 	1
+{VOC breath}	
+and it w- wouldn't suit me to be - .. to have Goldman Sachs be conservative, if everybody else was going to take too much risk and put the system at risk, 	1
+	
+which is why, again, I echo 	1
+	
+making the world safer. 	1
+	
+And ending too big to fail, I think, is something um that is a substantial interest of society at large and also of the industry and Goldman Sachs. 	1
+	

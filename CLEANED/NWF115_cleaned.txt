@@ -99,7 +99,7 @@
 1	6B	yeah .
 0	6B	football equipment .
 2	6B	yeah . and if they have - if they 're using sub-par equipment that could be a public health risk .
-0	6B	and then acting coaches { voc breath {
+0	6B	and then acting coaches 
 2	6B	i do n't know how necessary the coaches are - in education . because drama teachers usually -
 2	6B	are not - acting coaches .
 0	6B	so .

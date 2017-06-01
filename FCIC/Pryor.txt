@@ -1,0 +1,241 @@
+sp	
+Thank you, Mister Chairman. 	0
+{NVC}	
+Uh, I'd like to start, if I can, 	1
+{VOC start}	
+about - 	0
+{NVC}	
+with the 	0
+	
+topic of asking you about 	0
+	
+um .. credit rating agencies. In retrospect, .. uh how accurate .. were the credit rating agencies 	0
+{VOC breath}	
+in rating the various tranches of C_D_O_s? 	0
+	
+And - and so, 	0
+	
+you - you know you - 	0
+	
+these got rated as triple A_, 	1
+{VOC breath}	
+and um I know they were downgraded later, but 	0
+{VOC breath}	
+w- why do you think that they missed the rating so bad? 	1
+	
+From your standpoint, uh what ability, if any, 	0
+{VOC breath}	
+do investment banks have to influence a rating by a credit rating agency? 	0
+{VOC breath}	
+Can- can you kinda, .. as lawyers say, forum shop and try to find a 	0
+	
+better rating with a different agency? 	0
+	
+Okay. 	0
+	
+Okay. 	0
+Um. 	0
+	
+Uh -	0
+	
+Okay. 	0
+{VOC breath}	
+That's fair enough. Let me uh ask a - a question I'm not sure anyone has asked you on a topic that no one has touched on yet. 	1+
+{VOC breath}	
+And that is the use of off balance sheet limited and special investment partnerships. 	0
+{VOC breath}	
+Uh, I have a concern about those, and - 	1
+	
+What's that? 	0
+	
+The- the off balance sheet 	0
+{VOC breath}	
+limited and special investment partnerships. 	0
+{VOC breath}	
+Um. 	0
+	
+Why would your company ever want to use an off balance sheet 	0
+{VOC breath}	
+um investment vehicle? Why - why - why would - why would you all ever do that? 	0
+	
+What's the - what's the motivation to move it off balance sheet? 	0
+	
+(But -)	0
+	
+But - .. but Goldman .. does that, right? 	1
+	
+Okay. 	0
+	
+So they're disclosed? 	1
+{VOC breath}	
+The off balance sheet is disclosed? 	1
+	
+You don't know. 	1#
+	
+Okay. 	0
+{VOC breath}	
+Well, we - we may follow up in another context on that. 	1
+	
+Uh, I'd like to ask you about 	1
+	
+the Securities and Exchange Commission case, if you're comfortable answering these questions. And if your lawyer says you're not, I understand why you wouldn't be, but 	1
+	
+I do have .. uh some questions based on the press release that the 	0
+	
+S_E_C_ sent out .. uh back on April sixteen. 	0
+	
+And 	0
+{VOC mouthnoise}	
+uh I just want - if - if you'll answer, I'd just like to get a feel for, 	1
+	
+um, 	0
+	
+{NVC}	
+	
+{VOC start}	
+you know, what you think really happened, and I'd li- I'd li- I guess I'd like to give you a chance to explain some of this. 	1
+	
+Um. 	0
+	
+Goldman - it says, Goldman Sachs failed to disclose to investors vital information about the C_D_O_, 	0
+{VOC breath}	
+in particular the role that a major hedge fund played in the portfolio selection process 	0
+	
+and the fact that the hedge fund had taken a short position 	0
+	
+against the C_D_O_. 	0
+	
+Is that true, that you failed to disclose that? 	0
+	
+Right. 	0
+	
+Right. 	x
+	
+Le- let me ask the - the follow-up question about your standard 	1
+	
+of uh behavior, I guess we can say. 	1
+{VOC breath}	
+Should that information have been disclosed to investors? 	0
+	
+Right. 	0
+And - and let me go to the next paragraph. It says, Goldman .. wrongly permitted a client that was betting against the mortgage market to heavily influence 	0
+	
+which mortgage securities to include in an investment portfolio 	0
+	
+while telling other investors that the securities 	0
+{VOC breath}	
+were selected by an independent, objective third party. So the first question is, is that allegation true? 	0
+	
+And .. if it is - 	0
+	
+Right. 	x
+	
+This press release also says, the marketing materials for the C_D_O_ known as Abacus two thousand seven dash A_C_ one, 	0
+	
+all .. represented that the R_M_B_S_ portfolio underlying the C_D_O_ 	0
+	
+was selected by A_C_A_ Management, L_L_C_, a third party with expertise in analyzing credit risk in R_M_B_S_. 	0
+	
+The S_E_C_ alleges that undisclosed in the marketing materials and unbeknownst to the investors, the Paulson 	0
+	
+and Company hedge fund, .. which was poised to benefit 	0
+{VOC breath}	
+if the R_M_B_S_ .. defaulted, 	0
+{VOC breath}	
+played a sig- a significant role in selecting which R_M_B_S_ should make up the portfolio. 	0
+	
+Um, .. is that true, that all the materials .. represented - 	0
+	
+um, 	0
+{VOC start}	
+that the uh .. R_M_B_S_ portfolio was selected - 	0
+	
+underlying the C_D_O_ was selected by A_C_A_ Management? 	0
+	
+Is that true? 	0
+	
+And do you have documentation there at your company about what was disclosed to whom and when? 	0
+	
+And so on these type transactions, there are 	1
+	
+documented disclosure materials that .. pass among all the parties? 	1
+	
+Kay. 	0
+	
+Um, in the fa- in the past twenty five years, .. America .. has seen an increasing number and severity 	1
+{VOC breath}	
+of financial crises. 	1
+	
+You have the savings and loan crisis, .. Enron, the dot-com bubble, the housing bubble. 	1
+	
+Um, what .. steps .. will Wall Street take to assure that there is not another financial crisis? 	0
+	
+That - that we're working on now? 	0
+	
+Well, that was 	1
+{VOC breath}	
+uh one of my 	1
+{NVC}	
+questions that I was going to follow up with, is what are the lessons learned 	1
+{VOC breath}	
+from this 	0
+{NVC}	
+most recent financial crisis, and 	0
+	
+what is Goldman .. doing .. differently internally 	0
+	
+uh now that uh you've had to go through the bailout and all the other 	0
+{VOC breath}	
+strains and difficulties that we've all gone through the last year and a half? 	0
+	
+You know, there's a 	1
+	
+company uh that's .. based in Little Rock .. named Stevens, Incorporated. I don't know if you know Stevens, Inc. 	1
+	
+And um, 	0
+	
+Jack Stevens, one of the .. founding .. brothers of that - There were two Stevens brothers that founded that company. 	0
+	
+He always said that uh he had the philosophy of, 	0
+{VOC breath}	
+we want to be in business tomorrow. 	0
+	
+And .. what he meant by that, and the way apparently Stevens still operates is 	0
+	
+they want to service .. their customers, 	1
+	
+do an excellent job there, 	1
+	
+and also they want to .. uh be 	1
+{VOC breath}	
+prudent .. and um, 	1
+	
+you know, jealously guard the trust of their investors. So, 	1
+{VOC breath}	
+Stevens, as far as I know, has never gotten into some of these twenty to one, thirty to one, forty to one type, 	1
+	
+you know leveraged .. deals. They just don't - don't do that. And 	1
+{VOC breath}	
+I'm sure they haven't made as much money as some in the industry have, but also, 	1
+	
+I think that um .. they .. have remained very very sound through this process. 	1
+	
+My question is, 	0
+	
+um, 	0
+	
+is Goldman Sachs .. and or the industry 	0
+{VOC breath}	
+changing those really high leverage ratios and going back to something that 	0
+{VOC breath}	
+uh I think is more appropriate, and you may s- you may say more conservative, but 	1
+	
+you know, that is - is based more on reality rather than just, you know, how much money you can make off one transaction? 	1
+	
+Thank you. Mister Chairman, thank you - and, Mister Chairman, thank you for your 	0
+	
+uh diligence on this matter. Like I said, this didn't start with you uh two weeks ago. This - 	1
+{VOC breath}	
+has been going on for a year and a half and you've just done yeoman's work on this. Thank you. 	1
+	
+sp	

@@ -131,7 +131,7 @@
 0	6B	juice machines . book keeping classes and music teachers . okay .
 0	6B	so , is there anything there that you can just easily remove ?
 2	6B	okay . football equipment . and i can easily remove assistant cooks and sugar free juice machines .
-1	6B	okay , so - okay . trunc okay . trunc okay . so - sure 1+
+1	6B	okay , so - okay . trunc okay . trunc okay . so - sure 
 2	6B	people can drink water . they do n't need to drink juice . okay , so - so -
 2	6B	well , that 's -
 2	6B	that 's uh -

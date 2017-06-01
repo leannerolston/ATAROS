@@ -39,6 +39,26 @@ for f in files:
 				for a in abbrevs:
 					unis[a] = "abbrev"
 
+			#Collapse duplicate words into one:
+			if "mmmm" in unis:
+				unis[unis.index("mmmm")] = "mm"
+
+			#collapse mm-hmm into mm-hm
+			if "mm-hm" in unis:
+				unis[unis.index("mm-hm")] = "mm-hmm"
+
+			if "mmhm" in unis:
+				unis[unis.index("mmhm")] = "mm-hmm"
+
+			if "mmkay" in unis:
+				unis[unis.index("mmkay")] = "mm-kay"
+
+			if "hm" in unis:
+				unis[unis.index("hm")] = "hmm"
+
+			if "aha" in unis:
+				unis[unis.index("aha")] = "a-ha"
+
 			unigrams.extend(unis)
 
 unigrams = list(set(unigrams))

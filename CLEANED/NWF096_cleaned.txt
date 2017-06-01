@@ -23,7 +23,7 @@
 0	3I	uh .
 0	3I	mm . say -
 1	3I	i do n't know , either here or trunc here . i 'm not sure .
-1	3I	with the soybeans . kay.1
+1	3I	with the soybeans . kay .
 1	3I	yeah . huh .
 0	3I	beets .
 0	3I	uh , sort of -

@@ -169,7 +169,7 @@
 1	6B	uh , we figured we should keep all that .
 0	6B	okay , well we 've got three so far from this group .
 0	6B	uh -
-1	6B	well , maybe three . maybe we only end up being able to cut three.1
+1	6B	well , maybe three . maybe we only end up being able to cut three .
 0	6B	spaying .
 1	6B	reusable bag campaign ?
 1	6B	well , okay . so um -
