@@ -40,13 +40,16 @@ for i in range(len(headings)):
 	else:
 		print(headings[i])
 
-files = [f for f in os.listdir(data_dir) if f.endswith(".txt") and f.startswith("NW")]
+files = [f for f in os.listdir(data_dir) if f.endswith(".txt")]
 
 for f in files:
 	with open(os.path.join(data_dir, f)) as inp:
 		spurts = [l.strip() for l in inp if l]
 
-		speaker = f[ : f.index("_cleaned.txt")]
+		try:
+			speaker = f[ : f.index("_cleaned.txt")]
+		except ValueError:
+			speaker = "Speaker"
 
 		for s in spurts:
 

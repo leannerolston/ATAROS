@@ -11,7 +11,7 @@ dir = sys.argv[1]
 unigrams = []
 COUNT = 10
 
-files = [f for f in os.listdir(dir) if f.endswith(".txt") and f.startswith("NW")]
+files = [f for f in os.listdir(dir) if f.endswith(".txt")]
 
 #grab list of unigrams:
 
@@ -19,7 +19,10 @@ for f in files:
 	with open(os.path.join(dir, f)) as inp:
 		sentences = [l.strip() for l in inp]
 
-		speaker = f[ : f.index("_cleaned.txt")]
+		try:
+			speaker = f[ : f.index("_cleaned.txt")]
+		except ValueError:
+			speaker = "Speaker"
 
 		for line in sentences:
 
@@ -71,7 +74,10 @@ for f in files:
 	with open(os.path.join(dir, f)) as inp:
 		sentences = [l.strip() for l in inp]
 
-		speaker = f[ : f.index("_cleaned.txt")]
+		try:
+			speaker = f[ : f.index("_cleaned.txt")]
+		except ValueError:
+			speaker = "Speaker"
 
 		for line in sentences:
 			tokens = line.split("\t")
@@ -115,7 +121,11 @@ for f in files:
 	with open(os.path.join(dir, f)) as inp:
 		sentences = [l.strip() for l in inp]
 
-		speaker = f[ : f.index("_cleaned.txt")]
+		try:
+			speaker = f[ : f.index("_cleaned.txt")]
+		except ValueError:
+			speaker = "Speaker"
+
 
 		for line in sentences:
 			tokens = line.split("\t")
