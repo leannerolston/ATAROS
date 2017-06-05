@@ -1,0 +1,262 @@
+trunc yeah 	1 0
+plastic jugs 	1 0
+they ll do it anyway 	1 2
+cooking classes 	1 2 0
+not yet 	1 0
+and bagels 	1 0
+interesting 	1 0
+reproductive education 	1 0
+kinda 	1 0
+i think we re done 	1 0
+bagels  yeah 	1 0
+yes um	1 0
+soy beans 	1 0
+yeah  assistant cooks 	1 0
+community news ads 	1 0
+hm 	1 0
+yeah this 	1 2
+cooking classes	1 0
+oh  right 	1 2 0
+butter 	2 0
+taxi stops 	1 0
+hunting tags 	1 0
+public health and safety	1 0
+std education 	1 0
+oh  that s a good idea 	1 2
+with 	1 0
+either here or here 	1 2
+next 	1 0
+that s okay 	1 0
+keep it 	1 2
+or here 	1 2
+and then um 	1 0
+and 	1 0
+yeah	1 2 0
+additional bus stops 	1 0
+and reproductive education 	1 0
+you know 	1 2 0
+public news station 	2 0
+uh  no 	1 0
+the acting coaches 	1 0
+two 	1 0
+we could 	1 2
+assistant cooks 	1 0
+mmhmm 	1 0
+or cooking classes 	1 2
+and assistant cooks 	1 0
+yeah 	1 2 0
+uh okay	1 0
+okay  cans of peas 	1 0
+i think that s good 	1 2
+can 	1 2
+yeah  sure 	1 2
+here 	1 0
+invasive species removal 	2 0
+i think maybe 	1 2
+gas powered cook stoves 	1 0
+um 	1 0
+perfect 	1 2
+absolutely 	1 2
+that s true 	1 0
+mm 	1 2 0
+math tutors 	1 0
+and  um 	1 2 0
+awesome 	1 2
+sure  yeah 	1 0
+nnyeah 	1 0
+okay  um 	1 0
+public access station 	1 0
+that can go 	1 2
+because 	1 0
+kay 	1 0
+maybe like 	1 2
+okay  scissors 	1 0
+yeah um	1 0
+power cords 	1 2 0
+wetsuits 	1 0
+job training programs 	1 0
+well  yeah 	1 2 0
+sex ed 	2 0
+alright 	1 2 0
+sugar free juice machines 	1 0
+yeah  i agree 	1 2
+hats 	1 0
+there 	1 2 0
+mmkay 	1 0
+exactly 	1 2
+cool 	1 0
+camping 	1 0
+um	1 2 0
+box knives 	2 0
+let s 	1 0
+books 	1 2 0
+or are they building it 	1 0
+cases of whiskey 	1 0
+boating supplies 	1 0
+and weed control 	1 0
+anyway 	1 0
+yeah  yeah  trunc yeah 	1 2
+nope 	1 0
+i mean 	1 2 0
+maybe here 	1 2
+kay	3 1 2 0
+okay	1 2 0
+weed control 	1 0
+yeah  yeah  okay 	1 2
+i think 	1 2 0
+okay  assistant cooks 	1 0
+or  	1 0
+uh 	1 2 0
+junior soccer league 	1 0
+football equipment 	1 2 0
+music teachers 	1 0
+fish hooks 	1 0
+yeah  i do nt know 	1 0
+okay  okay 	1 0
+i dunno	1 0
+fishing 	1 0
+do you think 	1 0
+yeah yeah	1 0
+good 	1 2
+alright  mint toothpaste 	1 0
+bagels 	1 0
+books of matches 	1 0
+beets 	2 0
+right here 	1 0
+three 	1 0
+let s do it 	1 2
+okay 	1 2 0
+uh  football equipment 	1 2
+but 	1 2 0
+kind of 	1 0
+done 	1 0
+clothes 	1 0
+i think that s important 	1 2
+public 	1 0
+or 	1 2 0
+dog catcher 	1 0
+uh	2 0
+i know 	1 0
+yes 	1 2 0
+alright  we re done 	1 0
+what if 	1 2
+invasive species 	1 0
+eh 	1 0
+thick sweaters  yeah 	1 0
+grab and go 	1 2
+juice 	2 0
+mmmm 	2 0
+mmhm	1 0
+scissors 	1 0
+yep 	1 0
+tweezers 	2 0
+really 	1 0
+yeah  let s see 	1 0
+uhhuh 	1 0
+like 	1 0
+speed limit signs 	2 0
+that could go 	1 2
+that s important 	1 2
+face cream 	1 0
+so  okay 	1 0
+yeah  right 	1 2
+i think so  yeah 	1 0
+no 	1 2 0
+possibly 	1 2
+dried figs 	1 0
+soybeans 	1 2
+sticks of butter 	2 0
+i guess 	1 0
+small saws 	1 0
+flagpole repair 	1 0
+thing 	1 0
+somewhere over here 	1 2
+empty plastic jugs 	1 0
+pest control	1 0
+hmm 	1 0
+hospital additions 	1 0
+stuff 	1 0
+and um 	1 0
+it is 	1 0
+tow ropes  boating supplies 	1 2
+yeah  uhhuh 	1 0
+acting coaches 	1 2 0
+mouse traps 	1 0
+i do nt know 	1 2 0
+where do you think 	1 0
+i think so 	1 2 0
+right  mmhmm 	1 0
+um  let s see 	1 0
+true 	1 2
+the 	1 2 0
+yeah  definitely 	1 2
+thank you 	1 0
+yeah  yeah 	1 2 0
+yeah  hm 	1 0
+we re done 	1 2 0
+oh  yeah 	1 2 0
+i would think so 	1 2
+mmhm 	1 2 0
+speech therapy 	1 2 0
+oh 	1 2 0
+clothing 	1 2
+we do nt have any 	1 0
+yeah  perfect 	1 2
+jugs 	1 0
+what do you think 	1 0
+oh  okay 	1 2 0
+over here 	1 2
+huh 	2 0
+yeah  it does 	1 2
+pouches of oatmeal 	1 0
+public health 	1 0
+sugarfree juice machines 	1 0
+there we go 	1 2
+then 	1 0
+mm  yeah 	1 2
+let s get rid of the 	1 2
+reusable bag campaign 	1 0
+yeah  i think we re done 	1 0
+what 	2 0
+teaching certificates 	2 0
+that s uh 	1 2
+that 	2 0
+right	1 2 0
+down here 	1 0
+siding 	1 2 0
+flags 	2 0
+right 	1 2 0
+what could go wrong	1 2
+i dunno 	1 2 0
+maybe 	1 2 0
+yes	1 2 0
+and uh 	1 0
+wow 	1 2 0
+so 	1 2 0
+things 	1 0
+okay  we re done 	2 0
+uh  let s see 	1 0
+yeah  yeah  yeah 	1 0
+large vests 	1 2 0
+well 	3 1 2 0
+heavy coats 	1 0
+oh yeah  yeah 	1 2
+i 	1 0
+heavy cable 	1 0
+mmhmm  mmhmm 	1 0
+boots 	1 0
+yes  definitely 	1 2
+go for it 	1 0
+sure 	1 2 0
+you know	2 0
+yeah  that s true 	1 0
+kitten and puppy adoption 	1 0
+i do nt think so 	1 0
+toilet paper 	1 2 0
+and then 	1 0
+mmhm  mmhm 	1 0
+trunc	1 0
+boating 	1 0
+yay 	1 2
+oh yeah 	1 0
+i do nt either 	1 0
