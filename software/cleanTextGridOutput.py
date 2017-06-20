@@ -11,12 +11,16 @@ with open(sys.argv[1]) as inp:
 for line in data:
 	tokens = line.split("\t")
 
-	if len(tokens) < 3:
+	if len(tokens) < 2:
 		continue
 
 	text = tokens[0].replace("*", "")
 	stance = tokens[1].replace("+", "").replace("-", "").replace("X", "").replace("x", "").replace("#", "").strip()
-	task = tokens[2]
+
+	if len(tokens) > 2:
+		task = tokens[2]
+	else:
+		task = ""
 
 	if not stance:
 		continue
@@ -31,7 +35,8 @@ for line in data:
 	cleaned = " ".join(tokenized)
 
 	print(stance, end="\t")
-	print(task, end="\t")
+	if task:
+		print(task, end="\t")
 	print(cleaned)
 
 

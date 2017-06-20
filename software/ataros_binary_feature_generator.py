@@ -5,6 +5,7 @@ import sys, os, nltk
 
 ataros_categories = sys.argv[1]
 data_dir = sys.argv[2]
+printTask = sys.argv[3]
 
 word_to_category_mapping = {}
 #wcl[wd] = [cat, cat]
@@ -31,8 +32,14 @@ for d in data:
 
 	headings.append(cat)
 
+headings.append("longWds")
+headings.append("totWds")
+
 #print headings:
-print("speaker\ttask\tstance", end="\t")
+print("speaker", end="\t")
+if printTask == "Y":
+	print("task", end="\t")
+print("stance", end="\t")
 
 for i in range(len(headings)):
 	if i < len(headings) - 1:
@@ -40,7 +47,9 @@ for i in range(len(headings)):
 	else:
 		print(headings[i])
 
-files = [f for f in os.listdir(data_dir) if f.endswith(".txt")]
+
+
+files = [f for f in os.listdir(data_dir) if f.endswith("_cleaned.txt")]
 
 for f in files:
 	with open(os.path.join(data_dir, f)) as inp:
@@ -55,16 +64,25 @@ for f in files:
 
 			tokens = s.split("\t")
 
+			if len(tokens) < 2:
+				continue
+
 			stance = tokens[0].replace("+", "").replace("-", "").replace("X", "").replace("x", "").replace("#", "").strip()
 
-			task = tokens[1].strip()
 
-			text = tokens[2].replace("*", "").split()
+			if len(tokens) < 3:
+				text = tokens[1].strip()
+				task = ""
+			else:
+				task = tokens[1].strip()
+				text = tokens[2].replace("*", "").split()
+
 
 			cats = []
 
 			print(speaker, end="\t")
-			print(task, end="\t")
+			if task:
+				print(task, end="\t")
 			print(stance, end="\t")
 
 			for t in text:
@@ -81,28 +99,18 @@ for f in files:
 
 				if h in cats:
 					spurt_features[i] = 1
+				elif h == "longWds":
+					long = [l for l, x in enumerate(text) if len(x) >= 6]
+
+					if len(long) > 1:
+						spurt_features[i] = 1
+				elif h == "totWds":
+					spurt_features[i] = len(text)
+
 
 			for i in range(len(spurt_features)):
 				if i < len(spurt_features) - 1:
 					print(spurt_features[i], end="\t")
 				else:
 					print(spurt_features[i])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
