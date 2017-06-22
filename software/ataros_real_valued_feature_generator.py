@@ -65,7 +65,7 @@ for f in files:
 			if len(tokens) < 2:
 				continue
 
-			stance = tokens[0].replace("+", "").replace("-", "").replace("X", "").replace("x", "").replace("#", "").strip()
+			stance = tokens[0].replace("+", "").replace("-", "").replace("X", "").replace("x", "").replace("#", "").replace("*", "").strip()
 
 			if len(tokens) < 3:
 				text = tokens[1].replace("*", "").split()
