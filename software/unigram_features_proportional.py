@@ -145,6 +145,8 @@ for f in files:
 
 			features = [0] * len(valid_unigrams)
 
+			denom = float(len(sentence))
+
 			print(speaker, end="\t")
 			if task:
 				print(task, end="\t")
@@ -166,7 +168,7 @@ for f in files:
 
 			for i in range(len(features)):
 				if i < len(features) - 1:
-					print(features[i], end="\t")
+					print(features[i]/denom, end="\t")
 				else:
-					print(features[i])
+					print(features[i]/denom)
 
