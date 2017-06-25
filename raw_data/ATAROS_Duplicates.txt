@@ -1,0 +1,246 @@
+next 	0 1
+perfect 	2 1
+large vests 	2 0 1
+clothes 	0 1
+fishing 	0 1
+scissors 	0 1
+nope 	0 1
+plastic jugs 	0 1
+boating 	0 1
+that s uh 	2 1
+yes 	0 2 1
+maybe 	0 2 1
+dried figs 	0 1
+kay 	0 1
+okay  okay 	0 1
+and reproductive education 	0 1
+hmm 	0 1
+yeah  perfect 	2 1
+hunting tags 	0 1
+or are they building it 	0 1
+alright  we re done 	0 1
+tow ropes  boating supplies 	2 1
+oh  okay 	2 0 1
+that could go 	2 1
+kinda 	0 1
+face cream 	0 1
+cool 	0 1
+sugarfree juice machines 	0 1
+bagels  yeah 	0 1
+i mean 	2 1
+yes  definitely 	2 1
+and weed control 	0 1
+i guess 	0 1
+i 	0 1
+uhhuh 	0 1
+music teachers 	0 1
+trunc yeah 	0 1
+i know 	0 1
+good 	2 1
+with 	0 1
+anyway 	0 1
+cooking classes 	0 2 1
+yay 	2 1
+either here or here 	2 1
+okay  scissors 	0 1
+and uh 	0 1
+right  mmhmm 	0 1
+sugar free juice machines 	0 1
+okay 	0 2 1
+kitten and puppy adoption 	0 1
+heavy coats 	0 1
+you know 	0 2 1
+oh yeah 	0 1
+taxi stops 	0 1
+i think so 	2 0 1
+alright 	2 0 1
+hospital additions 	0 1
+that can go 	2 1
+hm 	0 1
+two 	0 1
+speech therapy 	2 0 1
+then 	0 1
+community news ads 	0 1
+hats 	0 1
+mmmm 	2 0
+interesting 	0 1
+jugs 	0 1
+thing 	0 1
+mmhmm 	0 1
+or 	2 0 1
+well 	0 2 1
+power cords 	2 0 1
+yeah  yeah  trunc yeah 	2 1
+i dunno 	2 0 1
+oh  yeah 	0 2 1
+yeah  yeah 	2 0 1
+boating supplies 	0 1
+yeah  definitely 	2 1
+flags 	2 0
+sure  yeah 	0 1
+okay  um 	0 1
+um 	0 1
+but 	0 2 1
+it is 	0 1
+i do nt either 	0 1
+yeah  hm 	0 1
+awesome 	2 1
+and assistant cooks 	0 1
+yep 	0 1
+right 	2 0 1
+huh 	2 0
+clothing 	2 1
+yeah  that s true 	0 1
+over here 	2 1
+assistant cooks 	0 1
+done 	0 1
+what do you think 	0 1
+do you think 	0 1
+uh  let s see 	0 1
+reproductive education 	0 1
+uh  football equipment 	2 1
+yeah  sure 	2 1
+i think 	2 0 1
+reusable bag campaign 	0 1
+yeah  it does 	2 1
+because 	0 1
+the 	2 0 1
+i think we re done 	0 1
+invasive species removal 	2 0
+okay  assistant cooks 	0 1
+pouches of oatmeal 	0 1
+weed control 	0 1
+mmhm	0 1
+i think that s good 	2 1
+and then um 	0 1
+really 	0 1
+math tutors 	0 1
+stuff 	0 1
+yeah  yeah  yeah 	0 1
+grab and go 	2 1
+yeah  right 	2 1
+yeah  yeah  okay 	2 1
+yeah  i think we re done 	0 1
+so  okay 	0 1
+or here 	2 1
+box knives 	0 2
+maybe like 	2 1
+alright  mint toothpaste 	0 1
+what if 	2 1
+i think maybe 	2 1
+small saws 	0 1
+and  um 	2 0 1
+teaching certificates 	2 0
+yeah	0 1
+football equipment 	2 0 1
+oh 	2 0 1
+mmhm 	2 0 1
+boots 	0 1
+i do nt think so 	0 1
+nnyeah 	0 1
+no 	2 0 1
+butter 	2 0
+public health 	0 1
+um  let s see 	0 1
+like 	0 1
+possibly 	2 1
+toilet paper 	0 2 1
+camping 	0 1
+that s true 	0 1
+tweezers 	2 0
+thank you 	0 1
+juice 	2 0
+junior soccer league 	0 1
+uh  no 	0 1
+empty plastic jugs 	0 1
+i think so  yeah 	0 1
+std education 	0 1
+fish hooks 	0 1
+or  	0 1
+go for it 	0 1
+additional bus stops 	0 1
+okay  cans of peas 	0 1
+three 	0 1
+mmhmm  mmhmm 	0 1
+i do nt know 	2 0 1
+sticks of butter 	0 2
+dog catcher 	0 1
+beets 	2 0
+somewhere over here 	2 1
+mmhm  mmhm 	0 1
+we re done 	2 0 1
+soy beans 	0 1
+where do you think 	0 1
+that s okay 	0 1
+bagels 	0 1
+yeah this 	2 1
+okay  we re done 	2 0
+i would think so 	2 1
+let s do it 	2 1
+so 	2 0 1
+oh  that s a good idea 	2 1
+public access station 	0 1
+that s important 	2 1
+mm  yeah 	2 1
+flagpole repair 	0 1
+there we go 	2 1
+mmkay 	0 1
+keep it 	2 1
+yeah  i agree 	2 1
+yeah  let s see 	0 1
+public 	0 1
+mouse traps 	0 1
+what 	2 0
+let s 	0 1
+well  yeah 	0 2 1
+sex ed 	0 2
+acting coaches 	2 0 1
+or cooking classes 	2 1
+cases of whiskey 	0 1
+invasive species 	0 1
+and um 	0 1
+wetsuits 	0 1
+uh 	0 2 1
+thick sweaters  yeah 	0 1
+yeah  assistant cooks 	0 1
+they ll do it anyway 	2 1
+oh yeah  yeah 	2 1
+here 	0 1
+down here 	0 1
+yeah  i do nt know 	0 1
+oh  right 	2 0 1
+and 	0 1
+can 	2 1
+and bagels 	0 1
+there 	0 2 1
+exactly 	2 1
+absolutely 	2 1
+sure 	0 2 1
+job training programs 	0 1
+yeah  uhhuh 	0 1
+yeah 	2 0 1
+heavy cable 	0 1
+let s get rid of the 	2 1
+the acting coaches 	0 1
+kind of 	0 1
+things 	0 1
+eh 	0 1
+siding 	0 2 1
+wow 	2 0 1
+speed limit signs 	2 0
+and then 	0 1
+mm 	2 0 1
+books 	2 0 1
+not yet 	0 1
+we do nt have any 	0 1
+books of matches 	0 1
+maybe here 	2 1
+trunc	0 1
+public news station 	2 0
+that 	2 0
+right here 	0 1
+true 	2 1
+i think that s important 	2 1
+okay	0 1
+gas powered cook stoves 	0 1
+soybeans 	2 1

@@ -8,7 +8,7 @@ import string
 
 dir = sys.argv[1]
 
-files = [f for f in os.listdir(dir) if f.endswith(".txt")]
+files = [f for f in os.listdir(dir) if f.endswith("_cleaned.txt")]
 
 text_comparator = {}
 #txt[stance][txt] with task somehow in there.
@@ -37,8 +37,8 @@ for f in files:
 			tup = task, text
 			text_comparator[trimmed_text][stance].append(tup)
 
-dupes = open("Duplicates.txt", "w")
-newdata = open("New_Data.txt", "w")
+dupes = open("ATAROS_Duplicates.txt", "w")
+newdata = open("ATAROS_minus_Duplicates.txt", "w")
 
 
 for text in text_comparator:
