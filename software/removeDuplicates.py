@@ -24,9 +24,9 @@ for f in files:
 			text = tokens[2]
 
 			#Remove punctuation and -
-			trimmed_text = [l for l in text if l not in string.punctuation]
-			trimmed_text = ''.join([l for l in trimmed_text if l != "-"])
-
+			#trimmed_text = [l for l in text if l not in string.punctuation]
+			#trimmed_text = ''.join([l for l in trimmed_text if l != "-"])
+			trimmed_text = ' '.join(text.split())
 
 			if trimmed_text not in text_comparator:
 				text_comparator[trimmed_text] = {}
@@ -34,10 +34,10 @@ for f in files:
 			if stance not in text_comparator[trimmed_text]:
 				text_comparator[trimmed_text][stance] = []
 
-			tup = task, text
-			text_comparator[trimmed_text][stance].append(tup)
+			text_comparator[trimmed_text][stance].append(task)
 
 dupes = open("ATAROS_Duplicates.txt", "w")
+dupes.write("Text\tStances\tTasks\tCount\n")
 newdata = open("ATAROS_minus_Duplicates.txt", "w")
 
 
@@ -48,29 +48,38 @@ for text in text_comparator:
 	if len(stances) > 1:
 		#print(text, end="\t")
 		st = list(stances.keys())
-		#print(st)
+		tasks = [text_comparator[text][s] for s in st]
+
+		tsk = []
+		for t in tasks:
+			tsk.extend(t)
+
+		tasks = list(set(tsk))
+
 		dupes.write(text)
 		dupes.write("\t")
 		dupes.write(' '.join(st))
+		dupes.write("\t")
+		dupes.write(' '.join(tasks))
+		dupes.write("\t")
+		dupes.write(str(len(tsk)))
 		dupes.write("\n")
 
 	else:
 		for s in stances:
-			d = stances[s]
+			task = text_comparator[text][s]
 
-			for item in d:
 
+			for t in task:
 				newdata.write(s)
 				newdata.write("\t")
 
-				task = item[0]
-				txt = item[1]
-
-				newdata.write(task)
+				newdata.write(t)
 				newdata.write("\t")
 
-				newdata.write(txt)
+				newdata.write(text)
 				newdata.write("\n")
+
 
 
 dupes.close()

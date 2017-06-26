@@ -1,246 +1,243 @@
-next 	0 1
-perfect 	2 1
-large vests 	2 0 1
-clothes 	0 1
-fishing 	0 1
-scissors 	0 1
-nope 	0 1
-plastic jugs 	0 1
-boating 	0 1
-that s uh 	2 1
-yes 	0 2 1
-maybe 	0 2 1
-dried figs 	0 1
-kay 	0 1
-okay  okay 	0 1
-and reproductive education 	0 1
-hmm 	0 1
-yeah  perfect 	2 1
-hunting tags 	0 1
-or are they building it 	0 1
-alright  we re done 	0 1
-tow ropes  boating supplies 	2 1
-oh  okay 	2 0 1
-that could go 	2 1
-kinda 	0 1
-face cream 	0 1
-cool 	0 1
-sugarfree juice machines 	0 1
-bagels  yeah 	0 1
-i mean 	2 1
-yes  definitely 	2 1
-and weed control 	0 1
-i guess 	0 1
-i 	0 1
-uhhuh 	0 1
-music teachers 	0 1
-trunc yeah 	0 1
-i know 	0 1
-good 	2 1
-with 	0 1
-anyway 	0 1
-cooking classes 	0 2 1
-yay 	2 1
-either here or here 	2 1
-okay  scissors 	0 1
-and uh 	0 1
-right  mmhmm 	0 1
-sugar free juice machines 	0 1
-okay 	0 2 1
-kitten and puppy adoption 	0 1
-heavy coats 	0 1
-you know 	0 2 1
-oh yeah 	0 1
-taxi stops 	0 1
-i think so 	2 0 1
-alright 	2 0 1
-hospital additions 	0 1
-that can go 	2 1
-hm 	0 1
-two 	0 1
-speech therapy 	2 0 1
-then 	0 1
-community news ads 	0 1
-hats 	0 1
-mmmm 	2 0
-interesting 	0 1
-jugs 	0 1
-thing 	0 1
-mmhmm 	0 1
-or 	2 0 1
-well 	0 2 1
-power cords 	2 0 1
-yeah  yeah  trunc yeah 	2 1
-i dunno 	2 0 1
-oh  yeah 	0 2 1
-yeah  yeah 	2 0 1
-boating supplies 	0 1
-yeah  definitely 	2 1
-flags 	2 0
-sure  yeah 	0 1
-okay  um 	0 1
-um 	0 1
-but 	0 2 1
-it is 	0 1
-i do nt either 	0 1
-yeah  hm 	0 1
-awesome 	2 1
-and assistant cooks 	0 1
-yep 	0 1
-right 	2 0 1
-huh 	2 0
-clothing 	2 1
-yeah  that s true 	0 1
-over here 	2 1
-assistant cooks 	0 1
-done 	0 1
-what do you think 	0 1
-do you think 	0 1
-uh  let s see 	0 1
-reproductive education 	0 1
-uh  football equipment 	2 1
-yeah  sure 	2 1
-i think 	2 0 1
-reusable bag campaign 	0 1
-yeah  it does 	2 1
-because 	0 1
-the 	2 0 1
-i think we re done 	0 1
-invasive species removal 	2 0
-okay  assistant cooks 	0 1
-pouches of oatmeal 	0 1
-weed control 	0 1
-mmhm	0 1
-i think that s good 	2 1
-and then um 	0 1
-really 	0 1
-math tutors 	0 1
-stuff 	0 1
-yeah  yeah  yeah 	0 1
-grab and go 	2 1
-yeah  right 	2 1
-yeah  yeah  okay 	2 1
-yeah  i think we re done 	0 1
-so  okay 	0 1
-or here 	2 1
-box knives 	0 2
-maybe like 	2 1
-alright  mint toothpaste 	0 1
-what if 	2 1
-i think maybe 	2 1
-small saws 	0 1
-and  um 	2 0 1
-teaching certificates 	2 0
-yeah	0 1
-football equipment 	2 0 1
-oh 	2 0 1
-mmhm 	2 0 1
-boots 	0 1
-i do nt think so 	0 1
-nnyeah 	0 1
-no 	2 0 1
-butter 	2 0
-public health 	0 1
-um  let s see 	0 1
-like 	0 1
-possibly 	2 1
-toilet paper 	0 2 1
-camping 	0 1
-that s true 	0 1
-tweezers 	2 0
-thank you 	0 1
-juice 	2 0
-junior soccer league 	0 1
-uh  no 	0 1
-empty plastic jugs 	0 1
-i think so  yeah 	0 1
-std education 	0 1
-fish hooks 	0 1
-or  	0 1
-go for it 	0 1
-additional bus stops 	0 1
-okay  cans of peas 	0 1
-three 	0 1
-mmhmm  mmhmm 	0 1
-i do nt know 	2 0 1
-sticks of butter 	0 2
-dog catcher 	0 1
-beets 	2 0
-somewhere over here 	2 1
-mmhm  mmhm 	0 1
-we re done 	2 0 1
-soy beans 	0 1
-where do you think 	0 1
-that s okay 	0 1
-bagels 	0 1
-yeah this 	2 1
-okay  we re done 	2 0
-i would think so 	2 1
-let s do it 	2 1
-so 	2 0 1
-oh  that s a good idea 	2 1
-public access station 	0 1
-that s important 	2 1
-mm  yeah 	2 1
-flagpole repair 	0 1
-there we go 	2 1
-mmkay 	0 1
-keep it 	2 1
-yeah  i agree 	2 1
-yeah  let s see 	0 1
-public 	0 1
-mouse traps 	0 1
-what 	2 0
-let s 	0 1
-well  yeah 	0 2 1
-sex ed 	0 2
-acting coaches 	2 0 1
-or cooking classes 	2 1
-cases of whiskey 	0 1
-invasive species 	0 1
-and um 	0 1
-wetsuits 	0 1
-uh 	0 2 1
-thick sweaters  yeah 	0 1
-yeah  assistant cooks 	0 1
-they ll do it anyway 	2 1
-oh yeah  yeah 	2 1
-here 	0 1
-down here 	0 1
-yeah  i do nt know 	0 1
-oh  right 	2 0 1
-and 	0 1
-can 	2 1
-and bagels 	0 1
-there 	0 2 1
-exactly 	2 1
-absolutely 	2 1
-sure 	0 2 1
-job training programs 	0 1
-yeah  uhhuh 	0 1
-yeah 	2 0 1
-heavy cable 	0 1
-let s get rid of the 	2 1
-the acting coaches 	0 1
-kind of 	0 1
-things 	0 1
-eh 	0 1
-siding 	0 2 1
-wow 	2 0 1
-speed limit signs 	2 0
-and then 	0 1
-mm 	2 0 1
-books 	2 0 1
-not yet 	0 1
-we do nt have any 	0 1
-books of matches 	0 1
-maybe here 	2 1
-trunc	0 1
-public news station 	2 0
-that 	2 0
-right here 	0 1
-true 	2 1
-i think that s important 	2 1
-okay	0 1
-gas powered cook stoves 	0 1
-soybeans 	2 1
+Text	Stances	Tasks	Count
+eh .	0 1	6B	3
+we do n't have any -	0 1	3I	2
+right here .	0 1	3I	2
+acting coaches .	2 0 1	6B	7
+uh -	0 1	3I 6B	56
+they 'll do it anyway .	2 1	6B	2
+mmhm .	0 1	3I 6B	11
+empty plastic jugs .	0 1	3I	11
+oh , yeah .	0 1	3I 6B	8
+cool .	0 1	3I 6B	14
+i think we 're done .	0 1	6B	3
+math tutors .	0 1	6B	3
+maybe like -	2 1	3I	2
+really ?	0 1	3I 6B	4
+large vests .	2 0 1	3I	8
+yeah ! yeah .	2 1	3I	2
+let 's do it .	2 1	3I 6B	2
+i think that 's good .	2 1	3I 6B	2
+i guess .	0 1	3I 6B	4
+trunc	0 1	3I 6B	6
+mm-hm . mm-hm .	0 1	3I 6B	4
+no ?	0 1	3I 6B	2
+yeah . yeah . trunc yeah .	2 1	6B	2
+i -	0 1	6B	2
+alright . we 're done .	0 1	3I 6B	2
+grab and go .	2 1	3I	3
+down here .	0 1	3I	2
+interesting .	0 1	3I 6B	2
+okay . okay .	0 1	3I 6B	4
+juice .	2 0	3I 6B	3
+sugar free juice machines .	0 1	6B	5
+junior soccer league .	0 1	6B	4
+mm !	0 1	3I	2
+mm-kay .	0 1	3I 6B	29
+what do you think ?	0 1	3I 6B	11
+huh .	2 0	3I 6B	28
+i do n't know .	2 0 1	3I 6B	32
+bagels .	0 1	3I 6B	15
+done .	0 1	3I 6B	2
+dried figs .	0 1	3I	8
+either here or here .	2 1	3I	2
+reproductive education .	0 1	6B	10
+and weed control .	0 1	6B	4
+that could go -	2 1	3I	2
+yeah . hm .	0 1	6B	2
+mm-mm .	2 0	3I 6B	6
+mm-hm , mm-hm .	0 1	3I 6B	6
+there .	2 0 1	3I	5
+community news ads .	0 1	6B	2
+thick sweaters , yeah .	0 1	3I	2
+i know .	0 1	3I 6B	13
+mm . yeah .	2 1	3I 6B	2
+teaching certificates .	2 0	6B	2
+yeah , yeah , yeah .	0 1	3I 6B	2
+wow .	2 0 1	3I 6B	4
+yeah , i agree .	2 1	3I 6B	6
+sure . yeah .	0 1	3I 6B	3
+oh ! okay .	2 1	3I 6B	2
+bagels , yeah .	0 1	3I	2
+two .	0 1	3I 6B	3
+plastic jugs .	0 1	3I	2
+public access station .	0 1	6B	2
+i do n't know !	2 0	3I 6B	2
+books .	2 0 1	3I	11
+that can go .	2 1	6B	2
+i dunno .	2 0 1	3I 6B	18
+i mean -	2 1	3I 6B	2
+go for it .	0 1	6B	2
+speed limit signs .	2 0	6B	2
+i would think so .	2 1	3I	2
+kitten and puppy adoption ?	0 1	6B	2
+power cords ?	2 1	3I	3
+additional bus stops .	0 1	6B	9
+thank you .	0 1	3I 6B	3
+taxi stops .	0 1	6B	7
+yeah this -	2 1	3I 6B	2
+heavy cable .	0 1	3I	14
+and uh -	0 1	3I 6B	2
+oh , okay .	0 1	3I 6B	11
+oh .	2 0	3I 6B	56
+well , yeah .	2 0 1	3I 6B	4
+right . mm-hmm .	0 1	3I	2
+yeah . sure .	2 1	3I	3
+can .	2 1	6B	2
+no .	2 0 1	3I 6B	41
+or here .	2 1	3I	2
+right ?	2 0 1	3I 6B	9
+what ?	2 0	3I 6B	3
+or are they building it ?	0 1	6B	2
+that 's okay .	0 1	3I 6B	5
+mm-hm	0 1	3I 6B	2
+yes , definitely .	2 1	3I	2
+hats ?	0 1	3I	2
+okay .	2 0 1	3I 6B	480
+toilet paper .	2 0 1	3I	4
+so -	0 1	3I 6B	27
+sugar-free juice machines .	0 1	6B	3
+what if -	2 1	3I 6B	3
+yeah , yeah .	2 0 1	3I 6B	11
+public health .	0 1	6B	2
+soy beans .	0 1	3I	2
+the -	2 0 1	3I 6B	5
+fishing .	0 1	3I 6B	3
+oh , right .	2 0 1	3I 6B	3
+you know -	2 0	6B	3
+yeah . i agree .	2 1	6B	3
+dog catcher ?	0 1	6B	3
+keep it .	2 1	6B	2
+anyway .	0 1	6B	2
+yeah . yeah .	0 1	3I 6B	20
+dog catcher .	0 1	6B	3
+clothing .	2 1	3I	3
+speech therapy -	2 1	6B	2
+we 're done !	2 0 1	3I	5
+power cords .	0 1	3I	4
+like -	0 1	3I 6B	9
+stuff .	0 1	3I 6B	3
+i do n't either .	0 1	6B	4
+face cream .	0 1	3I	7
+wetsuits ?	0 1	3I	2
+yeah ?	2 0 1	3I 6B	8
+box knives .	2 0	3I	15
+thing .	0 1	3I 6B	2
+things .	0 1	3I	2
+that -	2 0	3I 6B	6
+yep .	0 1	3I 6B	58
+beets .	2 0	3I	15
+cooking classes .	0 1	6B	7
+mm-hm .	2 0 1	3I 6B	206
+i think so .	2 0 1	3I 6B	18
+okay	0 1	3I 6B	5
+yay !	2 1	3I	2
+sure .	2 0 1	3I 6B	73
+yeah !	2 1	3I	11
+cases of whiskey .	0 1	3I	8
+mm-hmm . mm-hmm .	0 1	6B	3
+yeah	0 1	3I 6B	8
+hm .	0 1	3I 6B	84
+taxi stops ?	0 1	6B	2
+siding .	2 1	3I	3
+oh !	0 1	6B	4
+kitten and puppy adoption .	0 1	6B	5
+tweezers .	2 0	3I	12
+yeah . let 's see .	0 1	3I	2
+yeah , it does .	2 1	6B	3
+there we go .	2 1	3I 6B	3
+not yet .	0 1	3I 6B	2
+assistant cooks .	0 1	6B	4
+mm .	2 0 1	3I 6B	59
+acting coaches -	0 1	6B	3
+that 's uh -	2 1	3I 6B	2
+pouches of oatmeal .	0 1	3I	12
+trunc yeah .	0 1	3I 6B	5
+sticks of butter .	2 0	3I	8
+scissors .	0 1	3I	9
+yeah , assistant cooks .	0 1	6B	2
+but -	2 0 1	3I 6B	12
+over here .	2 1	3I	4
+and um -	0 1	6B	3
+hmm .	0 1	3I 6B	11
+or -	2 0 1	3I 6B	11
+let 's get rid of the -	2 1	6B	2
+public access station ?	0 1	6B	3
+kinda -	0 1	3I	2
+let 's -	0 1	3I 6B	6
+football equipment .	2 0 1	6B	6
+camping ?	0 1	3I	2
+nn-yeah .	0 1	3I 6B	3
+yeah .	2 0 1	3I 6B	1048
+okay , we 're done .	2 0	3I 6B	2
+and then -	0 1	3I 6B	11
+mouse traps .	0 1	3I	2
+or - ?	0 1	3I 6B	2
+kay .	0 1	3I 6B	55
+tow ropes . boating supplies .	2 1	3I	2
+acting coaches ?	0 1	6B	4
+so - okay .	0 1	6B	2
+butter .	2 0	3I	2
+yeah -	2 1	3I 6B	3
+do you think ?	0 1	3I	3
+yes .	2 0 1	3I 6B	79
+oh yeah .	2 0 1	3I 6B	7
+yeah , i do n't know .	0 1	3I 6B	2
+good .	2 1	3I 6B	4
+and -	0 1	3I 6B	14
+okay !	0 1	3I	2
+that 's true .	0 1	3I 6B	15
+i think .	2 0 1	3I 6B	3
+alright .	0 1	3I 6B	78
+public news station .	2 0	6B	5
+uh-huh .	0 1	3I 6B	23
+hospital additions .	0 1	6B	6
+maybe -	2 0 1	3I 6B	8
+okay ?	0 1	3I	2
+um -	0 1	3I 6B	159
+hunting tags .	0 1	6B	5
+and , um -	2 0 1	3I 6B	3
+yes !	2 1	3I	3
+perfect .	2 1	3I	8
+alright !	2 0 1	3I 6B	4
+true .	2 1	3I 6B	6
+and bagels .	0 1	3I	2
+music teachers .	0 1	6B	2
+um .	0 1	3I 6B	119
+and reproductive education .	0 1	6B	2
+so .	2 0 1	6B	9
+weed control .	0 1	6B	6
+possibly .	2 1	6B	3
+right .	2 0 1	3I 6B	111
+absolutely .	2 1	3I 6B	10
+with -	0 1	3I 6B	3
+then -	0 1	3I	2
+awesome .	2 1	3I	3
+yeah . uh-huh .	0 1	3I 6B	2
+i think that 's important .	2 1	6B	4
+yeah . that 's true .	0 1	6B	2
+mm-hmm .	0 1	3I 6B	31
+well -	2 0 1	3I 6B	24
+we 're done .	0 1	3I 6B	10
+where do you think ?	0 1	3I	3
+cool ?	0 1	3I	2
+that 's important .	2 1	6B	5
+boating .	0 1	3I	2
+cooking classes ?	2 1	6B	4
+i think maybe -	2 1	3I	2
+boating supplies .	0 1	3I	4
+um . let 's see .	0 1	3I 6B	2
+boots .	0 1	3I	2
+uh .	2 0	3I 6B	33
+small saws .	0 1	3I	15
+nope .	0 1	3I 6B	2
+fish hooks ?	0 1	3I	2
+because -	0 1	3I 6B	2
+i do n't think so .	0 1	3I 6B	6
+yeah , right .	2 1	6B	3
+sure !	2 1	3I	7
+here .	0 1	3I	17
+flagpole repair .	0 1	6B	5
+and then um -	0 1	3I 6B	2
+sex ed .	2 0	6B	2
+you know .	0 1	3I 6B	2
+three .	0 1	6B	3
