@@ -106,6 +106,8 @@ valid_unigrams = []
 for c in more_than_count:
 	valid_unigrams.append(unigrams[c])
 
+valid_unigrams.append("totWds")
+valid_unigrams.append("longWds")
 
 #Start printing:
 print("speaker", end="\t")
@@ -164,6 +166,18 @@ for f in files:
 					idx = valid_unigrams.index(s)
 
 					features[idx] += 1
+
+			#Add longWds and totWds:
+			long = [l for l, x in enumerate(sentence) if len(x) >= 6]
+			sentLength = denom
+
+			#Need to undo the effect of dividing by denom during printout
+			idx = valid_unigrams.index("totWds")
+			features[idx] = sentLength * denom
+
+			if len(long) > 0:
+				idx = valid_unigrams.index("longWds")
+				features[idx] = float(len(long))
 
 
 			for i in range(len(features)):

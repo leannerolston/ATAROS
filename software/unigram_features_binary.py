@@ -71,6 +71,9 @@ unigrams = sorted(unigrams)
 #Do a count of features:
 feature_count = [0] * len(unigrams)
 
+#Need to add longWds and totWds:
+
+
 for f in files:
 	with open(os.path.join(dir, f)) as inp:
 		sentences = [l.strip() for l in inp]
@@ -85,6 +88,11 @@ for f in files:
 			else:
 				sentence = nltk.word_tokenize(tokens[2].replace("*", ""))
 
+			#Add longWds and totWds:
+			sentLength = float(len(sentence))
+			long = [l for l, x in enumerate(sentence) if len(x) >= 6]
+
+
 			for s in sentence:
 
 				if len(s) > 1 and s.endswith("-"):
@@ -97,6 +105,20 @@ for f in files:
 					idx = unigrams.index(s)
 					feature_count[idx] += 1
 
+			# #Add longWds and totWds:
+			# #Add 10 to each value to so they pass the COUNT test
+			# sentLength = float(len(sentence))
+			# long = [l for l, x in enumerate(sentence) if len(x) >= 6]
+
+			# if "totWds" not in feature_count:
+			# 	feature_count["totWds"] = sentLength + COUNT
+
+			# if "longWds" not in feature_count:
+			# 	if len(long) > 0:
+			# 		feature_count["longWds"] = 1 + COUNT
+
+
+
 #find the features with count of more than COUNT
 
 more_than_count = [l for l, x in enumerate(feature_count) if x >= COUNT]
@@ -105,6 +127,9 @@ valid_unigrams = []
 
 for c in more_than_count:
 	valid_unigrams.append(unigrams[c])
+
+valid_unigrams.append("totWds")
+valid_unigrams.append("longWds")
 
 #Start printing:
 print("speaker", end="\t")
@@ -163,6 +188,17 @@ for f in files:
 					idx = valid_unigrams.index(s)
 
 					features[idx] = 1
+
+			#Add longWds and totWds:
+			sentLength = len(sentence)
+			long = [l for l, x in enumerate(sentence) if len(x) >= 6]
+
+			idx = valid_unigrams.index("totWds")
+			features[idx] = sentLength
+
+			if len(long) > 0:
+				idx = valid_unigrams.index("longWds")
+				features[idx] = 1
 
 			for i in range(len(features)):
 				if i < len(features) - 1:
