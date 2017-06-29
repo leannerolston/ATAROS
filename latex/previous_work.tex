@@ -1,0 +1,37 @@
+\section{Previous Work}
+
+Most work on subjectivity detection relies on curated dictionaries of evaluative lexical items or phrases, or the use of syntactic ``frame'' structures commonly used to express opinion (CITE), such as MPQA (CITE), but due to the productive nature of natural language, it is impossible to gather and collect a comprehensive list.  Additionally, many of these words and phrases also have subjective usage, so these resources alone are not sufficient \citep{wiebe2004learning}.  
+
+
+
+''Work on subjectivity analysis falls into three main areas:
+1) finding words and phrases that that are associated with subjectivity
+2) classification of sentences, clauses, phrases, or word instances in the context of a particular text or conversation, as either objective or subjective, and the subsequent classification of those subjective elements as having positive or negative polarity. '' \citep{wiebe2006word}
+
+''subjective language often occurs in metaphorical and idiomatic expressions that cannot be adequately modeled as fixed word sequences.  Consider ``dealt a blow'' often includes an adjective -> dealt a serious blow, dealt a critical blow '' \citep{wiebe2011finding}
+
+
+
+
+\subsection{Learning Subjective Language} 
+
+\cite{wiebe2004learning} built a system to learn subjective language from data using a corpus of newsgroup data that was manually annotated for subjectivity at the phrase level, and \emph{Wall Street Journal} data that was annotated for subjectivity at the document level by the industry convention that articles, such as editorials and reviews, are considered opinion pieces.  Three main categories of subjective clues were found to be good, although not perfect, indicators of stance: low-frequency words; unique-generalized n-grams, which are basically syntactic ``frames'' into such specific words can be placed (for example, U-\emph{adj} as-\emph{prep} to represent ``good as'', ``bad as'', etc.), and specific verbs and adjectives found using distributional similarity.
+
+\cite{wiebe2011finding} used a seed lexicon and rule-based classifiers to to identify subjective 
+
+
+With this work I seek so use function words to identify subjective language. 
+
+Written language different than spooken 
+
+Necessary oprecursor to stance detection. \cite{wiebe2011finding} 
+ 
+Opinion Finder \citep{wilson2005opinionfinder} is a tool that automatically identifies subjectivity in text.  It uses a pipeline that involves four steps.  The first step identifies the sentences that contain the subjective content using lexical and context features.  The second and third steps identify the source of the subjective content first through the identification of speech events or direct subjective expressions (i.e. ones in the prose itself presented as not belonging to another source), and secondly through mapping these to their source.  Finally, these subjective elements are mapped to a polarity, positive or negative.  
+
+
+using a pipeline that includes pattern matching with known subjective language
+
+\subsection{Stance Detection}
+
+
+

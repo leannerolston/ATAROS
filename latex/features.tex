@@ -1,0 +1,97 @@
+\section{Categorical Features} 
+\label{sec:cat_features} 
+
+While unigrams have proven adequate for stance polarity detection given a topic \citep{somasundaran2010recognizing}, this project aims to find domain independent indications of stance.  Evaluative lexicon or stance frames may not be sufficient due to issues such as sarcasm, irony, and semantic shift, and that much of stance is contained in the acoustic signal \citep{freeman2015phonetics, freeman2015prosody}.  
+
+  
+\cite{pennebaker2001linguistic} has done a lot of work on the psychometric properties of language, that is, the state you reveal through the use of patterns of function words.  These properties have been found to reveal patterns of depression \citep{chung2007psychological}, physical well-being \citep{chung2007psychological}, deception \citep{newman2003lying}, and foretell academic success \citep{pennebaker2014small}.  In choosing to use these stylistic words rather than a list of specific evaluative word or syntactic structures, I am hoping to uncover ``hidden'' patterns in the expression of stance.  
+
+
+%Many subjective clues are infrequent.  ``People are creative when they're giving opinions.'' \\
+%The interpretation of anyone's utterances depends on the shared knowledge and understandings between the participants of the discourse (he gave it to her) \\
+%Semantic shift (sick, dank) \\
+%New Lexical items come, but function words never change.\\
+%Function word use varies with psychological state (depression studies, post 9-11, terrorist change immediately before attack). \\ 
+%``It is possible that changing communication goals and contexts may drive function word use.'' \cite{chung2007psychological} \\
+%
+%I want to see if there is a subtle change in basic language use between statements containing stance and statements that do not.  
+
+Table \ref{tab:categorical_features} defines the features chosen for these experiments.  Many were chosen as simple function word categories, both as a superclass, and specific subclasses within, while others represent psychometric properties taken from LIWC2015 \citep{pennebaker2015linguistic}.  The features were chosen to investigate which discourse and grammatical techniques might be used in the expression of stance.  The \emph{Word} and \emph{Punctuation} categories are indicative of the grammatical complexity of a stance-containing spurt, as opposed to one not containing any stance such as a backchannel; the pronoun-based features investigate whether one speaks of ones own experiences as opposed to appealing to the interlocutor's own, or whether one speaks of a specific person, or attempts to make generalizations through the use of the plural impersonal constructions; the formality-based features might speak to heightened emotions relating to stance.  The psychometric properties all speak to individual view points.   The \emph{tentative} and the \emph{certain} categories show opposite levels of certainty, which may differentiate strength of stance while the \emph{differ} and \emph{discrepancy} categories both might indicate that the speaker is offering alternatives to the proposition.  
+
+
+
+\begin{table}
+\centering
+\begin{tabular}{l | l | l} 
+	\textbf{Category} & \textbf{Feature} &  \textbf{Examples} \\
+	\hline
+	\multirow{2}{*}{Word} & Long Words & number of words 6 letters or more \\
+	& Total Words & number of words/tokens in the spurt \\
+	\hline
+	\multirow{13}{*}{Grammatical} & Function Words      &  \\ 
+	& \phantom{1} Pronoun                   &  \\  
+	& \phantom{12} Impersonal    & \emph{anything, everyone, nobody} \\ 
+	& \phantom{12} Personal      & \emph{I, yourself, theirs} \\ 
+	& \phantom{123} 1st person  & \emph{I, mine, our, us} \\ 
+	& \phantom{123} 2nd person  & \emph{you, your, y'all} \\ 
+	& \phantom{123} 3rd person  & \emph{he, him, themselves} \\ 
+	& \phantom{123} Singular    & \emph{my, you, she} \\ 
+	& \phantom{123} Plural      & \emph{ourselves, them, they} \\ 
+	& Conjunction      & \emph{also, because, but} \\ 
+	& Preposition      & \emph{across, beside, versus} \\ 
+	& Definite article & \emph{the} \\ 
+	& Indefinite article & \emph{a, an} \\ 
+	& Auxilliary verb   & \emph{would, 've, must} \\ 
+	\hline 
+	\multirow{4}{*}{Punctuation} & Period & \emph{.} \\ 
+	& Comma            & \emph{,} \\ 
+	& Question mark    & \emph{?} \\ 
+	& Exclamation Mark & \emph{!} \\ 
+	\hline
+	\multirow{3}{*}{Formality} & Non-Fluent  & \emph{huh, um, uh, hmm}\\ 
+	& Filler             & \emph{geeze, blah, oops} \\ 
+	& Profanity          & \emph{ass, sucks, dumb} \\ 
+	\hline 
+	\multirow{4}{*}{Psychometric} & Tentative & \emph{almost, typically, suppose} \\ 
+	& Differ             & \emph{actually, whereas} \\ 
+	& Discrepancy        & \emph{besides, wish, ought}  \\
+	& Certain            & \emph{absolutely, exactly, guaranteed}  \\  
+\end{tabular}
+\caption{Categorical Features.  Indentation in the Feature column indicates hierarchical structure of classes in that all items in the subclass also appear in the superclass} 
+\label{tab:categorical_features} 
+\end{table}
+
+
+
+%Many clues of subjectivity occur with low frequency \cite{wiebe2004learning}, and since the meaning of a word changes over time, 
+%
+%Words have different meanings in different settings \cite{chung2007psychological}.  
+%Words that suggested specific themes, usually nouns and regular verbs.  They're ``content heavy'' in that they define the the primary categories and actions dictated by the speaker or writer.  
+%
+%Linguistic style, how people put words together to create a message.  This can be foretold in the use of function words. \cite{chung2007psychological}.  Pronouns, articles, conjunctions, auxilliary verbs.   
+%
+%Fewer than 400 words (about 0.004\% of the average vocabulary) but they make up over half of the words we use in our daily life. \cite{chung2007psychological}
+%
+%
+%Function word use varies across psychological states:
+%- in a study between 2 adults taking testosterone, one male, one female, the weeks immediately following injections showed a reduction in use of non-I pronouns. \cite{chung2007psychological}
+%- Depressed people use more 1stPSing pronouns.
+%- Males often use 1stPPlur to distance themselves: "we need to analyze the data." 
+%
+%- Exclusive words (but, except, without, exclude) -- more cognitive complexity \cite{chung2007psychological} 
+%- 1stPSing + Exclusive words (but, except, without, exclude) predicts honesty. \cite{chung2007psychological}
+%
+%Gender differences: 
+%females use 1stPSing more than males.
+%Males use higher rates of article and noun use, which signifies categorization and concrete thinking.
+%
+%People use fewer 1StPSing and more 1stPPlur as they age + Greter use of exclusive words. 
+%
+%Categorization - procerss by which we are able to generalize and reason ``beyond the information given'' \cite{chung2007psychological}.  Allows us to think about the world in an ordered way and to make inferences regarding a particular class of objects, ideas, or events based on category membership.  Function words that indicate categorization includes articles (a, an, the) 
+%
+%
+%``indexing societal discourses through as shared and compelling through the use of generalizations can indirectly strengthen speaker's stances.''	\cite{jaffe2009introduction}
+%
+%
+
+ 

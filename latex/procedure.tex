@@ -1,0 +1,44 @@
+\section{Procedure} 
+
+The data for this study came from the ATAROS Praat \citep{boersma2002praat} TextGrid files.  Some dyads were excluded from study due to aberrations in the speaking style of one or both participants.  This resulted in 28 useable dyads comprising 56 speakers. 
+
+The text for each spurt was extracted from the TextGrids, and spurts were mapped to their stance annotation.  The text was cleaned; any voice quality annotations, or marking of emphasis with a star (*) were removed and any words marked as truncated with a `-' attached to the word being replaced by the token `trunc'.  False starts and stops, marked with an isolated `-' were retained, with this character being considered a token.  The text was then tokenized, using the NLTK \citep{loper2005natural} package $word\_tokenize$  with the default settings.  
+
+Spurts that were not marked for stance were excluded from this study, resulting in 15 501 usable spurts.  The most verbose speaker registers 484 spurts, while the least verbose registers 100 for a mean spurt count of 277 per speaker and a median of 281.
+
+Polarity annotations (+ or -) were removed from the stance annotation, leaving a 4-point scale of stance strength from 0 to 3.  This was reduced two a three-point scale when the 77 utterances (0.005\% of the total data) marked with stance strength 3 were remapped to stance strength 2.  The final scale used in the study was from 0 to 2, where 0 indicates no stance and 2 indicates strong stance.  The counts of spurts mapped to these annotations is given in table \ref{tab:spurt_counts}.  
+
+\begin{table}[H]
+\centering
+\begin{tabular}{c | c}
+	\textbf{Stance Annotation} & \textbf{Spurt Count} \\ 
+	\hline
+	0                 & 4228 \\
+	1                 & 7926 \\ 
+	2                 & 3347 \\ 
+	%Total             & 15 001 \\ 
+\end{tabular}
+\caption{Spurt Counts per Stance Annotation} 
+\label{tab:spurt_counts} 
+\end{table}
+
+For the experiments, the data was broken down in two ways, as described in table \ref{tab:experiment_breakdown}.  The \emph{Stance vs None} experiments included all 15 501 spurts, while \emph{Weak vs Strong} included only the subset of data marked with stance, totaling 11 273 spurts. 
+
+\begin{table}[H]
+\centering
+\begin{tabular}{l | c | c}
+	\textbf{Experiment} & \textbf{Stance Annotations} & \textbf{\# Spurts} \\ 
+	\hline 
+	Stance vs None & 0 vs 1-2           & 15 001 \\
+	Weak vs Strong & 1 vs 2             & 11 273 \\ 
+\end{tabular}
+\caption{Data Subdivision by Experiment} 
+\label{tab:experiment_breakdown} 
+\end{table} 
+
+Two rounds of experiments were run.  The first, referred to as the Categorical Experiments, mapped the text in a spurt to a category, as described in section \ref{sec:cat_features}. %TODO Appendix
+Any tokens that did not map to a category were excluded.  The second round of experiments used the raw unigrams, with the caveat that any unigram that did not appear at least 10 times was excluded.  As for feature values, both binary feature values, i.e. the feature was either present or it was not in the spurt, and proportional feature values, i.e. the proportion of the total tokens in a given spurt, were used.  In both cases, the data was represented as a sparse vector, one vector per spurt.  
+
+All data exploration and feature selection was completed on the ATAROS data with the data split into test and train sets by task. Feature selection and ranking, via information theoretical means, such as information gain and $\chi^2$, were explored, but these were determined to have too many remnants of task-specific effects to be generalizable on an external data set. 
+
+R's implementation of libSVM, e1071 \citep {meyer2014e1071}, was used for all experiments.  Model parameters were determined using the internal tuning mechanism, with periodic tuning rounds happening at regular intervals for experiments that required gradually increasing amounts of data.  To counteract the natural skew of the data toward the most abundant stance label, 1, all training and validation rounds used boosted weights for the minority class, that being the 0 class for the Stance vs None experiments, and the 2 class for the Weak vs Strong stance experiments.  

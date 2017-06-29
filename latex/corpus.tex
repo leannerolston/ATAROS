@@ -1,0 +1,46 @@
+\section{The ATAROS Corpus} 
+
+The ATAROS (Automatic Tagging and Recognition of Stance) corpus was developed by \cite{freeman2014ataros} to study the acoustic correlates of stance taking in unscripted, spontaneous speech.  All participants were native speakers of English from the Pacific Northwest dialect region, between the ages of 18 and 75.  Speakers were paired with another speaker of roughly the same age, and either matched, or crossed, for gender.  Recording sessions lasted roughly one hour, and took place at the University of Washington in a sound attenuated booth during (TIMEFRAME).  
+
+\subsection{Task Design} 
+\label{subsec:task_design} 
+
+After demographic information was collected, each dyad completed a total of five collaborative tasks, intended to elicit frequently changing stance and varying levels of engagement.  These tasks are divided into two groups, each having their own core vocabulary.  Each task group starts with a find-the-difference style task that is intended to familiarize the participants with the core vocabulary and elicit stance-neutral utterances of the key vocabulary terms.  These are followed by tasks that are intended to elicit varying levels of stance.  The first task group's stance-eliciting task is an \emph{inventory} task, where participants were asked to work collaboratively on the organization of a department store.  This task is intended to elicit weak stance and low levels of engagement, and is designated task \textbf{3I}. The second task group's stance-eliciting task is a \emph{budget} task intended to elicit stronger stances and higher levels of engagement.  For this task, participants were to imagine they were part of a county budget committee and were to decide which items on the list to fund, and which to cut from the budget.  This task is designated task \textbf{6B}.  A third stance-eliciting task, the \emph{survival} task, intended to elicit moderate levels of stance and using the vocabulary from task group one, was not used in this study. 
+
+%TODO: Task effects?  Mention felt board and computer screen?
+
+\subsection{Transcription and Annotation} 
+\label{subsec:transcription_and_annotation} 
+
+After the recording session, the audio files were divided into separate files, one for each task, for transcription and annotation.  Praat TextGrids \citep{boersma2002praat} were created for each file, and each speaker's speech was transcribed in a separate interval tier.  The speech stream was divided into ``spurts'', where a spurt is speech surrounded by at least 500ms of silence.  Each spurt was transcribed orthographically by a research assistant (graduate or undergraduate) instructed to use common American spellings with the exception of common shortenings (for example ``cuz'' for because), phonological contractions (gonna, sorta, etc.), discourse markers (uh-oh, hmm, etc.), and a pre-determined set of common vocalizations (meh, psh, etc.).  Pauses of less than 500ms were marked with a ellipsis (..), filled pauses with ``um'' or ``uh'', the former indicating audible nasality.  A dash (-) in isolation was used to indicate utterances broken-off mid stream, a dash attached to the proceeding word was used to indicate a truncation, and a dash attached to the following word was used to indicate an abrupt start to speech.  Further phonetic alignment with the transcription with the speech signal was completed.  For more detail, see \cite{freeman2015phonetics}.  
+
+After transcription and phonetic alignment, annotators were tasked with assigning a stance judgement to each spurt.  This judgement is based on both textual content and prosody.  Because speaking styles vary drastically, annotators were tasked with applying these judgements on a per-speaker basis.  Annotators were given textual examples to help them assign a stance strength to each spurt, but ultimately it is the annotator's perception that determines the stance annotation.  Annotations were reviewed by a second annotator any any inter-annotator disagreement resolved.  Stance strength annotation levels are given in table \ref{tab:stance_strength}.  Subsequently, any spurt annotated with stance was then annotated for polarity (positive, negative, neutral) using the same procedure.  Stance polarity annotations are given in table \ref{tab:stance_polarity}.  
+
+\begin{table}[H]
+\centering
+\begin{tabular}{c | l  l } 
+	Label  & Description  \\
+	\hline 
+	0      & No stance & (list reading, back channels) \\ 
+	1      & Weak stance & (cursory agreement, suggestions, bland opinion) \\ 
+	2      & Moderate stance &(disagreement, alternatives, questioning)  \\ 
+	3      & Strong stance & (very emphatic versions of \#1-2) \\
+	X      & unclear \\ 
+\end{tabular}
+\caption{Stance Strength Annotations} 
+\label{tab:stance_strength} 
+\end{table}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{c | l  l } 
+	Label  & Description  \\
+	\hline 
+	+      & positive    & (agreement, encouragement) \\ 
+	-      & negative    & (disagreement, grudging acceptance) \\ 
+	(none) & neutral     &  (non-evaluative) \\ 
+	X      & unclear     & \\ 
+\end{tabular}
+\caption{Stance Strength Annotations} 
+\label{tab:stance_polarity} 
+\end{table}

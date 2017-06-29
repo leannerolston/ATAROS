@@ -1,0 +1,398 @@
+\section{Results} 
+
+\subsection{Preliminaries} 
+
+First, a preliminary question must be asked.  Is a categorical distinction is appropriate to represent stance strength, since the strength of an internal state or emotion is continuous in nature rather than categorical.  
+%Is it worth getting into emotional research or market research studies on how people categorize internal states differently?
+Support Vector Regression was used to evaluate both the three-way categorization of stance and the use of these ``stylistic'' features to model it.  Table \ref{tab:svr_regression} shows the Root Mean Square of the metric regression results aligned with the stance strength as judged by the annotators.  The monotonic increase in value as stance strength category increases confirms that a categorical representation of stance strength is appropriate.  
+
+%SVR 
+\begin{table}[h]
+\centering
+	\begin{tabular}{c | c} 
+		\textbf{Strength Annotation} & \textbf{RMS of Regression} \\ 
+		\hline
+		0               & \num{0.797587069449919} \\
+		1               & \num{1.0346918786262131} \\
+		2               & \num{1.3909362474822309} \\ 
+	\end{tabular}
+	\caption{Validation of Categorical Stance Strength Annotations using SVR} 
+	\label{tab:svr_regression}
+\end{table}
+
+\subsection{Using Categorical Features to Model Stance} 
+
+Since the majority of work on subjectivity detection relies on lexicons of affective terms, either collected (cite) or learned from the data \citep{wiebe2004learning}, the next task is to determine if this ``stylistic'' language can be indicative of stance.  For this task, a set of features was chosen, following the model of LIWC \citep{pennebaker2001linguistic} to highlight potential stylistic markers of stance.  These features are described in section \ref{sec:cat_features}.  
+
+For these experiments, two breakdowns of the ATAROS data were used.  The first, \emph{Stance vs None} (SVN) is a binary distinction representing the presence or absence of stance in a spurt (for the purposes of this experiment, labels 1 and 2 were collapsed into a single category) and includes all 15 501 spurts.  The second breakdown, \emph{Weak vs Strong} (WVS), is a subset of the entire data set including only those spurts that are annotated as having stance, numbering 11 273 spurts.  It also represents a binary distinction between strong and weak stance.  Table \ref{tab:spurt_distribution} shows the breakdown of the data into these two groupings, and each data breakdown's distribution between the tasks.  
+
+% Spurt Distro
+\begin{table}[h]
+\centering
+\begin{tabular}{l | c | c | c }
+	& \multicolumn{2}{c}{\textbf{Stance vs None}} \\
+	\hline
+	               &  \textbf{0} &  \textbf{1} & \textbf{Total} \\
+	            3I &  2052       &  6015       & 8067           \\
+	            6B &  2176       &  5258       & 7434           \\ 
+	            \hline
+	\textbf{Total} &  4228       &  11 273     & \\ 
+
+	\multicolumn{3}{c}{}    \\ 
+	& \multicolumn{2}{c}{\textbf{Weak vs Strong}} \\ 
+	\hline
+                   & \textbf{1}  &  \textbf{2} & \textbf{Total} \\	
+	            3I & 4676        &  1339       & 6015 \\ 
+	            6B & 3250        &  2008       & 5258 \\
+	            \hline
+	\textbf{Total} & 7926        &  3347       & \\
+\end{tabular}
+\caption{Spurt Distribution among experimental breakdowns}
+\label{tab:spurt_distribution}
+\end{table}
+
+To determine whether ``stylistic'' features are indicative of stance along both the presence dimension and the strength dimension, I took advantage of the fact that the target core vocabulary and general nature of the tasks 3I and 6B differed significantly.  In any real-life task, the items spoken about, and the mechanics of the task, comprise much of the lexical content of any dialogue centered around that task.  With these being different between tasks 3I and 6B, 3I being centered around common household items on a display board, and 6B being centered around community organizations presented on a computer screen  (see section \ref{subsec:task_design} for a detailed description of these tasks) the vocabulary overlap is anticipated to be predominantly ``stylistic'' words. 
+
+An SVM model was trained using one task, and stance labels were predicted on the other task.  Several rounds of experimentation determined the optimal parameters for the model.    
+
+\subsubsection{Stance vs None} 
+
+Table \ref{tab:cat_vs_unigram_feats_SVN} shows the results of the stance prediction experiments.  Since the results of the categorical model were so close to the max-class baseline, a round of experiments was completed where the testing data was scaled down to have an equal number of each class label, and therefore a 50\% max-class baseline.  Five rounds of cross-validation was performed, and the results, given in parenthesis, show that on the equal test set, the categorical models predicted 10\% over the max-class baseline for the \emph{Binary Feature} experiments, and 13\% over the baseline for the \emph{Proportional Features} experiments.  The unigram models show no predictive power for either feature value type, and in fact, fell way below the baseline for the Binary Features trained on 6B. 
+
+%SVN Raw
+\begin{table}[h]
+\centering
+\begin{tabular}{l c c c c c}
+	
+	\textbf{Experiment} & \textbf{Train} & \textbf{Test} & \textbf{Categorical Accuracy} & \textbf{Unigram Accuracy} & \textbf{Max-Class Baseline} \\
+	\hline
+	\multirow{2}{*}{Binary Features} 
+	    & 3I  & 6B & \num{0.7124025} (\num{0.6063419}) & \num{0.7029863} (\num{0.5}) & \num{0.7073} \\   
+	    & 6B  & 3I & \num{0.6856328} (\num{0.6079044}) & \num{0.6477005} (\num{0.5}) & \num{0.7456} \\
+	\hline 
+	\multirow{2}{*}{Proportional Features} 
+	    & 3I  & 6B & \num{0.7150928} (\num{0.6377298}) & \num{0.7072908} (\num{0.5}) & \num{0.7073} \\   
+	    & 6B  & 3I & \num{0.7002603} (\num{0.6363051}) & \num{0.7456303} (\num{0.5}) & \num{0.7456} \\
+\end{tabular}
+\caption{Comparison of Categorical versus Unigram Binary Features for Stance Presence Prediction on the ATAROS Corpus.  The numbers in parentheses represent the accuracy on a test set that was normalized for stance}
+\label{tab:cat_vs_unigram_feats_SVN}
+\end{table}
+
+For the categorical experiments, note that the models trained on the 3I task surpass baseline by 1\% on the 6B task, however, the reverse falls below baseline.  Table \ref{tab:spurt_distribution} shows that the 3I task has around 1000 more instances than the 6B task.  To test whether the difference in accuracy was because of the variation in the size of the training sets, a round of experiments where the number of 3I instances was scaled to match 6B in number, was completed, using 5-fold cross-validation on the larger set.  This was found to have less than 1\% difference in accuracies from the complete set.     
+
+The other observation is that where the model trained on task 3I beats the max-class baseline, it beats it by less than 1\% on the complete data set, whereas it surpasses the normalized baseline by 10-13\% depending on the feature value type.  It is well known that much of the expression of stance is in the acoustic signal \citep{freeman2015phonetics}, which results in spurts that may be identical in content, but with a different stance annotation.  To verify that these seemingly contradictory instances are not confusing the model, the training was re-run with these duplicates removed.  Table \ref{tab:cat_vs_unigram_feats_binary_nodupes} shows that, even with these duplicates removed, the same patterns hold.  This leaves the question:
+
+WHAT IS IT ABOUT 3I THAT ENABLES IT TO MODEL STANCE PRESENCE BETTER THAN 6B?  
+\begin{itemize}
+	\item Stance eliciting weaker stance able to predict on task eliciting stronger stance.
+	\item Fewer backchannels??  Shorter utterances?  
+	\item check errors
+\end{itemize}
+
+ 
+\subsubsection*{Duplicates Removed} 
+
+% Cat vs Uni SVN No Dupes
+\begin{table}[h]
+\centering
+\begin{tabular}{l c c c c c}
+	\textbf{Experiment} & \textbf{Train} & \textbf{Test} & \textbf{Categorical Accuracy} & \textbf{Unigram Accuracy} & \textbf{Max-Class Baseline} \\
+	\hline
+	\multirow{2}{*}{Binary Features} 
+	    & 3I  & 6B & \num{0.7895614} (\num{0.6030204}) & \num{0.7732741} (\num{0.5}) & \num{0.7732741} \\   
+	    & 6B  & 3I & \num{0.7566277} (\num{0.602449}) & \num{0.7989462} (\num{0.5}) & \num{0.7989462} \\
+	\hline
+	\multirow{2}{*}{Proportional Features} 
+	    & 3I  & 6B & \num{0.7945128} (\num{0.5778351}) & \num{0.779754} (\num{0.5}) & \num{0.7732741} \\   
+	    & 6B  & 3I & \num{0.7833191} (\num{0.5774055}) & \num{0.8097021} (\num{0.5}) & \num{0.7989462} \\
+\end{tabular}
+\caption{Comparison of Categorical versus Unigram Binary Features for Stance Presence Prediction on the ATAROS Corpus With Duplicates Removed.  The numbers in parentheses represent the accuracy on a test set that was normalized for stance}
+\label{tab:cat_vs_unigram_feats_binary_nodupes}
+\end{table}
+
+\subsubsection*{By Gender} 
+
+%Cat SVN by Gender
+\begin{table}[h]
+\centering
+\begin{tabular}{l l c c c c}
+	\textbf{Experiment} & \textbf{Gender} & \textbf{Train} & \textbf{Test} & \textbf{Categorical Accuracy} & \textbf{Max-Class Baseline} \\
+	\hline
+	\multirow{4}{*}{Binary Features} & 
+	\multirow{2}{*}{Males} & 
+		3I & 6B  & \num{0.7254682} (\num{0.6630174}) & \num{0.7194757} \\ 
+		&&6B&3I  & \num{0.7436932} (\num{0.607754})  & \num{0.7484023} \\ 
+	& \multirow{2}{*}{Females} & 
+		3I & 6B  & \num{0.7065491} (\num{0.5905396}) & \num{0.7004618} \\ 
+		&&6B&3I  & \num{0.6762858} (\num{0.6059049}) & \num{0.7440126} \\ 
+	\hline
+	\multirow{4}{*}{Proportional Features} & 
+	\multirow{2}{*}{Males} & 
+	   3I  & 6B  & \num{0.725093} (\num{0.6588785})  & \num{0.7194757} \\ 
+	   &&6B&3I   & \num{0.740666} (\num{0.6122995})  & \num{0.7484023} \\ 
+	& \multirow{2}{*}{Females} & 
+	   3I  & 6B  & \num{0.7082284} (\num{0.6311142}  & \num{0.7004618} \\ 
+	   &&6B&3I   & \num{0.6894386} (\num{0.6095092}) & \num{0.7440126} \\ 
+\end{tabular}
+\caption{Accuracy of Cross-Task Stance Presence Prediction on the ATAROS Corpus broken down by Gender.  The numbers in parentheses represent the accuracy on a test set that was normalized for stance}
+\label{tab:cat_feats_SVN_by_gender}
+\end{table}
+
+\newpage
+\subsubsection{Weak vs Strong} 
+
+Table \ref{tab:cat_vs_unigram_feats_WVS} shows the results of the cross-task experiments on the prediction of stance strength.  These show a similar pattern to the stance presence experiments: the unigram model shows no predictive power and feature value type does not differ by much.  Again, the models trained on task 3I are able to predict stance strength on 6B, this time beating the baseline by 5\% (which increases to 9\% when the duplicates are removed), but the models trained on 6B fall well below baseline for task 3I.  Again, to rule out that it is the relative number of training samples, another round of experiments was run where the size of the tasks was normalized. This yielded only a 1\% increase in accuracy for the binary features, and a 1\% decrease for proportional features.  
+
+% Cat vs Uni WVS raw
+\begin{table}[h]
+\centering
+\begin{tabular}{l c c c c c}
+	\textbf{Experiment} & \textbf{Train} & \textbf{Test} & \textbf{Categorical Accuracy} & \textbf{Unigram Accuracy} & \textbf{Max-Class Baseline} \\
+	\hline
+	\multirow{2}{*}{Binary Features} 
+	   & 3I  & 6B  & \num{0.694941} (\num{0.5669821})  & \num{0.6569038} (\num{0.5}) & \num{0.6425} \\ 
+	   & 6B  & 3I  & \num{0.6141313} (\num{0.5667829}) & \num{0.6718204} (\num{0.5}) & \num{0.7774} \\ 	
+	\hline
+	\multirow{2}{*}{Proportional Features} 
+	   & 3I  & 6B  & \num{0.6966527} (\num{0.5585159})  & \num{0.6181057} (\num{0.5}) & \num{0.6425} \\ 
+	   & 6B  & 3I  & \num{0.6004988} (\num{0.5592131}) & \num{0.2226101} (\num{0.5}) &  \num{0.7774} \\ 	
+
+\end{tabular}
+\caption{Comparison of Categorical versus Unigram Proportional Features for Stance Strength Prediction on the ATAROS Corpus.  The numbers in parentheses represent the accuracy on a test set that was normalized for stance}
+\label{tab:cat_vs_unigram_feats_WVS}
+\end{table}
+
+
+% Cat vs Uni WVS Nodupes
+%\subsubsection*{Duplicates Removed} 
+%
+%\begin{table}[h]
+%\centering
+%\begin{tabular}{l c c c c c}
+%	
+%	\textbf{Experiment} & \textbf{Train} & \textbf{Test} & \textbf{Categorical Accuracy} & \textbf{Unigram Accuracy} & \textbf{Max-Class Baseline} \\
+%	\hline 
+%	\multirow{2}{*}{Binary Features} 
+%	   & 3I  & 6B  & \num{0.637147} (\num{0.56125})  & \num{0.5904739} (\num{0.5}) & \num{0.54045} \\ 
+%	   & 6B  & 3I  & \num{0.5356554} (\num{0.5608854}) & \num{0.262366} (\num{0.5}) & \num{0.737634} \\ 	
+%	\hline 
+%	\multirow{2}{*}{Proportional Features} 
+%	   & 3I  & 6B  & \num{0.6367387} (\num{0.5541514})  & \num{0.535307} (\num{0.5}) & \num{0.54045} \\ 
+%	   & 6B  & 3I  & \num{0.5150305} (\num{0.5547781}) & \num{0.2648728} (\num{0.5}) & \num{0.737634} \\ 	
+%
+%\end{tabular}
+%\caption{Comparison of Categorical versus Unigram Proportional Features for Stance Strength Prediction on the ATAROS Corpus With Duplicates Removed.  The numbers in parentheses represent the accuracy on a test set that was normalized for stance}
+%\label{tab:cat_vs_unigram_feats_binary_nodupes}
+%\end{table}
+
+\newpage
+\subsubsection*{By Gender} 
+
+% Cat Acc vs Gender WVS 
+\begin{table}[h]
+\centering
+\begin{tabular}{l c c c c c}
+	\textbf{Experiment} & \textbf{Gender} & \textbf{Train} & \textbf{Test} & \textbf{Categorical Accuracy} & \textbf{Max-Class Baseline} \\
+	\hline
+	\multirow{4}{*}{Binary Features} & 
+	\multirow{2}{*}{Males} & 
+		3I & 6B  & \num{0.690786} (\num{0.5798077}) & \num{0.6210307} \\ 
+		&&6B&3I  & \num{0.6305618} (\num{0.651434})  & \num{0.7649438} \\ 
+	& \multirow{2}{*}{Females} & 
+		3I & 6B  & \num{0.6886425} (\num{0.5555469}) & \num{0.6164219} \\ 
+		&&6B&3I  & \num{0.6145119} (\num{0.6525735}) & \num{0.7846966} \\ 
+	\hline
+	\multirow{4}{*}{Proportional Features} & 
+	\multirow{2}{*}{Males} & 
+	   3I  & 6B  & \num{0.6803748} (\num{0.5723901})  & \num{0.6210307} \\ 
+	   &&6B&3I   & \num{0.6179775} (\num{0.6399618})  & \num{0.7649438} \\ 
+	& \multirow{2}{*}{Females} & 
+	   3I  & 6B  & \num{0.6922385} (\num{0.5491406}  & \num{0.6164219} \\ 
+	   &&6B&3I   & \num{0.5941953} (\num{0.6547794}) & \num{0.7846966} \\ 
+\end{tabular}
+\caption{Accuracy of Cross-Task Stance Strength Prediction on the ATAROS Corpus broken down by Gender.  The numbers in parentheses represent the accuracy on a test set that was normalized for stance}
+\label{tab:cat_feats_WVS_by_gender}
+\end{table}
+
+\subsubsection{Discussion}
+
+From these experiments, we can see that categorical features have an advantage over unigram features in modeling stance, however, their ability to model both stance presence and stance strength is weak.  It is also dependent on the training data, with those models trained on the 3I task performing much better than those models trained on the 6B task, irrespective of relative data sizes and the removal of duplicates.  
+
+\subsection{Performance on an External Data Set} 
+
+In depth investigation of feature importance showed many effects of task, such as list-reading, had a strong relationship with stance.  These would not be present in typical expressions of stance, so, in spite of the weak results on the ATAROS corpus, I decided to run experiments on an external data set to see which features reflected stance in a more general context.  
+
+So that the findings from the ATAROS project could be tested in a real-word, high-stakes setting, the annotation project also included portions of the United States Congressional Hearings of the Financial Crisis Inquiry Commission (FCIC), which was established to discuss the causes of the financial crisis that lasted from 2007-2010.  The hearings took place between September, 2009 and September, 2010, and recordings and transcripts are publicly available\footnote{\url{https://fcic.law.stanford.edu}}.  Two hours from each of two hearings were selected for annotation: the first public hearing of the Commission (Sept, 2009) and a hearing on the role of derivatives (June 30-July 1, 2010).  Interactions in which Lloyd Blankfien of Goldman Sachs was responding to questions were chosen for stance annotation to allow for comparisons across hearings, and include Blankfien's interactions with six other speakers.  
+%TODO name speakers?
+Each of these six speakers and Blankfien were put into separate Praat TextGrids \cite{boersma2002praat}.  The transcriptions were augmented with disfluencies and filled pauses then annotated following the practices described in section \ref{subsec:transcription_and_annotation}.  Table \ref{tab:fcic_stance_distro} shows the breakdown of the stances.
+
+
+\begin{table}[h]
+\centering
+\begin{tabular}{c |  c } 
+	\textbf{Stance} & \textbf{Count} \\
+	\hline
+	0               & 656 \\
+	1               & 656 \\ 
+	2               & 1022 \\
+\end{tabular}
+\caption{Breakdown of Stance Annotations in FCIC Corpus}
+\label{tab:fcic_stance_distro} 
+\end{table}
+
+A model was trained on the ATAROS data for each task, then one with both tasks combined for the prediction of stance presence, and stance strength.  
+
+\subsubsection{Stance vs None}  
+
+Table \ref{tab:fcic_acc_SVN} shows the accuracy of the models trained on the ATAROS corpus in predicting the presence of stance in the FCIC corpus.  For the unigram models, only the intersection of the unigrams shared between both data sets was used in training the model.  We see that for both categorical and unigram features, the proportional feature values show an improvement over the binary feature values for for each comparable set of the data.  This is particularly noticable for the test set normalized for stance.  We also see that the unigram features do hold some predictive power for the models other than the ones trained on task 3I; they still, however, lag behind or tie with the the categorical models.  As for which ATAROS breakdown performs best, it seems to vary, with the task 3I ATAROS data performing best for binary features, and 6B performing best for proportional.  
+
+
+\begin{table}[h]
+\centering
+\begin{tabular}{l | l | l | l | l  } 
+	\textbf{Experiment}  & \textbf{Training Set} & \textbf{Categorical Accuracy} &  \textbf{Unigram Accuracy} & \textbf{Max-Class Baseline} \\ 
+	\hline 
+	\multirow{3}{*}{Binary Features}
+		& 3I & \num{0.7365039} (\num{0.5073171}) & \num{0.7005141} (\num{0.5}) & \multirow{3}{*}{\num{0.7189374}} \\ 
+	    & 6B & \num{0.7245073} (\num{0.5164634}) & \num{0.7052271} (\num{0.6012195}) & \\ 
+	    & Combined & \num{0.7313625} (\num{0.5166159}) & \num{0.7197943} (\num{0.5890244}) & \\  
+	\hline
+	\multirow{3}{*}{Proportional Features}
+		& 3I & \num{0.7386461} (\num{0.5545732}) & \num{0.7253642} (\num{0.5}) & \multirow{3}{*}{\num{0.7189374}} \\ 
+	    & 6B & \num{0.7455013} (\num{0.5553354}) & \num{0.722365} (\num{0.5509146}) & \\ 
+	    & Combined & \num{0.7446444} (\num{0.5493902}) & \num{0.7493573} \num{0.5547256}) & \\  
+\end{tabular}	
+\caption{Performance of the ATAROS Models Predicting Stance Presence on FCIC Corpus.  The numbers in parentheses represent the accuracy on a test set that was normalized for stance} 
+\label{tab:fcic_acc_SVN} 
+\end{table}
+
+\newpage 
+\subsubsection*{Duplicates Removed}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{l | l | l | l | l  } 
+	\textbf{Experiment}  & \textbf{Training Set} & \textbf{Categorical Accuracy} &  \textbf{Unigram Accuracy} & \textbf{Max-Class Baseline} \\ 
+	\hline 
+	\multirow{3}{*}{Binary Features}
+		& 3I & \num{0.7262211} (\num{0.5150915}) & \num{0.7245073} (\num{0.5}) & \multirow{3}{*}{\num{0.7189374}} \\ 
+	    & 6B & \num{0.7249357} (\num{0.516311}) & \num{0.7039417} (\num{0.5916159}) & \\ 
+	    & Combined & \num{0.7283633} (\num{0.5161585}) & \num{0.7017995} (\num{0.6009146}) & \\  
+	\hline
+	\multirow{3}{*}{Proportional Features}
+		& 3I & \num{0.7292202} (\num{0.5756098}) & \num{0.7189374} (\num{0.5}) & \multirow{3}{*}{\num{0.7189374}} \\ 
+	    & 6B & \num{0.7527849} (\num{0.5224085}) & \num{0.7206512} (\num{0.5474085}) & \\ 
+	    & Combined & \num{0.7386461} (\num{0.5806402}) & \num{0.7283633} (\num{0.5507622}) & \\  
+\end{tabular}	
+\caption{Performance of the ATAROS Models Predicting Stance Presence on FCIC Corpus.  The numbers in parentheses represent the accuracy on a test set that was normalized for stance} 
+\label{tab:fcic_acc_SVN_nodupes} 
+\end{table}
+
+\newpage
+\subsubsection*{By Gender} 
+ 
+\begin{table}[h]
+\centering
+\begin{tabular}{l | l | l | l | l  } 
+	\textbf{Experiment}  & \textbf{Gender} & \textbf{Training Set} & \textbf{Categorical Accuracy} &  \textbf{Max-Class Baseline} \\ 
+	\hline
+	\multirow{3}{*}{Binary Features} & 
+	\multirow{3}{*}{Male} & 
+		3I   & \num{0.722365} (\num{}) & \multirow{3}{*}{\num{0.7189374}} \\ 
+	    &&6B & \num{0.7227935} (\num{}) & \\ 
+	    && Combined & \num{0.7305056} (\num{}) &  \\  
+	\hline 
+	\multirow{3}{*}{Proportional Features} & 
+	\multirow{3}{*}{Male} & 
+		3I   & \num{0.7377892} (\num{}) & \multirow{3}{*}{\num{0.7189374}} \\ 
+	    &&6B & \num{0.7275064} (\num{}) & \\ 
+	    && Combined & \num{0.7463582} (\num{}) &  \\  
+\end{tabular}	
+\caption{Performance of the ATAROS Models Trained on Male Speakers on Predicting Stance Presence on FCIC Corpus.  The numbers in parentheses represent the accuracy on a test set that was normalized for stance} 
+\label{tab:fcic_acc_SVN_by_gender} 
+\end{table}
+
+
+\subsubsection{Weak vs Strong} 
+
+Table \ref{tab:fcic_acc_WVS} shows the results of the ATAROS models on predicting stance strength on the FCIC corpus.  Here, we see that the binary feature values outperform the proportional for the same data set, and that categorical models outperform unigram models, but even these do not match the max-class baseline.  
+
+\begin{table}[h]
+\centering
+\begin{tabular}{l | l | l | l | l  } 
+	\textbf{Experiment}  & \textbf{Training Set} & \textbf{Categorical Accuracy} &  \textbf{Unigram Accuracy} & \textbf{Max-Class Baseline} \\ 
+	\hline 
+	\multirow{3}{*}{Binary Features}
+		& 3I & \num{0.5589988} (\num{0.5003049}) & \num{0.4582837} (\num{0.5}) & \multirow{3}{*}{\num{0.6090584}} \\ 
+	    & 6B & \num{0.6072706} (\num{0.4967988}) & \num{0.5727056} (\num{0.5141768}) & \\ 
+	    & Combined & \num{0.5959476} (\num{0.4960366}) & \num{0.5524434} (\num{0.486128 	}) & \\  
+	\hline
+	\multirow{3}{*}{Proportional Features}
+		& 3I & \num{0.5041716} (\num{0.5137195}) & \num{0.3909416} (\num{0.5}) & \multirow{3}{*}{\num{0.6090584}} \\ 
+	    & 6B & \num{0.5762813} (\num{0.5178354}) & \num{0.4916567} (\num{0.5294207}) & \\ 
+	    & Combined & \num{0.556615} (\num{0.5161585}) & \num{0.4761621} (\num{0.5065549}) & \\  
+\end{tabular}	
+\caption{Performance of the ATAROS Models on Predicting Stance Strength on FCIC Corpus.  The numbers in parentheses represent the accuracy on a test set that was normalized for stance} 
+\label{tab:fcic_acc_WVS} 
+\end{table}
+
+
+
+\subsubsection*{Duplicates Removed}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{l | l | l | l | l  } 
+	\textbf{Experiment}  & \textbf{Training Set} & \textbf{Categorical Accuracy} &  \textbf{Unigram Accuracy} & \textbf{Max-Class Baseline} \\ 
+	\hline 
+	\multirow{3}{*}{Binary Features}
+		& 3I & \num{0.5631704} (\num{0.4984756}) & \num{0.4606675} (\num{0.5}) & \multirow{3}{*}{\num{0.7189374}} \\ 
+	    & 6B & \num{0.601907} (\num{0.497561}) & \num{0.5733015} (\num{0.5175305}) & \\ 
+	    & Combined & \num{0.5965435} (\num{0.4989329}) & \num{0.5512515} (\num{0.495122}) & \\  
+	\hline
+	\multirow{3}{*}{Proportional Features}
+		& 3I & \num{0.5143027} (\num{0.5176829}) & \num{0.3909416} (\num{0.5}) & \multirow{3}{*}{\num{0.7189374}} \\ 
+	    & 6B & \num{0.5733015} (\num{0.51875}) & \num{0.4952324} (\num{0.5262195}) & \\ 
+	    & Combined & \num{0.5601907} (\num{0.5205793}) & \num{0.4821216} (\num{0.5059451}) & \\  
+\end{tabular}	
+\caption{Performance of the ATAROS Models Predicting Stance Strength on FCIC Corpus.  The numbers in parentheses represent the accuracy on a test set that was normalized for stance} 
+\label{tab:fcic_acc_WVS_nodupes} 
+\end{table}
+
+\subsubsection*{By Gender} 
+
+\begin{table}[h]
+\centering
+\begin{tabular}{l | l | l | l | l  } 
+	\textbf{Experiment}  & \textbf{Gender} & \textbf{Training Set} & \textbf{Categorical Accuracy} &  \textbf{Max-Class Baseline} \\ 
+	\hline
+	\multirow{3}{*}{Binary Features} & 
+	\multirow{3}{*}{Male} & 
+		3I   & \num{0.5512515} (\num{}) & \multirow{3}{*}{\num{0.6090584}} \\ 
+	    &&6B & \num{0.5864124} (\num{}) & \\ 
+	    && Combined & \num{0.5834327} (\num{}) &  \\  
+	\hline 
+	\multirow{3}{*}{Proportional Features} & 
+	\multirow{3}{*}{Male} & 
+		3I   & \num{0.488677} (\num{}) & \multirow{3}{*}{\num{0.6090584}} \\ 
+	    &&6B & \num{0.5715137} (\num{}) & \\ 
+	    && Combined & \num{0.556615} (\num{}) &  \\  
+\end{tabular}	
+\caption{Performance of the ATAROS Models Trained on Male Speakers on Predicting Stance Strength on FCIC Corpus.  The numbers in parentheses represent the accuracy on a test set that was normalized for stance} 
+\label{tab:fcic_acc_WVS_by_gender} 
+\end{table}
+
+
+
+
+
+
+\subsection{Discussion} 
+
+On cross-task prediction of stance presence and stance strength on the ATAROS corpus, categorical models trained on the 3I task were able to predict both stance presence and stance strength on the 6B task, the stance presence prediction surpassing a max-class baseline by 1\% and and stance strength by 5\%.  Models trained on the 6B task, however, we not able to predict on 3I for either experiment.  Unigrams proved largely ineffective for these tasks.  As for feature type, binary against proportional, these were about equally effective.  
+
+IS IT WORTH GOING INTO A BIG DISCUSSION ABOUT WHY 3I DID BETTER THAN 6B? 
+
+When these models were tested on an external data set, involving an entirely different task (a Congressional hearing, as opposed to a collaborative, laboratory task), all three ATAROS categorical models improved upon a max-class baseline for stance presence, but did not perform adequately for stance strength.  Proportional feature values had a slight gain over binary features for stance presence, while binary feature values performed better on the stance strength task.  
+
+

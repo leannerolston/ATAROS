@@ -1,0 +1,54 @@
+\documentclass[11pt]{article}
+
+
+\usepackage{amsmath}
+
+\usepackage[parfill]{parskip}
+\usepackage{setspace}
+%\singlespacing
+\onehalfspacing
+
+\usepackage{url}
+\usepackage{natbib}
+
+\usepackage{graphicx}
+\graphicspath{ {.}}
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+\usepackage{float}
+\usepackage[landscape]{geometry}
+
+% Table Packages
+\usepackage{multirow}
+\usepackage{tabularx}
+\usepackage{ltablex}
+
+%Format of numbers 
+\usepackage{siunitx}
+\sisetup{
+	round-mode = places,
+	round-precision = 4
+}
+
+\begin{document}
+
+\include{introduction} 
+
+\include{previous_work} 
+
+\include{corpus}
+
+\include{features}
+
+\include{procedure} 
+
+\include{results}
+
+\include{conclusions} 
+
+\appendix
+
+
+\newpage
+\bibliographystyle{apalike}
+\bibliography{ATAROS.bib}
+\end{document}
