@@ -1,1 +1,0 @@
-speaker	task	stance	indefArt	defArt	questionmark	comma	exclamationmark	period	ipron	ppron	firstPPron	secondPPron	thirdPPron	singPPron	plurPPron	pronoun	conj	function_word	prep	nonflu	filler	swear	tentat	differ	discrep	certain	auxverb
